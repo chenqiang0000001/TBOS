@@ -1,0 +1,1254 @@
+{
+  "id": "https://openalex.org/W2071589850",
+  "doi": "https://doi.org/10.1037/0033-2909.132.1.1",
+  "title": "Patterns of mean-level change in personality traits across the life course: A meta-analysis of longitudinal studies.",
+  "display_name": "Patterns of mean-level change in personality traits across the life course: A meta-analysis of longitudinal studies.",
+  "publication_year": 2006,
+  "publication_date": "2006-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2071589850",
+    "doi": "https://doi.org/10.1037/0033-2909.132.1.1",
+    "mag": "2071589850",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/16435954"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1037/0033-2909.132.1.1",
+    "doi": "https://doi.org/10.1037/0033-2909.132.1.1",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1037/0033-2909.132.1.1",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S75627607",
+      "display_name": "Psychological Bulletin",
+      "issn_l": "0033-2909",
+      "issn": [
+        "0033-2909",
+        "1939-1455"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+        "abdc-a-star",
+        "anvur-scientific",
+        "cwts-core",
+        "dongbi-a",
+        "erih-plus",
+        "jufo-3",
+        "ki-jl-2",
+        "medline",
+        "norway-2",
+        "poland-200",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310320262",
+      "host_organization_name": "American Psychological Association",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320262"
+      ],
+      "host_organization_lineage_names": [
+        "American Psychological Association"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Psychological Bulletin",
+    "raw_type": "journal-article"
+  },
+  "volume": null,
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5006768210",
+        "display_name": "Brent W. Roberts",
+        "orcid": "https://orcid.org/0000-0002-3244-1164",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-3244-1164"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I157725225",
+          "display_name": "University of Illinois Urbana-Champaign",
+          "ror": "https://ror.org/047426m28",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I157725225"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Brent W. Roberts",
+      "raw_affiliation_strings": [
+        "Department of Psychology, University of Illinois at Urbana--Champaign, Champaign, IL 61820, USA. broberts@cyrus.psych.uiuc.edu",
+        "Department of Psychology, University of Illinois at Urbana Champaign, Champaign, IL, US"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychology, University of Illinois at Urbana--Champaign, Champaign, IL 61820, USA. broberts@cyrus.psych.uiuc.edu",
+          "institution_ids": [
+            "https://openalex.org/I157725225"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Psychology, University of Illinois at Urbana Champaign, Champaign, IL, US",
+          "institution_ids": [
+            "https://openalex.org/I157725225"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5034749354",
+        "display_name": "Kate E. Walton",
+        "orcid": "https://orcid.org/0000-0003-4527-9968",
+        "observed_orcids": [
+          "https://orcid.org/0000-0003-4527-9968"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I157725225",
+          "display_name": "University of Illinois Urbana-Champaign",
+          "ror": "https://ror.org/047426m28",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I157725225"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Kate E. Walton",
+      "raw_affiliation_strings": [
+        "Department of Psychology, University of Illinois at Urbana Champaign, Champaign, IL, US"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychology, University of Illinois at Urbana Champaign, Champaign, IL, US",
+          "institution_ids": [
+            "https://openalex.org/I157725225"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5082230764",
+        "display_name": "Wolfgang Viechtbauer",
+        "orcid": "https://orcid.org/0000-0003-3463-4063",
+        "observed_orcids": [
+          "https://orcid.org/0000-0003-3463-4063"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I34352273",
+          "display_name": "Maastricht University",
+          "ror": "https://ror.org/02jz4aj89",
+          "country_code": "NL",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I34352273"
+          ]
+        }
+      ],
+      "countries": [
+        "NL"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Wolfgang Viechtbauer",
+      "raw_affiliation_strings": [
+        "Department of Psychology, University of Maastricht, Maastricht, Netherlands"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-3463-4063",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychology, University of Maastricht, Maastricht, Netherlands",
+          "institution_ids": [
+            "https://openalex.org/I34352273"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 10.7421,
+  "has_fulltext": false,
+  "cited_by_count": 3326,
+  "citation_normalized_percentile": {
+    "value": 1.0,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "132",
+    "issue": "1",
+    "first_page": "1",
+    "last_page": "25"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11040",
+    "display_name": "Personality Traits and Psychology",
+    "score": 0.9976000189781189,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3203",
+      "display_name": "Clinical Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11040",
+      "display_name": "Personality Traits and Psychology",
+      "score": 0.9976000189781189,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11265",
+      "display_name": "Aging and Gerontology Research",
+      "score": 0.0007999999797903001,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3206",
+        "display_name": "Neuropsychology and Physiological Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11093",
+      "display_name": "Personality Disorders and Psychopathology",
+      "score": 0.0003000000142492354,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/personality-development",
+      "display_name": "personality development",
+      "score": 0.7049999833106995
+    },
+    {
+      "id": "https://openalex.org/keywords/life-course",
+      "display_name": "life course",
+      "score": 0.6759999990463257
+    },
+    {
+      "id": "https://openalex.org/keywords/personality-change",
+      "display_name": "personality change",
+      "score": 0.48500001430511475
+    },
+    {
+      "id": "https://openalex.org/keywords/big-five-personality-traits",
+      "display_name": "Big Five personality traits",
+      "score": 0.8199999928474426
+    },
+    {
+      "id": "https://openalex.org/keywords/extraversion",
+      "display_name": "extraversion",
+      "score": 0.8539999723434448
+    },
+    {
+      "id": "https://openalex.org/keywords/conscientiousness",
+      "display_name": "conscientiousness",
+      "score": 0.9309999942779541
+    },
+    {
+      "id": "https://openalex.org/keywords/emotional-stability",
+      "display_name": "emotional stability",
+      "score": 0.9580000042915344
+    },
+    {
+      "id": "https://openalex.org/keywords/agreeableness",
+      "display_name": "agreeableness",
+      "score": 0.8539999723434448
+    },
+    {
+      "id": "https://openalex.org/keywords/openness-to-experience",
+      "display_name": "openness to experience",
+      "score": 0.9549999833106995
+    },
+    {
+      "id": "https://openalex.org/keywords/social-dominance",
+      "display_name": "social dominance",
+      "score": 0.9589999914169312
+    },
+    {
+      "id": "https://openalex.org/keywords/social-vitality",
+      "display_name": "social vitality",
+      "score": 0.9900000095367432
+    },
+    {
+      "id": "https://openalex.org/keywords/adolescence",
+      "display_name": "adolescence",
+      "score": 0.7139999866485596
+    },
+    {
+      "id": "https://openalex.org/keywords/young-adulthood",
+      "display_name": "early adulthood",
+      "score": 0.8299999833106995
+    },
+    {
+      "id": "https://openalex.org/keywords/old-age",
+      "display_name": "old age",
+      "score": 0.8320000171661377
+    },
+    {
+      "id": "https://openalex.org/keywords/longitudinal-change",
+      "display_name": "longitudinal change",
+      "score": 0.3009999990463257
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.7514567375183105
+    },
+    {
+      "id": "https://openalex.org/C172141706",
+      "wikidata": "https://www.wikidata.org/wiki/Q1307067",
+      "display_name": "Conscientiousness",
+      "level": 5,
+      "score": 0.7409933805465698
+    },
+    {
+      "id": "https://openalex.org/C2865642",
+      "wikidata": "https://www.wikidata.org/wiki/Q378132",
+      "display_name": "Big Five personality traits",
+      "level": 3,
+      "score": 0.7236259579658508
+    },
+    {
+      "id": "https://openalex.org/C43122875",
+      "wikidata": "https://www.wikidata.org/wiki/Q5428522",
+      "display_name": "Facet (psychology)",
+      "level": 4,
+      "score": 0.7159078121185303
+    },
+    {
+      "id": "https://openalex.org/C127816348",
+      "wikidata": "https://www.wikidata.org/wiki/Q127588",
+      "display_name": "Extraversion and introversion",
+      "level": 4,
+      "score": 0.7107941508293152
+    },
+    {
+      "id": "https://openalex.org/C170760736",
+      "wikidata": "https://www.wikidata.org/wiki/Q380358",
+      "display_name": "Agreeableness",
+      "level": 5,
+      "score": 0.6926007270812988
+    },
+    {
+      "id": "https://openalex.org/C84976871",
+      "wikidata": "https://www.wikidata.org/wiki/Q2015673",
+      "display_name": "Openness to experience",
+      "level": 2,
+      "score": 0.6000325083732605
+    },
+    {
+      "id": "https://openalex.org/C187288502",
+      "wikidata": "https://www.wikidata.org/wiki/Q641118",
+      "display_name": "Personality",
+      "level": 2,
+      "score": 0.5945349335670471
+    },
+    {
+      "id": "https://openalex.org/C106934330",
+      "wikidata": "https://www.wikidata.org/wiki/Q1971873",
+      "display_name": "Trait",
+      "level": 2,
+      "score": 0.560325026512146
+    },
+    {
+      "id": "https://openalex.org/C1691868",
+      "wikidata": "https://www.wikidata.org/wiki/Q1811049",
+      "display_name": "Life course approach",
+      "level": 2,
+      "score": 0.5509733557701111
+    },
+    {
+      "id": "https://openalex.org/C2779829227",
+      "wikidata": "https://www.wikidata.org/wiki/Q7936872",
+      "display_name": "Vitality",
+      "level": 2,
+      "score": 0.46410760283470154
+    },
+    {
+      "id": "https://openalex.org/C138496976",
+      "wikidata": "https://www.wikidata.org/wiki/Q175002",
+      "display_name": "Developmental psychology",
+      "level": 1,
+      "score": 0.4580305218696594
+    },
+    {
+      "id": "https://openalex.org/C149923435",
+      "wikidata": "https://www.wikidata.org/wiki/Q37732",
+      "display_name": "Demography",
+      "level": 1,
+      "score": 0.39977824687957764
+    },
+    {
+      "id": "https://openalex.org/C77805123",
+      "wikidata": "https://www.wikidata.org/wiki/Q161272",
+      "display_name": "Social psychology",
+      "level": 1,
+      "score": 0.19687020778656006
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C27206212",
+      "wikidata": "https://www.wikidata.org/wiki/Q34178",
+      "display_name": "Theology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D005500",
+      "descriptor_name": "Follow-Up Studies",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008016",
+      "descriptor_name": "Life Change Events",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010551",
+      "descriptor_name": "Personality",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1037/0033-2909.132.1.1",
+      "doi": "https://doi.org/10.1037/0033-2909.132.1.1",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1037/0033-2909.132.1.1",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S75627607",
+        "display_name": "Psychological Bulletin",
+        "issn_l": "0033-2909",
+        "issn": [
+          "0033-2909",
+          "1939-1455"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "abdc-a-star",
+          "anvur-scientific",
+          "cwts-core",
+          "dongbi-a",
+          "erih-plus",
+          "jufo-3",
+          "ki-jl-2",
+          "medline",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320262",
+        "host_organization_name": "American Psychological Association",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320262"
+        ],
+        "host_organization_lineage_names": [
+          "American Psychological Association"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Psychological Bulletin",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:16435954",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/16435954",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Psychological bulletin",
+      "raw_type": "Journal Article"
+    },
+    {
+      "id": "pmh:oai:lirias2repo.kuleuven.be:123456789/571713",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/16435954",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S7407055369",
+        "display_name": "Lirias",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Psychological Bulletin, vol. 132 (1), (1-25)",
+      "raw_type": "info:eu-repo/semantics/article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "study_designs": [
+    {
+      "id": "https://openalex.org/study-designs/systematic-review",
+      "display_name": "Systematic Review"
+    },
+    {
+      "id": "https://openalex.org/study-designs/meta-analysis",
+      "display_name": "Meta-Analysis"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G6525141859",
+      "display_name": "An Aging Study of Conscientiousness and Health",
+      "funder_award_id": "R03AG019414",
+      "funder_id": "https://openalex.org/F4320337337",
+      "funder_display_name": "National Institute on Aging"
+    },
+    {
+      "id": "https://openalex.org/G7956470195",
+      "display_name": "Longitudinal Studies of Conscientiousness and Health",
+      "funder_award_id": "R01AG021178",
+      "funder_id": "https://openalex.org/F4320337337",
+      "funder_display_name": "National Institute on Aging"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320337337",
+      "display_name": "National Institute on Aging",
+      "ror": "https://ror.org/049v75w11"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 186,
+  "referenced_works": [
+    "https://openalex.org/W18671452",
+    "https://openalex.org/W34895096",
+    "https://openalex.org/W66576854",
+    "https://openalex.org/W112949365",
+    "https://openalex.org/W142546397",
+    "https://openalex.org/W157118021",
+    "https://openalex.org/W168737373",
+    "https://openalex.org/W204856572",
+    "https://openalex.org/W212456557",
+    "https://openalex.org/W369790354",
+    "https://openalex.org/W564810865",
+    "https://openalex.org/W566626856",
+    "https://openalex.org/W587124612",
+    "https://openalex.org/W1409119814",
+    "https://openalex.org/W1484073891",
+    "https://openalex.org/W1512518915",
+    "https://openalex.org/W1542722502",
+    "https://openalex.org/W1556033561",
+    "https://openalex.org/W1562249392",
+    "https://openalex.org/W1576109105",
+    "https://openalex.org/W1580676770",
+    "https://openalex.org/W1591985268",
+    "https://openalex.org/W1641003075",
+    "https://openalex.org/W1698190436",
+    "https://openalex.org/W1730015549",
+    "https://openalex.org/W1781952573",
+    "https://openalex.org/W1795105315",
+    "https://openalex.org/W1812703160",
+    "https://openalex.org/W1911640279",
+    "https://openalex.org/W1945524409",
+    "https://openalex.org/W1964323767",
+    "https://openalex.org/W1964439974",
+    "https://openalex.org/W1964751586",
+    "https://openalex.org/W1966902289",
+    "https://openalex.org/W1967298093",
+    "https://openalex.org/W1969848591",
+    "https://openalex.org/W1971155699",
+    "https://openalex.org/W1973030122",
+    "https://openalex.org/W1973362932",
+    "https://openalex.org/W1974127607",
+    "https://openalex.org/W1975012547",
+    "https://openalex.org/W1975256997",
+    "https://openalex.org/W1975819295",
+    "https://openalex.org/W1979077969",
+    "https://openalex.org/W1980192064",
+    "https://openalex.org/W1980208531",
+    "https://openalex.org/W1981147386",
+    "https://openalex.org/W1986137293",
+    "https://openalex.org/W1986591913",
+    "https://openalex.org/W1986817694",
+    "https://openalex.org/W1987412750",
+    "https://openalex.org/W1992054586",
+    "https://openalex.org/W1994304272",
+    "https://openalex.org/W1994817905",
+    "https://openalex.org/W1996443718",
+    "https://openalex.org/W1998925567",
+    "https://openalex.org/W2003928292",
+    "https://openalex.org/W2004764975",
+    "https://openalex.org/W2006628469",
+    "https://openalex.org/W2006905350",
+    "https://openalex.org/W2007501440",
+    "https://openalex.org/W2007902672",
+    "https://openalex.org/W2012186625",
+    "https://openalex.org/W2012916929",
+    "https://openalex.org/W2013239540",
+    "https://openalex.org/W2013870595",
+    "https://openalex.org/W2015217623",
+    "https://openalex.org/W2016125673",
+    "https://openalex.org/W2017124927",
+    "https://openalex.org/W2018012194",
+    "https://openalex.org/W2018616670",
+    "https://openalex.org/W2019783200",
+    "https://openalex.org/W2021253258",
+    "https://openalex.org/W2022109686",
+    "https://openalex.org/W2024387694",
+    "https://openalex.org/W2024435009",
+    "https://openalex.org/W2024718301",
+    "https://openalex.org/W2026082386",
+    "https://openalex.org/W2028253955",
+    "https://openalex.org/W2032298117",
+    "https://openalex.org/W2032570527",
+    "https://openalex.org/W2035363525",
+    "https://openalex.org/W2037334267",
+    "https://openalex.org/W2037557484",
+    "https://openalex.org/W2037953516",
+    "https://openalex.org/W2040241352",
+    "https://openalex.org/W2041375491",
+    "https://openalex.org/W2042510398",
+    "https://openalex.org/W2043565183",
+    "https://openalex.org/W2043619966",
+    "https://openalex.org/W2044225469",
+    "https://openalex.org/W2044247072",
+    "https://openalex.org/W2044995708",
+    "https://openalex.org/W2050182389",
+    "https://openalex.org/W2053275310",
+    "https://openalex.org/W2054318640",
+    "https://openalex.org/W2055290147",
+    "https://openalex.org/W2055731225",
+    "https://openalex.org/W2057403572",
+    "https://openalex.org/W2057421203",
+    "https://openalex.org/W2058064303",
+    "https://openalex.org/W2060999123",
+    "https://openalex.org/W2061165782",
+    "https://openalex.org/W2061434775",
+    "https://openalex.org/W2064077073",
+    "https://openalex.org/W2064385881",
+    "https://openalex.org/W2065947617",
+    "https://openalex.org/W2066233882",
+    "https://openalex.org/W2070721650",
+    "https://openalex.org/W2073512294",
+    "https://openalex.org/W2076029586",
+    "https://openalex.org/W2076387402",
+    "https://openalex.org/W2078043865",
+    "https://openalex.org/W2080262194",
+    "https://openalex.org/W2083327014",
+    "https://openalex.org/W2084468550",
+    "https://openalex.org/W2086040070",
+    "https://openalex.org/W2086854070",
+    "https://openalex.org/W2086889211",
+    "https://openalex.org/W2089177013",
+    "https://openalex.org/W2090005550",
+    "https://openalex.org/W2092424120",
+    "https://openalex.org/W2093472320",
+    "https://openalex.org/W2096331259",
+    "https://openalex.org/W2096533706",
+    "https://openalex.org/W2097780989",
+    "https://openalex.org/W2098483872",
+    "https://openalex.org/W2098707941",
+    "https://openalex.org/W2100802868",
+    "https://openalex.org/W2104991062",
+    "https://openalex.org/W2109712297",
+    "https://openalex.org/W2125399516",
+    "https://openalex.org/W2128508989",
+    "https://openalex.org/W2130347526",
+    "https://openalex.org/W2133365282",
+    "https://openalex.org/W2135825340",
+    "https://openalex.org/W2136247425",
+    "https://openalex.org/W2139775884",
+    "https://openalex.org/W2143141979",
+    "https://openalex.org/W2152568807",
+    "https://openalex.org/W2153522604",
+    "https://openalex.org/W2155207991",
+    "https://openalex.org/W2158672897",
+    "https://openalex.org/W2159344018",
+    "https://openalex.org/W2164605728",
+    "https://openalex.org/W2168432963",
+    "https://openalex.org/W2171452271",
+    "https://openalex.org/W2171483656",
+    "https://openalex.org/W2172190599",
+    "https://openalex.org/W2315394304",
+    "https://openalex.org/W2319094693",
+    "https://openalex.org/W2322926031",
+    "https://openalex.org/W2323786169",
+    "https://openalex.org/W2324392187",
+    "https://openalex.org/W2329051601",
+    "https://openalex.org/W2332764402",
+    "https://openalex.org/W2413115994",
+    "https://openalex.org/W2418330436",
+    "https://openalex.org/W2494932826",
+    "https://openalex.org/W2495860337",
+    "https://openalex.org/W2505561270",
+    "https://openalex.org/W2586060688",
+    "https://openalex.org/W2589398606",
+    "https://openalex.org/W2788383968",
+    "https://openalex.org/W2795657461",
+    "https://openalex.org/W2797811632",
+    "https://openalex.org/W2905327414",
+    "https://openalex.org/W2948673603",
+    "https://openalex.org/W2975612440",
+    "https://openalex.org/W2987754890",
+    "https://openalex.org/W3014055350",
+    "https://openalex.org/W3016077879",
+    "https://openalex.org/W3063589229",
+    "https://openalex.org/W3181250886",
+    "https://openalex.org/W3210955937",
+    "https://openalex.org/W4213080876",
+    "https://openalex.org/W4235362736",
+    "https://openalex.org/W4242396797",
+    "https://openalex.org/W4249279174",
+    "https://openalex.org/W4253626976",
+    "https://openalex.org/W4256236958",
+    "https://openalex.org/W4256398181",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W6606769903",
+    "https://openalex.org/W6748573456",
+    "https://openalex.org/W6756931096"
+  ],
+  "related_works": [
+    "https://openalex.org/W2143117643",
+    "https://openalex.org/W2600631380",
+    "https://openalex.org/W1989424542",
+    "https://openalex.org/W6967243612",
+    "https://openalex.org/W2615107685",
+    "https://openalex.org/W1977297766",
+    "https://openalex.org/W3214128875",
+    "https://openalex.org/W4396954088",
+    "https://openalex.org/W2549241389",
+    "https://openalex.org/W2055731225"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0
+    ],
+    "present": [
+      1
+    ],
+    "study": [
+      2
+    ],
+    "used": [
+      3
+    ],
+    "meta-analytic": [
+      4
+    ],
+    "techniques": [
+      5
+    ],
+    "(number": [
+      6
+    ],
+    "of": [
+      7,
+      15,
+      32,
+      37,
+      57,
+      63,
+      74
+    ],
+    "samples": [
+      8
+    ],
+    "=": [
+      9
+    ],
+    "92)": [
+      10
+    ],
+    "to": [
+      11,
+      49
+    ],
+    "determine": [
+      12
+    ],
+    "the": [
+      13,
+      22,
+      87
+    ],
+    "patterns": [
+      14
+    ],
+    "mean-level": [
+      16
+    ],
+    "change": [
+      17,
+      94
+    ],
+    "in": [
+      18,
+      30,
+      44,
+      67,
+      72,
+      77,
+      83,
+      95
+    ],
+    "personality": [
+      19
+    ],
+    "traits": [
+      20
+    ],
+    "across": [
+      21
+    ],
+    "life": [
+      23
+    ],
+    "course.": [
+      24
+    ],
+    "Results": [
+      25
+    ],
+    "showed": [
+      26,
+      117
+    ],
+    "that": [
+      27
+    ],
+    "people": [
+      28,
+      53
+    ],
+    "increase": [
+      29,
+      54
+    ],
+    "measures": [
+      31,
+      56
+    ],
+    "social": [
+      33,
+      58
+    ],
+    "dominance": [
+      34
+    ],
+    "(a": [
+      35,
+      60
+    ],
+    "facet": [
+      36,
+      62
+    ],
+    "extraversion),": [
+      38
+    ],
+    "conscientiousness,": [
+      39
+    ],
+    "and": [
+      40,
+      65,
+      97,
+      101,
+      111
+    ],
+    "emotional": [
+      41
+    ],
+    "stability,": [
+      42
+    ],
+    "especially": [
+      43
+    ],
+    "young": [
+      45
+    ],
+    "adulthood": [
+      46
+    ],
+    "(age": [
+      47
+    ],
+    "20": [
+      48
+    ],
+    "40).": [
+      50
+    ],
+    "In": [
+      51
+    ],
+    "contrast,": [
+      52
+    ],
+    "on": [
+      55,
+      106,
+      114
+    ],
+    "vitality": [
+      59
+    ],
+    "2nd": [
+      61
+    ],
+    "extraversion)": [
+      64
+    ],
+    "openness": [
+      66
+    ],
+    "adolescence": [
+      68
+    ],
+    "but": [
+      69
+    ],
+    "then": [
+      70
+    ],
+    "decrease": [
+      71
+    ],
+    "both": [
+      73
+    ],
+    "these": [
+      75
+    ],
+    "domains": [
+      76
+    ],
+    "old": [
+      78,
+      84,
+      98
+    ],
+    "age.": [
+      79,
+      85,
+      99
+    ],
+    "Agreeableness": [
+      80
+    ],
+    "changed": [
+      81
+    ],
+    "only": [
+      82
+    ],
+    "Of": [
+      86
+    ],
+    "6": [
+      88
+    ],
+    "trait": [
+      89
+    ],
+    "categories,": [
+      90
+    ],
+    "4": [
+      91
+    ],
+    "demonstrated": [
+      92
+    ],
+    "significant": [
+      93
+    ],
+    "middle": [
+      96
+    ],
+    "Gender": [
+      100
+    ],
+    "attrition": [
+      102
+    ],
+    "had": [
+      103
+    ],
+    "minimal": [
+      104
+    ],
+    "effects": [
+      105
+    ],
+    "change,": [
+      107
+    ],
+    "whereas": [
+      108
+    ],
+    "longer": [
+      109
+    ],
+    "studies": [
+      110,
+      112
+    ],
+    "based": [
+      113
+    ],
+    "younger": [
+      115
+    ],
+    "cohorts": [
+      116
+    ],
+    "greater": [
+      118
+    ],
+    "change.": [
+      119
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 147
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 123
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 147
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 188
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 197
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 253
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 264
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 221
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 199
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 223
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 192
+    },
+    {
+      "year": 2015,
+      "cited_by_count": 177
+    },
+    {
+      "year": 2014,
+      "cited_by_count": 162
+    },
+    {
+      "year": 2013,
+      "cited_by_count": 174
+    },
+    {
+      "year": 2012,
+      "cited_by_count": 159
+    }
+  ],
+  "updated_date": "2026-11-04T10:54:05.112534",
+  "created_date": "2016-06-24T00:00:00"
+}

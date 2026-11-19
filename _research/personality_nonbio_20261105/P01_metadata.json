@@ -1,0 +1,150 @@
+{
+  "id": "P01",
+  "doi": "10.1037/bul0000365",
+  "title": "Personality stability and change: A meta-analysis of longitudinal studies.",
+  "abstract": "Past research syntheses provided evidence that personality traits are both stable and changeable throughout the lifespan. However, early meta-analytic estimates were constrained by a relatively small universe of longitudinal studies, many of which tracked personality traits in small samples over moderate time periods using measures that were only loosely related to contemporary trait models such as the Big Five. Since then, hundreds of new studies have emerged allowing for more precise estimates of personality trait stability and change across the lifespan. Here, we updated and extended previous research syntheses on personality trait development by synthesizing novel longitudinal data on rank-order stability (total k = 189, total N = 178,503) and mean-level change (total k = 276, N = 242,542) from studies published after January 1st 2005. Consistent with earlier meta-analytic findings, the rank-order stability of personality traits increased significantly throughout early life before reaching a plateau in young adulthood. These increases in stability coincide with mean-level changes in the direction of greater maturity. In contrast to previous findings, we found little evidence for increasing rank-order stabilities after age 25. Moreover, cumulative mean-level trait changes across the lifespan were slightly smaller than previously estimated. Emotional stability, however, increased consistently and more substantially across the lifespan than previously found. Moderator analyses indicated that narrow facet-level and maladaptive trait measures were less stable than broader domain and adaptive trait measures. Overall, the present findings draw a more precise picture of the lifespan development of personality traits and highlight important gaps in the personality development literature.",
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://psyarxiv.com/eq5d6/download",
+    "any_repository_has_fulltext": true
+  },
+  "locations": [
+    "https://doi.org/10.1037/bul0000365",
+    "https://doi.org/10.31234/osf.io/eq5d6",
+    "https://pubmed.ncbi.nlm.nih.gov/35834197",
+    "https://www.zora.uzh.ch/id/eprint/232971/1/retrieve.pdf",
+    "https://osf.io/eq5d6",
+    "http://doi.org/10.31234/OSF.IO/EQ5D6",
+    "https://www.zora.uzh.ch/handle/20.500.14742/207266",
+    "https://doi.org/10.5167/uzh-232971"
+  ],
+  "pdfs": [
+    "https://psyarxiv.com/eq5d6/download",
+    "https://www.zora.uzh.ch/id/eprint/232971/1/retrieve.pdf"
+  ],
+  "crossref": {
+    "title": [
+      "Personality stability and change: A meta-analysis of longitudinal studies."
+    ],
+    "abstract": null,
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          14
+        ]
+      ]
+    },
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-3795-8143",
+        "authenticated-orcid": false,
+        "given": "Wiebke",
+        "family": "Bleidorn",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5491-5386",
+        "authenticated-orcid": false,
+        "given": "Ted",
+        "family": "Schwaba",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0238-8275",
+        "authenticated-orcid": false,
+        "given": "Anqing",
+        "family": "Zheng",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6645-8645",
+        "authenticated-orcid": false,
+        "given": "Christopher J.",
+        "family": "Hopwood",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2945-667X",
+        "authenticated-orcid": false,
+        "given": "Susana S.",
+        "family": "Sosa",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3244-1164",
+        "authenticated-orcid": false,
+        "given": "Brent W.",
+        "family": "Roberts",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6344-597X",
+        "authenticated-orcid": false,
+        "given": "D. A.",
+        "family": "Briley",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "URL": "https://doi.org/10.1037/bul0000365",
+    "link": [
+      {
+        "URL": "http://psycnet.apa.org/psycarticles/2022-79844-001.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ]
+  }
+}

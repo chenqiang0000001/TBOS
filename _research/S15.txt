@@ -1,0 +1,165 @@
+Introduction • Documentation • Johnny.Decimal at the top of . --> ` in page data from closing the
+tag early happens in jsonLdScript(). --> tags (Instrument Sans,
+Vimeo); the last island went with /coaching on 2026-07-26.
+NOT reachable from a normal page: Html.astro renders as a
+self-closing tag, so only a component importing Head directly can fill
+this. Html's own `slot="head"` is a DIFFERENT slot and lands OUTSIDE
+. Kept for the next standalone document. -->
+/ › Documentation Docs › Introduction
+Membership · Sign in Beginner concepts
+Introduction
+Areas and categories
+IDs
+Headers
+Philosophy
+The JDex
+Saving files
+Keeping notes
+The Librarian
+Don't be afraid of the numbers
+Community
+Forum
+Discord ( join server )
+Membership
+Life Admin System The simplest way to organise your home life.
+University Johnny.Decimal 101. System-building workshop. Task & project management.
+Small Business System The fastest way to organise your small business.
+Introduction
+A system to organise your information
+Johnny.Decimal is designed to help you find things quickly, with more confidence, and less stress.
+You assign a unique ID to everything in your life.
+These IDs help you stay organised. They impose constraints that make it harder to get lost. And you create an index to link everything together.
+The system is free to use and the concepts are the same at home, work, or that club you manage.
+Figure 62.11A. The anatomy of a Johnny.Decimal ID.
+The problem
+In real life, if you stored your stuff in piles of badly-labelled boxes you'd never find anything again.
+If you put those boxes in boxes, in boxes, you'd never know which box to open to find the next box. It would be chaos. But this is how you save computer files.
+Important client deliverables
+└── Final
+└── Final draft
+├──── First version
+│ └──── New folder
+│ ├── Final (copy) (002).docx
+│ ├── FINAL FINAL.docx
+│ └── FINAL v2.docx
+└──── New
+└──── New folder (1)
+└── FINAL v2 (002).docx Figure 62.11B. A chaotic filesystem with many levels of folders.
+The solution
+Here's one way to think about how Johnny.Decimal works. In this analogy, a computer is a room, an area is a filing cabinet, a category is a drawer, and an ID is a manila folder.
+Step 1: Buy 10 filing cabinets
+We can't store our stuff on the floor, so we buy 10 filing cabinets. Then we dedicate three of them to areas of our life – life admin , home business , and tennis club . 1
+┌───────────────┐ ┌───────────────┐ ┌───────────────┐
+│ Life Admin │ │ Home Business │ │ Tennis Club │
+├───────────────┤ ├───────────────┤ ├───────────────┤
+│ ═════ │ │ ═════ │ │ ═════ │
+│ │ │ │ │ │
+├───────────────┤ ├───────────────┤ ├───────────────┤
+│ ═════ │ │ ═════ │ │ ═════ │
+│ │ │ │ │ │
+├───────────────┤ ├───────────────┤ ├───────────────┤
+│ ═════ │ │ ═════ │ │ ═════ │
+│ │ │ │ │ │
+├───────────────┤ ├───────────────┤ ├───────────────┤
+│ ═════ │ │ ═════ │ │ ═════ │
+│ │ │ │ │ │
+├───────────────┤ ├───────────────┤ ├───────────────┤
+│ ═════ │ │ ═════ │ │ ═════ │
+│ │ │ │ │ │
+└───────────────┘ └───────────────┘ └───────────────┘ Figure 62.11C. A filing cabinet for each major area of our life (diagram not to scale).
+Step 2: Assign some drawers
+Each cabinet has space for 10 drawers, so we categorise what we want to store. In life admin we decide on five drawers and label them: me , house , money , online , and travel . There's space for a number, so we add that too. 2
+┌─────────────────────┐
+│ 10–19 Life admin │
+├─────────────────────┤
+│ ═════ │
+│ ┌───────────┐ │
+│ │ 11 Me │ │
+│ └───────────┘ │
+├─────────────────────┤
+│ ═════ │
+│ ┌───────────┐ │
+│ │ 12 House │ │
+│ └───────────┘ │
+├─────────────────────┤
+│ ═════ │
+│ ┌───────────┐ │
+│ │ 13 Money │ │
+│ └───────────┘ │
+├─────────────────────┤
+│ ═════ │
+│ ┌───────────┐ │
+│ │ 14 Online │ │
+│ └───────────┘ │
+├─────────────────────┤
+│ ═════ │
+│ ┌───────────┐ │
+│ │ 15 Travel │ │
+│ └───────────┘ │
+└─────────────────────┘ Figure 62.11D. Our life admin filing cabinet has five drawers.
+Step 3: File your stuff in folders
+We put our documents in folders. Each folder gets a number starting at .11 so we can track them. In this case, there's some insurance documents in 15.22 Travel insurance . This folder goes in a drawer.
+┌──────────────────────┐
+┌──┤15.22 Travel insurance├─┐
+│ └──────────────────────┘ │
+│ - Claim form │
+│ - Payment receipt │
+│ - Policy document │
+└───────────────────────────┘
+│ ┌──────────────────┐
+│ │ 15.24 Checklists │
+│ ┌──┴──────────────────┴┐
+│ │15.23 Loyalty programs│
+│ ┌──┴──────────────────────┴┐
+└─────▶ /│ 15.22 Travel insurance │-/
+/─┴──────────────────────────┴/│
+│ ═════════ ││
+│ ┌───────────────┐ ││
+│ │ 15 Travel │ ││
+│ └───────────────┘ │/
+└─────────────────────────────┘ Figure 62.11E. Our documents are stored in numbered folders in the relevant drawer.
+This is how we structure our filesystem
+Let's return to our computer. The filing cabinets have become our area folders. The drawers are category folders. And the manila folders are the IDs where we save our files.
+10-19 Life admin ──────────────────▶ Cabinet
+├─ 11 Me
+├─ 12 Home
+├─ 13 Money
+├─ 14 Online
+└─ 15 Travel ──────────────────────▶ Drawer
+├─ 15.22 Travel insurance ──────▶ Folder
+│ ├──── Claim form
+│ ├──── Payment receipt
+│ └──── Policy document
+├─ 15.23 Loyalty programs
+└─ 15.24 Checklists Figure 62.11F. A neat file structure with areas, categories, and IDs.
+Benefits of the ID
+Each of our storage folders now has a number, the Johnny.Decimal ID. It always has two digits, a decimal, and two digits. For example, 15.22 22.11 31.17 . This number is really useful.
+Provides structure
+The ID tells us exactly where a thing is. The numbers before the decimal are the item's category, and they define the structure of your system.
+At a glance, you know what sort of thing the item contains. You'll be astonished at how many of your category numbers you remember.
+Easy to communicate
+They're short, memorable, and can be spoken out loud. Say it like "sixteen oh-two" or "thirty-one dot seventeen".
+This is really handy when you want to tell someone (including your future self) where a thing is.
+Things stay put
+If you use the alphabet to name folders, they move when a new one is created. So you never get a chance to develop muscle memory. Numbers solve this problem.
+In the example above, 11 Me comes before 12 House because the folders sort by number. If we made a new folder, 16 Aardvark collection , nothing would move.
+Imposes limits
+The 'no more than 10' concept is at the heart of Johnny.Decimal.
+When you start looking for something, there's no more than 10 area folders to choose from. Select one and ignore the rest. Now there's no more than 10 category folders to choose from. Repeat the process.
+You arrive in a folder with no more than 100 IDs. If the ID was created recently it will have a higher number. If not, lower. And things created together, stick together. The alphabet can't ruin the party.
+Footnotes
+We don't try to use all 10 filing cabinets, there's room to grow. ↩
+I'll explain later why the first drawer isn't number 01 or 10 . ↩
+Areas and categories Next ▶ (Use the ← arrow keys →)
+Learn
+Documentation
+Blog
+Search
+About
+About us
+Policies
+Sitemap
+Support
+Contact
+Support
+Community

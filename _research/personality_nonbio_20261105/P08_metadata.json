@@ -1,0 +1,135 @@
+{
+  "id": "P08",
+  "doi": "10.1177/0956797617739704",
+  "title": "To What Extent and Under Which Circumstances Are Growth Mind-Sets Important to Academic Achievement? Two Meta-Analyses",
+  "abstract": "Mind-sets (aka implicit theories) are beliefs about the nature of human attributes (e.g., intelligence). The theory holds that individuals with growth mind-sets (beliefs that attributes are malleable with effort) enjoy many positive outcomes-including higher academic achievement-while their peers who have fixed mind-sets experience negative outcomes. Given this relationship, interventions designed to increase students' growth mind-sets-thereby increasing their academic achievement-have been implemented in schools around the world. In our first meta-analysis ( k = 273, N = 365,915), we examined the strength of the relationship between mind-set and academic achievement and potential moderating factors. In our second meta-analysis ( k = 43, N = 57,155), we examined the effectiveness of mind-set interventions on academic achievement and potential moderating factors. Overall effects were weak for both meta-analyses. However, some results supported specific tenets of the theory, namely, that students with low socioeconomic status or who are academically at risk might benefit from mind-set interventions.",
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "locations": [
+    "https://doi.org/10.1177/0956797617739704",
+    "https://pubmed.ncbi.nlm.nih.gov/29505339"
+  ],
+  "pdfs": [],
+  "crossref": {
+    "title": [
+      "To What Extent and Under Which Circumstances Are Growth Mind-Sets Important to Academic Achievement? Two Meta-Analyses"
+    ],
+    "abstract": "<jats:p>Mind-sets (aka implicit theories) are beliefs about the nature of human attributes (e.g., intelligence). The theory holds that individuals with growth mind-sets (beliefs that attributes are malleable with effort) enjoy many positive outcomes—including higher academic achievement—while their peers who have fixed mind-sets experience negative outcomes. Given this relationship, interventions designed to increase students’ growth mind-sets—thereby increasing their academic achievement—have been implemented in schools around the world. In our first meta-analysis ( k = 273, N = 365,915), we examined the strength of the relationship between mind-set and academic achievement and potential moderating factors. In our second meta-analysis ( k = 43, N = 57,155), we examined the effectiveness of mind-set interventions on academic achievement and potential moderating factors. Overall effects were weak for both meta-analyses. However, some results supported specific tenets of the theory, namely, that students with low socioeconomic status or who are academically at risk might benefit from mind-set interventions.</jats:p>",
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          3,
+          5
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Victoria F.",
+        "family": "Sisk",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Psychological Sciences, Case Western Reserve University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alexander P.",
+        "family": "Burgoyne",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychology, Michigan State University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jingze",
+        "family": "Sun",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychological Sciences, Case Western Reserve University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jennifer L.",
+        "family": "Butler",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychological Sciences, Case Western Reserve University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Brooke N.",
+        "family": "Macnamara",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychological Sciences, Case Western Reserve University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "URL": "https://doi.org/10.1177/0956797617739704",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/0956797617739704",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/0956797617739704",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/0956797617739704",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ]
+  }
+}

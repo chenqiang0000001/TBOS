@@ -1,0 +1,2019 @@
+10 OCTOBER 2016
+Scientific Background on the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2016
+OLIVER HART AND BENGT HOLMSTRÖM: CONTRACT THEORY
+The Committee for the Prize in Economic Sciences in Memory of Alfred Nobel
+THE ROYAL SWEDISH ACADEMY OF SCIENCES,  founded in 1739, is an independent organisation whose overall objective is to promote the sciences 
+and strengthen their influence in society. The Academy takes special responsibility for the natural sciences and mathematics, but endeavours to promote 
+the exchange of ideas between various disciplines.
+BOX 50005 (LILLA FRESCATIVÄGEN 4 A), SE-104 05 STOCKHOLM, SWEDEN 
+TEL +46 8 673 95 00, INFO@KVA.SE   HTTP://KVA.SE
+
+Contract Theory
+1 Introduction
+An eternal obstacle to human cooperation is that people have di¤erent interests.
+In modern societies, con icts of interests are often mitigated if not completely
+resolved by contractual arrangements. Well-designed contracts provide incen-
+tives for the contracting parties to exploit the prospective gains from coopera-
+tion. For example, labor contracts include pay and promotion conditions that
+are designed to retain and motivate employees; insurance contracts combine the
+sharing of risk with deductibles and co-payments to encourage clients to ex-
+ercise caution; credit contracts specify payments and decision rights aimed at
+protecting the lender, while encouraging sound decisions by borrowers.
+The idea that incentives must be aligned to exploit the gains from cooper-
+ation has a long history within economics. In the 1700 s, Adam Smith argued
+that sharecropping contracts do not give tenants su¢ cient incentives to improve
+the land. In the 1930 s, Chester Barnard considered how employees could be
+incentivized to contribute e¤ort within large organizations. 1 This year s laure-
+ates have approached these old ideas using theoretical models that have given us
+new insights into the nature of optimal contracts. The models have also allowed
+researchers to sharpen existing arguments and pursue them to their logical con-
+clusions. As a result, contract theory has made major strides during the last few
+decades. Today, incentive problems are almost universally seen through its lens.
+The theory has had a major impact on organizational economics and corporate
+ nance, and it has deeply in uenced other  elds such as industrial organization,
+labor economics, public economics, political science, and law.
+A classic contracting problem has the following structure. A principal en-
+gages an agent to take certain actions on the principal s behalf. However, the
+principal cannot directly observe the agent s actions, which creates a problem
+of moral hazard : the agent may take actions that increase his own payo¤ but
+reduce the overall surplus of the relationship. To be speci c, suppose the prin-
+cipal is the main shareholder of a company and the agent is the company s
+manager. As Adam Smith noted, the separation of ownership and control in a
+company might cause the manager to make decisions contrary to the interests
+of shareholders. 2
+1 La¤ont and Martimort (2002) provide a brief history of incentives in economic thought.
+2
+The directors of such companies ... , being the managers rather of other people s
+1
+To alleviate this moral-hazard problem, the principal may o¤er a compensa-
+tion package which ties the manager s income to some (observable and veri able)
+performance measure. We refer to this as paying for performance . The com-
+pany s pro t or stock-market value are frequently used performance measures,
+but they have well-known drawbacks. They may depend largely on factors be-
+yond the manager s control, so that the manager would be rewarded for luck.
+Intuitively, it would be desirable to  lter out as much of the luck component as
+possible, perhaps by measuring the  rm s performance relative to other  rms in
+the same industry. But any performance measure is likely to be imprecise and
+noisy, so in the end the optimal compensation schedule must trade o¤ incentive-
+provision against risk-sharing.
+To go beyond these vague intuitions requires a formal analysis. Some formal
+results were obtained in 1975 by James Mirrlees, the 1996 Economics Laureate.
+In 1979, Bengt Holmström provided a formalization which would prove to have
+a lasting impact. In addition to characterizing the optimal trade-o¤ between
+incentives and risk-sharing, Holmström s article contained a fundamental result
+on optimal performance measures, namely the informativeness principle . A sec-
+ond generation of moral hazard models, developed in the 1980s by Holmström,
+sometimes by himself and sometimes with coauthors  in particular Paul Mil-
+grom  introduced dynamic moral hazard, multi-tasking and other key issues.
+Personnel economics, and organizational economics more broadly, have been
+strongly in uenced by this line of work. We discuss the pay-for-performance
+approach in more detail in Section 2.
+Paying for performance requires both the ability to write su¢ ciently detailed
+contracts ex ante , as well as the ability to measure and verify performance ex
+post. These requirements are sometimes hard to satisfy. Suppose, for example,
+that the agent is a researcher whose delegated task is to develop a new technol-
+ogy for the principal s company. Due to the uncertainties inherent in the R&D
+process, it may be impossible to specify ex ante exactly what the innovation
+should be. Moreover, neither the quality of the new technology nor its impact
+on the principal s pro t may be veri ableex post. Since performance-based con-
+tracts may not be of much use in this kind of situation, an alternative approach
+is needed. The incomplete contracting approach, pioneered by Oliver Hart and
+his collaborators Sanford Grossman and John Moore, emphasizes the allocation
+of decision rights .
+Decision rights are often determined by property rights i.e., by ownership.
+In the R&D example, one possibility is that the agent is employed with a  xed
+salary by the principal. In this case, the agent has no ex post bargaining power:
+the principal owns any innovation and can use it freely. Another possibility is
+that the researcher independently owns any innovation that he develops. He
+money than of their own, it cannot well be expected that they should watch
+over it with the same anxious vigilance with which the partners in a private
+company frequently watch over their own... Negligence and profusion, therefore,
+must always prevail, more or less, in the management of the a¤airs of such a
+company (Smith, 1776, Book 5, Chapter 1, Part 3).
+2
+can then deny the principal the use of the new technology, or sell it to her at
+a price determined by some bargaining process. Presumably, he will extract a
+higher price if the technology is of high quality. This means that the agent has
+more high-powered incentives as an independent researcher than as an employee,
+because his income is more sensitive to the quality of the innovation. On the
+other hand, the independent researcher may lack su¢ cient incentive to tailor-
+make the innovation for the principal s purposes, because his bargaining power
+will be greater if the innovation has many alternative uses.
+Although this example is stylized, it does illustrate an important insight:
+property rights generate bargaining power, which in turn determines incentives.
+More generally, when performance-based contracts are hard to write or hard
+to enforce, carefully allocated decision rights may produce good incentives and
+thus substitute for contractually speci ed rewards. This insight is a cornerstone
+in the theory of incomplete contracts. The theory has been highly in uential
+within corporate  nance and organizational economics, where it has been used
+to analyze a broad range of issues, such as the costs and bene ts of mergers,
+the distribution of authority within organizations, whether or not providers of
+public services should be privately owned, and how outside owners can control
+a company s inside managers through the design of corporate governance and
+capital structure. We discuss the allocation of decision rights, as formalized by
+the incomplete contracts theory, in Section 3.
+This document provides a concise overview of Oliver Hart s and Bengt Holm-
+ström s most important contributions to contract theory. As will become clear,
+these contributions are highly complementary. Since the theory has too many
+extensions and applications to allow for a full- edged survey, we must necessar-
+ily be very selective. 3 It is equally di¢ cult to provide an extensive history of
+thought we will not go far beyond the above-mentioned examples.
+As another con ner, in this document we will mostly abstract from psycho-
+logical and sociological aspects of contracting, and focus on the need to align
+con icting interests among rational and sel sh materialists. The basic premise
+is that people respond to material incentives; this is supported by considerable
+evidence across a wide range of settings. 4 But the relevance of contract theory
+3 For excellent introductions to contract theory, see Bolton and Dewatripont (2004), La¤ont
+and Martimort (2002), and Salanié (2005).
+4 Identifying the e¤ect of incentives on behavior is made di¢ cult by the fact that, in most
+cases, observed contracts are endogenous. If individuals with di¤erent contracts have di¤erent
+characteristics, then we do not know if di¤erences in behavior are due to the di¤erent contracts
+or to the di¤erence in characteristics. One way to avoid this endogeneity problem is to study
+situations where contracts di¤er due to some exogenous reason. The ideal is of course a
+randomized experiment a famous example is the RAND Health Insurance Experiment, which
+showed (against the expectations of some specialists) the existence of moral hazard in health
+insurance (Newhouse et al., 1993; see Aron-Dine et al., 2013, for a recent review). Another
+well-known study is Lazear (2000), studying the switch from xed to piece-rate pay for an
+auto glass company after an exogenous management change. Lazear found that this generated
+a 44 percent increase in output per worker; about half of this was due to incentive e¤ects on
+the average worker (the other half was due to selection, i.e., more productive workers choosing
+to work for the company). In a eld experiment in a tree-planting rm, Shearer (2004) found
+productivity gains of more than 20% when switching from xed wages to piece-rates. Clemens
+3
+does not rely on agents being completely rational and sel sh. Many analytical
+results continue to hold under alternative psychological and sociological assump-
+tions. In fact, the same theoretical framework can be used to derive novel results
+for unsel sh or boundedly rational agents, or agents with intrinsic non-material
+motivations. For example, recent research, extending the traditional theory, has
+clari ed why and when material incentives may fail to induce desired behavior,
+and why it may sometimes be optimal to provide only weak material incentives. 5
+Indeed, the laureates themselves have recently relaxed the standard rationality
+assumptions.6
+Finally, by assuming that the parties have symmetric information at the
+time of contracting, we abstract from the problem of adverse selection. Adverse
+selection is important in many applications. However, research related to this
+area has been recognized by the 1996 Prize to James Mirrlees and William
+Vickrey for contributions to the economic theory of incentives under asymmetric
+information, by the 2001 Prize to George Akerlof, Michael Spence, and Joseph
+Stiglitz for analyses of markets with asymmetric information, and by the 2007
+Prize to Leonid Hurwicz, Eric Maskin, and Roger Myerson for the foundations
+of mechanism-design theory. Both moral hazard and adverse selection were
+important building blocks for the 2014 Prize to Jean Tirole for the analysis of
+market power and regulation.
+2 Complete Contracts: Paying for Performance
+In this section, we review Bengt Holmström s contributions to contract theory.
+The  rst subsection discusses some basic results in the context of a principal
+agent model, while the second subsection discusses some extensions to the basic
+model.
+2.1 Optimal Incentive Contracts
+A simple formal framework will be used to illustrate and connect the main
+contributions. An agent, A, works a single period for a principal, P. The agent
+takes an action a from some interval [a; a]. This generates a cost c(a) for the
+agent and a bene t  = b(a) + " for the principal, where " is a random noise
+term. Since we are concerned with con icts of interest, we assume both b and c
+are increasing functions of a, so that, all else equal, the principal prefers a higher
+a while the agent prefers a lower a. We may interpret a as the agent s e¤ort .7
+and Gottlieb (2014) found that a two percent increase in the local Medicaid reimbursement
+rate entailed a three percent increase in physicians care provision. Asch (1990) found that
+Navy recruiters vary their recruitment e¤ort in response to incentives. See Nagin et al. (2002),
+or Bandiera et al. (2005) for more evidence on the e¤ect of incentives on behavior.
+5 See for example Francois (2000), Benabou and Tirole (2003, 2006), Besley and Ghatak
+(2005), and Bowles and Polanya-Reyes (2012).
+6 See Hart and Moore (2008), Hart and Holmström (2010), and Fehr, Hart, and Zehnder
+(2011).
+7 We may interpret a as the lowest e¤ort the agent can get away with without being caught
+shirking. Alternatively, it sometimes makes sense for c(a) to be non-monotonic. For example,
+4
+Assume further that both b and c are di¤erentiable, b is concave and c is convex.
+For any random variable x, let E(x) and V ar(x) denote the expected value and
+variance of x, respectively. Without loss of generality, assume E(") = 0 .
+This simple model captures the essence of many important real-life settings.
+For example, the agent could be a worker, a CEO, an entrepreneur, a lawyer,
+a  rm, or a supplier of public services; the corresponding principal could be
+an employer, a board of directors, a venture capitalist, a client, a regulator, or
+a public authority. In many such settings, the outcome is random, and risk-
+sharing is a crucial aspect of the contracting problem. We capture this by the
+noise term ".
+Let t denote a payment, or transfer, from the principal to the agent. Note
+that t > 0 indicates a payment from P to A, while t < 0 is a payment in
+the opposite direction. These payments would be constrained by the  nancial
+resources that P and A have at their disposal. For now, we assume both parties
+have large enough resources so that such  nancial constraints can be neglected.
+Also, since the principal is often richer or better diversi ed than the agent, let
+us assume that P is risk-neutral and A is risk-averse. Speci cally, suppose the
+principal s expected utility is
+UP = b(a)   E(t); (1)
+while the agent s expected utility is
+UA =  c(a) + E(t)   1
+2 rV ar(t); (2)
+where r > 0 measures the degree of risk aversion.
+First-Best Benchmark The total surplus from the relation is
+UP + UA = b(a)   c(a)   1
+2 rV ar(t); (3)
+where the last term is the utility cost of A s risk-bearing. Assume that a unique
+action a 2 [a; a] maximizes b(a)   c(a). Uniqueness of a is guaranteed if
+either b is strictly concave, c is strictly convex, or both. Using primes to denote
+derivatives, assuming b0(a) > 0 and c0(a) = 0 guarantees that a > a: It is also
+convenient to assume that c0(a) is very large, so that a < a. The total surplus
+is maximized when a = a and A bears no risk: V ar(t) = 0 . The outcome is
+then said to be  rst-best.
+If the action a were observable, and if the principal could write and commit
+to  a contract that directly linked the transfer to the agent s action, t = t(a),
+then it would be easy to implement the  rst-best. The principal could merely
+increase the di¤erence t(a)   t(a) until  c(a) +t(a) >  c(a) +t(a) for all a 6=
+a worker may prefer to exert some e¤ort rather than being completely idle. To capture this
+we could assume a 2 [0; a], with c(a) decreasing on [0; a] and increasing on [a; a]: In this case
+the worker would never choose a < a , so we may just as well restrict attention to the interval
+[a; a].
+5
+a. The agent would then be induced to take action a, and the principal would
+bear all the risk associated with random variable ". This would be e¢ cient, since
+P is risk-neutral and A is risk-averse. 8 By adding or subtracting a constant to
+or from the transfer schedule t, any desired distribution of surplus between P
+and A can be achieved. Preventing the agent from taking the wrong action
+a 6= a may require a high pecuniary penalty t(a) << 0.9 But the assumption
+we highlight here is that the transfer t can be conditioned directly on the action
+a. This assumption is very strong, and dropping it leads to the classicmoral-
+hazard model.
+Hidden Action: The Classic Moral-Hazard Model In the classic moral-
+hazard model, it is not possible to write a contingent transfer schedule t(a) into
+the contract. The justi cation for this is typically the hidden action assumption:
+a is not observable. However, even if the action could be observed, it may be
+hard to fully describe it in advance and even if it could be both described and
+observed, it might be impossible for a court (or some other contract-enforcer)
+to verify what action was taken. In any case, following the classic moral-hazard
+literature, we assume the transfer is based on an imprecise performance measure.
+Speci cally, it is based on the bene t the principal derives from the agent s
+action, t = t(). The bene t  = b(a) + " is assumed to be both observable and
+veri able by a court, but it is only an imperfect indicator of the agent s action
+(due to the  uctuating "). This is often a realistic situation. For example, while
+a board of directors may not observe exactly how the CEO runs the company,
+they do observe the stock price (and a number of other accounting measures).
+Empirically, a typical CEO s pay is strongly dependent on his company s stock-
+market performance. 10
+If the agent is risk-neutral ( r = 0) and has su¢ cient  nancial resources, then
+the contracting problem has a straightforward solution, a franchise contract
+where A pays a  xed fee f to P and in return gets all of the realized bene t:
+t() =    f . Since the agent becomes a residual claimant to any surplus he
+generates, he has the right incentives to trade o¤ costs and bene ts: he will
+maximize b(a)   c(a) by choosing the  rst-best action a. The agent has to
+carry all the risk, but as long as r = 0 this is not costly. The  xed fee f can be
+used to divide the surplus in any desired fashion. 11
+8 If both P and A were risk-averse, they should write a second contract on the realization
+of " to optimize risk-sharing. This would be straightforward in this setting, with observable
+actions and perfect commitment.
+9 Alternatively, P could impose a non-pecuniary penalty (if such a penalty is available) on
+A when a 6= a.
+1 0See e.g. Murphy (1985). We discuss the evidence on CEO compensation in more detail
+below.
+1 1Another interpretation of the optimal contract is that A buys the project from P for a
+price f . This relates to Jensen and Meckling s (1976) insight that having the manager own the
+equity of the rm alleviates moral hazard. They use this insight to rationalize debt nancing,
+which allows a founder-manager to keep the equity of the rm. Innes (1990) provides a more
+formal model, deriving debt as an optimal nancial contract in a setting with risk-neutral
+agents and limited liability constraints. Of course, managerial wealth constraints may be
+binding. (In the context of our model, the manager needs enough funds of her own to a¤ord
+6
+However, we will consider the more interesting case where the agent is risk-
+averse, r > 0, so that it is not optimal for him to bear all the risk. The gain from
+high-powered incentives then has to be weighed against the loss from subopti-
+mal risk-sharing. This trade-o¤ between incentives and risk-sharing is a classic
+problem in incentive theory. 12 Mirrlees (1975) showed that, in some situations,
+the principal can approximately implement the  rst-best by penalizing the agent
+very heavily, t() << 0, when  takes values that would have been highly un-
+likely to occur, had the agent chosen the desired action. This is not quite what
+legal contracts in modern societies look like, and in fact the subsequent litera-
+ture emphasized situations where Mirrlees s solution (a low-probability threat
+of extreme punishment) would be infeasible (e.g., Grossman and Hart, 1983a).
+The Informativeness Principle Let us re ect on a more general feature of
+Mirrlees s argument, namely, that rewards should be based on the information
+that the realized value  carries about the action a. Of course, when the contract
+is optimally speci ed, A will rationally take the desired action, and P knows
+this. Yet, the conditional probabilities of observing  after di¤erent actions 
+as in a statistical inference problem  will be the key to designing an optimal
+contract. Since the agent s risk-bearing is linked to the quality of inference, any
+information that facilitates inference will be valuable.
+Intuitively, the agent s compensation should depend on variables (signals)
+that provide information about his action. This intuition is encapsulated in
+the informativeness principle (Holmström, 1979, and Shavell, 1979). Formally,
+suppose P is considering making the transfer t a function of some signal s
+in addition to . The informativeness principle, as formulated and proved by
+Holmström (1979), implies that she should do so if and only if  is not a su¢ cient
+statistic for a given (; s).13
+This result has important practical implications. In terms of the model
+above, a signal s that is correlated with the noise " is potentially valuable to
+the principal, whereas a signal that is uncorrelated with both a and " is always
+useless. In the context of managerial compensation, the manager s pay should
+depend not only on accounting measures and the  rm s own stock price, but
+also on signals that are correlated with the stock price, such as observable cost
+and demand conditions or the stock prices of other  rms in the same industry.
+to pay f ). As a result, investors will not fund projects unless the manager has enough wealth
+to invest to guarantee su¢ ciently strong incentives. Holmström and Tirole (1997, 1998, 2001)
+show how a simple model of managerial wealth constraints can be used to investigate a number
+of important issues in corporate nance, including the impact of wealth shocks on the banking
+system, banking regulation, and the role of public liquidity provision for rms. The Holmström
+and Tirole model has become a tractable workhorse theory for analyzing various corporate
+nance and nancial intermediation issues (see, e.g., Plantin and Rochet, 2006, or Adrian and
+Shin, 2008).
+1 2Early treatments of the moral-hazard problem, by Wilson (1969), Spence and Zeckhauser
+(1971) and Ross (1973), primarily studied special cases in which the rst-best outcome can
+be attained.
+1 3Shavell (1979) proved the if but not the only if part. Also, Harris and Raviv (1979)
+is a contemporaneous paper providing a less general informativeness principle result.
+7
+Linking the manager s pay to these signals helps to  lter out the e¤ect of the
+manager s performance from general industry and macroeconomic  uctuations
+that are beyond the manager s control. 14
+The informativeness principle relies on statistical considerations only, with
+no reference to preference parameters. Of course, the agent s risk aversion will
+in uence the overall variability of the optimal transfer schedule, but the relative
+importance of di¤erent kinds of information should be determined by the rules
+of optimal statistical inference (with noisier signals given less weight).
+The Informativeness Principle in Empirical W ork The informativeness
+principle predicts that when an agent s pay is linked to some performance mea-
+sure, then the contract should be indexed so as to  lter out the impact of
+exogenous factors on the agent s pay. Since the bene t from indexation relies
+only on statistical considerations, it is possible to test this prediction without
+precise knowledge of the agent s risk preferences (assuming only that the agent
+is risk-averse). It turns out that many chief executive o¢ cers have contracts
+that fail to provide such indexation. They are thus paid for luck , contradict-
+ing the prediction of the informativeness principle (Bertrand and Mullainathan,
+2001).
+This  nding suggests that practitioners may fail to design optimal contracts.
+Indeed, Bertrand and Mullainathan (2001)  nd that  rms with a dominant
+shareholder have more indexation of CEO compensation than  rms without
+such a dominant shareholder. This suggests that the former  rms are better
+governed: the dominant shareholder is a true principal. Without a dominant
+shareholder, the CEO may be able to capture the contracting process and get
+paid for luck. This illustrates how contract theory can guide empirical work
+and provide a lens through which we can view CEO compensation data with
+the objective of understanding good (or bad) corporate governance.
+The Shape of the Optimal Contract The informativeness principle is a
+general result which does not depend on speci c preference parameters or on
+the particular shape of the optimal contract. But what does the classic moral-
+hazard model say about the shape of optimal contracts? Do they resemble the
+contracts we actually observe?
+By assuming a  nite number of possible outcomes, Grossman and Hart
+(1983a) could rigorously study the shape of the optimal contract in the classic
+1 4Using the insights from the informativeness principle, Holmström and Tirole (1993) inves-
+tigate the role of stock market liquidity in determining optimal managerial compensation and
+incentives. In their model, the e¢ cient incentive contract involves tying CEO compensation
+to the rm s stock price, because the stock market incorporates performance information that
+cannot be extracted from the rm s current or future prot data. The reason is that the
+information of stock market investors will be incorporated in the stock price. The stock price
+will be more informative when the market for the stock is more liquid, since this makes it
+more protable for investors to trade on information, which in turn improves their incentives
+to collect information about rm performance. They use this model to investigate the optimal
+ownership structure of rms, the equilibrium size of the stock market, and the social value of
+market liquidity and monitoring.
+8
+moral-hazard model. 15 In particular, they found conditions under which t()
+would be increasing in .16 In general, however, the optimal transfer schedule
+depends in delicate ways on the shape of the distribution of the noise term ",
+often leading to complex, non-linear contracts. In reality, contracts often take
+simpler forms that seem to be at odds with this conclusion.
+In an in uential paper, Holmström and Milgrom (1987) argued that the com-
+plex shape of the theoretically optimal transfer schedule re ects an unrealistic
+feature of the model: the agent only takes a single action before outcomes are
+measured. In reality, the agent may work for weeks, months, and sometimes
+years, before his performance is evaluated. If a non-linear contract, such as the
+one proposed by Mirrlees, speci es a large punishment for performance below
+some particular level, the agent will be able to stay clear of that level by ad-
+justing his behavior (gaming ). In fact, all non-linearities may now become
+ine¤ective. Holmström and Milgrom (1987) showed that if an agent with con-
+stant absolute risk aversion controls the drift of a Brownian motion, the optimal
+contract is exactly linear. The linearity makes it possible to only rarely measure
+the agent s performance, and base the pay on aggregate performance measures.
+The Holmström Milgrom (1987) model explains common sharecropping con-
+tracts, as well as the use of shares to motivate managers. Their key insight, that
+non-linear compensation schedules are susceptible to gaming and therefore may
+be rendered ine¢ cient, is supported by empirical studies (see Chevalier and Elli-
+son, 1997). However, the model does not explain why many contracts have a pay
+ oor, e.g., in the form of a sizable salary which is independent of performance.
+Simple Analytics of Linear Contracts In the model of Holmström and
+Milgrom (1987), the optimal transfer schedule is linear in the observed bene t
+,
+t() = f + k:
+The slope of the transfer function, k, is the incentive intensity : the higher the
+value of k, the more high-powered are the agent s incentives. Such contracts
+are not only realistic, but tractable enough to permit the analysis of a range of
+issues.
+The model has transferable utility: the  xed component f can be used to
+redistribute surplus without a¤ecting the total available surplus. The optimal
+contract sets action a and incentive intensity k to maximize the total surplus
+1 5From a mathematical point of view, there are several benets to assuming a nite number
+of outcomes. First, if each outcome always occurs with a strictly positive probability, then
+Mirrlees s proposal (a low-probability threat of extreme punishment) is ruled out. Second,
+previous work had generally relied on the so-called rst-order condition approach. But as
+Mirrlees (1975) showed, the rst-order approach is not always valid. Grossman and Hart
+(1983a) showed how to solve the problem without ignoring second-order conditions.
+1 6Perhaps surprisingly, this property need not always hold. For example, assume low e¤ort
+is associated with moderate output; high e¤ort is associated with higher expected output, but
+also entails some probability of very low output. It may then be optimal to pay the agent less
+when output is moderate than when it is very low, to discourage him from choosing low e¤ort
+(despite the fact that the principal derives a larger benet from moderate output than from
+very low output).
+9
+(3). If we make the simplifying assumption that the principal s bene t function
+has the linear form b(a) = a, where the constant  > 0 represents the agent s
+productivity, then the optimal a and k are obtained from the following two
+equations:17
+k = c0(a) (7)
+and
+k = 1
+1 + rc00(a)V ar(")= 2 : (8)
+Assuming c00 > 0, we see that 0 < k < 1. Generally, optimal incentives k
+are stronger when productivity ( ) is higher, and when risk ( V ar(")) and risk
+aversion (r) are lower.
+In the limit where either risk or risk aversion tends to zero, k will approach 1
+and the contract becomes a franchise contract with A as a residual claimant. In
+the other limit, where either risk or risk aversion tends to in nity,k will approach
+0, and A becomes a salaried employee whose compensation is independent of
+the outcome .
+T esting the Incentive-Risk T rade-O¤ Predictions involving the trade-o¤
+between incentives and risk-sharing are di¢ cult to test directly, because the
+agent s degree of risk aversion is typically unobserved by the econometrician. At
+one extreme, a  xed-wage contract might be optimal for an extremely risk-averse
+agent; at the opposite extreme, a risk-neutral agent should carry all the risk.
+However, the classic theory does makes certain comparative statics predictions
+that do not rely on knowing the agent s risk preferences. In particular, all else
+equal, the theory predicts a negative relationship between risk (the variance of
+") and incentive power (the slope of the transfer function).
+However, the all else equal assumption may be violated by systematic
+selection; less risk-averse agents (low r) may choose to work in more volatile
+1 7To derive the solution, start by noting that V ar(t) = V ar(k) = k2V ar(") so that (3)
+becomes
+UP + UA = a   c(a)   1
+2 rk2V ar(") (4)
+From (2), A chooses a to maximize
+ c(a) + ka   1
+2 rk2V ar(") (5)
+which yields the rst-order condition (7). Di¤erentiating (7) with respect to k we nd that
+A s response to an increase in incentive power is described by the relation
+da
+dk = 
+c00(a) (6)
+To derive the optimal incentive power, note that k must maximize (4), which in view of (6)
+yields the rst-order condition
+ 
+c00(a)   c0(a) 
+c00(a)   rkV ar (") = 0
+Using (7) to eliminate c0 we obtain (8).
+10
+environments. As these less risk-averse agents not only self-select into risky oc-
+cupations, but also optimally assume more pay-performance risk, the predicted
+negative relationship may not be evident in the data (see Chiappori and Salanié,
+2003).18 The importance of this selection bias is illustrated by Ackerberg and
+Botticini (2002), who study agricultural contracts in Renaissance Italy. They
+ nd strong evidence that the type of crops that is cultivated is correlated with
+the tenant s characteristics  less risk-averse agents prefer riskier crops. Once
+the selection bias is accounted for, they  nd support for the classic theory. 19
+2.2 Extensions
+In his subsequent work, Holmström extended the basic moral-hazard model in
+several directions, by analyzing cases with several tasks and several agents, as
+well as incorporating more dynamic aspects. This work resulted in some highly
+in uential and important insights, which we now turn to.
+The Multi-T asking Model In the classic moral-hazard model, the agent s
+action is one-dimensional, and usually interpreted as e¤ort . However, in many
+applications the actions are complex and multi-dimensional, involving various
+activities that can only be imperfectly observed and measured (if at all). Trying
+to reward only the measurable activities may lead to dysfunctional behavior, as
+agents will then concentrate too much attention on the activities that are more
+likely to be rewarded (see Kerr, 1975, for an early and in uential discussion).
+As Baker, Gibbons, and Murphy (1994) put it: Business history is littered
+with  rms that got what they paid for. For example, if a manager s bonus is
+too heavily tied to short-term earnings, he might sacri ce pro table long-term
+investments, since these investments involve lower current earnings, while the
+bene ts arise far in the future. 20
+Formalizing such arguments requires a model where actions and outcomes are
+multi-dimensional. Such a model of multi-tasking was provided by Holmström
+and Milgrom (1991). 21 Suppose the agent takes two unobserved actions, a1
+1 8While some studies do nd that CEOs face stronger incentives when measurement is easier
+(see Aggarwal and Samwick, 1999), others nd a positive relationship, or none at all, between
+risk and incentives (see Core, Guay, and Verrecchia, 2003). The evidence from franchising,
+retailing, and sharecropping is equally mixed (e.g., Lafontaine, 1992, Allen and Lueck, 1992).
+1 9Prendergast (2002) suggested another reason for why the all else equal assumption may
+fail, making the predicted negative relationship between volatility and incentive power hard
+to identify in the data. In a more volatile environment, the principal may not know what
+the agent should do. Therefore, she may delegate more responsibility to the agent in such
+environments, but to constrain his behavior it would be optimal to design a high-powered
+incentive scheme. In contrast, in a less volatile environment the principal may simply tell the
+agent what to do, monitor him, and pay a xed wage.
+2 0Building on Holmström and Milgrom (1991), Benabou and Tirole (2016) show that in-
+creasing competition for talented CEOs can lead to an escalation of short-term performance
+pay, which in turn can lead to ine¢ cient decreases in rms long-term investment.
+2 1Baker (1992) provides a related model in a setting where the principal s objective is not
+directly measurable, and parties can only contract on a measure imperfectly correlated with
+the principal s ob jective. Similar to the multi-tasking setting, this generally leads to weaker
+pay-performance incentives in the optimal contract.
+11
+and a2, with cost function c(a1; a2). Assume @2c
+@a1@a2
+> 0, implying that the
+two tasks are substitutes for the agent. Action ai generates an output measure
+i = bi(ai) +"i. With linear pay-for-performance as in Holmström and Milgrom
+(1987), the transfer from P to A is t(1; 2) = f + k11 + k22.
+Suppose it is di¢ cult to measure and reward action a1 (the variance of "1 is
+large), but easy to measure and reward action a2 (the variance of "2 is small).
+Since A is risk-averse and P is risk-neutral, optimal risk-sharing suggests that
+the  rst task should be only weakly incentivized ( k1 should be small). But if
+a1 is important to the principal, a2 should then also be weakly incentivized ( k2
+should also be small) in order to prevent the agent from concentrating all his
+attention on a2. Thus, it may be enough that one important task or outcome
+is di¢ cult to measure for low overall incentive intensity to be optimal.
+To illustrate, if A is a school teacher, then a1 might represent stimulating
+student curiosity, responsibility, and the ability to think independently, while a2
+is teaching to the test . The broader set of skills associated with a1 can only
+be evaluated with considerable noise, and attempting to incentivize a1 by tying
+the teacher s salary to such a measure would force him to bear too much risk.
+Incentivizing only a2, say by tying the teacher s salary to the studentsgrades on
+standardized tests, will cause the teacher to neglect teaching the broader set of
+skills. Thus an optimal contract for the teacher may specify a  xed salary with
+no (explicit) incentive pay at all. This illustrates an important point about the
+informativeness principle, namely that its recommendation to link the agent s
+pay to any informative measure of e¤ort applies only to the simplest case, where
+e¤ort is one-dimensional. In more complex situations, where a principal wants to
+encourage a balance of activities, it may be optimal to ignore some performance-
+related information when determining the agent s compensation.
+The multi-tasking model helps us understand many other organizational fea-
+tures, not just compensation contracts. For example, if A s cost of performing
+one task is very low because he gets some private (non-veri able) return from
+it (or just likes it better), then P again may need to make sure that not all
+of A s attention is diverted to this task. For example, A may be a researcher
+with a keen interest in basic non-commercial research. Either his employer P
+must forbid A from engaging in the non-commercial research, or other tasks 
+commercial innovation must be strongly incentivized. One way to achieve the
+latter is to let the researcher be his own boss. He then has complete freedom,
+but is only paid for commercially valuable research. Along these lines, Holm-
+ström and Milgrom (1994) extend the basic multi-tasking model in their 1991
+paper and show that high-performance incentives, worker ownership of assets,
+and worker freedom from direct controls are complementary instruments for mo-
+tivating workers. Thus, the model can provide an explanation for the empirical
+observation that weak incentives and lack of decision-making power tend to go
+hand in hand, while decision rights tend to go together with strong incentives.
+Empirical Evidence on Multi-T asking The basic premise behind Holm-
+ström and Milgrom s (1991, 1994) multi-tasking model is that agents will re-
+12
+allocate their e¤ort away from uncompensated (non-incentivized) activities and
+toward compensated (incentivized) activities. Such behavior has been docu-
+mented in a number of empirical studies. In a  eld experiment in Chinese
+factories, Hong et al. (2013)  nd that output increases but quality falls when
+a piece-rate bonus scheme is introduced. Glewwe, Ilias, and Kremer (2010)
+conduct a  eld experiment in which some teachers are paid on the basis of stu-
+dentstest scores. They  nd that teachers that receive the monetary incentive
+allocate more time to prepare students for the test situation, but there is little
+evidence that these teachers engage in more or better teaching of the subject.
+Bergstresser and Philippon (2006) show that CEOs whose compensation is more
+closely tied to the value of stock and option holdings engage in more short-term
+earnings manipulation. These CEOs also sell unusually large amounts of equity
+and options during years of positive earnings manipulation.
+The multi-tasking model predicts that when some important task is hard
+to evaluate, then incentives should be weak for all tasks. Using data from the
+BLS Industry Wage Survey, Brown (1990)  nds that incentive pay, such as piece
+rates, is common in jobs with a narrow set of routines. Jobs that involve a wide
+variety of duties more frequently pay a  xed salary. Since the latter kinds of jobs
+plausibly are the ones where workers can easily substitute one task for another,
+and where some important tasks are di¢ cult to measure, these results provide
+at least indirect support for the multi-tasking model.
+More direct empirical support for the multi-tasking model is found in Slade s
+(1996) study of contracting between oil companies and service stations. Service
+stations provide various services in addition to gasoline sales, such as car repairs
+and convenience store sales, and the substitutability of these activities varies.
+When the gas station also does car repairs, the oil company will worry that the
+service station will put too much e¤ort into promoting its repairs business, and
+the model predicts the use of a more performance-sensitive contract for gasoline
+sales to mitigate this behavior. In contrast, this is not a problem when the
+side-business of the gas station is running a convenience store, since customers
+tend to take the opportunity to  ll up their cars when they visit the convenience
+store (and vice versa). In this latter case, the model predicts a less performance-
+sensitive incentive contract for gasoline sales, since oil companies are better
+at carrying the risk of  uctuating sales. Slade (1996) indeed  nds empirical
+evidence of more performance-sensitive contracts for gasoline sales when other
+service station activities are more easily substituted for selling gasoline (i.e., car
+repairs), and less performance-sensitive contracts when the other activities are
+complementary to selling gasoline (i.e., convenience stores), consistent with the
+multi-tasking model.
+Incentives in T eams Many production processes require the cooperation
+of many agents. If it is only possible to measure aggregate output, it may be
+di¢ cult to contractually provide optimal incentives for each agent, since there is
+an incentive to free-ride on the e¤ort of others. The problem is that an individual
+agent who cheats by providing lower e¤ort cannot be identi ed if joint output
+13
+is the only indicator of e¤ort. This is known as the moral hazard in teams
+problem, and the seminal paper on this is Holmström (1982a). Holmström
+shows that if the compensation to the agents involves sharing of some joint
+output, as in a partnership, the outcome will always be ine¢ cient. In order to
+preserve incentives, a third party  a budget breaker  needs to be involved.
+The budget breaker can create incentives by removing output from the team in
+case of inferior performance. This provides a rationale for external ownership of
+ rms by a residual claimant, as well as an explanation for why a  rm needs to
+seek outside  nancing to be able to break its budget constraint. 22 Holmström
+(1999) discusses how to incorporate this insight into a more general theory of
+the  rm.
+Holmström (1982a) also highlights a potential bene t of teams in terms of
+writing incentive contracts, namely that aggregate team performance can be
+useful in  ltering out noise in an individual agent s performance contract. That
+is, aggregate performance can be a useful signal of an agent s e¤ort beyond
+the agent s individual performance, and should then (by the Informativeness
+Principle) be included in the optimal contract. In particular, if the output
+produced by di¤erent agents in a team is a¤ected by the same external factors,
+then an agent s relative performance compared to the other agents in the team
+will be a more informative signal of the agent s individual e¤ort compared to
+his absolute performance.
+Career Concerns Agents who are concerned about their future careers may
+have an incentive to work hard even under simple  xed-wage contracts. Eugene
+Fama, the 2013 Economics Laureate, argued that career concerns might there-
+fore solve moral hazard problems, without any need for explicit performance-
+based contracts (Fama, 1980). The idea of career concerns was formalized by
+Holmström (1982b).
+To provide good incentives, the principal may want to promise high future
+salaries to agents who perform well today. But would such promises be credible?
+In Holmström s career-concerns model, an agent s performance today depends
+both on his e¤ort and on his ability, and both are unobserved. A good per-
+formance today makes it more likely that the agent s ability is high, and this
+makes him more attractive not only to his current principal, but also to other
+employers. Competition for the agent s services then makes it perfectly credible
+that his future wage depends on his current performance. Thus, there will be
+an incentive to perform at a high level, even if contracts contain no explicit
+incentive schemes.23
+2 2Legros and Matsushima (1991) and Legros and Matthews (1993) show, however, that it
+is often possible to implement small deviations from the rst-best action prole that allows
+the principal to identify cheating by an individual agent more easily. It is then possible to
+implement close to rst-best e¤ort with incentive schemes that always satisfy budget balance.
+2 3Lazear and Rosen (1981) provide a di¤erent perspective on careers within organizations.
+In their model, the principal provides incentives by making a commitment to promoting the
+most productive worker to a higher position with higher pay. It may in fact be easier to commit
+to a promotion policy than to a pay-for-performance scheme, if promotions are veriable to
+outsiders.
+14
+More formally, suppose there are two periods,  = 1 and  = 2. The agent s
+ability, denoted by , is the same in both periods. A key assumption is that
+ is initially unknown to both P and A, and will be inferred from the  rst-
+period performance. 24 In each period  the agent A chooses e¤ort a 2 [a; a]
+and produces output  = b ( + a ) + " . Assuming that it is impossible
+to write explicit performance-based contracts, the period  wage w must be
+independent of  . However, labor market competition ensures that w2 will
+depend on 1: Speci cally,w2 will equal the market s rational expectation about
+2, conditional on the realized 1. Since the market will infer a higher ability
+when  rst-period output is higher, w2 is increasing in 1. Clearly, A has no
+reason to work hard in period 2 as his career is about to end, so a2 = a. In period
+1, however, he has an incentive to build a reputation by producing a high output,
+thus convincing the market that his ability is high. Assuming for simplicity the
+agent is risk-neutral, he will choose a1 to maximize  c(a1) + E (w2), where
+c(a1) is his cost of e¤ort as before, and  < 1 is the discount factor.
+The model con rms that career concerns may alleviate moral-hazard prob-
+lems: since w2 is increasing in 1, and 1 is increasing in a1, the agent will set
+a1 > a in order to raise E(w2). In fact, it is quite possible that a1 exceeds the
+ rst-best level, although a2 = a is clearly below  rst-best. 25 A key insight de-
+rived from Holmström s formalization of career concerns is that incentives will be
+unbalanced over time and equilibrium e¤ort levels will in general not be socially
+optimal. Agents may well work excessively hard early in their careers (when
+career concerns are very strong), while e¤ort will certainly be too low later on
+(when career concerns are weak or non-existent). If explicit performance-based
+contracts were possible, they might compensate for the latter ine¢ ciency by
+providing explicit incentives for workers close to retirement (see Gibbons and
+Murphy, 1992). (For young agents with strong career-concerns, explicit incen-
+tive schemes may be redundant or even harmful.)
+Holmström and Ricart i Costa (1986) apply the career-concerns model to a
+setting where the agent is a manager who makes an investment choice. In their
+model, young managers have an incentive to overinvest in order to signal their
+ability, and they show that rationing the manager s capital can be an optimal
+response to this behavior. They argue that this is consistent with the extensive
+capital-budgeting procedures observed in  rms.
+Important extensions of the basic career-concerns model include Stein (1989),
+2 4If there is asymmetric information, such that (only) A knows  at the outset, the situation
+is more complex and invites signalling by A. However, most of the insights from the simple
+model continue to hold in a signaling equilibrium.
+2 5If we simplify by assuming "  0, then it is easy to show that a1 will exceed the rst-best
+if b is strictly concave and  is close enough to 1: Intuitively, concavity implies that an increase
+in the market expectation about  will have a very large impact on the expected second-period
+productivity, because a2 = a. This means that an agent who cares about the future (high )
+has a very big incentive to raise the market s beliefs about . Formally, rational expectations
+imply dw2=da1 = b0 ( + a) in equilibrium. The agent s rst-order condition which determines
+his choice of a1 is  c0(a1) +E (b0 ( + a)) = 0 : In contrast, the rst-best is determined by the
+condition  c0(a
+1) + E
+ 
+b0  
+ + a
+1
+
+= 0: Since b is strictly concave,  is close to 1 and a
+1 > a,
+we get a1 > a 
+1. Of course, if  were small then career concerns would be unimportant and
+a1 < a 
+1.
+15
+Scharfstein and Stein (1990), and Dewatripont et al. (1999a, 1999b). The
+career-concerns model has also been used extensively in political economics and
+political science to model the behavior of career-motivated politicians, who care
+about re-election rather than future wages (see Lohmann, 1998, and Persson
+and Tabellini, 2000). In this application, some politicians are more productive
+than others, which voters appreciate. Observing an incumbent who produces
+good results, voters are more likely to re-elect him. This provides incentives
+for incumbent politicians to exert more e¤ort, especially before an upcoming
+election, which may generate a political business cycle .
+In the career-concerns model,  rms do not o¤er long-run contracts; rather,
+the wage is determined in each period based on the worker s expected output.
+What happens if  rms can make long-run commitments, but workers cannot do
+so (i.e., workers are always free to quit)? Harris and Holmström (1982) develop
+such an asymmetric commitment model of labor contracts under incomplete
+but symmetric information, where each worker s productivity is revealed over
+time. They show that optimal dynamic risk sharing implies that wages should
+never decline over time, and only increase when the market increases its as-
+sessment of the worker s quality. This explains why earnings may be positively
+related to experience even after controlling for productivity. Although Harris
+and Holmström (1982) develop the model in the context of a labor market, the
+idea of asymmetric commitment is very important in many contexts, such as in-
+surance markets, where information about an agent s characteristics is revealed
+over time (Hendel and Lizzeri, 2003).
+Empirical Evidence on Career Concerns Empirical studies support the
+notion that incentives in organizations depend on both career concerns and
+explicit performance pay. 26 Gibbons and Murphy (1992)  nd that CEO com-
+pensation exhibits the most performance sensitivity for executives closer to re-
+tirement, consistent with explicit incentives being more important when career
+concerns are weaker. In fact, the combined use of implicit incentives through
+career concerns and explicit incentives through contracts could provide an ex-
+planation for the lack of indexation in contracts i.e., for the apparent empirical
+failure of the informativeness principle, discussed above. It may be that rela-
+tive performance evaluation is primarily implemented through promotion and
+ ring decisions rather than through explicit contracts. Consistent with this
+idea, Morck et al. (1989) document that CEO turnover increases when a  rm
+underperforms relative to its industry. 27
+2 6An in-depth analysis of personnel and wage data from a single rm can be found in
+Baker, Gibbs and Holmström (1994a, 1994b). Their results indicate that promotions and
+performance pay are used jointly to provide incentives.
+2 7Jenter and Kanaan (2015) and Kaplan and Minton (2012) show that CEO turnover is
+signicantly related to (1) the performance of the rm relative to the industry, (2) the per-
+formance of the industry relative to the stock market, and (3) the overall performance of the
+stock market. Hence, it seems that external shocks are only partially ltered out, so that
+CEOs are still to some extent red for bad luck. Kaplan and Minton (2012) propose an alter-
+native explanation: when an industry or the overall economy performs poorly, it is e¢ cient
+16
+Hong and Kubik (2000, 2003) provide evidence on the career concerns of
+security analysts. Hong and Kubik (2000)  nd that inexperienced analysts are
+more likely to herd , i.e., they provide forecasts that deviate less from the
+market consensus. This is consistent with a multi-agent version of the career-
+concerns model (Scharfstein and Stein, 1990): inexperienced analysts have more
+to lose by being wrong, because there is more uncertainty about their ability,
+and therefore try to avoid "standing out from the crowd."
+Hendel and Lizzeri (2003) consider a model with symmetric learning and
+asymmetric commitment, based on Harris and Holmström (1982), but applied
+to an insurance market instead of a labor market. With only short-run con-
+tracts, the consumer would be exposed to the risk of increased premiums if
+there is bad news about his health prospects. In contrast, if the insurance
+company can commit not to raise premiums, then long-run contracts will be
+front-loaded : initial premiums will be fairly high, but they are lower later
+on. This locks in the consumers and provides dynamic insurance; agents whose
+health prospects deteriorate bene t by paying less. Hendel and Lizzeri  nd that
+the theory very successfully explains the shape and variety of existing life insur-
+ance contracts in the U.S. (which are indeed front-loaded). 28 Strikingly, there
+is an exception which proves the rule: there is no front-loading in accidental
+death contracts (which pay only if death is accidental), where learning about
+consumer characteristics should be much less of an issue.
+3 Incomplete Contracts: Allocating Decision Rights
+In this section, we discuss Oliver Hart s work on the theory of incomplete con-
+tracts. The  rst subsection presents the basic ideas of incomplete-contracts
+theory. Subsection 3.2 discusses the foundations of the theory, while Subsection
+3.3 reviews some applications.
+3.1 The Basic Ideas
+Section 2 described the classic moral-hazard model, where contracting parties
+write performance-based contracts ex ante and enforce appropriate rewards ex
+post. However, we noted that measuring performance may be di¢ cult. Even if
+performance can be evaluated ex post , it may be di¢ cult to write a su¢ ciently
+detailed contract ex ante, specifying exactly what aspect of performance will be
+rewarded. Finally, even if such a contract could be written, it may be di¢ cult
+to enforce it, because a third party (e.g., a judge) may not be able to verify the
+performance ex post. In view of the di¢ culties involved in writing and enforcing
+detailed contracts, it is not surprising that many of the contracts we actually
+observe are highly incomplete. This is the motivation behind the incomplete
+contracts approach to contracting, pioneered by Oliver Hart and his coauthors.
+to restructure the rm, which could require a di¤erent management team.
+2 8The variety of existing contracts is explained by consumer heterogenity in willingness to
+front-load, which in turn can be explained by capital market imperfections.
+17
+Decision Rights and Property Rights A central insight in the incomplete-
+contracts literature is that carefully allocated decision or control rights can sub-
+stitute for contractually speci ed rewards. Since an important means to allocate
+decision rights is through ownership, incomplete-contracting theory generates a
+rich theory of property rights. In the words of Hart (1989, p.1765):
+ownership of an asset goes together with the possession of residual
+rights of control over the asset; the owner has the right to use the
+asset in any way not inconsistent with a prior contract, custom, or
+any law.
+In terms of the simple framework outlined at the beginning of Section 2,
+suppose it is impossible to contract directly on a transfer schedule t(). Trans-
+fers may instead be implemented indirectly through other kinds of contractual
+arrangements, notably through the assignment of ownership rights. Because
+risk-sharing plays no role, we drop the noise term ".
+Consider  rst an almost trivial case. The agent produces some output that
+has value  = b(a) to P, but also has other uses. Let the value in the best
+alternative use be given by a di¤erentiable function v(a), where 0 < v (a) < b(a)
+and 0 < v 0(a) < b 0(a) for all a 2 [a; a]. Ex ante (before A chooses a) the parties
+decide who will own the  nal output. In Section 2, P-ownership of the output
+was implicit. But if neither a nor  can be contracted on, under P-ownership
+A gets no share of  and therefore will set a = a in order to minimize c(a). In
+contrast, with A-ownership of the output, A can deny P the output and get at
+least v(a). But he can do even better by negotiating a trade with P after the
+output has been produced. If the two parties have equal bargaining power, the
+resulting transfer would be
+t = v(a) + 1
+2 (b(a)   v(a)) = b(a) + v(a)
+2 :
+Anticipating this outcome, under A-ownership A chooses a to maximize  c(a)+
+(b(a)+v(a))=2. He will choose a bigger than a but smaller than a, so the surplus
+under A-ownership will be greater than under P-ownership, but less than in the
+ rst-best.
+Incomplete Contracts and the Theory of the Firm The idea that con-
+tractual incompleteness implies a crucial role for property rights is quite general,
+and leads to a formal theory of the boundaries of the  rm. The intellectual ori-
+gin is 1991 Economics Laureate Ronald Coase s article on the theory of the
+ rm. Coase (1937) argued that  rms may organize certain transactions more
+e¢ ciently than markets can. Unlike market transactions, most of the economic
+activity inside  rms is not regulated by explicit contracts. 2009 Economics Lau-
+reate Oliver Williamson developed these ideas further and created a rich (albeit
+largely unformalized) theory of the  rm based on incomplete contracts, known
+as transaction-cost economics (e.g., Williamson 1971, 1975, 1979, 1985).
+18
+Williamson initially emphasized ex post ine¢ ciencies created by bargaining,
+but attention was later directed towards the incentives to make relation-speci c
+investments ex ante. This became crystallized as the hold-up problem , ex-
+plored in an in uential article by Klein, Crawford, and Alchian (1978). The
+hold-up problem occurs when independent agents refrain from making adequate
+relationship-speci c investments for fear of being held up and not getting a
+su¢ cient return on the investment. This provides a motive for integration.
+To explain why integration may not always be e¢ cient, Williamson discussed
+possible ine¢ ciencies caused by bureaucratic decision-making, but again the ar-
+gument was largely unformalized. If  rm size is limited by managerial attention,
+why is it not possible to integrate two  rms while keeping managerial tasks all
+the same? Williamson (1985, ch. 6) does o¤er the plausible, if informal, argu-
+ment that authority may be abused in order to facilitate ine¢ cient transfers.
+But it was Grossman and Hart (1986) who developed a theoretical framework
+that captured both the costs and bene ts of integration. 29
+An immediate implication is that there can be too much integration. With
+hindsight, this may seem like a very natural result, but the fact is that it had
+been much more di¢ cult in the theory of the  rm to give reasons for non-
+integration than for integration. Before Grossman and Hart  rst circulated their
+work, there was no convincing formal argument explaining why integration may
+have costs as well as bene ts. In the words of Holmström (2015, p.2):
+The Grossman-Hart property rights theory is the  rst theory that
+explains in a straightforward way why markets are so critical in the
+context of organizational choice. The virtue of markets (nonintegra-
+tion) is that owner-entrepreneurs can exercise their hold-up power.
+They can refuse to trade and go elsewhere. This right is a powerful
+driver of entrepreneurial incentives both in the model and in reality.
+Of course choice plays a critical role also in neoclassical models, but
+choice and hold-ups are never the drivers of organization.
+Moreover, while transaction cost economics investigated the boundaries of
+the  rm, Grossman and Hart (1986) took an important additional step: their
+model does not just predict where the boundaries of the  rm should lie; it
+makes speci c predictions about who should own a particular asset. In e¤ect,
+ownership should be given to the party that makes the most important non-
+contractible investment. Nonintegration, i.e. both parties separately owning
+their assets, is optimal when the partiesinvestments are equally important.
+Ownership Structures and Investment Incentives Grossman and Hart
+(1986) studied how the incentives to make non-contractible investments depend
+on asset ownership. In their model, two  rms, such as an upstream supplier and
+2 9Grout (1984) provided the rst formal model of underinvestment caused by hold-up.
+However, it was Grossman and Hart (1986) who rst investigated how the consequences of
+hold-up vary with changes in the ownership structure, having made the key observation that
+ownership of an asset determines residual control rights.
+19
+a downstream producer, must cooperate to produce a  nal good. Both parties
+make relationship-speci c investments. Contracts are incomplete in the sense
+that the  rms can contract neither on investment levels nor on the division of
+surplus. The incentive of each  rm to invest in the relationship depends on
+its expectations about how the surplus will be shared, which in turn depends
+on the ownership of physical assets. Possible ownership structures are the sup-
+plier owning all assets (upstream vertical integration), the producer owning
+all assets (downstream vertical integration), or each  rm owning its own assets
+(non-integration). The model incorporates several key components of the earlier
+transaction cost approach: incomplete contracting, relationship-speci c invest-
+ments, and hold-up. However, in the Grossman and Hart (1986) model, the
+costs and bene ts of the various ownership structures are derived solely from
+their impact on relationship-speci c investments; the theory assumes no ex post
+ine¢ ciencies caused by bargaining or bureaucratic decision-making.
+To see how ownership of physical assets determines incentives with incom-
+plete contracts, we return to the principal agent framework. Suppose A s action
+a is an investment in human capital (knowledge ) which is needed for produc-
+tion to take place. (In this simpli ed example, P makes no investment.) To
+produce the output, some physical asset  a machine  is also necessary. If A
+does not have access to the machine, there can be no production. The crucial
+assumption is that whoever owns the machine decides who has access to it.
+That is, ownership comes with a veto right, and this will in uence the terms of
+trade. If A owns the machine, it will strengthen his hand in negotiations with P,
+thereby increasing his share of the surplus. In turn, this increases A s incentive
+to invest in human capital.
+If P owns the machine there is vertical integration; if A owns it there is
+non-integration. If P owns the machine, P has the right to refuse A s use of it.
+In this case, since both the machine and A s human capital are necessary for
+production to occur, let us assume A and P split the bene t b(a) equally, so
+the transfer from P to A is t = b(a)=2. Thus, under P-ownership, A chooses
+an investment aP which maximizes b(a)=2   c(a): Recall that the  rst-best a
+maximizes b(a)   c(a). It follows that aP < a ; there is underinvestment.
+Under A-ownership, A is no longer dependent on P to be able to produce,
+since A can unilaterally obtain v(a) from the alternative use of the machine.
+Since b(a) > v (a), we expect that P and A will still agree to trade, but now the
+terms could be more favorable to A. Intuitively, A s share of the surplus will
+be increasing in his outside option v(a). Following Grossman and Hart (1986),
+assume the transfer from P to A will be
+t = v(a) + b(a)   v(a)
+2 :
+That is, the two parties split the di¤erence between what they could earn on
+their own and what they can earn jointly. Thus, under A-ownership, A chooses
+an investment aA to maximize
+ c(a) + v(a) + (b(a)   v(a))=2
+20
+The solution satis es aP < a A < a  so that A-ownership generates a greater
+surplus than P-ownership. Indeed, with A-ownership the transfer depends on
+A s outside option v(a), which raises A s marginal return from investing. Re-
+gardless of ownership, however, in this simple example the investment will be
+less than the  rst-best level. 30
+Grossman and Hart s (1986) model is more symmetric than our simpli ed
+example: each party is endowed with an asset and makes an investment. Either
+each party maintains the property rights to its original asset (non-integration),
+or one party buys the other (integration). Either integration or non-integration
+may be optimal, depending on which ownership form has the most bene cial
+e¤ect on investments. For example, if the assets are highly complementary, so
+having access to only one asset does not generate a higher marginal return on
+investment than having access to neither asset, then some form of integration is
+optimal (either P or A should own both assets); if having access to both assets
+does not generate a higher marginal return on investment than having access to
+just one asset, then non-integration is optimal.
+However, the two- rm set-up of Grossman and Hart (1986) does not allow
+us to consider large corporations with multiple divisions, customers, and suppli-
+ers, and perhaps thousands of employees. Hart and Moore (1990) develop the
+property-rights theory for a multi-party, multi-asset setting, and also allow for
+a richer production framework, especially with respect to the complementarity
+between assets and between assets and people.
+Multiple Parties, Investments and Assets For now, let us maintain the
+assumption that there are two parties, A and P, but now there are many pro-
+ductive assets and both parties invest in human capital. Let a and p denote A s
+and P s investment levels, respectively. Let cA(a) denote A s cost function, and
+cP (p) P s cost function. Let vi denote the outside option of party i 2 f A; P g,
+i.e., the payo¤ that party can unilaterally guarantee himself/herself if they sep-
+arate (i.e., fail to cooperate). Finally, let  denote the bene t that P derives
+from cooperating with A.
+Assuming  > v A + vP , cooperation is e¢ cient. Since the theory assumes
+no ex post ine¢ ciencies, the two parties are expected to cooperate. However,
+the outside options matter because they in uence the transfer from P to A :
+Moreover, those options depend on the allocation of property rights, because if
+the parties separate then the party that owns an asset can prevent the other
+one from using it. Accordingly, transferring ownership of any particular asset
+from P to A will increase vA and reduce vP (but it will not in uence , since
+all assets will be used when A and P cooperate).
+The transfer t is assumed to equalize the net gains from cooperation: t vA =
+3 0We get aA < a  from the assumption that v increases slowly relative to b. If v instead
+increases fast in the relevant interval, A-ownership could lead to overinvestment and a lower
+surplus than P-ownership. For example, if A is tempted to overwork in order to attract
+lucrative outside o¤ers (thereby bidding up the wage), it could be better to reduce that
+temptation by letting P own crucial assets.
+21
+   t   vP . Solving for t we get that
+t = 1
+2 ( + vA   vP ) :
+A will choose a to maximize his payo¤
+A = t   cA(a) = 1
+2 ( + vA   vP )   cA(a)
+while P will choose p to maximize her payo¤
+P =    t   cP (p) = 1
+2 (   vA + vP )   cP (p)
+If the parties do not cooperate, they cannot bene t from the other party s
+human capital, so vA is independent of p, and vP is independent of a. The
+incentives to invest therefore depend on the derivatives
+@ A
+@a = 1
+2
+ @
+@a + dvA
+da
+
+  dcA
+da (9)
+and
+@ P
+@p = 1
+2
+ @
+@p + dvP
+dp
+
+  dcP
+dp (10)
+The allocation of property rights in uences these derivatives (only) via its
+e¤ect on the outside options vA and vP . It is reasonable to assume that, if
+a party can use more assets after separation, its human capital has a bigger
+e¤ect on its separation payo¤. In this case, transferring ownership of any asset
+from P to A raises dvA
+da but reduces dvP
+dp and thus, from (9) and (10), raises A s
+incentive to invest but reduces P s incentive to do so. This immediately reveals
+the crucial trade-o¤: one party s incentive to invest can be increased by giving
+him or her ownership of more assets, but then the incentive of the other party
+must necessary be reduced. 31 Moreover, as long as there is underinvestment in
+equilibrium, the  rst e¤ect raises the surplus but the second e¤ect reduces it;
+thus, the trade-o¤ also applies to surplus calculations.
+In the special case of two parties, Hart and Moore s (1990) results can essen-
+tially be obtained from (9) and (10). If one party s investment becomes more
+important (in terms of raising the bene t ), then this party should own more
+assets. Indeed, in the limiting case where only one party s investment matters,
+this party should own all assets. Hart and Moore (1990) also conclude that
+joint ownership is ine¢ cient, because if each party can hold up the other party
+(deny him or her the use of the asset after separation), incentives are weakened
+for both parties. For the same reason, strictly complementary assets should be
+owned together. Outside ownership is always ine¢ cient, since the outsider can
+deny both parties the use of the asset.
+3 1However, if one party is indispensable for some asset to be of value, then there is no
+trade-o¤, and this party should always own this asset.
+22
+With n > 2 parties, Hart and Moore (1990) use the Shapley Value, due
+to 2012 Economics Laureate Lloyd Shapley, to derive the ex post division of
+surplus (Shapley, 1953). This allows them to predict a rich variety of ownership
+structures, contingent on who the key actors are. For example, suppose J
+workers work with a single asset to supply a service to K consumers. If there
+is a group G  J of key workers such that any worker s marginal product
+of investment is positive only if he is a member of a coalition that contains
+a majority of the members of G, then the optimal ownership structure is a
+partnership  decisions should be made by majority vote among the members
+of G.
+Empirical T ests of the Property-Rights Theory A key aspect of the
+property-rights approach of Grossman and Hart (1986) and Hart and Moore
+(1990) is that it is possible to increase one party s incentives to make non-
+contractible investments (by giving this party ownership of more assets) only
+at the cost of reducing another party s incentives. Therefore, the party whose
+non-contractible investments are more important should own more assets. Test-
+ing this prediction requires a convincing measure of non-contractible invest-
+ments (as opposed to overall investments). Acemoglu et al. (2010) propose
+that technology intensity may serve as a reasonable proxy. In their study of
+UK manufacturing industries (where the downstream  rm is often the largest),
+they investigate how backward integration depends on the technology inten-
+sity of manufacturers. As predicted by the property-rights approach, they  nd
+that upstream integration by manufacturers is an increasing function of the
+manufacturer s technology intensity and a decreasing function of the supplier s
+technology intensity.32
+Other empirical regularities that support the property-rights approach to
+vertical integration come from ownership of retail outlets. Woodru¤ s (2002)
+detailed study of the Mexican footwear industry is a good illustration. In seg-
+ments where fashion changes fast, retailers are more likely to own their shops
+than in segments where fashion is more stable. Woodru¤ argues that this hap-
+pens because in the fast-changing segment retailers have a crucial role in ordering
+and displaying the shoes that are most likely to attract customers, and this is
+an activity that is di¢ cult to contract on. 33 For another example, ownership of
+gasoline stations is more likely to rest with the station manager if the station
+o¤ers car repairs, the quality of which is di¢ cult to observe and contract on
+(Shepard, 1993).
+A possible di¢ culty in interpreting these and similar studies is that in reality
+the agents take multi-dimensional and interdependent actions. For example,
+car repairs may divert attention from serving customers at the gasoline pump,
+so perhaps ownership is granted to the manager in order to create balanced
+incentives. If this is the case, the ownership patterns among gas stations may
+3 2Other work that exploits the incomplete-contracting model to address data on aggregate
+ownership patterns includes Antras (2003), who studies the choice between integration and
+outsourcing, using data on multinational corporations.
+3 3Here, then, is another case in which more risk goes together with stronger incentives.
+23
+be better explained by the multi-tasking model of Holmström and Milgrom
+(1991). But comparing the explanatory power of the models is di¢ cult, as
+noted by Lafontaine and Slade (2007), because each seems to capture important
+aspects of reality. For example, Baker and Hubbard (2003, 2004) argue that the
+organization of the U.S. trucking industry is best explained by a combination
+of the property-rights model and the multi-tasking model.
+3.2 Theoretical F oundations for Incomplete Contracts
+The theory of incomplete contracts has been criticized for making seemingly
+strong, and perhaps rather arbitrary, assumptions see especially Noldeke and
+Schmidt (1994), Tirole (1999), and Maskin and Tirole (1999). This critique
+stimulated theorists to develop a variety of micro-foundations for contractual
+incompleteness, including Anderlini and Felli (1994), Hart and Moore (1999),
+Segal (1999), and Tirole (2009).
+In Section 3.1, we mentioned a possible reason for contractual incomplete-
+ness: many variables (such as investments, costs, bene ts or market conditions)
+are not veri able to outsiders, although they may be observed by the contract-
+ing parties themselves (Grossman and Hart, 1986). However, an early criticism
+of the incomplete-contracts theory was that information about such variables
+could, in theory at least, be elicited from the contracting parties by using mes-
+sage games(as described in Maskin, 1977). In turn, this would make it possible
+to write contracts contingent on variables that are observed but not veri able.
+Such contracts could implement  rst-best investment levels regardless of own-
+ership structure, thus challenging the theoretical validity of the property-rights
+approach. Hart and Moore (1988) addressed this point in a buyer-seller problem
+similar to Grossman and Hart (1986). At time 0, the two parties sign a contract,
+then they make (unveri able) relationship-speci c investments. At time 1, ben-
+e ts and costs are realized; this information is observed by the two parties but
+unveri able. Finally, at time 2 trade may occur. In contrast to Grossman and
+Hart (1986), Hart and Moore allow message games to elicit unveri able infor-
+mation at time 1, and time 2 actions are contractible. However, they introduce
+one crucial, but plausible, restriction on the contracts: the parties cannot com-
+mit not to renegotiate the contract at time 2. Under this restriction, they  nd
+that the  rst-best investment levels cannot in general be implemented, and that
+the optimal contract may in fact be a simple pair of prices that more complex
+message games cannot improve upon. Remarkably, very simple contracts turn
+out to be as complete as possible .
+Hart and Moore s (1988) approach was quite novel and, although they did
+not stress the issue of control rights, they in fact strengthened the foundation of
+the property rights approach. Methodologically, they showed how a mechanism-
+design approach, which until then had been quite abstract (as in Maskin, 1977),
+produces less abstract results when renegotiation is added. This methodology
+was adopted by much of the subsequent literature, although the precise Hart
+and Moore (1988) results turned out to be sensitive to their assumptions. In
+particular, they assumed outsiders cannot observe whether the seller has deliv-
+24
+ered the good to the buyer. Noldeke and Schmidt (1994) showed that if this
+assumption is dropped, then the  rst-best can be attained (using simple op-
+tion contracts ). On the other hand, in variations of the Hart and Moore (1988)
+model the original results are more robust. Che and Hausch (1999) assume the
+investment of each party has an externality on the other party: the seller s in-
+vestment would a¤ect the buyer s bene t, and the buyer s investment would
+a¤ect the seller s cost. They show that if those externalities are su¢ ciently im-
+portant, and if the parties cannot commit not to renegotiate the initial contract,
+then the  rst-best cannot be implemented. The optimal solution is in e¤ect to
+have no contract at all.
+Contractual incompleteness could also be due to the impossibility of describ-
+ing all possible future contingencies (market conditions, states of nature etc.)
+in advance; there are too many possible contingencies to describe, or even to
+foresee. However, Maskin and Tirole (1999) show that as long as the parties
+can foresee the possible payo¤ s, the  rst-best can be implemented by a message
+game which does not require describing all possible contingencies in advance.
+They argue that parties that are su¢ ciently rational to calculate the expected
+payo¤s from an incomplete contract should also be able to use the e¤ectively
+complete contracts they propose. In a rejoinder, Hart and Moore (1999) show
+that Maskin and Tirole s  rst-best investment result can be overturned in a suf-
+ ciently complex contracting environment (borrowed from Segal, 1999), when
+parties cannot commit not to renegotiate the initial contract. Furthermore,
+Aghion et al. (2012) demonstrate that some of the objections to the incomplete-
+contracts framework are fragile, in the sense that the more complete contracts
+proposed in the critique only perform well under very strong common-knowledge
+assumptions.
+It is fair to say that the debate regarding the theoretical foundations of
+incomplete contracts is not yet settled. This debate has nevertheless yielded
+considerable insights regarding the importance of limited commitment, com-
+plexity, and cognitive limitations for the incomplete contracts we observe in
+reality. The fact remains that in reality we do not observe the sophisticated
+mechanisms (e.g., message games) that would circumvent incomplete contract-
+ing; real-world contracts are often highly incomplete, with allocation of control
+and property rights playing a central role. Perhaps the behavioral assumptions
+of standard economic theory warrant closer investigation.
+In recent work, Hart has in fact moved beyond the standard behavioral as-
+sumptions. In Hart and Moore (2008) and Hart (2009), the ex ante contract
+shapes partiesentitlements regarding ex post outcomes. If a party does not get
+what she feels entitled to, she is aggrieved and will shade her performance
+ex post , causing dead-weight losses. For example, if the ex post contracting
+outcome is worse than the agent expected given the initial contract (i.e. the
+reference point ), she might choose to deliver a product of inferior quality.
+The ex post shading cannot be undone through bargaining, and so (unlike in
+the original property-rights theory) outcomes can be ex post ine¢ cient. This
+approach yields a trade-o¤ between rigid and  exible contracts: a  exible con-
+tract is good in that parties can adjust to the state of nature, but bad in that
+25
+there can be a lot of aggrievement and shading. Moreover, unlike models based
+on standard rationality assumptions and e¢ cient ex post bargaining, this model
+is not subject to the Maskin and Tirole (1999) critique. Hart and Moore (2008)
+use their model to explain employment contracts, where the wage is  xed in ad-
+vance and the employer chooses the employee s task. In subsequent work with
+Holmström, Hart uses this model to revisit the problem of the boundaries of
+the  rm and the costs and bene ts of integration (Hart and Holmström, 2010).
+The behavioral assumptions underlying these new models are non-standard.
+However, laboratory experiments by Hart and coauthors provide empirical ev-
+idence supportive of shading behavior consistent with this modelling approach
+(Fehr, Hart and Zehnder, 2009, 2011 and 2015).
+3.3 Applications
+Privatization and Public versus Private Ownership The property-rights
+framework helps us understand the costs and bene ts of privatization and pub-
+lic versus private ownership (Schmidt, 1996, and Hart, 2003). In a complete-
+contracting model, public or private ownership does not matter, since the rela-
+tionship between the government and a  rm can be fully resolved in a detailed
+incentive contract. By contrast, when contracts are incomplete, the identity of
+the owner becomes highly relevant, because the owner retains the residual rights
+of control. In the context of our illustrative model, let P be the government who
+desires the production of some public service, and let A be a manager in charge
+of producing this service. As usual, the ownership of assets will a¤ect bargain-
+ing power and incentives. In the context of privatization, the government cares
+about production e¢ ciency as well as quality of service. But the quality of
+welfare services, say, may be hard to specify in a contract, while the private
+contractor has an incentive to produce at lowest cost. 34
+In an in uential article, Hart, Shleifer, and Vishny (1997) study privatization
+by combining the incomplete-contracts approach with the multi-tasking model
+of Holmström and Milgrom (1991). Let us illustrate a special case of their
+approach in our simple model. Suppose an innovation would reduce both costs
+and bene ts. The asset owner has the right to implement the innovation or to
+prevent its implementation. As before, actions are not contractible.
+To be speci c, suppose the innovation reduces P s bene t fromb0 to b0  z(a)
+and reduces A s cost fromc0 to c0 m(a): Here z(a) and m(a) are both increasing
+in a, where a 2 [a; a] is interpreted as a cost-saving but quality-reducing activity
+of the agent. 35 Assume that the innovation is e¢ cient: implementing it raises
+the total surplus by the positive amount m(a)   z(a) > 0 for all a 2 [a; a].
+Further, the  rst-best occurs at an interior point a 2 (0; a) that satis es the
+ rst-orderm0(a) = z0(a): That is, the gain from cost saving must be traded
+o¤ against the loss from quality reduction.
+3 4La¤ont and Tirole s complete-contracting analysis of these types of con icts in government
+procurement was acknowledged in the 2014 Economics Prize to Jean Tirole.
+3 5Note that, unlike our other examples so far, P s benet and A s cost are decreasing in a.
+26
+Under A-ownership, A does not need approval from P to implement the
+cost-saving innovation. A will therefore reduce costs as much as possible in
+order to maximize  c0 + m(a). That is, he sets a = a. Intuitively, since A can
+unilaterally implement the cost-reducing innovation, he has no reason to hold
+back and take P s quality concerns into account. The outcome becomes highly
+ine¢ cient.
+Under P-ownership, A s cost is c0 unless he gets P s approval to implement
+the innovation. As before, let us assume that negotiations between A and P lead
+to an equal split of the increased surplus, which here equals m(a)   z(a): Since
+A s payo¤ will be c0 + (m(a)   z(a))=2; he has the right incentives to trade o¤
+costs against quality, because A will maximize his payo¤ by choosing a such
+that m0(a)   z0(a) = 0 : It follows that P-ownership is e¢ cient. Intuitively, when
+P has the right to refuse the innovation, A must take P s interests into account.
+However, Hart, Shleifer, and Vishny s model is more general than this sim-
+pli ed setup: they assume the agent can make two di¤erent types of innovations:
+cost innovations as well as quality innovations. A government-owned (P-owned)
+service provider will have little incentive to invest in either innovation, while a
+private contractor will have stronger incentives both to improve quality and to
+reduce costs. But they show that the private contractor s incentive to engage in
+cost reduction is typically too strong. In general, the greater the adverse con-
+sequences of (non-contractible) cost-cutting on (non-contractible) quality, the
+stronger is the case for government ownership.
+This analysis o¤ers a rigorous argument in favor of the view that outsourc-
+ing and privatization can be harmful because of excessive cost reduction and
+concomitant quality reduction, an argument that is di¢ cult to articulate co-
+herently in the case of complete contracts (where incentives can be  ne-tuned).
+Recently, concerns about ine¢ ciently low quality have been voiced in the context
+of the privatization of welfare services, such as schools, hospitals, and prisons.
+While competition may wholly or partly mitigate the problem for hospitals and
+schools, it might be more di¢ cult to see what would do so in the case of prisons.
+Corporate Finance The most important application of incomplete-contracts
+theory to date is in the  eld of corporate  nance. Traditionally,  nancial con-
+tracts were seen as devices for furnishing investment capital and sharing risk.
+With agency theory, the emphasis changed. Economists came to see what many
+practitioners and legal scholars had seen all along, namely that a major purpose
+of  nancial contracting is to ensure that entrepreneurs and managers act in the
+interests of investors. Perhaps this is the greatest moral-hazard problem of all,
+at least in the business sector.
+The  rst principal-agent models of corporate  nance assumed complete con-
+tracts: Jensen and Meckling (1976) is generally regarded as the pioneering
+model. These authors show that if entrepreneursand investorsinterests are not
+well-aligned, it is natural to give debt claims to investors and equity claims to
+entrepreneurs who will then hold residual cash  ow rights. Hart himself con-
+tributed to this literature in Grossman and Hart (1982), which shows how debt
+27
+helps disciplining management to make more productive investments. These are
+important insights, but the framework does not address some crucial questions:
+who should hold the residual control rights , i.e. the right to make decisions
+that are not explicitly decided in an ex ante contract, and what happens to the
+allocation of these decision rights when a  rm defaults on its debt? 36
+In reality, when an entrepreneur or a manager defaults on a payment to in-
+vestors, claims are rarely automatically executed according to a complete con-
+tract. Instead, the default initiates a procedure to resolve the issue, where
+di¤erent parties hold other control rights than they did before the default. The
+entrepreneur (or the shareholders, in the case of widely owned  rms) usually
+holds most control rights over the  rm s physical assets before a default. But af-
+ter a default many control rights are transferred to investors. In particular, the
+ownership of collateral shifts to the respective debt holders, who may eventually
+initiate liquidation of these assets.
+More generally, corporate securities are characterized not only by their cash-
+ ow rights  e.g. debt gets paid  rst, and equity receives the residual pro ts 
+but also by their control rights. Apart from required interest and amortization
+payments, debt contracts contain di¤erent covenants that the borrower needs
+to adhere to, such as minimum pro tability requirements, as well as the right
+to veto certain actions, such as asset sales or new debt issues. These covenants
+e¤ectively transfer more control to creditors when the  rm performs poorly, even
+outside of bankruptcy (see Nini et al., 2012). In contrast, shareholders retain
+most control rights when the  rm performs su¢ ciently well. In particular, equity
+securities are allocated the voting rights at the annual shareholders meeting,
+which elects the board of the company and votes on major corporate decisions.
+The division of control rights between di¤erent securities can sometimes be very
+intricate, for example in the case of A and B shares with di¤erent voting rights
+observed in many  rms, or the convertible preferred securities used in venture
+capital  nancing, as discussed below.
+The power of the incomplete-contracts approach is that it explains why con-
+tracts have these general features to begin with, who will get to hold which
+rights, the nature of the renegotiation process, and the interaction between the
+allocation of cash- ow rights and control rights. With the introduction of con-
+tract incompleteness, it becomes obvious that corporate- nance decisions and
+corporate governance are inextricably linked. We cannot in general analyze the
+sharing of  nancial returns without at the same time analyzing the allocation
+of decision rights and other con ict-resolution procedures.
+3 6Another way to express this shortcoming of the complete-contracting explanation of cap-
+ital structure is that one could achieve the same outcome simply by writing a compensation
+contract with the manager, without the use of equity and debt. An obvious benet of this
+would be that the rm would never have to default on its debt and go bankrupt. See Hart
+(2001).
+28
+Finance and Governance of Entrepreneurial Firms In a paper originally
+circulated in 1989, Oliver Hart and John Moore address several of these issues. 37
+The analysis turns on the concept of foreclosure rights and the role that they
+play in forcing entrepreneurs to repay their investors. More speci cally, Hart
+and Moore consider an entrepreneur who may divert project returns, but cannot
+divert the  rm s productive assets. Under some additional assumptions, the
+optimal (incomplete) contract has the following features (Hart and Moore, 1998,
+p.2):
+The entrepreneur promises to make a  xed stream of payments to
+the investor. As long as he makes these payments, the entrepreneur
+continues to run the project. However, if the entrepreneur defaults,
+the investor has the right to seize and liquidate the project assets. At
+this stage the entrepreneur and investor can renegotiate the contract.
+These features bear a striking resemblance to real-world debt contracts.
+Also, the model provides an explanation for why  rms can be credit-constrained,
+since their ability to raise  nance is limited by the  rm s collateral, or liquida-
+tion value. Finally, like Grossman and Hart (1986) and Hart and Moore (1990),
+it highlights the importance of control rights to physical assets. 38
+Aghion and Bolton (1992) was an important early application of the incomplete-
+contracting approach to  nancial contracting  the  rst published article fea-
+turing state-contingent transfer of control. However, in their model, the shift
+in control from the entrepreneur to investors is not directly associated with
+payment default, which is what we observe in real-world contracts (but rather
+with bad states of nature). Hart (2001) argues that one way to make control
+shifts happen upon bad performance is to introduce e¤ort provision into the
+Aghion-Bolton model. Although the Hart and Moore model derives an opti-
+mal contract that captures more real-world features of debt, the Aghion Bolton
+model has been useful in understanding security design in broader contexts,
+such as venture capital  nancing. 39
+Hart and Moore (1994) derive a very similar debt contract to Hart and
+Moore (1989, 1998) under the alternative (and less extreme) assumption that
+3 7The nished product was eventually published as Hart and Moore (1998) and  to some
+extent Hart and Moore (1994), having by then inspired important contributions from others.
+3 8The notion that the ability of the entrepreneur to divert cash  ows can give rise to debt
+as the optimal contract was rst formalized by Townsend (1979), and later extended by Gale
+and Hellwig (1984), in the context of complete contracts. However, their so-called costly
+state-verication approach does not address the crucial feature of state-contingent transfer
+of control rights or the importance of physical collateral. Bolton and Scharfstein (1990) also
+derived debt as an optimal contract in a setting where managers can divert cash  ows. Their
+model has two periods and does not rely on collateral value or state-contingent transfer of
+control. Rather, management is restrained from diverting cash  ow in the rst period through
+the value of second-period prots, which they will only enjoy if they do not default and instead
+renance their initial debt.
+3 9Dewatripont and Tirole (1994) also derive the specic allocation of both cash- ow rights
+and control rights. Their model explains the coexistence of two separate outside investors in
+addition to the manager, debt and outside equity, and why outside equity relinquishes control
+to debt in the bad state of the world.
+29
+the manager can only divert her human capital i.e., leave the  rm and possibly
+start a new one  but not divert cash  ows. Since the manager s  rm-speci c
+human capital is valuable, however, the value of the  rm without the manager
+will restrict the amount of  nancing outside investors are willing to provide, and
+lead to a similar collateral constraint as the model with diversion. The model
+also predicts that longer-lived assets should to be  nanced by longer-maturity
+debt, which has been veri ed in empirical studies (see e.g. Benmelech, 2009).
+The models of Hart and Moore (1989, 1994) also rationalize the troubling
+fact that renegotiation and bankruptcy frequently lead to ine¢ cient liquidation,
+in the sense that assets are transferred away from the entrepreneur who can
+extract most value from them. Since the entrepreneur cannot credibly pledge
+all future returns, external investors may be better o¤ taking everything they
+can lay their hands on now, rather than leaving assets in the entrepreneur s
+hands and getting a smaller share of a bigger pie later.
+Again, contractual incompleteness is crucial to these results. It is the fact
+that outside parties cannot verify several of the variables of interest  such as
+project returns and liquidation values  that precludes more e¢ cient arrange-
+ments.
+Evidence from V enture Capital Financing Kaplan and Strömberg (2003,
+2004) report evidence from a large number of venture capital (VC) contracts.
+This is a real-world setting that quite closely corresponds to the environment
+of the  nancial contracting theories, where entrepreneurs who raise money for
+start-ups are the agents, and VC investors who invest in start-up  rms are the
+principals. They  nd that VC  nancial contracts separately allocate cash- ow
+rights as well as di¤erent control rights  including board rights, voting rights,
+and liquidation rights between investors and entrepreneurs. The allocation of
+these rights is frequently state-dependent, being contingent on  nancial as well
+as non- nancial measures of performance. Both cash- ow and control rights are
+allocated such that investors obtain full control of poorly performing  rms. But
+entrepreneurs retain more control rights in better performing  rms, and their
+cash- ow rights increase with  rm performance, often in a non-linear fashion.
+Moreover, the allocation of rights responds to the perceived risk investors
+see in the venture, as well as the likelihood that investors will have to intervene
+in the future, for example by replacing management. Kaplan and Strömberg
+argue that these contracts can best be understood through a combination of
+incomplete-contracts theory and classic contract theory. Importantly, the sepa-
+rate allocation of cash- ow and control rights cannot be fully understood outside
+an incomplete-contracting framework.
+Finance and Governance of Widely Held Firms Hart and Moore (1995)
+shift the focus from entrepreneurs to publicly held companies. In this work,
+managers (or company boards) take decisions that a¤ect many dispersed claim
+holders. The managers, whose stake is usually small, may want to expand
+investment beyond the level that maximizes returns. To avoid this, investors
+30
+need to achieve two things. First, they must force managers to pay out any
+excess liquidity to investors, e.g., through increased dividends or repurchases of
+stocks. Second, they must make sure that managers do not compensate for such
+payouts to shareholders by raising debt.
+The article goes on to show that these twin objectives can be attained
+through two commonly observed  nancial instruments. Speci cally, non-negotiable
+short-term debt accomplishes the  rst objective, while senior long-term debt ac-
+complishes the second. The seniority of long-term debt claims ensures that new
+investors are reluctant to lend short-term, as they will hold junior claims in a
+bankruptcy.40 Hart and Moore s model also entails realistic predictions concern-
+ing  rmsdebt-equity ratios in a framework where these contracts are optimal,
+i.e., without making the arbitrary assumption that debt and equity are the only
+available  nancial contracts. In an extension of the Hart-Moore model, Shleifer
+and Vishny (1992) provide an explanation for why ine¢ cient  re-sales of assets
+happen in industry downturns.
+We may mention here some related and in uential work which preceded the
+development of the incomplete-contracting framework. Since Manne (1965),
+corporate-governance scholars have acknowledged the important role of hostile
+takeovers in disciplining self-interested management. If a manager underper-
+forms  e.g., by not providing enough e¤ort or diverting resources from the
+company  a more e¢ cient corporate raider will acquire the  rm and replace
+the management. This gives the manager incentives to perform well, in order
+not to be replaced by the corporate raider. However, Grossman and Hart (1980)
+showed how the allocation of control rights to shareholders of widely held and
+publicly traded  rms may lead to a free-rider problem in corporate takeovers.
+A small shareholder, who would not expect to be pivotal to the success of a hos-
+tile takeover bid, has an incentive not to sell their stock to the hostile bidder.
+Rather, such a shareholder would rather stay on as a minority shareholder to
+enjoy the takeover gains the hostile bidder will realize. In the equilibrium with
+atomistic shareholders, all shareholders will behave in this way, and the raider
+will not be able to acquire the  rm unless she o¤ers a premium equal to the full
+gains from the takeover. 41 Unless the raider has some additional mechanism of
+extracting value from other shareholders, hostile takeovers will not occur, and
+so the power of this disciplining mechanism is limited.
+Grossman and Hart (1988) extended the analysis by considering separate
+contracting on control rights. Suppose that residual control rights can be sep-
+arated from residual cash- ow rights, for example by the  rm issuing A and B
+shares with di¤erent voting rights. This could potentially alleviate the free-rider
+problem, since the raider only has to acquire the strong voting shares to take
+control of the  rm. Strikingly, they found that the e¢ cient solution is typically
+still to have one class of shares, namely a one share, one voteshare structure.
+4 0In a sense, their theory combines two important concepts in corporate nance research 
+the debt overhang problem of Myers (1977) and the free cash- ow problem of Jensen (1986)
+ and shows how the former can be a solution to the latter.
+4 1Holmström and Nalebu¤ (1992) extend the Grossman Hart analysis to the case of non-
+atomistic shareholders.
+31
+Deviations from this voting structure would allow less e¢ cient raiders to take
+control of the  rm.
+Bankruptcy Reform and Investor Rights Through its emphasis on which
+stakeholders have the right to do what under what circumstances, the framework
+of incomplete contracts allow us to sensibly talk about more or less e¢ cient pro-
+cedures for resolving con icts of interest between entrepreneurs and investors,
+and thus about bankruptcy legislation. Building on his foundational contribu-
+tions, Hart has studied empirically the ine¢ ciencies of debt enforcement around
+the world (Djankov et al. 2008). He has also o¤ered a number of suggestions
+for bankruptcy reform, as well as reform of  nancial institutions more broadly
+(e.g., Aghion et al., 1992; Hart et al., 1997; Hart and Zingales, 2011). More
+generally, the incomplete-contracting framework is now central to the analysis
+of corporate governance (see e.g. Shleifer and Vishny, 1997), and there is now
+considerable empirical work showing the importance of property rights and in-
+vestor protection for  nancial market development (see, e.g., La Porta et al.,
+1997, 1998). 42
+Other Extensions and Applications The basic idea of assigning property
+rights in order to provide incentives has been elaborated in several other direc-
+tions, of which we will mention a few. Bolton and Whinston (1993) analyze
+vertical integration in the presence of multiple potential trading partners. 43
+Grossman and Helpman (2002) develop a general-equilibrium model in which
+there is a non-trivial interaction between the integration decisions of di¤erent
+ rms in the same industry. Antras (2003) and Antras and Helpman (2004)
+consider international outsourcing, a setting in which it is especially di¢ cult
+to enforce complete contracts, owing to diverging national rules and possible
+discrimination of foreign claim holders.
+Besides the issue of asset ownership, the incomplete-contracts approach has
+been used to study the allocation of decision rights within the  rm. This work
+concerns the optimal delegation of authority (Aghion and Tirole, 1997), as well
+as the separation of ownership and control (Burkart et al., 1997). In the highly
+cited Aghion and Tirole (1997) model, delegating tasks increases the initiative
+of the agent at the cost of less principal control. One implication of this model
+is that delegation increases the agent s incentive to collect and use soft decision-
+relevant information, which cannot be credibly transmitted up in the hierarchy
+in a less delegated structure. A number of empirical studies have found support
+for this prediction, e.g., by looking at reliance on soft versus hard information
+4 2The focus on governance rather than the mere division of surplus has served to build solid
+bridges between economists and legal scholars. Several of Hart s more applied contributions
+are published in law journals, and he has served as President of the American Law and
+Economics Association.
+4 3Using an alternative approach, Hart and Tirole (1990) study vertical integration in a
+setting with limited commitment caused by the possibility of secret contracting. Their model
+shows that exclusionary practices by upstream or downstream rms, although privately ration-
+al, may have negative welfare e¤ects.
+32
+in bank-lending decisions (e.g., Berger et al., 2005 and Liberti and Mian, 2009).
+In property-rights models of Hart and coauthors, decision rights over physi-
+cal assets are the crucial source of bargaining power and incentives. But modern
+ rms are frequently highly dependent on intangible assets, such as unique ca-
+pabilities or intellectual property, and  rms sometimes lack substantial physical
+assets. Rajan and Zingales (1998, 2001) consider a model where agents derive
+power from being able to regulate access to the  rm s critical resources, which
+could be intangible assets, and use this to derive predictions about ownership
+patterns and the internal organization of  rms.
+One challenge has been to extend the property rights model of  rms to more
+general settings, with richer possibilities for providing incentives than merely
+through decision rights. Assets are usually held by  rms rather than individuals,
+and  rm owners use rights to the whole bundle of assets to structure internal
+relationships, by means of task assignment, monitoring, and incentive contracts.
+Along these lines, Holmström (1999) attempts to integrate incomplete contracts
+with classic incentive theory in a richer model of the  rm. 44
+All the applications above address central issues in the theory of the  rm.
+But the incomplete-contracts model also has important applications to polit-
+ical institutions. For example, the division of responsibilities among di¤erent
+decision-making bodies  such as executive and legislative branches of govern-
+ment  can be productively viewed as an allocation of control rights along the
+same lines as in the theory of incomplete contracts (Persson et al., 1997; Aghion
+and Bolton, 2003; Aghion et al., 2004; Harstad, 2005).
+4 Other Contributions
+Before his focus shifted to contract theory, Oliver Hart contributed to a number
+of di¤erent areas, producing one or two highly in uential articles on a topic
+before moving on to di¤erent territory. Early in his career, he worked on gen-
+eral equilibrium with incomplete markets. Hart (1974) considered the existence
+of incomplete-markets equilibrium and showed that in general, existence is not
+guaranteed. This inspired research on the conditions under which, generically
+at least, an equilibrium would exist. Hart (1975) considered the optimality
+properties of incomplete-markets equilibrium, and proved another result of last-
+ing importance: making the market more complete, but not fully complete, by
+opening new markets, does not necessarily lead to Pareto improvement. Hart s
+work on monopolistic competition (in particular, Hart 1979 and 1982) inspired
+a signi cant literature on the role of imperfect competition in product markets
+as an explanation for Keynesian unemployment. Among Hart s early work on
+contract theory, we may highlight two contributions. The  rst is Grossman and
+Hart s (1983b) work on adverse selection in labor markets, which shows how
+underemployment can result from an optimal contract between a  rm and its
+workers. The second, and highly in uential contribution, is Hart (1983). In
+4 4Holmström s arguments rely partly on the moral hazard in teams problem, analysed in
+Holmström (1982a).
+33
+this article, Hart asked if competition in the product market can alleviate man-
+agerial incentive problems: that is, does more competition make it harder for
+managers to deviate from pro t maximization? He found an a¢ rmative answer
+under the assumption that  rms are exposed to common shocks. However, in
+general this turns out to be a very di¢ cult question to answer, and this is still
+an active research area more than 30 years after Hart s pioneering article.
+Bengt Holmström is best known for his work on contract theory and the
+theory of incentives, much of which we have already discussed. In recent years,
+he has studied issues relating to  nancial market liquidity and its relevance to
+ nancial regulation. Holmström and Tirole (1997, 1998, 2000, 2001, 2011) use
+a model of managerial wealth constraints to investigate a number of important
+issues in corporate  nance, including the impact of wealth shocks on the banking
+system, banking regulation, the role of public liquidity provision for  rms, and
+how liquidity a¤ects asset prices and expected returns. Recently, Holmstrom has
+also explored the trade-o¤ between  nancial market transparency and market
+liquidity (e.g. Dang et al., 2015).
+5 Final Remarks
+Contract theory identi es a variety of obstacles to cooperation and suggests
+which contracts are best suited to overcome them. The theory is both posi-
+tive and normative: it o¤ers coherent explanations for the contracts that are
+commonly written, as well as a method for  nding appropriate contractual so-
+lutions to new problems. It generates precise hypotheses that can be confronted
+with empirical data and lays an intellectual foundation for the design of various
+policies and institutions, from bankruptcy legislation to political constitutions.
+References
+[1] Ackerberg, D., and M. Botticini (2002): Endogenous Matching and the
+Empirical Determinants of Contract Form, Journal of Political Economy
+110, 564-591.
+[2] Acemoglu, D., P. Aghion, R. Gri¢ th, and F. Zilibotti (2010): Vertical
+Integration and Technology: Theory and Evidence, Journal of European
+Economic Association 8, 989-1033.
+[3] Adrian, T., and H. Shin (2008): Financial Intermediary Leverage and
+Value-at-Risk, Federal Reserve Bank of New York Sta¤ Report no. 228.
+[4] Aggarwal, R., and A.A. Samwick (1999): The Other Side of the Trade-
+O¤: The Impact of Risk on Executive Compensation, Journal of Political
+Economy 107, 65-105.
+34
+[5] Aghion, P., A. Alesina, and F. Trebbi (2004): Endogenous Political Insti-
+tutions, Quarterly Journal of Economics 119, 545-611.
+[6] Aghion, P., and P. Bolton (1992): An Incomplete Contracts Approach to
+Financial Contracting, Review of Economic Studies 59, 473-494.
+[7] Aghion, P., and P. Bolton (2003): Incomplete Social Contracts, Journal
+of the European Economic Association 1, 38-67.
+[8] Aghion, P., M. Dewatripont, and P. Rey (1994): Renegotiation Design
+with Unveri able Information, Econometrica 62, 257-282.
+[9] Aghion, P., D. Fudenberg, R. Holden, T. Kunimoto, and O. Tercieux
+(2012): Subgame-Perfect Implementation under Information Perturba-
+tions, Quarterly Journal of Economics 127, 1843-188l.
+[10] Aghion, P., O. Hart and J. Moore (1992): The Economics of Bankruptcy
+Reform, Journal of Law, Economics, and Organization 8, 523-546.
+[11] Aghion, P., and J. Tirole (1997): Formal and Real Authority in Organi-
+zations, Journal of Political Economy 105, 1-29.
+[12] Alchian, A.A., and H. Demsetz (1972): Production, Information Costs,
+and Economic Organization, American Economic Review 62, 777-795.
+[13] Allen, D., and D. Lueck (1992): Contract Choice in Modern Agriculture:
+Cash Rent versus Crop Share, Journal of Law and Economics 35, 397-
+426.
+[14] Allen, F. (1981): The Prevention of Default, Journal of Finance 36, 271-
+276.
+[15] Anderlini, L., and L. Felli (1994): Incomplete Written Contracts: Un-
+describable States of Nature, Quarterly Journal of Economics 109, 1085-
+1124.
+[16] Antle, R., and A. Smith (1986): An Empirical Investigation of the Relative
+Performance Evaluation of Corporate Executives, Journal of Accounting
+Research 24, 139.
+[17] Antras, P. (2003): Firms, Contracts, and Trade Structure, Quarterly Jour-
+nal of Economics 118, 1375-1418.
+[18] Antras, P. (2005): Incomplete Contracts and the Product Cycle, American
+Economic Review 95, 1054-1073.
+[19] Antras, P., and E. Helpman (2004): Global Sourcing, Journal of Political
+Economy 112, 552-580.
+[20] Aron-Dine, A., L. Einav and A. Finkelstein (2013): The RAND Health
+Insurance Experiment, Three Decades Later, Journal of Economic Per-
+spectives 27, 197-222.
+35
+[21] Asch, B. (1990): Do Incentives Matter? The Case of Navy Recruiters.
+Industrial & Labor Relations Review 43, 89S-106S.
+[22] Baker, G. (1992): Incentive Contracts and Performance Measurement,
+Journal of Political Economy 100, 598-614.
+[23] Baker, G., R. Gibbons, and K. Murphy (1994): Subjective Performance
+Measures in Optimal Incentive Contracts. Quarterly Journal of Economics
+109, 1125-1156.
+[24] Baker, G., M. Gibbs, and B. Holmström (1994a): The Internal Economics
+of the Firm: Evidence from Personnel Data, Quarterly Journal of Eco-
+nomics 109, 881-919.
+[25] Baker, G., M. Gibbs, and B. Holmström (1994b): The Wage Policy of a
+Firm, Quarterly Journal of Economics 109, 921-955.
+[26] Baker, G., and T.N. Hubbard (2003): Make versus Buy in Trucking: Asset
+Ownership, Job Design, and Information, American Economic Review 93,
+551-572.
+[27] Baker, G., and T.N. Hubbard (2004): Contractibility and Asset Owner-
+ship: On-Board Computers and Governance in U.S. Trucking, Quarterly
+Journal of Economics 119, 1443-1479.
+[28] Bandiera, O., I. Barankay, and I. Rasul (2005): Social Preferences and the
+Response to Incentives: Evidence from Personnel Data, Quarterly Journal
+of Economics 120, 917-962
+[29] Becker, G., and G. Stigler (1974): Law Enforcement, Malfeasance, and
+Compensation of Enforcers, Journal of Legal Studies 3, 1-18.
+[30] Benabou, R., and J. Tirole (2003): Intrinsic and Extrinsic Motivation,
+Review of Economic Studies 70, 489-520.
+[31] Benabou, R., and J. Tirole (2006): Incentives and Prosocial Behavior,
+American Economic Review 96, 1652-1678.
+[32] Benabou, R., and J. Tirole (2016): Bonus Culture: Competitive Pay,
+Screening, and Multitasking, Journal of Political Economy 124, 305-370.
+[33] Benmelech, E. (2009): Asset Salability and Debt Maturity: Evidence from
+Nineteenth-Century Railroads, Review of Financial Studies 22, 1545-1584.
+[34] Berger, A., N, Miller, M. Petersen, R. Rajan, and J. Stein (2005): Does
+Function Follow Organizational Form? Evidence from the Lending Prac-
+tices of Large and Small Banks, Journal of Financial Economics 76, 237-
+269.
+[35] Bergstresser, D., and T. Philippon (2006): CEO Incentives and Earnings
+Management, Journal of Financial Economics 80, 511-529.
+36
+[36] Bertrand, M., and S. Mullainathan (2001): Are CEOs Rewarded for Luck?
+The Ones without Principals Are, Quarterly Journal of Economics 116,
+901-932.
+[37] Besley, T., and M. Ghatak (2005): Competition and Incentives with Mo-
+tivated Agents. American Economic Review 95, 616-636.
+[38] Bolton, P., and M. Dewatripont (2004): Contract Theory. MIT Press:
+Cambridge MA.
+[39] Bolton, P., and M. Whinston (1993): Incomplete Contracts, Vertical Inte-
+gration, and Supply Assurance, Review of Economic Studies 60, 121-148.
+[40] Bolton, P., and D. Scharfstein (1990): A Theory of Predation Based on
+Agency Problems in Financial Contracting, American Economic Review
+80, 93-106.
+[41] Bowles, S., and S. Polanya-Reyes (2012): Economic Incentives and Social
+Preferences: Substitutes or Complements? Journal of Economic Litera-
+ture 50, 368-425.
+[42] Burkart, M., D. Gromb, and F. Panunzi (1997): Large Shareholders, Mon-
+itoring, and the Value of the Firm, Quarterly Journal of Economics 112,
+693-728.
+[43] Che, Y.K., and D. Hausch (1999): Cooperative Investments and the Value
+of Contracting, American Economic Review 89, 125-147
+[44] Chevalier, J., and G. Ellison (1997): Risk Taking by Mutual Funds as a
+Response to Incentives. Journal of Political Economy 105, 1167-1200.
+[45] Chevalier, J., and G. Ellison (1999): Career Concerns of Mutual Fund
+Managers, Quarterly Journal of Economics 114, 389-432.
+[46] Chiappori, P.-A. and B. Salanié (2003): Testing Contract Theory: A Sur-
+vey of Some Recent Work, in Advances in Economics and Econometrics,
+vol 1, M. Dewatripont, L. Hansen and S. Thrnovsky (eds.), Cambridge
+University Press.
+[47] Clemens, J., and J. Gottlieb (2014): Do PhysiciansFinancial Incentives
+A¤ect Medical Treatment and Patient Health? American Economic Re-
+view 104, 1320-1349.
+[48] Coase, R.H. (1937): The Nature of the Firm, Economica 4, 386-405.
+[49] Core, J., W. Guay, and R. Verrecchia (2003): Price versus Non-Price Per-
+formance Measures in Optimal CEO Compensation Contracts, Account-
+ing Review 78, 957-981.
+37
+[50] Cunat, V., and M. Guadalupe (2005): How Does Product Market Com-
+petition Shape Incentive Contracts? Journal of the European Economic
+Association 3, 1058-1082.
+[51] Dang, T., G. Gorton, and B. Holmström (2015): Ignorance, Debt, and
+Financial Crises, working paper.
+[52] DeVaro, J., and F.A. Kurtulus (2010): An Empirical Analysis of Risk,
+Incentives, and the Delegation of Worker Authority, Industrial and Labor
+Relations Review 63, 637-657.
+[53] Dewatripont, M. (1989): Renegotiation and Information Revelation over
+Time: The Case of Optimal Labor Contracts, Quarterly Journal of Eco-
+nomics 104, 589-619.
+[54] Dewatripont, M., and J. Tirole (1994): A Theory of Debt and Equity:
+Diversity of Securities and Manager-Shareholder Congruence, Quarterly
+Journal of Economics 109, 1027-1054.
+[55] Dewatripont, M., I. Jewitt, and J. Tirole (1999a): The Economics of
+Career Concerns, Part I: Comparing Information Structures, Review of
+Economic Studies 66, 183-198.
+[56] Dewatripont, M., I. Jewitt, and J. Tirole (1999b): The Economics of
+Career Concerns, Part II: Application to Missions and Accountability of
+Government Agencies, Review of Economic Studies 66, 199-217.
+[57] Diamond, P. (1998): Managerial Incentives: On the Near Linearity of
+Optimal Compensation, Journal of Political Economy 106, 931-957.
+[58] Djankov, S., O. Hart, C. McLiesh, and A. Shleifer (2008): Debt Enforce-
+ment Around the World, Journal of Political Economy 116, 1105-1149.
+[59] Fama, E. (1980): Agency Problems and the Theory of the Firm, Journal
+of Political Economy 88, 288-307.
+[60] Fehr, E., O. Hart, and C. Zehnder (2009): Contracts, Reference Points,
+and Competition Behavioral E¤ects of the Fundamental Transformation,
+Journal of the European Economic Association 7, 561-572.
+[61] Fehr, E., O. Hart, and C. Zehnder (2011): Contracts as Reference Points
+Experimental Evidence, American Economic Review 101, 493-525.
+[62] Fehr, E., O. Hart, and C. Zehnder (2015): How do Informal Agreements
+and Revision Shape Contractual Reference Points? Journal of the Euro-
+pean Economic Association 13, 1-28.
+[63] Forbes, S.J., and M. Lederman (2009): Adaptation and Vertical Integra-
+tion in the Airline Industry, American Economic Review, 99, 1831-1849.
+38
+[64] Francois, P. (2000): Public Service Motivation as an Argument for Gov-
+ernment Provision, Journal of Public Economics, 78, 275-299.
+[65] Freixas, X., R Guesnerie, and J. Tirole (1985): Planning under Incomplete
+Information and the Ratchet E¤ect, Review of Economic Studies 52, 173-
+191.
+[66] Gale, D., and M. Hellwig (1985): Incentive-Compatible Debt Contracts:
+The One-Period Problem, Review of Economic Studies 52, 647-663.
+[67] Gertner, R., D. Scharfstein, and J. Stein (1994): Internal versus External
+Capital Markets, Quarterly Journal of Economics 109, 1211-1230.
+[68] Gibbons, R., and K. Murphy (1992): Optimal Incentive Contracts in the
+Presence of Career Concerns: Theory and Evidence, Journal of Political
+Economy 100, 468-505
+[69] Grossman, G., and E. Helpman (2002): Integration versus Outsourcing in
+Industry Equilibrium, Quarterly Journal of Economics 117, 85-120.
+[70] Grossman, S., and O. Hart (1980): Takeover bids, the Free-Rider Problem,
+and the Theory of Corporation, Bell Journal of Economics 11, 42-64.
+[71] Grossman, S., and O. Hart (1982): Corporate Financial Structure and
+Managerial Incentives. In: The Economics of Information and Uncertainty
+(ed. J. McCall), University of Chicago Press: Chicago IL.
+[72] Grossman, S., and O. Hart (1983a): An Analysis of the Principal-Agent
+Problem, Econometrica 51, 7-45.
+[73] Grossman, S., and O. Hart (1983b): Implicit Contracts under Asymmetric
+Information, Quarterly Journal of Economics 98, S123-S156
+[74] Grossman, S., and O. Hart (1986): The Costs and Bene ts of Ownership:
+A Theory of Vertical and Lateral Integration, Journal of Political Economy
+94, 691-719.
+[75] Grossman, S., and O. Hart (1988): One Share-One Vote and the Market
+for Corporate Control, Journal of Financial Economics 20, 175-202.
+[76] Grout, P. (1984): Investment and Wages in the Absence of Binding Con-
+straints: A Nash Bargaining Approach, Econometrica 52, 449-460.
+[77] Harris, M., and A. Raviv (1979): Optimal Incentive Contracts with Im-
+perfect Information, Journal of Economic Theory 20, 231-259.
+[78] Harris, M., and B. Holmström (1982): A Theory of Wage Dynamics,
+Review of Economic Studies 49, 315-333.
+[79] Harstad, B. (2005): Majority Rules and Incentives, Quarterly Journal of
+Economics 120, 535-568.
+39
+[80] Hart, O. (1974): On the Existence of Equilibrium in a Securities Model,
+Journal of Economic Theory 9, 293-311.
+[81] Hart, O. (1975): On the Optimality of Equilibrium when the Market
+Structure is Incomplete, Journal of Economic Theory 11, 418-443.
+[82] Hart, O. (1979): Monopolistic Competition in a Large Economy with
+Di¤erentiated Commodities, Review of Economic Studies 46, 1-30.
+[83] Hart, O. (1982): A Model of Imperfect Competition with Keynesian Fea-
+tures, Quarterly Journal of Economics 97, 109-138.
+[84] Hart, O. (1983): The Market Mechanism as an Incentive Scheme, Bell
+Journal of Economics 14, 366-382.
+[85] Hart, O. (1995): Firms, Contracts, and Financial Structure, Clarendon
+Press: Oxford UK.
+[86] Hart, O. (2001): Financial Contracting, Journal of Economic Literature
+39, 1079-1100.
+[87] Hart, O. (2003): Incomplete Contracts and Public Ownership: Remarks,
+and an Application to Public-Private Partnerships, Economic Journal 113,
+Conference Papers, C69-C76.
+[88] Hart, O. (2009): Hold-Up, Asset Ownership, and Reference Points, Quar-
+terly Journal of Economics 124, 267-300.
+[89] Hart, O., and B. Holmström (1987): The Theory of Contracts, in T.F.
+Bewley (ed.), Advances in Economic Theory: Fifth World Congress of
+the Econometric Society, 71-155, Cambridge University Press: Cambridge
+UK.
+[90] Hart, O., and B. Holmström (2010): A Theory of Firm Scope, Quarterly
+Journal of Economics 125, 483-513.
+[91] Hart, O., R. La Porta, F. Lopez-de-Silanes, and J. Moore (1997): A New
+Bankruptcy Procedure that Uses Multiple Auctions, European Economic
+Review 41, 461-573.
+[92] Hart, O., and J. Moore (1988): Incomplete Contracts and Renegotiation,
+Econometrica 56, 755-785.
+[93] Hart, O., and J. Moore (1989): Default and Renegotiation: A Dynamic
+Model of Debt, MIT Working Paper No. 520, revised as University of
+Edinburgh Discussion Paper, August 1989
+[94] Hart, O., and J. Moore (1990): Property Rights and the Nature of the
+Firm, Journal of Political Economy 98, 1119-1158.
+40
+[95] Hart, O., and J. Moore (1994): A Theory of Debt Based on the Inalien-
+ability of Human Capital, Quarterly Journal of Economics 109, 841-879.
+[96] Hart, O., and J. Moore (1995): Debt and Seniority: An Analysis of the
+Role of Hard Claims in Constraining Management, American Economic
+Review 85, 567-585.
+[97] Hart, O., and J. Moore (1998): Default and Renegotiation: A Dynamic
+Model of Debt, Quarterly Journal of Economics 113, 1-41.
+[98] Hart, O., and J. Moore (1999): Foundations of Incomplete Contracts,
+Review of Economic Studies 66, 115-138.
+[99] Hart, O., and J. Moore (2008): Contracts as Reference Points, Quarterly
+Journal of Economics 73, 1-48.
+[100] Hart, O., A. Shleifer, and R. Vishny (1997): The Proper Scope of Gov-
+ernment: Theory and an Application to Prisons, Quarterly Journal of
+Economics 112, 1127-1161.
+[101] Hart, O., and J. Tirole (1988): Contract Renegotiation and Coasean Dy-
+namics, Review of Economic Studies 55, 509-540.
+[102] Hart, O., and J. Tirole (1990): Vertical Integration and Market Foreclo-
+sure, Brookings Papers on Economic Activity 1990: "Microeconomics," p.
+205-286.
+[103] Hendel, I., and A. Lizzeri (2003): The Role of Commitment in Dynamic
+Contracts: Evidence from Life Insurance, Quarterly Journal of Economics
+118, 299-327.
+[104] Holmström, B. (1979): Moral Hazard and Observability, Bell Journal of
+Economics 10, 74-91.
+[105] Holmström, B. (1982a): Moral Hazard in Teams, Bell Journal of Eco-
+nomics 13, 324-340.
+[106] Holmström, B. (1982b): Managerial Incentive Problems A Dynamic Per-
+spective, in Essays in Honor of Lars Wahlbeck, Helsinki: Swedish School
+of Economics, re-published in Review of Economic Studies 66, 169-182.
+[107] Holmström, B. (1999): The Firm as a Sub Economy, Journal of Law,
+Economics and Organization 15, 74-103.
+[108] Holmström, B. (2015): Grossman-Hart (1986) as a Theory of Markets,
+working paper, MIT. Forthcoming in The Impact of Incomplete Contracts
+on Economics (eds. P. Aghion, M. Dewatripont, P. Legros and L. Zingales),
+Oxford University Press: New York.
+[109] Holmström, B., and P. Milgrom (1987): Aggregation and Linearity in the
+Provision of Intertemporal Incentives, Econometrica 55, 303-328.
+41
+[110] Holmström, B., and P. Milgrom (1991): Multi-Task Principal Agent
+Analysis, Journal of Law, Economics and Organization 7, 24-52.
+[111] Holmström, B., and P. Milgrom (1994): The Firm as an Incentive System,
+American Economic Review 84, 972-991.
+[112] Holmström, B., and J. Ricart i Costa (1986): Managerial Incentives and
+Capital Management, Quarterly Journal of Economics 101, 835-860.
+[113] Holmström, B., and J. Tirole (1993): Market Liquidity and Performance
+Monitoring, Journal of Political Economy 101, 678-709.
+[114] Holmström, B., and J. Tirole (1997): Financial Intermediation, Loanable
+Funds, and The Real Sector, Quarterly Journal of Economics 112, 663-
+691.
+[115] Holmström, B., and J. Tirole (1998): Private and Public Supply of Liq-
+uidity, Journal of Political Economy 106, 1-40.
+[116] Holmström, B., and J. Tirole (2001): LAPM: A Liquidity-Based Asset
+Pricing Model, Journal of Finance 56, 1837-1867.
+[117] Holmström, B., and J. Tirole (2011): Inside and Outside Liquidity, MIT
+Press: Cambridge MA.
+[118] Hong, F., T. Hossain, J. List, and M. Tanaka (2013): Testing the Theory of
+Multitasking: Evidence from a Natural Experiment in Chinese Factories,
+NBER Working Paper No. 19660.
+[119] Hong, H., J. Kubik, and A. Solomon (2000): Security Analysts Career
+Concerns and Herding of Earnings Forecasts, Rand Journal of Economics
+31, 121-144
+[120] Hong, H., and J. Kubik (2003): Analyzing the Analysts: Career Concerns
+and Biased Earnings Forecasts, Journal of Finance 58, 313-351.
+[121] Innes, R. (1990): Limited Liability and Incentive Contracting with Ex
+Ante Action Choices, Journal of Economic Theory 52, 45-67.
+[122] Janakiraman, S., R.A. Lambert, and D.F. Larcker (1992): An Empirical
+Investigation of the Relative Performance Evaluation Hypothesis, Journal
+of Accounting Research 30, 5369.
+[123] Jensen, M. (1986): Agency Costs of Free Cash Flow, Corporate Finance,
+and Takeovers, American Economic Review 76, 323-329.
+[124] Jensen, M., and W. Meckling (1976): Theory of the Firm: Managerial
+Behavior, Agency Costs, and Ownership Structure, Journal of Financial
+Economics 3, 305-360.
+42
+[125] Jenter, D., and F. Kanaan (2015): CEO Turnover and Relative Perfor-
+mance Evaluation, Journal of Finance 70, 2155-2184.
+[126] Joskow, P. (2008): Incentive Regulation and Its Application to Electricity
+Networks, Review of Network Economics 7, 547-560.
+[127] Kaplan, S., and B. Minton (2012): How Has CEO Turnover Changed?
+International Review of Finance 12, 57-87.
+[128] Kaplan, S., and P. Strömberg (2003): Financial Contracting Theory Meets
+the Real World, Review of Economic Studies 70, 281-315.
+[129] Kaplan, S., and P. Strömberg (2004): Characteristics, Contracts, and
+Actions: Evidence from Venture Capitalist Analyses, Journal of Finance
+59, 2177-2210.
+[130] Kerr, S. (1975): On the Folly of Rewarding A, while Hoping for B, Acad-
+emy of Management Journal 18, 769-783.
+[131] Klein, B., R. Crawford, and A. Alchian (1978): Appropriable Rents, and
+the Competitive Contracting Process, Journal of Law and Economics 21,
+297-326.
+[132] La¤ont, J.J., and D. Martimort (2002): The Theory of Incentives: The
+Principal-Agent Model. Princeton University Press.
+[133] Lafontaine, F. (1992): Agency Theory and Franchising: Some Empirical
+Results, Rand Journal of Economics 23, 263-283.
+[134] Lafontaine, F., and M. Slade (2007): Vertical Integration and Firm Bound-
+aries: The Evidence, Journal of Economic Literature 45, 629-685.
+[135] La Porta, R., F. Lopez-de-Silanes, A. Shleifer, and R. Vishny (1997): Legal
+Determinants of External Finance, Journal of Finance 52, 1131-1150.
+[136] La Porta, R., F. Lopez-de-Silanes, A. Shleifer, and R. Vishny (1998): Law
+and Finance, Journal of Political Economy 106, 1113-1155.
+[137] Lazear, E. (2000): Performance Pay and Productivity. American Eco-
+nomic Review 90, 1346-1361.
+[138] Lazear, E., and P. Oyer (2012): Personnel Economics, Handbook of Or-
+ganizational Economics, vol. 3, Elsevier: New York.
+[139] Lazear, E., and S. Rosen (1981): Rank-Order Tournaments as Optimum
+Labor Contracts, Journal of Political Economy 89, 841-864.
+[140] Lazear, E., and K. Shaw (2007): Personnel Economics: The Economists
+View of Human Resources, Journal of Economic Perspectives 21, 91-114.
+[141] Legros, P., and H. Matsushima (1991): E¢ ciency in Partnerships, Journal
+of Economic Theory 55, 296-322.
+43
+[142] Legros, P., and S. Matthews (1993): E¢ cient and Nearly E¢ cient Part-
+nerships, Review of Economic Studies 60, 599-611.
+[143] Liberti, J., and A. Mian (2009): Estimating the E¤ect of Hierarchies on
+Information Use, Review of Financial Studies 22, 4057-4090.
+[144] Lohmann, S. (1998): Rationalizing the Political Business Cycle: A Work-
+horse Model, Economics and Politics 10, 1-17.
+[145] Manne, H. (1965): Mergers and the Market for Corporate Control, Journal
+of Political Economy 73, 110-120.
+[146] Maskin, E. (1977): Nash Equilibrium and Welfare Optimality. Paper pre-
+sented at the summer workshop of the Econometric Society in Paris, June
+1977. Published 1999 in the Review of Economic Studies 66, 23-38.
+[147] Maskin, E., and J. Tirole (1999): Unforeseen Contingencies and Incom-
+plete Contracts, Review of Economic Studies 66, 83-114.
+[148] Mirrlees, J.A. (1975): The Theory of Moral Hazard and Unobservable Be-
+haviour, Part I, Mimeo, Oxford, reprinted in Review of Economic Studies
+66, 3-2l.
+[149] Morck, R., A. Shleifer, and R. Vishny (1989): Alternative Mechanisms for
+Corporate Control, American Economic Review 79, 842-852.
+[150] Murphy, K. (1985) Corporate Performance and Managerial Remuneration:
+An Empirical Analysis, Journal of Accounting and Economics 7, 11-42.
+[151] Myers, S. (1977): Determinants of Corporate Borrowing, Journal of Fi-
+nancial Economics 5, 147-175.
+[152] Nagin, D.S., J.B. Rebitzer, S. Sanders, and L.J Taylor (2002): Monitor-
+ing, Motivation, and Management: The Determinants of Opportunistic
+Behavior in a Field Experiment, American Economic Review 92, 850-873.
+[153] Naidu, S., and N. Yuchtman (2013): Coercive Contract Enforcement: Law
+and the Labor Market in Nineteenth Century Industrial Britain, American
+Economic Review 103, 107-144.
+[154] Newhouse, J., and the Insurance Experiment Group (1993): Free for All?
+Lessons from the RAND Health Insurance Experiment. Harvard Univer-
+sity Press: Cambridge MA.
+[155] Noldeke, G., and K. Schmidt (1994): Option Contracts and Renegotiation:
+A Solution to the Hold-up Problem, Rand Journal of Economics 26, 163-
+172.
+[156] Nini, G., D. Smith, and A. Su (2012): Creditor Control Rights, Corpo-
+rate Governance, and Firm Value, Review of Financial Studies 25, 1713-
+1761.
+44
+[157] Oyer, P. (2004): Why Do Firms Use Incentives that Have No Incentive
+E¤ects? Journal of Finance 59, 1619-1649.
+[158] Oyer, P., and S. Schaefer (2005): Why Do Some Firms Give Stock Options
+to All Employees? An Empirical Examination of Alternative Theories,
+Journal of Financial Economics 76,99-133.
+[159] Persson, T., G. Roland, and G. Tabellini (1997): Separation of Powers and
+Political Accountability, Quarterly Journal of Economics 112, 1163-1202.
+[160] Persson, T., and G. Tabellini (2000): Political Economics, MIT Press:
+Cambridge MA.
+[161] Plantin, G., and J.-C. Rochet (2006): When Insurers Go Bust: An Eco-
+nomic Analysis of the Role and Design of Prudential Regulation, Princeton
+University Press: Princeton NJ.
+[162] Prendergast, C. (1999): The Provision of Incentives in Firms, Journal of
+Economic Literature 37, 7-63.
+[163] Prendergast, C. (2002): The Tenuous Trade-O¤ between Risk and Incen-
+tives, Journal of Political Economy 110, 1071-1102.
+[164] Rajan, R., and L. Zingales (1998): Power in a Theory of the Firm, Quar-
+terly Journal of Economics 103, 387-432.
+[165] Rajan, R., and L. Zingales (2001): The Firm as a Dedicated Hierarchy:
+A Theory of the Origins and Growth of Firms, Quarterly Journal of Eco-
+nomics 116, 805-851.
+[166] Rajgopal, S., T. Shevlin, and V. Zamora (2006): CEOsOutside Employ-
+ment Opportunities and the Lack of Relative Performance Evaluation in
+Compensation Contracts, Journal of Finance 61, 1813-1844.
+[167] Raith, M. (2003): Competition, Risk and Managerial Incentives, Ameri-
+can Economic Review 93, 1425-1436.
+[168] Ross, S. (1973). The Economic Theory of Agency: The Principal s Prob-
+lem, American Economic Review 63, 134-139.
+[169] Salanié, B. (2005): The Economics of Contracts. MIT Press: Cambridge
+MA.
+[170] Scharfstein, D., and J. Stein. (1990): Herd Behavior and Investment,
+American Economic Review 80, 465-479.
+[171] Schmidt, K. (1996): The Costs and Bene ts of Privatization: An Incom-
+plete Contracts Approach, Journal of Law, Economics, & Organization
+12, 1-24.
+45
+[172] Segal, I. (1999): Complexity and Renegotiation: A Foundation for Incom-
+plete Contracts, Review of Economic Studies 66, 57-82
+[173] Shapley, L. (1953): A Value for n-Person Games, in Contributions to
+the Theory of Games, vol. 2. (eds. H. Kuhn and A. Tucker), Princeton
+University Press, Princeton NJ.
+[174] Shavell, S. (1979): Risk Sharing and Incentives in the Principal and Agent
+Relationship, Bell Journal of Economics 10, 55-73.
+[175] Shearer, B. (2004): Piece Rates, Fixed Wages and Incentives: Evidence
+from a Field Experiment, Review of Economic Studies 71, 513-534.
+[176] Shepard, A. (1993): Contractual Form, Retail Price, and Asset Charac-
+teristics in Gasoline Retailing, RAND Journal of Economics 24, 58-77.
+[177] Shleifer, A., and R. Vishny (1992): Liquidation Values and Debt Capacity:
+A Market Equilibrium Approach, Journal of Finance 47, 1343-1366.
+[178] Shleifer, A., and R. Vishny (1997): A Survey of Corporate Governance,
+Journal of Finance 52, 737-783.
+[179] Smith, A. (1776): The Wealth of Nations.
+[180] Spence, M., and R. Zeckhauser (1971): Insurance, Information, and Indi-
+vidual Action, American Economic Review 61, 380-387.
+[181] Stein, J. (1989): E¢ cient Capital Markets, Ine¢ cient Firms: A Model
+of Myopic Corporate Behavior, Quarterly Journal of Economics 104, 655-
+669.
+[182] Tirole, J. (1999): Incomplete Contracts: Where do We Stand? Econo-
+metrica 67, 741-781.
+[183] Tirole, J. (2009): Cognition and Incomplete Contracts, American Eco-
+nomic Review 99, 265-294.
+[184] Townsend, R. (1979): Optimal Contracts and Competitive Markets with
+Costly State Veri cation, Journal of Economic Theory 21, 265-293.
+[185] Weitzman, M. (1980): E¢ cient Incentive Contracts, Quarterly Journal of
+Economics 95, 719-730.
+[186] Whinston, M. (2003): On the Transaction Cost Determinants of Vertical
+Integration, Journal of Law, Economics and Organization 19, 1-23.
+[187] Williamson, O. (1971): The Vertical Integration of Production: Market
+Failure Considerations, American Economic Review Papers and Proceed-
+ings 61, 112-123.
+[188] Williamson, O. (1975): Markets and Hierarchies, New York: Free Press.
+46
+[189] Williamson, O. (1979): Transaction-Cost Economics: The Governance of
+Contractual Relations, Journal of Law and Economics 22, 233-71.
+[190] Williamson, O. (1985): The Economic Institutions of Capitalism,
+NewYork: Free Press.
+[191] Wilson, R. (1969): The Structure of Incentives for Decentralization under
+Uncertainty, in La Decision: Agregation et Dynamique des Ordres de
+Preference, G. Guilbaud (ed.), pp. 287-307. Paris: Centre National de la
+Recherche Scienti que, 1969.
+[192] Woodru¤ C. (2002): Non-contractible Investments and Vertical Integra-
+tion in the Mexican Footwear Industry, International Journal of Industrial
+Organization 20, 1197-1224.
+47

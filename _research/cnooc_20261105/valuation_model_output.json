@@ -1,0 +1,222 @@
+{
+  "facts": {
+    "shares": 47529953984,
+    "quote_time_beijing": "2026-11-05 10:45 (delayed quote)",
+    "hkd_bid": 22.98,
+    "hkd_ask": 23.0,
+    "cnh_bid": 19.52,
+    "cnh_ask": 19.55,
+    "hkd_volume_shares": 84634975,
+    "cnh_volume_shares": 47000,
+    "board_lot_shares_launch_announcement": 1000,
+    "profit_2025_rmb": 122082000000,
+    "ocf_2025_rmb": 209042000000,
+    "cash_capex_2025_rmb": 111555000000,
+    "interest_paid_2025_rmb": 3134000000,
+    "lease_repayments_2025_rmb": 3381000000,
+    "profit_2026_9m_rmb": 119118000000,
+    "ocf_2026_9m_rmb": 199586000000,
+    "cash_fixed_intangible_long_term_assets_2026_9m_rmb": 81699000000,
+    "dividend_2025_hkd": 1.28,
+    "dividend_2025_final_hkd": 0.55,
+    "dividend_2026_interim_hkd": 0.94,
+    "known_usd_product_value": 16545.28
+  },
+  "assumptions": {
+    "rmb_per_hkd": 0.85,
+    "hkd_per_usd": 7.8,
+    "effective_dividend_tax_rate_for_example": 0.2,
+    "cash_after_tax_yield_for_example": 0.04,
+    "normal_profit_rmb_range": [
+      110000000000,
+      130000000000
+    ],
+    "normal_pe_range": [
+      7,
+      8
+    ],
+    "normal_payout_ratio_for_example": 0.45,
+    "fair_value_hkd_judgment_range": [
+      20,
+      26
+    ],
+    "fair_value_midpoint_hkd": 23,
+    "initial_single_stock_weight_example": 0.05
+  },
+  "results": {
+    "market_cap_rmb_if_all_shares_marked_at_hk_price": 929210600387.2001,
+    "pe_on_2025_profit": 7.6113644958896485,
+    "simple_fcf_2025_rmb": 97487000000,
+    "cash_proxy_2025_after_interest_and_leases_rmb": 90972000000,
+    "simple_fcf_2026_9m_rmb": 117887000000,
+    "simple_fcf_2025_yield": 0.10491378376374244,
+    "adjusted_cash_proxy_2025_yield": 0.09790245608701856,
+    "normal_pe_implied_hkd_range": [
+      19.05918851186188,
+      25.74228058744981
+    ],
+    "normal_annual_dividend_hkd_range_example": [
+      1.2252335471911207,
+      1.4480032830440517
+    ],
+    "normal_net_dividend_yield_range_example": [
+      0.042616819032734635,
+      0.05036533158414093
+    ],
+    "normal_cash_value_hkd_at_12_percent_hurdle": [
+      17.532803284721425,
+      21.65816876347941
+    ],
+    "counter_break_even_cnh_per_hkd_before_fees": 0.85,
+    "hkd_quoted_spread_ratio": 0.0008695652173912858,
+    "cnh_quoted_spread_ratio": 0.001534526854220007,
+    "trailing_declared_dividend_hkd": 1.49,
+    "dividend_2025_gross_yield": 0.05565217391304348,
+    "dividend_2025_net_yield_example": 0.044521739130434786,
+    "trailing_dividend_gross_yield": 0.06478260869565218,
+    "trailing_dividend_net_yield_example": 0.05182608695652174,
+    "static_net_dividend_cost_coverage_years": 19.29530201342282,
+    "discounted_dividend_cost_coverage_years_at_cash_hurdle": 37.673608217031585,
+    "net_income_spread_over_cash_example": 0.011826086956521736,
+    "one_lot_usd_at_assumed_fx": 2948.7179487179487,
+    "one_lot_as_share_of_known_usd_product_only": 0.17822109681540288,
+    "midpoint_less_20_percent_hkd": 18.400000000000002,
+    "midpoint_less_30_percent_hkd": 16.099999999999998,
+    "scenarios": [
+      {
+        "name": "stress",
+        "oil_context": "illustrative Brent USD55-60/bbl; not a fitted forecast",
+        "annual_cash_proxy_rmb_range": [
+          60000000000.0,
+          75000000000.0
+        ],
+        "required_cash_yield_before_personal_tax": 0.12,
+        "hkd_value_range": [
+          12.376096436273947,
+          15.470120545342434
+        ]
+      },
+      {
+        "name": "normal",
+        "oil_context": "illustrative Brent USD65-75/bbl; not a fitted forecast",
+        "annual_cash_proxy_rmb_range": [
+          85000000000.0,
+          105000000000.0
+        ],
+        "required_cash_yield_before_personal_tax": 0.1,
+        "hkd_value_range": [
+          21.03936394166571,
+          25.98980251617529
+        ]
+      },
+      {
+        "name": "high_oil",
+        "oil_context": "illustrative Brent USD80-90/bbl; not a fitted forecast",
+        "annual_cash_proxy_rmb_range": [
+          120000000000.0,
+          150000000000.0
+        ],
+        "required_cash_yield_before_personal_tax": 0.1,
+        "hkd_value_range": [
+          29.70263144705747,
+          37.12828930882184
+        ]
+      }
+    ],
+    "price_sensitivity": [
+      {
+        "hkd_price": 16,
+        "cnh_equivalent_at_assumed_fx": 13.6,
+        "trailing_gross_dividend_yield": 0.093125,
+        "net_dividend_yield_example": 0.0745,
+        "static_net_dividend_coverage_years": 13.422818791946309
+      },
+      {
+        "hkd_price": 18,
+        "cnh_equivalent_at_assumed_fx": 15.299999999999999,
+        "trailing_gross_dividend_yield": 0.08277777777777778,
+        "net_dividend_yield_example": 0.06622222222222222,
+        "static_net_dividend_coverage_years": 15.100671140939598
+      },
+      {
+        "hkd_price": 18.5,
+        "cnh_equivalent_at_assumed_fx": 15.725,
+        "trailing_gross_dividend_yield": 0.08054054054054054,
+        "net_dividend_yield_example": 0.06443243243243243,
+        "static_net_dividend_coverage_years": 15.52013422818792
+      },
+      {
+        "hkd_price": 19,
+        "cnh_equivalent_at_assumed_fx": 16.15,
+        "trailing_gross_dividend_yield": 0.07842105263157895,
+        "net_dividend_yield_example": 0.06273684210526316,
+        "static_net_dividend_coverage_years": 15.939597315436242
+      },
+      {
+        "hkd_price": 20,
+        "cnh_equivalent_at_assumed_fx": 17.0,
+        "trailing_gross_dividend_yield": 0.0745,
+        "net_dividend_yield_example": 0.0596,
+        "static_net_dividend_coverage_years": 16.778523489932887
+      },
+      {
+        "hkd_price": 23,
+        "cnh_equivalent_at_assumed_fx": 19.55,
+        "trailing_gross_dividend_yield": 0.06478260869565218,
+        "net_dividend_yield_example": 0.05182608695652174,
+        "static_net_dividend_coverage_years": 19.29530201342282
+      },
+      {
+        "hkd_price": 26,
+        "cnh_equivalent_at_assumed_fx": 22.099999999999998,
+        "trailing_gross_dividend_yield": 0.05730769230769231,
+        "net_dividend_yield_example": 0.04584615384615384,
+        "static_net_dividend_coverage_years": 21.812080536912752
+      }
+    ],
+    "fx_sensitivity": [
+      {
+        "rmb_per_hkd": 0.8,
+        "hkd_path_cost_cnh_before_fees": 18.400000000000002,
+        "fair_value_cnh_range": [
+          16.0,
+          20.8
+        ],
+        "initial_research_price_cnh_range": [
+          14.4,
+          15.200000000000001
+        ]
+      },
+      {
+        "rmb_per_hkd": 0.85,
+        "hkd_path_cost_cnh_before_fees": 19.55,
+        "fair_value_cnh_range": [
+          17.0,
+          22.099999999999998
+        ],
+        "initial_research_price_cnh_range": [
+          15.299999999999999,
+          16.15
+        ]
+      },
+      {
+        "rmb_per_hkd": 0.9,
+        "hkd_path_cost_cnh_before_fees": 20.7,
+        "fair_value_cnh_range": [
+          18.0,
+          23.400000000000002
+        ],
+        "initial_research_price_cnh_range": [
+          16.2,
+          17.1
+        ]
+      }
+    ]
+  },
+  "limits": [
+    "Not a reserve-by-reserve DCF or guaranteed return.",
+    "Cash capitalization assumes sustainable reinvestment and reserve replacement; no net cash added.",
+    "Dividend cost coverage excludes terminal stock value, FX movements and reinvestment.",
+    "Account access, nominee withholding, personal tax/credit and broker charges require confirmation."
+  ]
+}

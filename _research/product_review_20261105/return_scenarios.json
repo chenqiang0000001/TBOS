@@ -1,0 +1,49 @@
+{
+  "basis_usd": 16545.28,
+  "daily_income_usd": 1.74,
+  "simple_extrapolation_usd_per_year": 635.1,
+  "simple_extrapolation_annual_rate": 0.03838556978183506,
+  "monthly_equivalent_usd": 52.925000000000004,
+  "one_percentage_point_usd_per_year": 165.4528,
+  "half_percentage_point_usd_per_year": 82.7264,
+  "hypothetical_same_currency_rates": [
+    {
+      "rate": 0.03,
+      "annual_income_usd": 496.35839999999996,
+      "difference_from_daily_extrapolation_usd": -138.74160000000006
+    },
+    {
+      "rate": 0.04,
+      "annual_income_usd": 661.8112,
+      "difference_from_daily_extrapolation_usd": 26.711199999999963
+    },
+    {
+      "rate": 0.05,
+      "annual_income_usd": 827.264,
+      "difference_from_daily_extrapolation_usd": 192.164
+    }
+  ],
+  "fx_scenarios_at_hypothetical_4pct_usd_return": [
+    {
+      "usd_price_change_in_rmb": -0.1,
+      "rmb_return": -0.06399999999999995
+    },
+    {
+      "usd_price_change_in_rmb": -0.05,
+      "rmb_return": -0.01200000000000001
+    },
+    {
+      "usd_price_change_in_rmb": 0,
+      "rmb_return": 0.040000000000000036
+    },
+    {
+      "usd_price_change_in_rmb": 0.05,
+      "rmb_return": 0.09200000000000008
+    }
+  ],
+  "fx_depreciation_offsetting_4pct_usd_income": 0.03846153846153855,
+  "hypothetical_100usd_switch_cost_at_1pp_advantage_months": 7.2528237660529165,
+  "hypothetical_30pct_equity_drawdown_usd": 4963.584,
+  "reported_units_times_displayed_income_crosscheck": 1.7379449999999996,
+  "limits": "Scenario calculations only; not live quotes, verified product yield, personal realized return or guaranteed future performance."
+}

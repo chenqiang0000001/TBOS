@@ -1,0 +1,1618 @@
+{
+  "id": "https://openalex.org/W4285494161",
+  "doi": "https://doi.org/10.1037/bul0000365",
+  "title": "Personality stability and change: A meta-analysis of longitudinal studies.",
+  "display_name": "Personality stability and change: A meta-analysis of longitudinal studies.",
+  "publication_year": 2022,
+  "publication_date": "2022-07-14",
+  "ids": {
+    "openalex": "https://openalex.org/W4285494161",
+    "doi": "https://doi.org/10.1037/bul0000365",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/35834197"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1037/bul0000365",
+    "doi": "https://doi.org/10.1037/bul0000365",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1037/bul0000365",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S75627607",
+      "display_name": "Psychological Bulletin",
+      "issn_l": "0033-2909",
+      "issn": [
+        "0033-2909",
+        "1939-1455"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+        "abdc-a-star",
+        "anvur-scientific",
+        "cwts-core",
+        "dongbi-a",
+        "erih-plus",
+        "jufo-3",
+        "ki-jl-2",
+        "medline",
+        "norway-2",
+        "poland-200",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310320262",
+      "host_organization_name": "American Psychological Association",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320262"
+      ],
+      "host_organization_lineage_names": [
+        "American Psychological Association"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Psychological Bulletin",
+    "raw_type": "journal-article"
+  },
+  "volume": null,
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "datacite",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://psyarxiv.com/eq5d6/download",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5044209139",
+        "display_name": "Wiebke Bleidorn",
+        "orcid": "https://orcid.org/0000-0003-3795-8143",
+        "observed_orcids": [
+          "https://orcid.org/0000-0003-3795-8143"
+        ]
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Wiebke Bleidorn",
+      "raw_affiliation_strings": [
+        "Department of Psychology"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-3795-8143",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychology",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5019619685",
+        "display_name": "Ted Schwaba",
+        "orcid": "https://orcid.org/0000-0001-5491-5386",
+        "observed_orcids": [
+          "https://orcid.org/0000-0001-5491-5386"
+        ]
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Ted Schwaba",
+      "raw_affiliation_strings": [
+        "Department of Psychology"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-5491-5386",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychology",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5074111733",
+        "display_name": "Anqing Zheng",
+        "orcid": "https://orcid.org/0000-0003-0238-8275",
+        "observed_orcids": [
+          "https://orcid.org/0000-0003-0238-8275"
+        ]
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Anqing Zheng",
+      "raw_affiliation_strings": [
+        "Department of Psychology"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-0238-8275",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychology",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5054095052",
+        "display_name": "Christopher  James Hopwood",
+        "orcid": "https://orcid.org/0000-0001-6645-8645",
+        "observed_orcids": [
+          "https://orcid.org/0000-0001-6645-8645"
+        ]
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Christopher J. Hopwood",
+      "raw_affiliation_strings": [
+        "Department of Psychology"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-6645-8645",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychology",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5020107930",
+        "display_name": "Susana S. Sosa",
+        "orcid": "https://orcid.org/0000-0003-2945-667X",
+        "observed_orcids": [
+          "https://orcid.org/0000-0003-2945-667X"
+        ]
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Susana S. Sosa",
+      "raw_affiliation_strings": [
+        "Department of Psychology"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-2945-667X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychology",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5006768210",
+        "display_name": "Brent W. Roberts",
+        "orcid": "https://orcid.org/0000-0002-3244-1164",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-3244-1164"
+        ]
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Brent W. Roberts",
+      "raw_affiliation_strings": [
+        "Department of Psychology"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3244-1164",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychology",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5034133561",
+        "display_name": "Daniel A. Briley",
+        "orcid": "https://orcid.org/0000-0001-6344-597X",
+        "observed_orcids": [
+          "https://orcid.org/0000-0001-6344-597X"
+        ]
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "D. A. Briley",
+      "raw_affiliation_strings": [
+        "Department of Psychology"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-6344-597X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychology",
+          "institution_ids": []
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 0,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 15.0788,
+  "has_fulltext": false,
+  "cited_by_count": 485,
+  "citation_normalized_percentile": {
+    "value": 0.99819277,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "148",
+    "issue": "7-8",
+    "first_page": "588",
+    "last_page": "619"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11040",
+    "display_name": "Personality Traits and Psychology",
+    "score": 0.9955999851226807,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3203",
+      "display_name": "Clinical Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11040",
+      "display_name": "Personality Traits and Psychology",
+      "score": 0.9955999851226807,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11093",
+      "display_name": "Personality Disorders and Psychopathology",
+      "score": 0.002400000113993883,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13419",
+      "display_name": "Ego Development and Educational Practices",
+      "score": 0.00039999998989515007,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/personality-stability",
+      "display_name": "personality stability",
+      "score": 0.9380000233650208
+    },
+    {
+      "id": "https://openalex.org/keywords/personality-change",
+      "display_name": "personality change",
+      "score": 0.9049999713897705
+    },
+    {
+      "id": "https://openalex.org/keywords/rank-order-stability",
+      "display_name": "rank-order stability",
+      "score": 0.8960000276565552
+    },
+    {
+      "id": "https://openalex.org/keywords/lifespan-development",
+      "display_name": "lifespan development",
+      "score": 0.7329999804496765
+    },
+    {
+      "id": "https://openalex.org/keywords/emotional-stability",
+      "display_name": "emotional stability",
+      "score": 0.7300000190734863
+    },
+    {
+      "id": "https://openalex.org/keywords/trait-development",
+      "display_name": "trait development",
+      "score": 0.5389999747276306
+    },
+    {
+      "id": "https://openalex.org/keywords/maladaptive-traits",
+      "display_name": "maladaptive traits",
+      "score": 0.9190000295639038
+    },
+    {
+      "id": "https://openalex.org/keywords/adaptive-traits",
+      "display_name": "adaptive traits",
+      "score": 0.47099998593330383
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C106934330",
+      "wikidata": "https://www.wikidata.org/wiki/Q1971873",
+      "display_name": "Trait",
+      "level": 2,
+      "score": 0.8440980315208435
+    },
+    {
+      "id": "https://openalex.org/C187288502",
+      "wikidata": "https://www.wikidata.org/wiki/Q641118",
+      "display_name": "Personality",
+      "level": 2,
+      "score": 0.7644252777099609
+    },
+    {
+      "id": "https://openalex.org/C2865642",
+      "wikidata": "https://www.wikidata.org/wiki/Q378132",
+      "display_name": "Big Five personality traits",
+      "level": 3,
+      "score": 0.6448886394500732
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.644323468208313
+    },
+    {
+      "id": "https://openalex.org/C43122875",
+      "wikidata": "https://www.wikidata.org/wiki/Q5428522",
+      "display_name": "Facet (psychology)",
+      "level": 4,
+      "score": 0.6218152046203613
+    },
+    {
+      "id": "https://openalex.org/C31670503",
+      "wikidata": "https://www.wikidata.org/wiki/Q18773",
+      "display_name": "Trait theory",
+      "level": 4,
+      "score": 0.6153725385665894
+    },
+    {
+      "id": "https://openalex.org/C69897798",
+      "wikidata": "https://www.wikidata.org/wiki/Q3520110",
+      "display_name": "Personality development",
+      "level": 3,
+      "score": 0.5900169610977173
+    },
+    {
+      "id": "https://openalex.org/C93225998",
+      "wikidata": "https://www.wikidata.org/wiki/Q1941972",
+      "display_name": "Moderation",
+      "level": 2,
+      "score": 0.5409842729568481
+    },
+    {
+      "id": "https://openalex.org/C2988516024",
+      "wikidata": "https://www.wikidata.org/wiki/Q441195",
+      "display_name": "Life span",
+      "level": 2,
+      "score": 0.4895094633102417
+    },
+    {
+      "id": "https://openalex.org/C112972136",
+      "wikidata": "https://www.wikidata.org/wiki/Q7595718",
+      "display_name": "Stability (learning theory)",
+      "level": 2,
+      "score": 0.485358864068985
+    },
+    {
+      "id": "https://openalex.org/C95190672",
+      "wikidata": "https://www.wikidata.org/wiki/Q815382",
+      "display_name": "Meta-analysis",
+      "level": 2,
+      "score": 0.4707629978656769
+    },
+    {
+      "id": "https://openalex.org/C138496976",
+      "wikidata": "https://www.wikidata.org/wiki/Q175002",
+      "display_name": "Developmental psychology",
+      "level": 1,
+      "score": 0.42550545930862427
+    },
+    {
+      "id": "https://openalex.org/C2778175527",
+      "wikidata": "https://www.wikidata.org/wiki/Q332154",
+      "display_name": "Successful aging",
+      "level": 2,
+      "score": 0.41402146220207214
+    },
+    {
+      "id": "https://openalex.org/C149923435",
+      "wikidata": "https://www.wikidata.org/wiki/Q37732",
+      "display_name": "Demography",
+      "level": 1,
+      "score": 0.27655887603759766
+    },
+    {
+      "id": "https://openalex.org/C77805123",
+      "wikidata": "https://www.wikidata.org/wiki/Q161272",
+      "display_name": "Social psychology",
+      "level": 1,
+      "score": 0.2334633767604828
+    },
+    {
+      "id": "https://openalex.org/C78458016",
+      "wikidata": "https://www.wikidata.org/wiki/Q840400",
+      "display_name": "Evolutionary biology",
+      "level": 1,
+      "score": 0.09753021597862244
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.09336104989051819
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C119857082",
+      "wikidata": "https://www.wikidata.org/wiki/Q2539",
+      "display_name": "Machine learning",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D004644",
+      "descriptor_name": "Emotions",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008137",
+      "descriptor_name": "Longitudinal Studies",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010551",
+      "descriptor_name": "Personality",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010553",
+      "descriptor_name": "Personality Development",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010554",
+      "descriptor_name": "Personality Disorders",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D055815",
+      "descriptor_name": "Young Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 8,
+  "locations": [
+    {
+      "id": "doi:10.1037/bul0000365",
+      "doi": "https://doi.org/10.1037/bul0000365",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1037/bul0000365",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S75627607",
+        "display_name": "Psychological Bulletin",
+        "issn_l": "0033-2909",
+        "issn": [
+          "0033-2909",
+          "1939-1455"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "abdc-a-star",
+          "anvur-scientific",
+          "cwts-core",
+          "dongbi-a",
+          "erih-plus",
+          "jufo-3",
+          "ki-jl-2",
+          "medline",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320262",
+        "host_organization_name": "American Psychological Association",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320262"
+        ],
+        "host_organization_lineage_names": [
+          "American Psychological Association"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Psychological Bulletin",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "doi:10.31234/osf.io/eq5d6",
+      "doi": "https://doi.org/10.31234/osf.io/eq5d6",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.31234/osf.io/eq5d6",
+      "pdf_url": "https://psyarxiv.com/eq5d6/download",
+      "source": null,
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "posted-content"
+    },
+    {
+      "id": "pmid:35834197",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/35834197",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Psychological bulletin",
+      "raw_type": "Meta-Analysis"
+    },
+    {
+      "id": "pmh:oai:www.zora.uzh.ch:232971",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "https://www.zora.uzh.ch/id/eprint/232971/1/retrieve.pdf",
+      "pdf_url": "https://www.zora.uzh.ch/id/eprint/232971/1/retrieve.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306401281",
+        "display_name": "Zurich Open Repository and Archive (University of Zurich)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I202697423",
+        "host_organization_name": "University of Zurich",
+        "host_organization_lineage": [
+          "https://openalex.org/I202697423"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": "Bleidorn, Wiebke; Schwaba, Ted; Zheng, Anqing; Hopwood, Christopher J; Sosa, Susana S; Roberts, Brent W; Briley, D A (2022). Personality stability and change: A meta-analysis of longitudinal studies. Psychological Bulletin, 148(7-8):588-619.",
+      "raw_type": "info:eu-repo/semantics/article"
+    },
+    {
+      "id": "pmh:oai:share.osf.io:4e02a78d-a47f-41e6-bb0d-24e116299e15",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://osf.io/eq5d6",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401687",
+        "display_name": "PsyArXiv (OSF Preprints)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I2799848540",
+        "host_organization_name": "Center for Open Science",
+        "host_organization_lineage": [
+          "https://openalex.org/I2799848540"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Preprint"
+    },
+    {
+      "id": "pmh:oai:share.osf.io:E009C-A0C-574",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "http://doi.org/10.31234/OSF.IO/EQ5D6",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401687",
+        "display_name": "PsyArXiv (OSF Preprints)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I2799848540",
+        "host_organization_name": "Center for Open Science",
+        "host_organization_lineage": [
+          "https://openalex.org/I2799848540"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "preprint"
+    },
+    {
+      "id": "pmh:oai:www.zora.uzh.ch:20.500.14742/207266",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "https://www.zora.uzh.ch/handle/20.500.14742/207266",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401281",
+        "display_name": "Zurich Open Repository and Archive (University of Zurich)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I202697423",
+        "host_organization_name": "University of Zurich",
+        "host_organization_lineage": [
+          "https://openalex.org/I202697423"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Bleidorn, W., Schwaba, T., Zheng, A., Hopwood, C. J., Sosa, S. S., Roberts, B. W., & Briley, D. A. (2022). Personality stability and change: A meta-analysis of longitudinal studies. Psychological Bulletin, 148, 588–619. https://doi.org/10.1037/bul0000365",
+      "raw_type": "Journal Article"
+    },
+    {
+      "id": "doi:10.5167/uzh-232971",
+      "doi": "https://doi.org/10.5167/uzh-232971",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.5167/uzh-232971",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401281",
+        "display_name": "Zurich Open Repository and Archive (University of Zurich)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I202697423",
+        "host_organization_name": "University of Zurich",
+        "host_organization_lineage": [
+          "https://openalex.org/I202697423"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "JournalArticle"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.31234/osf.io/eq5d6",
+    "doi": "https://doi.org/10.31234/osf.io/eq5d6",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.31234/osf.io/eq5d6",
+    "pdf_url": "https://psyarxiv.com/eq5d6/download",
+    "source": null,
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "posted-content"
+  },
+  "sustainable_development_goals": [],
+  "study_designs": [
+    {
+      "id": "https://openalex.org/study-designs/systematic-review",
+      "display_name": "Systematic Review"
+    },
+    {
+      "id": "https://openalex.org/study-designs/meta-analysis",
+      "display_name": "Meta-Analysis"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4285494161.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4285494161.grobid-xml"
+  },
+  "referenced_works_count": 110,
+  "referenced_works": [
+    "https://openalex.org/W93232559",
+    "https://openalex.org/W1495445608",
+    "https://openalex.org/W1513963525",
+    "https://openalex.org/W1528286763",
+    "https://openalex.org/W1581321454",
+    "https://openalex.org/W1597801115",
+    "https://openalex.org/W1608476802",
+    "https://openalex.org/W1641003075",
+    "https://openalex.org/W1643936211",
+    "https://openalex.org/W1809435058",
+    "https://openalex.org/W1918670453",
+    "https://openalex.org/W1973669104",
+    "https://openalex.org/W1977655364",
+    "https://openalex.org/W1978581226",
+    "https://openalex.org/W1985304668",
+    "https://openalex.org/W2012186625",
+    "https://openalex.org/W2014083209",
+    "https://openalex.org/W2020239053",
+    "https://openalex.org/W2024718301",
+    "https://openalex.org/W2027696162",
+    "https://openalex.org/W2033527702",
+    "https://openalex.org/W2037849077",
+    "https://openalex.org/W2041375491",
+    "https://openalex.org/W2046270896",
+    "https://openalex.org/W2057412016",
+    "https://openalex.org/W2059001900",
+    "https://openalex.org/W2059130674",
+    "https://openalex.org/W2060999123",
+    "https://openalex.org/W2064642544",
+    "https://openalex.org/W2067677857",
+    "https://openalex.org/W2071589850",
+    "https://openalex.org/W2072012316",
+    "https://openalex.org/W2072363427",
+    "https://openalex.org/W2073398345",
+    "https://openalex.org/W2092309149",
+    "https://openalex.org/W2102689587",
+    "https://openalex.org/W2104991062",
+    "https://openalex.org/W2114314791",
+    "https://openalex.org/W2117996129",
+    "https://openalex.org/W2118403188",
+    "https://openalex.org/W2119746556",
+    "https://openalex.org/W2127290625",
+    "https://openalex.org/W2130653485",
+    "https://openalex.org/W2135945968",
+    "https://openalex.org/W2136015137",
+    "https://openalex.org/W2141697271",
+    "https://openalex.org/W2143117643",
+    "https://openalex.org/W2143329248",
+    "https://openalex.org/W2144131786",
+    "https://openalex.org/W2144701951",
+    "https://openalex.org/W2145167064",
+    "https://openalex.org/W2145591379",
+    "https://openalex.org/W2159344018",
+    "https://openalex.org/W2162030725",
+    "https://openalex.org/W2169877551",
+    "https://openalex.org/W2215561766",
+    "https://openalex.org/W2293228788",
+    "https://openalex.org/W2297822953",
+    "https://openalex.org/W2330055266",
+    "https://openalex.org/W2331874636",
+    "https://openalex.org/W2356312313",
+    "https://openalex.org/W2399902729",
+    "https://openalex.org/W2416372660",
+    "https://openalex.org/W2508858223",
+    "https://openalex.org/W2529319698",
+    "https://openalex.org/W2535849406",
+    "https://openalex.org/W2568037688",
+    "https://openalex.org/W2587440498",
+    "https://openalex.org/W2606269358",
+    "https://openalex.org/W2615107685",
+    "https://openalex.org/W2751379301",
+    "https://openalex.org/W2753313764",
+    "https://openalex.org/W2753434109",
+    "https://openalex.org/W2769515085",
+    "https://openalex.org/W2770881820",
+    "https://openalex.org/W2774809954",
+    "https://openalex.org/W2791548602",
+    "https://openalex.org/W2791815635",
+    "https://openalex.org/W2806930578",
+    "https://openalex.org/W2883489092",
+    "https://openalex.org/W2884450174",
+    "https://openalex.org/W2889604791",
+    "https://openalex.org/W2890479661",
+    "https://openalex.org/W2901457407",
+    "https://openalex.org/W2901645974",
+    "https://openalex.org/W2908722659",
+    "https://openalex.org/W2910839567",
+    "https://openalex.org/W2914572522",
+    "https://openalex.org/W2942678957",
+    "https://openalex.org/W2951530323",
+    "https://openalex.org/W2951574831",
+    "https://openalex.org/W2956135446",
+    "https://openalex.org/W2966173994",
+    "https://openalex.org/W2970900203",
+    "https://openalex.org/W2989672233",
+    "https://openalex.org/W2991598253",
+    "https://openalex.org/W2997318842",
+    "https://openalex.org/W3012465996",
+    "https://openalex.org/W3160977154",
+    "https://openalex.org/W3167927060",
+    "https://openalex.org/W3176948673",
+    "https://openalex.org/W3208829492",
+    "https://openalex.org/W4200472475",
+    "https://openalex.org/W4236345857",
+    "https://openalex.org/W4239693275",
+    "https://openalex.org/W4242406013",
+    "https://openalex.org/W4253447202",
+    "https://openalex.org/W4255056206",
+    "https://openalex.org/W6814362527",
+    "https://openalex.org/W7047036817"
+  ],
+  "related_works": [
+    "https://openalex.org/W3214128875",
+    "https://openalex.org/W2885775724",
+    "https://openalex.org/W2071589850",
+    "https://openalex.org/W4396954088",
+    "https://openalex.org/W1989424542",
+    "https://openalex.org/W1974132134",
+    "https://openalex.org/W7130788309",
+    "https://openalex.org/W7167861404",
+    "https://openalex.org/W1528286763",
+    "https://openalex.org/W1994140716"
+  ],
+  "abstract_inverted_index": {
+    "Past": [
+      0
+    ],
+    "research": [
+      1,
+      87
+    ],
+    "syntheses": [
+      2,
+      88
+    ],
+    "provided": [
+      3
+    ],
+    "evidence": [
+      4,
+      171
+    ],
+    "that": [
+      5,
+      45,
+      210
+    ],
+    "personality": [
+      6,
+      34,
+      73,
+      90,
+      135,
+      241,
+      249
+    ],
+    "traits": [
+      7,
+      35,
+      136,
+      242
+    ],
+    "are": [
+      8
+    ],
+    "both": [
+      9
+    ],
+    "stable": [
+      10,
+      219
+    ],
+    "and": [
+      11,
+      76,
+      84,
+      109,
+      198,
+      213,
+      223,
+      243
+    ],
+    "changeable": [
+      12
+    ],
+    "throughout": [
+      13,
+      139
+    ],
+    "the": [
+      14,
+      56,
+      79,
+      131,
+      158,
+      185,
+      202,
+      228,
+      237,
+      248
+    ],
+    "lifespan.": [
+      15,
+      80
+    ],
+    "However,": [
+      16
+    ],
+    "early": [
+      17,
+      140
+    ],
+    "meta-analytic": [
+      18,
+      129
+    ],
+    "estimates": [
+      19,
+      71
+    ],
+    "were": [
+      20,
+      46,
+      187,
+      217
+    ],
+    "constrained": [
+      21
+    ],
+    "by": [
+      22,
+      93
+    ],
+    "a": [
+      23,
+      144,
+      232
+    ],
+    "relatively": [
+      24
+    ],
+    "small": [
+      25,
+      37
+    ],
+    "universe": [
+      26
+    ],
+    "of": [
+      27,
+      31,
+      62,
+      72,
+      134,
+      160,
+      236,
+      240
+    ],
+    "longitudinal": [
+      28,
+      96
+    ],
+    "studies,": [
+      29
+    ],
+    "many": [
+      30
+    ],
+    "which": [
+      32
+    ],
+    "tracked": [
+      33
+    ],
+    "in": [
+      36,
+      146,
+      151,
+      157,
+      247
+    ],
+    "samples": [
+      38
+    ],
+    "over": [
+      39
+    ],
+    "moderate": [
+      40
+    ],
+    "time": [
+      41
+    ],
+    "periods": [
+      42
+    ],
+    "using": [
+      43
+    ],
+    "measures": [
+      44,
+      216
+    ],
+    "only": [
+      47
+    ],
+    "loosely": [
+      48
+    ],
+    "related": [
+      49
+    ],
+    "to": [
+      50,
+      165
+    ],
+    "contemporary": [
+      51
+    ],
+    "trait": [
+      52,
+      74,
+      91,
+      182,
+      215,
+      225
+    ],
+    "models": [
+      53
+    ],
+    "such": [
+      54
+    ],
+    "as": [
+      55
+    ],
+    "Big": [
+      57
+    ],
+    "Five.": [
+      58
+    ],
+    "Since": [
+      59
+    ],
+    "then,": [
+      60
+    ],
+    "hundreds": [
+      61
+    ],
+    "new": [
+      63
+    ],
+    "studies": [
+      64,
+      120
+    ],
+    "have": [
+      65
+    ],
+    "emerged": [
+      66
+    ],
+    "allowing": [
+      67
+    ],
+    "for": [
+      68,
+      172
+    ],
+    "more": [
+      69,
+      199,
+      233
+    ],
+    "precise": [
+      70,
+      234
+    ],
+    "stability": [
+      75,
+      100,
+      133,
+      152
+    ],
+    "change": [
+      77,
+      111
+    ],
+    "across": [
+      78,
+      184,
+      201
+    ],
+    "Here,": [
+      81
+    ],
+    "we": [
+      82,
+      168
+    ],
+    "updated": [
+      83
+    ],
+    "extended": [
+      85
+    ],
+    "previous": [
+      86,
+      166
+    ],
+    "on": [
+      89,
+      98
+    ],
+    "development": [
+      92,
+      239,
+      250
+    ],
+    "synthesizing": [
+      94
+    ],
+    "novel": [
+      95
+    ],
+    "data": [
+      97
+    ],
+    "rank-order": [
+      99,
+      132,
+      174
+    ],
+    "(total": [
+      101,
+      112
+    ],
+    "k": [
+      102,
+      113
+    ],
+    "=": [
+      103,
+      107,
+      114,
+      117
+    ],
+    "189,": [
+      104
+    ],
+    "total": [
+      105
+    ],
+    "N": [
+      106,
+      116
+    ],
+    "178,503)": [
+      108
+    ],
+    "mean-level": [
+      110,
+      155,
+      181
+    ],
+    "276,": [
+      115
+    ],
+    "242,542)": [
+      118
+    ],
+    "from": [
+      119
+    ],
+    "published": [
+      121
+    ],
+    "after": [
+      122,
+      176
+    ],
+    "January": [
+      123
+    ],
+    "1st": [
+      124
+    ],
+    "2005.": [
+      125
+    ],
+    "Consistent": [
+      126
+    ],
+    "with": [
+      127,
+      154
+    ],
+    "earlier": [
+      128
+    ],
+    "findings,": [
+      130,
+      167
+    ],
+    "increased": [
+      137,
+      196
+    ],
+    "significantly": [
+      138
+    ],
+    "life": [
+      141
+    ],
+    "before": [
+      142
+    ],
+    "reaching": [
+      143
+    ],
+    "plateau": [
+      145
+    ],
+    "young": [
+      147
+    ],
+    "adulthood.": [
+      148
+    ],
+    "These": [
+      149
+    ],
+    "increases": [
+      150
+    ],
+    "coincide": [
+      153
+    ],
+    "changes": [
+      156,
+      183
+    ],
+    "direction": [
+      159
+    ],
+    "greater": [
+      161
+    ],
+    "maturity.": [
+      162
+    ],
+    "In": [
+      163
+    ],
+    "contrast": [
+      164
+    ],
+    "found": [
+      169
+    ],
+    "little": [
+      170
+    ],
+    "increasing": [
+      173
+    ],
+    "stabilities": [
+      175
+    ],
+    "age": [
+      177
+    ],
+    "25.": [
+      178
+    ],
+    "Moreover,": [
+      179
+    ],
+    "cumulative": [
+      180
+    ],
+    "lifespan": [
+      186,
+      203,
+      238
+    ],
+    "slightly": [
+      188
+    ],
+    "smaller": [
+      189
+    ],
+    "than": [
+      190,
+      204,
+      220
+    ],
+    "previously": [
+      191,
+      205
+    ],
+    "estimated.": [
+      192
+    ],
+    "Emotional": [
+      193
+    ],
+    "stability,": [
+      194
+    ],
+    "however,": [
+      195
+    ],
+    "consistently": [
+      197
+    ],
+    "substantially": [
+      200
+    ],
+    "found.": [
+      206
+    ],
+    "Moderator": [
+      207
+    ],
+    "analyses": [
+      208
+    ],
+    "indicated": [
+      209
+    ],
+    "narrow": [
+      211
+    ],
+    "facet-level": [
+      212
+    ],
+    "maladaptive": [
+      214
+    ],
+    "less": [
+      218
+    ],
+    "broader": [
+      221
+    ],
+    "domain": [
+      222
+    ],
+    "adaptive": [
+      224
+    ],
+    "measures.": [
+      226
+    ],
+    "Overall,": [
+      227
+    ],
+    "present": [
+      229
+    ],
+    "findings": [
+      230
+    ],
+    "draw": [
+      231
+    ],
+    "picture": [
+      235
+    ],
+    "highlight": [
+      244
+    ],
+    "important": [
+      245
+    ],
+    "gaps": [
+      246
+    ],
+    "literature.": [
+      251
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 102
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 168
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 124
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 75
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-11-04T10:54:05.112534",
+  "created_date": "2022-07-15T00:00:00"
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "S37",
+    "title": "Alavi Leidner knowledge management review",
+    "url": "https://aisel.aisnet.org/misq/vol25/iss1/2/",
+    "status": 200,
+    "final_url": "https://aisel.aisnet.org/misq/vol25/iss1/2/",
+    "chars": 6275
+  },
+  {
+    "id": "S38",
+    "title": "Crossref scholarly metadata",
+    "url": "https://api.crossref.org/works/10.2307/3250961",
+    "status": 200,
+    "final_url": "https://api.crossref.org/works/10.2307/3250961",
+    "chars": 2728
+  },
+  {
+    "id": "S39",
+    "title": "Gneiting Raftery scoring rules paper",
+    "url": "https://stat.uw.edu/research/tech-reports/strictly-proper-scoring-rules-prediction-and-estimation",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+  },
+  {
+    "id": "S40",
+    "title": "Farnam Street decision journal",
+    "url": "https://fs.blog/decision-journal/",
+    "status": 200,
+    "final_url": "https://fs.blog/decision-journal/",
+    "chars": 7773
+  },
+  {
+    "id": "S41",
+    "title": "Derek Sivers public book notes",
+    "url": "https://sive.rs/book",
+    "status": 200,
+    "final_url": "https://sive.rs/book",
+    "chars": 154274
+  },
+  {
+    "id": "S42",
+    "title": "Duan search Sogou",
+    "url": "https://www.sogou.com/web?query=%E6%AE%B5%E6%B0%B8%E5%B9%B3%20%E5%81%9A%E5%AF%B9%E7%9A%84%E4%BA%8B%E6%83%85%20%E6%8A%8A%E4%BA%8B%E6%83%85%E5%81%9A%E5%AF%B9%20%E6%B5%99%E5%A4%A7%20%E8%AE%BF%E8%B0%88",
+    "status": 200,
+    "final_url": "https://www.sogou.com/antispider/?m=1&antip=web_hd&from=%2Fwebsearch%2Fsogou.jsp%3Fquery%3D%25E6%25AE%25B5%25E6%25B0%25B8%25E5%25B9%25B3%2520%25E5%2581%259A%25E5%25AF%25B9%25E7%259A%2584%25E4%25BA%258B%25E6%2583%2585%2520%25E6%258A%258A%25E4%25BA%258B%25E6%2583%2585%25E5%2581%259A%25E5%25AF%25B9%2520%25E6%25B5%2599%25E5%25A4%25A7%2520%25E8%25AE%25BF%25E8%25B0%2588&suuid=69c13e47-077e-4be7-81fb-f068c5b5e46a",
+    "chars": 264
+  },
+  {
+    "id": "S43",
+    "title": "Duan search Baidu",
+    "url": "https://www.baidu.com/s?wd=%E6%AE%B5%E6%B0%B8%E5%B9%B3%20%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6%202025%20%E8%AE%BF%E8%B0%88%20%E6%8A%95%E8%B5%84",
+    "status": 200,
+    "final_url": "https://wappass.baidu.com/static/captcha/tuxing_v2.html?&logid=12274013749113738655&ak=c27bbc89afca0463650ac9bde68ebe06&backurl=https%3A%2F%2Fwww.baidu.com%2Fs%3Fwd%3D%25E6%25AE%25B5%25E6%25B0%25B8%25E5%25B9%25B3%2520%25E6%25B5%2599%25E6%25B1%259F%25E5%25A4%25A7%25E5%25AD%25A6%25202025%2520%25E8%25AE%25BF%25E8%25B0%2588%2520%25E6%258A%2595%25E8%25B5%2584&ext=x9G9QDmMXq%2FNo87gjGO0P%2FSgVKePGhxdvEh3gEF5lQymz3O%2FBOxvuSFwUtB1f0RqUgqUK9LXd1cIlztrhMwiv5UD8stiaRiXZE5L1NRKbsLN27TG8uvv8SLCyIOEZ97r&signature=b29cf144ca2019d460a45dbf33049927&timestamp=1793838953",
+    "chars": 39
+  },
+  {
+    "id": "S44",
+    "title": "Luhmann translated original essay",
+    "url": "https://luhmann.surge.sh/communicating-with-slip-boxes",
+    "status": 200,
+    "final_url": "https://luhmann.surge.sh/communicating-with-slip-boxes",
+    "chars": 17694
+  },
+  {
+    "id": "S45",
+    "title": "Poor Charlie electronic book",
+    "url": "https://www.stripe.press/poor-charlies-almanack/introduction",
+    "status": 200,
+    "final_url": "https://www.stripe.press/poor-charlies-almanack/introduction",
+    "chars": 76
+  }
+]

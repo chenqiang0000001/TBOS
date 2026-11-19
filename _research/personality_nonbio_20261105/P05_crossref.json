@@ -1,0 +1,411 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        4
+      ]
+    ],
+    "date-time": "2026-11-04T20:15:49Z",
+    "timestamp": 1793823349456,
+    "version": "4.6.1"
+  },
+  "reference-count": 36,
+  "publisher": "National Academy of Sciences",
+  "issue": "46",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            4,
+            30
+          ]
+        ],
+        "date-time": "2020-04-30T00:00:00Z",
+        "timestamp": 1588204800000
+      },
+      "content-version": "vor",
+      "delay-in-days": 183,
+      "URL": "https://www.pnas.org/site/aboutpnas/licenses.xhtml"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "www.pnas.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Proc. Natl. Acad. Sci. U.S.A."
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2019,
+        11,
+        12
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Significance</jats:title>\n                  <jats:p>\n                    Conscientiousness (C) is the most potent noncognitive predictor of occupational performance. However, questions remain about how C relates to a plethora of occupational variables, what its defining characteristics and functions are in occupational settings, and whether its performance relation differs across occupations. To answer these questions, we quantitatively review 92 meta-analyses reporting relations to 175 occupational variables. Across variables, results reveal a substantial mean effect of\n                    <jats:inline-formula>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:mrow>\n                          <mml:msub>\n                            <mml:mrow>\n                              <mml:mover accent=\"true\">\n                                <mml:mo>ρ</mml:mo>\n                                <mml:mo>¯</mml:mo>\n                              </mml:mover>\n                            </mml:mrow>\n                            <mml:mi mathvariant=\"italic\">M</mml:mi>\n                          </mml:msub>\n                          <mml:mo>=</mml:mo>\n                          <mml:mn>20</mml:mn>\n                          <mml:mo>.</mml:mo>\n                        </mml:mrow>\n                      </mml:math>\n                    </jats:inline-formula>\n                    We then use results to synthesize 10 themes that characterize C in occupational settings. Finally, we discover that performance effects of C are weaker in high-complexity versus low- to moderate-complexity occupations. Thus, for optimal occupational performance, we encourage decision makers to match C’s goal-directed motivation and behavioral restraint to more predictable environments.\n                  </jats:p>",
+  "DOI": "10.1073/pnas.1908430116",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2019,
+        10,
+        30
+      ]
+    ],
+    "date-time": "2019-10-30T19:25:19Z",
+    "timestamp": 1572463519000
+  },
+  "page": "23004-23010",
+  "update-policy": "https://doi.org/10.1073/pnas.cm10313",
+  "source": "Crossref",
+  "is-referenced-by-count": 192,
+  "title": [
+    "A century of research on conscientiousness at work"
+  ],
+  "prefix": "10.1073",
+  "volume": "116",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-3062-7651",
+      "authenticated-orcid": false,
+      "given": "Michael P.",
+      "family": "Wilmot",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Management, University of Toronto Scarborough, Toronto, ON M1C 1A4, Canada;"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-1739-8951",
+      "authenticated-orcid": false,
+      "given": "Deniz S.",
+      "family": "Ones",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Psychology, University of Minnesota, Minneapolis, MN 55455"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "341",
+  "published-online": {
+    "date-parts": [
+      [
+        2019,
+        10,
+        30
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_3_3_1_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0033-2909.124.2.262"
+    },
+    {
+      "key": "e_1_3_3_2_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1744-6570.2008.00132.x"
+    },
+    {
+      "key": "e_1_3_3_3_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/apl0000195"
+    },
+    {
+      "key": "e_1_3_3_4_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1744-6570.2008.00123.x"
+    },
+    {
+      "key": "e_1_3_3_5_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/apl0000151"
+    },
+    {
+      "key": "e_1_3_3_6_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/1088868311418749"
+    },
+    {
+      "key": "e_1_3_3_7_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/pspp0000102"
+    },
+    {
+      "key": "e_1_3_3_8_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.1803561115"
+    },
+    {
+      "key": "e_1_3_3_9_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/a0031109"
+    },
+    {
+      "key": "e_1_3_3_10_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/a0026838"
+    },
+    {
+      "key": "e_1_3_3_11_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0033-2909.130.6.887"
+    },
+    {
+      "key": "e_1_3_3_12_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/a0033901"
+    },
+    {
+      "key": "e_1_3_3_13_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0033-2909.134.1.138"
+    },
+    {
+      "key": "e_1_3_3_14_2",
+      "volume-title": "Methods of Meta-Analysis: Correcting Error and Bias in Research Findings",
+      "author": "Hunter J. E.",
+      "year": "2014",
+      "unstructured": "J. E. Hunter, F. L. Schmidt, Methods of Meta-Analysis: Correcting Error and Bias in Research Findings (Sage, Thousand Oaks, CA, ed. 3, 2014).",
+      "edition": "3"
+    },
+    {
+      "key": "e_1_3_3_15_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.obhdp.2013.03.002"
+    },
+    {
+      "key": "e_1_3_3_16_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.paid.2010.06.014"
+    },
+    {
+      "key": "e_1_3_3_17_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0033-2909.126.1.3"
+    },
+    {
+      "key": "e_1_3_3_18_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0033-2909.132.1.1"
+    },
+    {
+      "key": "e_1_3_3_19_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/bul0000017"
+    },
+    {
+      "key": "e_1_3_3_20_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/mp.2010.128"
+    },
+    {
+      "key": "e_1_3_3_21_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/hbm.24195"
+    },
+    {
+      "key": "e_1_3_3_22_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jrp.2014.07.004"
+    },
+    {
+      "key": "e_1_3_3_23_2",
+      "first-page": "102",
+      "volume-title": "Handbook of Personality: Theory and Research",
+      "author": "John O. P.",
+      "year": "1999",
+      "unstructured": "O. P. John, S. Srivastava, “The big five trait taxonomy: History, measurement, and theoretical perspectives” in Handbook of Personality: Theory and Research, L. A. Pervin, O. P. John, Eds. (Guilford Press, New York, NY, ed. 1, 1999), pp. 102–138.",
+      "edition": "1"
+    },
+    {
+      "key": "e_1_3_3_24_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5465/amr.2010.0479"
+    },
+    {
+      "key": "e_1_3_3_25_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0021-9010.91.1.40"
+    },
+    {
+      "key": "e_1_3_3_26_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.93.5.880"
+    },
+    {
+      "key": "e_1_3_3_27_2",
+      "first-page": "366",
+      "volume-title": "The SAGE Handbook of Industrial, Work and Organizational Psychology",
+      "author": "Stanek K. C.",
+      "year": "2018",
+      "unstructured": "K. C. Stanek, D. S. Ones, “Taxonomies and compendia of cognitive ability and personality constructs and measures relevant to industrial, work and organizational psychology” in The SAGE Handbook of Industrial, Work and Organizational Psychology, D. S. Ones, N. Anderson, C. Viswesvaran, H. K. Sinangil, Eds. (Sage, Thousand Oaks, CA, ed. 2, 2018), pp. 366–407.",
+      "edition": "2"
+    },
+    {
+      "key": "e_1_3_3_28_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/apl0000415"
+    },
+    {
+      "key": "e_1_3_3_29_2",
+      "unstructured": "US Employment Service Dictionary of Occupational Titles (Superintendent of Documents US Government Printing Office Washington DC ed. 4 1977). https://www.occupationalinfo.org."
+    },
+    {
+      "key": "e_1_3_3_30_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/2515245919847202"
+    },
+    {
+      "key": "e_1_3_3_31_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/1548051815614321"
+    },
+    {
+      "key": "e_1_3_3_32_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/ijsa.12164"
+    },
+    {
+      "key": "e_1_3_3_33_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/1069072703255882"
+    },
+    {
+      "key": "e_1_3_3_34_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0963721418793134"
+    },
+    {
+      "key": "e_1_3_3_35_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/2515245919847196"
+    },
+    {
+      "key": "e_1_3_3_36_2",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1744-6570.2012.01243.x"
+    }
+  ],
+  "container-title": [
+    "Proceedings of the National Academy of Sciences"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://pnas.org/doi/pdf/10.1073/pnas.1908430116",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        4,
+        13
+      ]
+    ],
+    "date-time": "2022-04-13T05:50:09Z",
+    "timestamp": 1649829009000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://pnas.org/doi/full/10.1073/pnas.1908430116"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2019,
+        10,
+        30
+      ]
+    ]
+  },
+  "references-count": 36,
+  "journal-issue": {
+    "issue": "46",
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          11,
+          12
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1073/pnas.1908430116"
+  ],
+  "URL": "https://doi.org/10.1073/pnas.1908430116",
+  "relation": {},
+  "ISSN": [
+    "0027-8424",
+    "1091-6490"
+  ],
+  "issn-type": [
+    {
+      "value": "0027-8424",
+      "type": "print"
+    },
+    {
+      "value": "1091-6490",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2019,
+        10,
+        30
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2019-10-30",
+      "order": 2,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ]
+}

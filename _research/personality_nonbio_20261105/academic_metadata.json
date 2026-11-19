@@ -1,0 +1,960 @@
+[
+  {
+    "id": "P01",
+    "doi": "10.1037/bul0000365",
+    "title": "Personality stability and change: A meta-analysis of longitudinal studies.",
+    "abstract": "Past research syntheses provided evidence that personality traits are both stable and changeable throughout the lifespan. However, early meta-analytic estimates were constrained by a relatively small universe of longitudinal studies, many of which tracked personality traits in small samples over moderate time periods using measures that were only loosely related to contemporary trait models such as the Big Five. Since then, hundreds of new studies have emerged allowing for more precise estimates of personality trait stability and change across the lifespan. Here, we updated and extended previous research syntheses on personality trait development by synthesizing novel longitudinal data on rank-order stability (total k = 189, total N = 178,503) and mean-level change (total k = 276, N = 242,542) from studies published after January 1st 2005. Consistent with earlier meta-analytic findings, the rank-order stability of personality traits increased significantly throughout early life before reaching a plateau in young adulthood. These increases in stability coincide with mean-level changes in the direction of greater maturity. In contrast to previous findings, we found little evidence for increasing rank-order stabilities after age 25. Moreover, cumulative mean-level trait changes across the lifespan were slightly smaller than previously estimated. Emotional stability, however, increased consistently and more substantially across the lifespan than previously found. Moderator analyses indicated that narrow facet-level and maladaptive trait measures were less stable than broader domain and adaptive trait measures. Overall, the present findings draw a more precise picture of the lifespan development of personality traits and highlight important gaps in the personality development literature.",
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://psyarxiv.com/eq5d6/download",
+      "any_repository_has_fulltext": true
+    },
+    "locations": [
+      "https://doi.org/10.1037/bul0000365",
+      "https://doi.org/10.31234/osf.io/eq5d6",
+      "https://pubmed.ncbi.nlm.nih.gov/35834197",
+      "https://www.zora.uzh.ch/id/eprint/232971/1/retrieve.pdf",
+      "https://osf.io/eq5d6",
+      "http://doi.org/10.31234/OSF.IO/EQ5D6",
+      "https://www.zora.uzh.ch/handle/20.500.14742/207266",
+      "https://doi.org/10.5167/uzh-232971"
+    ],
+    "pdfs": [
+      "https://psyarxiv.com/eq5d6/download",
+      "https://www.zora.uzh.ch/id/eprint/232971/1/retrieve.pdf"
+    ],
+    "crossref": {
+      "title": [
+        "Personality stability and change: A meta-analysis of longitudinal studies."
+      ],
+      "abstract": null,
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            7,
+            14
+          ]
+        ]
+      },
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-3795-8143",
+          "authenticated-orcid": false,
+          "given": "Wiebke",
+          "family": "Bleidorn",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5491-5386",
+          "authenticated-orcid": false,
+          "given": "Ted",
+          "family": "Schwaba",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0238-8275",
+          "authenticated-orcid": false,
+          "given": "Anqing",
+          "family": "Zheng",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6645-8645",
+          "authenticated-orcid": false,
+          "given": "Christopher J.",
+          "family": "Hopwood",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2945-667X",
+          "authenticated-orcid": false,
+          "given": "Susana S.",
+          "family": "Sosa",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3244-1164",
+          "authenticated-orcid": false,
+          "given": "Brent W.",
+          "family": "Roberts",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6344-597X",
+          "authenticated-orcid": false,
+          "given": "D. A.",
+          "family": "Briley",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1037/bul0000365",
+      "link": [
+        {
+          "URL": "http://psycnet.apa.org/psycarticles/2022-79844-001.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ]
+    }
+  },
+  {
+    "id": "P02",
+    "doi": "10.1037/0033-2909.132.1.1",
+    "title": "Patterns of mean-level change in personality traits across the life course: A meta-analysis of longitudinal studies.",
+    "abstract": "The present study used meta-analytic techniques (number of samples = 92) to determine the patterns of mean-level change in personality traits across the life course. Results showed that people increase in measures of social dominance (a facet of extraversion), conscientiousness, and emotional stability, especially in young adulthood (age 20 to 40). In contrast, people increase on measures of social vitality (a 2nd facet of extraversion) and openness in adolescence but then decrease in both of these domains in old age. Agreeableness changed only in old age. Of the 6 trait categories, 4 demonstrated significant change in middle and old age. Gender and attrition had minimal effects on change, whereas longer studies and studies based on younger cohorts showed greater change.",
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "locations": [
+      "https://doi.org/10.1037/0033-2909.132.1.1",
+      "https://pubmed.ncbi.nlm.nih.gov/16435954",
+      "https://pubmed.ncbi.nlm.nih.gov/16435954"
+    ],
+    "pdfs": [],
+    "crossref": {
+      "title": [
+        "Patterns of mean-level change in personality traits across the life course: A meta-analysis of longitudinal studies."
+      ],
+      "abstract": null,
+      "published": {
+        "date-parts": [
+          [
+            2006,
+            1
+          ]
+        ]
+      },
+      "author": [
+        {
+          "given": "Brent W.",
+          "family": "Roberts",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Kate E.",
+          "family": "Walton",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3463-4063",
+          "authenticated-orcid": false,
+          "given": "Wolfgang",
+          "family": "Viechtbauer",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1037/0033-2909.132.1.1",
+      "link": [
+        {
+          "URL": "http://psycnet.apa.org/journals/bul/132/1/1.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ]
+    }
+  },
+  {
+    "id": "P03",
+    "doi": "10.1037/a0024950",
+    "title": "Stability and change of personality across the life course: The impact of age and major life events on mean-level and rank-order stability of the Big Five.",
+    "abstract": "Does personality change across the entire life course, and are those changes due to intrinsic maturation or major life experiences? This longitudinal study investigated changes in the mean levels and rank order of the Big Five personality traits in a heterogeneous sample of 14,718 Germans across all of adulthood. Latent change and latent moderated regression models provided 4 main findings: First, age had a complex curvilinear influence on mean levels of personality. Second, the rank-order stability of Emotional Stability, Extraversion, Openness, and Agreeableness all followed an inverted U-shaped function, reaching a peak between the ages of 40 and 60 and decreasing afterward, whereas Conscientiousness showed a continuously increasing rank-order stability across adulthood. Third, personality predicted the occurrence of several objective major life events (selection effects) and changed in reaction to experiencing these events (socialization effects), suggesting that personality can change due to factors other than intrinsic maturation. Fourth, when events were clustered according to their valence, as is commonly done, effects of the environment on changes in personality were either overlooked or overgeneralized. In sum, our analyses show that personality changes throughout the life span, but with more pronounced changes in young and old ages, and that this change is partly attributable to social demands and experiences.",
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://doi.org/10.2139/ssrn.1884786",
+      "any_repository_has_fulltext": true
+    },
+    "locations": [
+      "https://doi.org/10.1037/a0024950",
+      "https://doi.org/10.2139/ssrn.1884786",
+      "https://pubmed.ncbi.nlm.nih.gov/21859226",
+      "https://www.diw.de/documents/publikationen/73/diw_01.c.372623.de/diw_sp0377.pdf",
+      "https://ideas.repec.org/p/diw/diwsop/diw_sp377.html",
+      "https://econpapers.repec.org/paper/diwdiwsop/diw_5fsp377.htm",
+      "http://hdl.handle.net/10419/150922"
+    ],
+    "pdfs": [
+      "http://www.diw.de/documents/publikationen/73/diw_01.c.372623.de/diw_sp0377.pdf"
+    ],
+    "crossref": {
+      "title": [
+        "Stability and change of personality across the life course: The impact of age and major life events on mean-level and rank-order stability of the Big Five."
+      ],
+      "abstract": null,
+      "published": {
+        "date-parts": [
+          [
+            2011
+          ]
+        ]
+      },
+      "author": [
+        {
+          "given": "Jule",
+          "family": "Specht",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5736-9912",
+          "authenticated-orcid": false,
+          "given": "Boris",
+          "family": "Egloff",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6279-9618",
+          "authenticated-orcid": false,
+          "given": "Stefan C.",
+          "family": "Schmukle",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1037/a0024950",
+      "link": [
+        {
+          "URL": "http://psycnet.apa.org/journals/psp/101/4/862.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ]
+    }
+  },
+  {
+    "id": "P04",
+    "doi": "10.1111/bjso.12251",
+    "title": "The psychology of social class: How socioeconomic status impacts thought, feelings, and behaviour",
+    "abstract": "Drawing on recent research on the psychology of social class, I argue that the material conditions in which people grow up and live have a lasting impact on their personal and social identities and that this influences both the way they think and feel about their social environment and key aspects of their social behaviour. Relative to middle-class counterparts, lower/working-class individuals are less likely to define themselves in terms of their socioeconomic status and are more likely to have interdependent self-concepts; they are also more inclined to explain social events in situational terms, as a result of having a lower sense of personal control. Working-class people score higher on measures of empathy and are more likely to help others in distress. The widely held view that working-class individuals are more prejudiced towards immigrants and ethnic minorities is shown to be a function of economic threat, in that highly educated people also express prejudice towards these groups when the latter are described as highly educated and therefore pose an economic threat. The fact that middle-class norms of independence prevail in universities and prestigious workplaces makes working-class people less likely to apply for positions in such institutions, less likely to be selected and less likely to stay if selected. In other words, social class differences in identity, cognition, feelings, and behaviour make it less likely that working-class individuals can benefit from educational and occupational opportunities to improve their material circumstances. This means that redistributive policies are needed to break the cycle of deprivation that limits opportunities and threatens social cohesion.",
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/bjso.12251",
+      "any_repository_has_fulltext": true
+    },
+    "locations": [
+      "https://doi.org/10.1111/bjso.12251",
+      "http://europepmc.org/pmc/articles/PMC5901394",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/5901394",
+      "https://pubmed.ncbi.nlm.nih.gov/29492984",
+      "https://orca.cardiff.ac.uk/id/eprint/109026/8/Manstead-2018-British_Journal_of_Social_Psychology.pdf"
+    ],
+    "pdfs": [
+      "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/bjso.12251",
+      "https://orca.cardiff.ac.uk/id/eprint/109026/8/Manstead-2018-British_Journal_of_Social_Psychology.pdf"
+    ],
+    "crossref": {
+      "title": [
+        "The psychology of social class: How socioeconomic status impacts thought, feelings, and behaviour"
+      ],
+      "abstract": "<jats:p>Drawing on recent research on the psychology of social class, I argue that the material conditions in which people grow up and live have a lasting impact on their personal and social identities and that this influences both the way they think and feel about their social environment and key aspects of their social behaviour. Relative to middle‐class counterparts, lower/working‐class individuals are less likely to define themselves in terms of their socioeconomic status and are more likely to have interdependent self‐concepts; they are also more inclined to explain social events in situational terms, as a result of having a lower sense of personal control. Working‐class people score higher on measures of empathy and are more likely to help others in distress. The widely held view that working‐class individuals are more prejudiced towards immigrants and ethnic minorities is shown to be a function of economic threat, in that highly educated people also express prejudice towards these groups when the latter are described as highly educated and therefore pose an economic threat. The fact that middle‐class norms of independence prevail in universities and prestigious workplaces makes working‐class people less likely to apply for positions in such institutions, less likely to be selected and less likely to stay if selected. In other words, social class differences in identity, cognition, feelings, and behaviour make it less likely that working‐class individuals can benefit from educational and occupational opportunities to improve their material circumstances. This means that redistributive policies are needed to break the cycle of deprivation that limits opportunities and threatens social cohesion.</jats:p>",
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            2,
+            28
+          ]
+        ]
+      },
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-7540-2096",
+          "authenticated-orcid": false,
+          "given": "Antony S. R.",
+          "family": "Manstead",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Cardiff University UK"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1111/bjso.12251",
+      "link": [
+        {
+          "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fbjso.12251",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://bpspsychub.onlinelibrary.wiley.com/doi/pdf/10.1111/bjso.12251",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ]
+    }
+  },
+  {
+    "id": "P05",
+    "doi": "10.1073/pnas.1908430116",
+    "title": "A century of research on conscientiousness at work",
+    "abstract": "> 2,500 studies, we present the most comprehensive, quantitative review and synthesis of the occupational effects of C available in the literature. Results show C has effects in a desirable direction for 98% of variables and a grand mean of [Formula: see text] (SD = 0.13), indicative of a potent, pervasive influence across occupational variables. Using the top 33% of effect sizes [Formula: see text] we synthesize 10 characteristic themes of C's occupational functioning: 1) motivation for goal-directed performance, 2) preference for more predictable environments, 3) interpersonal responsibility for shared goals, 4) commitment, 5) perseverance, 6) self-regulatory restraint to avoid counterproductivity, and 7) proficient performance-especially for 8) conventional goals, 9) requiring persistence. Finally, we examine C's relation to performance across 8 occupations. Results indicate that occupational complexity moderates this relation. That is, 10) high occupational complexity versus low-to-moderate occupational complexity attenuates the performance effect of C. Altogether, results suggest that goal-directed performance is fundamental to C and that motivational engagement, behavioral restraint, and environmental predictability influence its optimal occupational expression. We conclude by discussing applied and policy implications of our findings.",
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "bronze",
+      "oa_url": "https://www.pnas.org/content/pnas/116/46/23004.full.pdf",
+      "any_repository_has_fulltext": true
+    },
+    "locations": [
+      "https://doi.org/10.1073/pnas.1908430116",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/6859351",
+      "https://pubmed.ncbi.nlm.nih.gov/31666330"
+    ],
+    "pdfs": [
+      "https://www.pnas.org/content/pnas/116/46/23004.full.pdf"
+    ],
+    "crossref": {
+      "title": [
+        "A century of research on conscientiousness at work"
+      ],
+      "abstract": "<jats:title>Significance</jats:title>\n                  <jats:p>\n                    Conscientiousness (C) is the most potent noncognitive predictor of occupational performance. However, questions remain about how C relates to a plethora of occupational variables, what its defining characteristics and functions are in occupational settings, and whether its performance relation differs across occupations. To answer these questions, we quantitatively review 92 meta-analyses reporting relations to 175 occupational variables. Across variables, results reveal a substantial mean effect of\n                    <jats:inline-formula>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:mrow>\n                          <mml:msub>\n                            <mml:mrow>\n                              <mml:mover accent=\"true\">\n                                <mml:mo>ρ</mml:mo>\n                                <mml:mo>¯</mml:mo>\n                              </mml:mover>\n                            </mml:mrow>\n                            <mml:mi mathvariant=\"italic\">M</mml:mi>\n                          </mml:msub>\n                          <mml:mo>=</mml:mo>\n                          <mml:mn>20</mml:mn>\n                          <mml:mo>.</mml:mo>\n                        </mml:mrow>\n                      </mml:math>\n                    </jats:inline-formula>\n                    We then use results to synthesize 10 themes that characterize C in occupational settings. Finally, we discover that performance effects of C are weaker in high-complexity versus low- to moderate-complexity occupations. Thus, for optimal occupational performance, we encourage decision makers to match C’s goal-directed motivation and behavioral restraint to more predictable environments.\n                  </jats:p>",
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            10,
+            30
+          ]
+        ]
+      },
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-3062-7651",
+          "authenticated-orcid": false,
+          "given": "Michael P.",
+          "family": "Wilmot",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Management, University of Toronto Scarborough, Toronto, ON M1C 1A4, Canada;"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1739-8951",
+          "authenticated-orcid": false,
+          "given": "Deniz S.",
+          "family": "Ones",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Psychology, University of Minnesota, Minneapolis, MN 55455"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1073/pnas.1908430116",
+      "link": [
+        {
+          "URL": "https://pnas.org/doi/pdf/10.1073/pnas.1908430116",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ]
+    }
+  },
+  {
+    "id": "P06",
+    "doi": "10.1037/a0014996",
+    "title": "A meta-analysis of the five-factor model of personality and academic performance.",
+    "abstract": "This article reports a meta-analysis of personality-academic performance relationships, based on the 5-factor model, in which cumulative sample sizes ranged to over 70,000. Most analyzed studies came from the tertiary level of education, but there were similar aggregate samples from secondary and tertiary education. There was a comparatively smaller sample derived from studies at the primary level. Academic performance was found to correlate significantly with Agreeableness, Conscientiousness, and Openness. Where tested, correlations between Conscientiousness and academic performance were largely independent of intelligence. When secondary academic performance was controlled for, Conscientiousness added as much to the prediction of tertiary academic performance as did intelligence. Strong evidence was found for moderators of correlations. Academic level (primary, secondary, or tertiary), average age of participant, and the interaction between academic level and age significantly moderated correlations with academic performance. Possible explanations for these moderator effects are discussed, and recommendations for future research are provided.",
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "locations": [
+      "https://doi.org/10.1037/a0014996",
+      "https://pubmed.ncbi.nlm.nih.gov/19254083",
+      "http://hdl.handle.net/10072/30324"
+    ],
+    "pdfs": [],
+    "crossref": {
+      "title": [
+        "A meta-analysis of the five-factor model of personality and academic performance."
+      ],
+      "abstract": null,
+      "published": {
+        "date-parts": [
+          [
+            2009,
+            3
+          ]
+        ]
+      },
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-8496-1815",
+          "authenticated-orcid": false,
+          "given": "Arthur E.",
+          "family": "Poropat",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1037/a0014996",
+      "link": [
+        {
+          "URL": "http://psycnet.apa.org/journals/bul/135/2/322.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ]
+    }
+  },
+  {
+    "id": "P07",
+    "doi": "10.1037/pspp0000102",
+    "title": "Much ado about grit: A meta-analytic synthesis of the grit literature.",
+    "abstract": "Grit has been presented as a higher order personality trait that is highly predictive of both success and performance and distinct from other traits such as conscientiousness. This paper provides a meta-analytic review of the grit literature with a particular focus on the structure of grit and the relation between grit and performance, retention, conscientiousness, cognitive ability, and demographic variables. Our results based on 584 effect sizes from 88 independent samples representing 66,807 individuals indicate that the higher order structure of grit is not confirmed, that grit is only moderately correlated with performance and retention, and that grit is very strongly correlated with conscientiousness. We also find that the perseverance of effort facet has significantly stronger criterion validities than the consistency of interest facet and that perseverance of effort explains variance in academic performance even after controlling for conscientiousness. In aggregate our results suggest that interventions designed to enhance grit may only have weak effects on performance and success, that the construct validity of grit is in question, and that the primary utility of the grit construct may lie in the perseverance facet. (PsycINFO Database Record",
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "locations": [
+      "https://doi.org/10.1037/pspp0000102",
+      "https://pubmed.ncbi.nlm.nih.gov/27845531"
+    ],
+    "pdfs": [],
+    "crossref": {
+      "title": [
+        "Much ado about grit: A meta-analytic synthesis of the grit literature."
+      ],
+      "abstract": null,
+      "published": {
+        "date-parts": [
+          [
+            2017,
+            9
+          ]
+        ]
+      },
+      "author": [
+        {
+          "given": "Marcus",
+          "family": "Credé",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Michael C.",
+          "family": "Tynan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4477-6313",
+          "authenticated-orcid": false,
+          "given": "Peter D.",
+          "family": "Harms",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1037/pspp0000102",
+      "link": [
+        {
+          "URL": "https://psycnet.apa.org/journals/psp/113/3/492.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ]
+    }
+  },
+  {
+    "id": "P08",
+    "doi": "10.1177/0956797617739704",
+    "title": "To What Extent and Under Which Circumstances Are Growth Mind-Sets Important to Academic Achievement? Two Meta-Analyses",
+    "abstract": "Mind-sets (aka implicit theories) are beliefs about the nature of human attributes (e.g., intelligence). The theory holds that individuals with growth mind-sets (beliefs that attributes are malleable with effort) enjoy many positive outcomes-including higher academic achievement-while their peers who have fixed mind-sets experience negative outcomes. Given this relationship, interventions designed to increase students' growth mind-sets-thereby increasing their academic achievement-have been implemented in schools around the world. In our first meta-analysis ( k = 273, N = 365,915), we examined the strength of the relationship between mind-set and academic achievement and potential moderating factors. In our second meta-analysis ( k = 43, N = 57,155), we examined the effectiveness of mind-set interventions on academic achievement and potential moderating factors. Overall effects were weak for both meta-analyses. However, some results supported specific tenets of the theory, namely, that students with low socioeconomic status or who are academically at risk might benefit from mind-set interventions.",
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "locations": [
+      "https://doi.org/10.1177/0956797617739704",
+      "https://pubmed.ncbi.nlm.nih.gov/29505339"
+    ],
+    "pdfs": [],
+    "crossref": {
+      "title": [
+        "To What Extent and Under Which Circumstances Are Growth Mind-Sets Important to Academic Achievement? Two Meta-Analyses"
+      ],
+      "abstract": "<jats:p>Mind-sets (aka implicit theories) are beliefs about the nature of human attributes (e.g., intelligence). The theory holds that individuals with growth mind-sets (beliefs that attributes are malleable with effort) enjoy many positive outcomes—including higher academic achievement—while their peers who have fixed mind-sets experience negative outcomes. Given this relationship, interventions designed to increase students’ growth mind-sets—thereby increasing their academic achievement—have been implemented in schools around the world. In our first meta-analysis ( k = 273, N = 365,915), we examined the strength of the relationship between mind-set and academic achievement and potential moderating factors. In our second meta-analysis ( k = 43, N = 57,155), we examined the effectiveness of mind-set interventions on academic achievement and potential moderating factors. Overall effects were weak for both meta-analyses. However, some results supported specific tenets of the theory, namely, that students with low socioeconomic status or who are academically at risk might benefit from mind-set interventions.</jats:p>",
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            3,
+            5
+          ]
+        ]
+      },
+      "author": [
+        {
+          "given": "Victoria F.",
+          "family": "Sisk",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Psychological Sciences, Case Western Reserve University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Alexander P.",
+          "family": "Burgoyne",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Psychology, Michigan State University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jingze",
+          "family": "Sun",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Psychological Sciences, Case Western Reserve University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jennifer L.",
+          "family": "Butler",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Psychological Sciences, Case Western Reserve University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Brooke N.",
+          "family": "Macnamara",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Psychological Sciences, Case Western Reserve University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1177/0956797617739704",
+      "link": [
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/0956797617739704",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/0956797617739704",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/0956797617739704",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ]
+    }
+  },
+  {
+    "id": "P09",
+    "doi": "10.1037/0022-3514.80.6.1011",
+    "title": "Toward a structure- and process-integrated view of personality: Traits as density distributions of states.",
+    "abstract": "Three experience-sampling studies explored the distributions of Big-Five-relevant states (behavior) across 2 to 3 weeks of everyday life. Within-person variability was high, such that the typical individual regularly and routinely manifested nearly all levels of all traits in his or her everyday behavior. Second, individual differences in central tendencies of behavioral distributions were almost perfectly stable. Third, amount of behavioral variability (and skew and kurtosis) were revealed as stable individual differences. Finally, amount of within-person variability in extraversion was shown to reflect individual differences in reactivity to extraversion-relevant situational cues. Thus, decontextualized and noncontingent Big-Five content is highly useful for descriptions of individuals' density distributions as wholes. Simultaneously, contextualized and contingent personality units (e.g., conditional traits, goals) are needed for describing the considerable within-person variation.",
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "locations": [
+      "https://doi.org/10.1037//0022-3514.80.6.1011",
+      "https://doi.org/10.1037/0022-3514.80.6.1011",
+      "https://pubmed.ncbi.nlm.nih.gov/11414368",
+      "https://pubmed.ncbi.nlm.nih.gov/11414368"
+    ],
+    "pdfs": [],
+    "crossref": {
+      "title": [
+        "Toward a structure- and process-integrated view of personality: Traits as density distributions of states."
+      ],
+      "abstract": null,
+      "published": {
+        "date-parts": [
+          [
+            2001
+          ]
+        ]
+      },
+      "author": [
+        {
+          "given": "William",
+          "family": "Fleeson",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1037/0022-3514.80.6.1011",
+      "link": [
+        {
+          "URL": "http://psycnet.apa.org/journals/psp/80/6/1011.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ]
+    }
+  },
+  {
+    "id": "P10",
+    "doi": "10.1177/0963721413475622",
+    "title": "Narrative Identity",
+    "abstract": "Narrative identity is a person’s internalized and evolving life story, integrating the reconstructed past and imagined future to provide life with some degree of unity and purpose. In recent studies on narrative identity, researchers have paid a great deal of attention to (a) psychological adaptation and (b) development. Research into the relation between life stories and adaptation shows that narrators who find redemptive meanings in suffering and adversity, and who construct life stories that feature themes of personal agency and exploration, tend to enjoy higher levels of mental health, well-being, and maturity. Researchers have tracked the development of narrative identity from its origins in conversations between parents and their young children to the articulation of sophisticated meaning-making strategies in the personal stories told in adolescence and the emerging adulthood years. Future researchers need to (a) disentangle causal relations between features of life stories and positive psychological adaptation and (b) explore further the role of broad cultural contexts in the development of narrative identity.",
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "locations": [
+      "https://doi.org/10.1177/0963721413475622"
+    ],
+    "pdfs": [],
+    "crossref": {
+      "title": [
+        "Narrative Identity"
+      ],
+      "abstract": "<jats:p>Narrative identity is a person’s internalized and evolving life story, integrating the reconstructed past and imagined future to provide life with some degree of unity and purpose. In recent studies on narrative identity, researchers have paid a great deal of attention to (a) psychological adaptation and (b) development. Research into the relation between life stories and adaptation shows that narrators who find redemptive meanings in suffering and adversity, and who construct life stories that feature themes of personal agency and exploration, tend to enjoy higher levels of mental health, well-being, and maturity. Researchers have tracked the development of narrative identity from its origins in conversations between parents and their young children to the articulation of sophisticated meaning-making strategies in the personal stories told in adolescence and the emerging adulthood years. Future researchers need to (a) disentangle causal relations between features of life stories and positive psychological adaptation and (b) explore further the role of broad cultural contexts in the development of narrative identity.</jats:p>",
+      "published": {
+        "date-parts": [
+          [
+            2013,
+            6
+          ]
+        ]
+      },
+      "author": [
+        {
+          "given": "Dan P.",
+          "family": "McAdams",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Psychology and School of Education and Social Policy, Northwestern University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Kate C.",
+          "family": "McLean",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Psychology, Western Washington University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1177/0963721413475622",
+      "link": [
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/0963721413475622",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/0963721413475622",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/0963721413475622",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ]
+    }
+  },
+  {
+    "id": "P11",
+    "doi": "10.1037/pspp0000096",
+    "title": "The next Big Five Inventory (BFI-2): Developing and assessing a hierarchical model with 15 facets to enhance bandwidth, fidelity, and predictive power.",
+    "abstract": "(see record 2017-26058-001).In the article, all citations to McCrae and Costa (2008), except for the instance in which it appears in the first paragraph of the introduction, should instead appear as McCrae and Costa (2010). The complete citation should read as follows: McCrae, R. R., & Costa, P. T. (2010). NEO Inventories professional manual. Lutz, FL: Psychological Assessment Resources. The attribution to the BFI-2 items that appears in the Table 6 note should read as follows: BFI-2 items adapted from \"Conceptualization, Development, and Initial Validation of the Big Five Inventory-2,\" by C. J. Soto and O. P. John, 2015, Paper presented at the biennial meeting of the Association for Research in Personality. Copyright 2015 by Oliver P. John and Christopher J. Soto. The complete citation in the References list should appear as follows: Soto, C. J., & John, O. P. (2015, June). Conceptualization, development, and initial validation of the Big Five Inventory-2. Paper presented at the biennial meeting of the Association for Research in Personality, St. Louis, MO. Available from http://www.colby.edu/psych/personality-lab/ All versions of this article have been corrected. All versions of this article have been corrected.] Three studies were conducted to develop and validate the Big Five Inventory-2 (BFI-2), a major revision of the Big Five Inventory (BFI). Study 1 specified a hierarchical model of personality structure with 15 facet traits nested within the Big Five domains, and developed a preliminary item pool to measure this structure. Study 2 used conceptual and empirical criteria to construct the BFI-2 domain and facet scales from the preliminary item pool. Study 3 used data from 2 validation samples to evaluate the BFI-2's measurement properties and substantive relations with self-reported and peer-reported criteria. The results of these studies indicate that the BFI-2 is a reliable and valid personality measure, and an important advance over the original BFI. Specifically, the BFI-2 introduces a robust hierarchical structure, controls for individual differences in acquiescent responding, and provides greater bandwidth, fidelity, and predictive power than the original BFI, while still retaining the original measure's conceptual focus, brevity, and ease of understanding. The BFI-2 therefore offers valuable new opportunities for research examining the structure, assessment, development, and life outcomes of personality traits. (PsycINFO Database Record (c) 2017 APA, all rights reserved).",
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://escholarship.org/content/qt16x6n05t/qt16x6n05t.pdf?t=qwp60t",
+      "any_repository_has_fulltext": true
+    },
+    "locations": [
+      "https://doi.org/10.1037/pspp0000096",
+      "https://pubmed.ncbi.nlm.nih.gov/27055049",
+      "https://escholarship.org/uc/item/16x6n05t",
+      "https://escholarship.org/uc/item/16x6n05t"
+    ],
+    "pdfs": [
+      "https://escholarship.org/content/qt16x6n05t/qt16x6n05t.pdf?t=qwp60t"
+    ],
+    "crossref": {
+      "title": [
+        "The next Big Five Inventory (BFI-2): Developing and assessing a hierarchical model with 15 facets to enhance bandwidth, fidelity, and predictive power."
+      ],
+      "abstract": null,
+      "published": {
+        "date-parts": [
+          [
+            2017,
+            7
+          ]
+        ]
+      },
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-2875-8919",
+          "authenticated-orcid": false,
+          "given": "Christopher J.",
+          "family": "Soto",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Oliver P.",
+          "family": "John",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1037/pspp0000096",
+      "link": [
+        {
+          "URL": "http://psycnet.apa.org/journals/psp/113/1/117.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ]
+    }
+  }
+]

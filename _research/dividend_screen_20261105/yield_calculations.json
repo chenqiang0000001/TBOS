@@ -1,0 +1,99 @@
+{
+  "calculation_date": "2026-11-05",
+  "us_price_timestamp": "2026-11-04 16:05:07 America/New_York",
+  "hk_price_timestamp": "2026-11-05 approximately 11:35-11:41 Asia/Hong_Kong; intraday, may be delayed",
+  "price_source_files": [
+    "QUOTES.txt",
+    "QUOTES2.txt"
+  ],
+  "cash_source_notes": "See 已核实公告摘录.md and the linked knowledge-base report. All yields before tax and costs. Annualization is not a payment promise.",
+  "rows": [
+    {
+      "ticker": "VZ",
+      "currency": "USD",
+      "price": 46.17,
+      "cash_per_share": 2.83,
+      "basis": "latest_quarter_annualized",
+      "gross_yield_percent": 6.129521334199697,
+      "price_at_6_percent": 47.16666666666667
+    },
+    {
+      "ticker": "EPD",
+      "currency": "USD",
+      "price": 36.71,
+      "cash_per_share": 2.24,
+      "basis": "latest_quarter_annualized",
+      "gross_yield_percent": 6.1018795968400985,
+      "price_at_6_percent": 37.333333333333336
+    },
+    {
+      "ticker": "EPD",
+      "currency": "USD",
+      "price": 36.71,
+      "cash_per_share": 2.205,
+      "basis": "trailing_12_months_paid",
+      "gross_yield_percent": 6.006537728139472,
+      "price_at_6_percent": 36.75
+    },
+    {
+      "ticker": "MPLX",
+      "currency": "USD",
+      "price": 56.25,
+      "cash_per_share": 4.8444,
+      "basis": "latest_quarter_annualized",
+      "gross_yield_percent": 8.612266666666667,
+      "price_at_6_percent": 80.74000000000001
+    },
+    {
+      "ticker": "00941",
+      "currency": "HKD",
+      "price": 80.75,
+      "cash_per_share": 5.4203,
+      "basis": "latest_two_declared_ordinary_dividends",
+      "gross_yield_percent": 6.7124458204334365,
+      "price_at_6_percent": 90.33833333333334
+    },
+    {
+      "ticker": "00883",
+      "currency": "HKD",
+      "price": 23.04,
+      "cash_per_share": 1.49,
+      "basis": "latest_two_declared_ordinary_dividends",
+      "gross_yield_percent": 6.467013888888889,
+      "price_at_6_percent": 24.833333333333336
+    },
+    {
+      "ticker": "00883",
+      "currency": "HKD",
+      "price": 23.04,
+      "cash_per_share": 1.28,
+      "basis": "FY2025_declared_ordinary_dividends",
+      "gross_yield_percent": 5.555555555555556,
+      "price_at_6_percent": 21.333333333333336
+    },
+    {
+      "ticker": "00823",
+      "currency": "HKD",
+      "price": 40.96,
+      "cash_per_share": 2.5361,
+      "basis": "FY2025_26_DPU",
+      "gross_yield_percent": 6.191650390625,
+      "price_at_6_percent": 42.26833333333333
+    },
+    {
+      "ticker": "UPS",
+      "currency": "USD",
+      "price": 114.31,
+      "cash_per_share": 6.56,
+      "basis": "latest_quarter_annualized",
+      "gross_yield_percent": 5.738780509141807,
+      "price_at_6_percent": 109.33333333333333
+    }
+  ],
+  "checks": {
+    "VZ_9M_FCF_dividend_coverage": 2.0454545454545454,
+    "VZ_9M_dividend_and_buyback_share_of_FCF": 0.7111111111111111,
+    "CM_H1_FCF_dividend_coverage": 0.9903355014147649,
+    "MPLX_9M_adjusted_FCF_minus_distributions_billion_USD": -1.6130000000000002
+  }
+}

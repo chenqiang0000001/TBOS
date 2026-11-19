@@ -1,0 +1,26 @@
+[
+  {
+    "id": "VICI_IR",
+    "url": "https://investors.viciproperties.com/",
+    "retrieved_at_utc": "2026-11-05T04:34:47.560006+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "GLPI_IR",
+    "url": "https://investors.glpropinc.com/",
+    "retrieved_at_utc": "2026-11-05T04:34:47.561010+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "HESM_IR",
+    "url": "https://www.hessmidstream.com/",
+    "retrieved_at_utc": "2026-11-05T04:34:47.561010+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "GIS_IR",
+    "url": "https://investors.generalmills.com/",
+    "retrieved_at_utc": "2026-11-05T04:34:47.561010+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

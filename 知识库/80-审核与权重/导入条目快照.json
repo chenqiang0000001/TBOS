@@ -1,0 +1,3537 @@
+{
+  "batch": "20261105",
+  "snapshot_role": "生成时机器快照；人工判断以真实性与标签审核.md为唯一入口",
+  "records": [
+    {
+      "id": "R001",
+      "group": "身份家庭",
+      "kind": "源文转述",
+      "title": "出生与性别",
+      "content": "材料一、二、四、六记载男性、1999年9月出生；年龄须随记录日期变化。",
+      "refs": [
+        [
+          1,
+          9,
+          17
+        ],
+        [
+          2,
+          55,
+          57
+        ],
+        [
+          4,
+          7,
+          7
+        ],
+        [
+          6,
+          8,
+          8
+        ]
+      ],
+      "issue": "",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R002",
+      "group": "身份家庭",
+      "kind": "源文转述",
+      "title": "籍贯与成长背景",
+      "content": "材料记载江西抚州背景、普通务工家庭；籍贯、户籍和成长地不自动等同。",
+      "refs": [
+        [
+          1,
+          18,
+          20
+        ],
+        [
+          2,
+          58,
+          60
+        ],
+        [
+          4,
+          8,
+          8
+        ]
+      ],
+      "issue": "",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R003",
+      "group": "身份家庭",
+      "kind": "源文转述",
+      "title": "教育经历",
+      "content": "材料记载全日制大专及在职本科经历。",
+      "refs": [
+        [
+          1,
+          21,
+          23
+        ],
+        [
+          1,
+          36,
+          36
+        ],
+        [
+          2,
+          61,
+          63
+        ]
+      ],
+      "issue": "学校、专业、起止日期与本科完成状态未核对。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R004",
+      "group": "身份家庭",
+      "kind": "历史状态",
+      "title": "婚恋状态",
+      "content": "部分材料记载单身未婚。",
+      "refs": [
+        [
+          1,
+          24,
+          26
+        ],
+        [
+          2,
+          64,
+          66
+        ],
+        [
+          4,
+          10,
+          10
+        ]
+      ],
+      "issue": "不能据历史摘要确定当前状态。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R005",
+      "group": "身份家庭",
+      "kind": "源文转述",
+      "title": "家庭成员与职业",
+      "content": "材料记载父母以劳动/务工为主，有一位已婚姐姐。",
+      "refs": [
+        [
+          1,
+          27,
+          35
+        ],
+        [
+          2,
+          67,
+          69
+        ],
+        [
+          6,
+          12,
+          12
+        ]
+      ],
+      "issue": "",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R006",
+      "group": "身份家庭",
+      "kind": "自我描述转述",
+      "title": "家庭资源边界",
+      "content": "材料记载家庭难提供大量投资本金或显著商业资源。",
+      "refs": [
+        [
+          1,
+          38,
+          52
+        ],
+        [
+          2,
+          70,
+          75
+        ]
+      ],
+      "issue": "不等于家庭没有支持，不推导个人能力或人生上限。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R007",
+      "group": "身份家庭",
+      "kind": "待验新增信息",
+      "title": "家庭资产社保与支持责任",
+      "content": "材料六新增父母房车、双人社保、家庭财务边界等描述。",
+      "refs": [
+        [
+          6,
+          65,
+          65
+        ],
+        [
+          6,
+          97,
+          97
+        ]
+      ],
+      "issue": "其他文件未提供对应凭据；不能据此认定家庭责任为零。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R008",
+      "group": "身份家庭",
+      "kind": "自我叙事",
+      "title": "称呼与人生阶段标签",
+      "content": "材料四、六使用“陈慢慢”；材料三使用“奥德赛末期”等阶段叙事。",
+      "refs": [
+        [
+          4,
+          11,
+          11
+        ],
+        [
+          6,
+          62,
+          62
+        ],
+        [
+          3,
+          54,
+          79
+        ]
+      ],
+      "issue": "称呼可由本人确认；阶段叙事不是客观能力结论。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R009",
+      "group": "职业能力",
+      "kind": "经历转述",
+      "title": "跨行业经历",
+      "content": "材料列出流水线、餐饮、外卖、工地、销售、果蔬零售、创业、线上经营等经历。",
+      "refs": [
+        [
+          1,
+          71,
+          104
+        ],
+        [
+          2,
+          83,
+          94
+        ],
+        [
+          6,
+          19,
+          19
+        ]
+      ],
+      "issue": "具体年份、角色、成果与持续时间尚缺，经历不等于专业掌握。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R010",
+      "group": "职业能力",
+      "kind": "经历转述",
+      "title": "软件测试年限",
+      "content": "多份材料记载约6年软件测试经验。",
+      "refs": [
+        [
+          1,
+          125,
+          139
+        ],
+        [
+          2,
+          95,
+          97
+        ],
+        [
+          4,
+          29,
+          31
+        ],
+        [
+          6,
+          16,
+          16
+        ]
+      ],
+      "issue": "属于重复摘要的共同说法，尚无独立履历核对。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R011",
+      "group": "职业能力",
+      "kind": "能力转述",
+      "title": "MES与工业软件主线",
+      "content": "材料将MES/工业软件、制造业务流程、质量管理及测试体系列为职业主线。",
+      "refs": [
+        [
+          1,
+          136,
+          139
+        ],
+        [
+          2,
+          109,
+          111
+        ],
+        [
+          4,
+          29,
+          31
+        ]
+      ],
+      "issue": "",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R012",
+      "group": "职业能力",
+      "kind": "能力转述",
+      "title": "技术与管理能力清单",
+      "content": "材料一提到功能/性能测试、JMeter、Java、腾讯云、团队管理、用例及缺陷管理。",
+      "refs": [
+        [
+          1,
+          141,
+          171
+        ]
+      ],
+      "issue": "目前是技能线索，不是熟练度、认证或项目成果证明。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R013",
+      "group": "职业能力",
+      "kind": "履历待验",
+      "title": "历史任职公司",
+      "content": "材料一提到中兴精密、乐歌、瑞辉等公司。",
+      "refs": [
+        [
+          1,
+          127,
+          139
+        ]
+      ],
+      "issue": "任职身份、公司名称、日期和职责需本人校准。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R014",
+      "group": "职业能力",
+      "kind": "历史状态",
+      "title": "宁波岗位与21.6万年包",
+      "content": "材料一、二、六出现宁波岗位和约21.6万元年包及吃住福利。",
+      "refs": [
+        [
+          1,
+          215,
+          216
+        ],
+        [
+          2,
+          101,
+          103
+        ],
+        [
+          6,
+          18,
+          18
+        ]
+      ],
+      "issue": "材料二称为较新记录；与其他文件的时间顺序待核对。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R015",
+      "group": "职业能力",
+      "kind": "历史状态",
+      "title": "滨州岗位与26万年包",
+      "content": "材料一、二、六记载2026年9月滨州魏桥国科MES测试主管、约26万元年包。",
+      "refs": [
+        [
+          1,
+          203,
+          216
+        ],
+        [
+          2,
+          98,
+          100
+        ],
+        [
+          6,
+          17,
+          17
+        ]
+      ],
+      "issue": "年包不等于税后可投资收入，不能自动作为当前岗位。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R016",
+      "group": "职业能力",
+      "kind": "待验新增信息",
+      "title": "临沂驻场与雇主名称",
+      "content": "材料六后半段改用国科智造、临沂驻场、MES/MOM测试管理等表述。",
+      "refs": [
+        [
+          6,
+          69,
+          70
+        ],
+        [
+          6,
+          98,
+          98
+        ]
+      ],
+      "issue": "雇主、集团、项目地点和居住地须分别确认。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R017",
+      "group": "职业能力",
+      "kind": "历史选项",
+      "title": "上海岗位条件",
+      "content": "材料四列出上海高级测试工程师岗位，19K月薪、1800补贴等条件。",
+      "refs": [
+        [
+          4,
+          32,
+          53
+        ]
+      ],
+      "issue": "这是Offer比较内容，不是已入职或已获得的现行收入。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R018",
+      "group": "职业能力",
+      "kind": "偏好转述",
+      "title": "主业作为现金流与选择权来源",
+      "content": "材料把主业定位为稳定收入、初始资本、履历与选择权基础。",
+      "refs": [
+        [
+          1,
+          173,
+          176
+        ],
+        [
+          2,
+          115,
+          118
+        ],
+        [
+          4,
+          23,
+          27
+        ],
+        [
+          6,
+          21,
+          23
+        ]
+      ],
+      "issue": "是否仍是当前职业定位由本人决定。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R019",
+      "group": "职业能力",
+      "kind": "偏好与状态冲突",
+      "title": "AI技术方向的兴趣与项目参与",
+      "content": "材料一、二记载不愿因高薪强迫转向AI开发；材料六又写到推进工业AI Agent升级。",
+      "refs": [
+        [
+          1,
+          175,
+          176
+        ],
+        [
+          2,
+          116,
+          118
+        ],
+        [
+          6,
+          69,
+          70
+        ]
+      ],
+      "issue": "项目职责、能力、兴趣、计划是不同字段，未必构成直接矛盾。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R020",
+      "group": "职业能力",
+      "kind": "历史规划",
+      "title": "职业与城市的中长期路线",
+      "content": "材料四提出积累MES管理履历、返回长三角及海外岗位/移民备选。",
+      "refs": [
+        [
+          4,
+          54,
+          57
+        ],
+        [
+          4,
+          127,
+          134
+        ]
+      ],
+      "issue": "愿景与备选路线，未提供已实施或可行性证据。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R021",
+      "group": "财务底账",
+      "kind": "冲突待验",
+      "title": "当前年收入口径",
+      "content": "材料三主体写税前21万，材料一/二/六出现21.6万和26万，材料三末段又写26万。",
+      "refs": [
+        [
+          3,
+          90,
+          94
+        ],
+        [
+          3,
+          268,
+          273
+        ],
+        [
+          3,
+          539,
+          539
+        ],
+        [
+          2,
+          124,
+          126
+        ],
+        [
+          6,
+          64,
+          64
+        ]
+      ],
+      "issue": "先确认日期、税前/税后、固定/奖金和福利口径，再生成当前快照。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R022",
+      "group": "财务底账",
+      "kind": "待验比率",
+      "title": "85%储蓄率",
+      "content": "材料三、六将85%写为储蓄率或稳定状态。",
+      "refs": [
+        [
+          3,
+          270,
+          271
+        ],
+        [
+          6,
+          64,
+          64
+        ],
+        [
+          6,
+          100,
+          100
+        ]
+      ],
+      "issue": "分母是税前收入还是税后到账、是否含公积金及福利、观察区间均需确认。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R023",
+      "group": "财务底账",
+      "kind": "估算与推导",
+      "title": "年度可投资结余",
+      "content": "材料四/六写20万—22万元，材料三用21万乘85%得到17.85万元。",
+      "refs": [
+        [
+          4,
+          51,
+          53
+        ],
+        [
+          6,
+          64,
+          64
+        ],
+        [
+          3,
+          268,
+          271
+        ]
+      ],
+      "issue": "算术表达不等于真实税后结余；需账户现金流核对。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R024",
+      "group": "财务底账",
+      "kind": "历史支出",
+      "title": "生活支出与饮食预算",
+      "content": "材料二提到1500元/月加500元其他支出；材料六提到饮食约20元/天。",
+      "refs": [
+        [
+          2,
+          127,
+          129
+        ],
+        [
+          6,
+          64,
+          64
+        ]
+      ],
+      "issue": "不同项目和时间，不能直接替代完整月度生活成本。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R025",
+      "group": "财务底账",
+      "kind": "待验余额",
+      "title": "可投资本金10万或十余万",
+      "content": "材料六分别出现十余万、12万假设和10万参数。",
+      "refs": [
+        [
+          6,
+          63,
+          63
+        ],
+        [
+          6,
+          106,
+          106
+        ],
+        [
+          6,
+          120,
+          120
+        ],
+        [
+          6,
+          240,
+          240
+        ]
+      ],
+      "issue": "是余额、可投资余额还是计算假设待区分；不生成当前净资产。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R026",
+      "group": "财务底账",
+      "kind": "历史余额",
+      "title": "约5000美元基金",
+      "content": "材料一、二、六保留约5000美元基金的历史记录及5万美元目标。",
+      "refs": [
+        [
+          1,
+          253,
+          266
+        ],
+        [
+          2,
+          130,
+          132
+        ],
+        [
+          6,
+          106,
+          106
+        ]
+      ],
+      "issue": "当前是否持有、成本/市值与是否计入人民币本金不明。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R027",
+      "group": "财务底账",
+      "kind": "历史余额",
+      "title": "养老个人账户金额",
+      "content": "材料二记录18192元与更早17192元两个版本。",
+      "refs": [
+        [
+          2,
+          133,
+          135
+        ]
+      ],
+      "issue": "时间不同可产生差异；不得并入可随时投资现金。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R028",
+      "group": "财务底账",
+      "kind": "历史余额",
+      "title": "医保个人账户金额",
+      "content": "材料二记录约4193元。",
+      "refs": [
+        [
+          2,
+          136,
+          138
+        ]
+      ],
+      "issue": "当前余额与用途受限状态未核对。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R029",
+      "group": "财务底账",
+      "kind": "历史余额",
+      "title": "公积金金额",
+      "content": "材料二记录约9060元。",
+      "refs": [
+        [
+          2,
+          139,
+          141
+        ]
+      ],
+      "issue": "当前余额、缴存与提取条件待确认。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R030",
+      "group": "财务底账",
+      "kind": "历史记录",
+      "title": "社保相关缴费月份",
+      "content": "材料二提到约46个月的相关缴费记录。",
+      "refs": [
+        [
+          2,
+          142,
+          144
+        ]
+      ],
+      "issue": "险种、累计/连续月份和截至时间不清。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R031",
+      "group": "财务底账",
+      "kind": "经历转述",
+      "title": "创业失败约30万差额",
+      "content": "材料二、六出现约30万元创业现金流差额，并称通过主副业填补。",
+      "refs": [
+        [
+          2,
+          148,
+          150
+        ],
+        [
+          6,
+          63,
+          63
+        ],
+        [
+          6,
+          99,
+          99
+        ]
+      ],
+      "issue": "亏损、债务、投入和现金流差额不能等同；具体金额和结清日期待确认。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R032",
+      "group": "财务底账",
+      "kind": "历史状态",
+      "title": "零负债或刚还完债",
+      "content": "材料二、三、六有零负债/还清创业债务的描述。",
+      "refs": [
+        [
+          2,
+          151,
+          153
+        ],
+        [
+          3,
+          94,
+          95
+        ],
+        [
+          6,
+          63,
+          63
+        ]
+      ],
+      "issue": "当前负债及信用卡、分期、家庭借款需本人确认。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R033",
+      "group": "财务底账",
+      "kind": "待验账户状态",
+      "title": "香港银行及证券账户",
+      "content": "材料一记录过办理意向；材料六后段写已打通相关账户。",
+      "refs": [
+        [
+          1,
+          563,
+          565
+        ],
+        [
+          6,
+          74,
+          74
+        ],
+        [
+          6,
+          101,
+          101
+        ]
+      ],
+      "issue": "意向和已办理可能是阶段变化；需日期及可用范围，不收集密码和完整账号。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R034",
+      "group": "财务底账",
+      "kind": "口径未知",
+      "title": "5%—10%收益表述",
+      "content": "材料二保留过5%—10%的收益表述。",
+      "refs": [
+        [
+          2,
+          145,
+          147
+        ]
+      ],
+      "issue": "可能是预期、阶段收益或估算；不计入已验证业绩。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R035",
+      "group": "财务底账",
+      "kind": "数据缺口",
+      "title": "应急金与未来资金用途",
+      "content": "材料一、二、六要求补现金、负债、税后收入、支出及未来1—5年需求。",
+      "refs": [
+        [
+          1,
+          267,
+          296
+        ],
+        [
+          2,
+          159,
+          160
+        ],
+        [
+          6,
+          37,
+          37
+        ]
+      ],
+      "issue": "现有材料没有给出可用的当前完整底账。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R036",
+      "group": "目标与原则",
+      "kind": "历史目标",
+      "title": "30岁前100万元",
+      "content": "多个版本提出30岁前100万元，但分别指资产、净资产、可投资资产或存款。",
+      "refs": [
+        [
+          1,
+          227,
+          229
+        ],
+        [
+          3,
+          279,
+          279
+        ],
+        [
+          4,
+          75,
+          76
+        ],
+        [
+          6,
+          243,
+          243
+        ]
+      ],
+      "issue": "金额相同不等于目标口径一致。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R037",
+      "group": "目标与原则",
+      "kind": "时间冲突",
+      "title": "三年或40个月期限",
+      "content": "材料三提出40个月，材料六使用2026.10—2029.10三年。",
+      "refs": [
+        [
+          3,
+          279,
+          290
+        ],
+        [
+          6,
+          238,
+          243
+        ]
+      ],
+      "issue": "需统一起算日、到期日以及是否必须在30岁生日之前。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R038",
+      "group": "目标与原则",
+      "kind": "远期愿景",
+      "title": "5000万元与时间范围",
+      "content": "材料一/二称远期愿景；材料三写40岁前；材料六写10—15年等版本。",
+      "refs": [
+        [
+          1,
+          233,
+          235
+        ],
+        [
+          2,
+          323,
+          328
+        ],
+        [
+          3,
+          280,
+          280
+        ],
+        [
+          6,
+          66,
+          66
+        ]
+      ],
+      "issue": "不将财富愿景转换为收益承诺或当前强制目标。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R039",
+      "group": "目标与原则",
+      "kind": "AI建议",
+      "title": "公司或品牌估值替代目标",
+      "content": "材料三建议将财富目标改为月净现金流或公司/品牌规模目标。",
+      "refs": [
+        [
+          3,
+          295,
+          297
+        ],
+        [
+          3,
+          451,
+          455
+        ]
+      ],
+      "issue": "源文明示为参考建议，未视为本人采纳或已成立公司。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R040",
+      "group": "目标与原则",
+      "kind": "历史目标或建议",
+      "title": "副业收入里程碑",
+      "content": "材料三出现月均1万、工资50%、净现金流3万等不同阶段建议。",
+      "refs": [
+        [
+          3,
+          134,
+          134
+        ],
+        [
+          3,
+          297,
+          297
+        ],
+        [
+          3,
+          439,
+          448
+        ]
+      ],
+      "issue": "分别核实目标、建议与实际收入；不虚构已实现。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R041",
+      "group": "目标与原则",
+      "kind": "价值偏好转述",
+      "title": "财务自由与人生选择权",
+      "content": "材料反复将财富与降低工资依赖、时间自主和城市选择联系。",
+      "refs": [
+        [
+          1,
+          236,
+          250
+        ],
+        [
+          4,
+          131,
+          134
+        ],
+        [
+          6,
+          22,
+          28
+        ]
+      ],
+      "issue": "偏好可确认，但不预设它高于关系、健康或其他价值。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R042",
+      "group": "目标与原则",
+      "kind": "AI推断",
+      "title": "目标与风险承担之间的张力",
+      "content": "材料一、二推断财富时间目标可能给投资收益和集中持仓带来压力。",
+      "refs": [
+        [
+          1,
+          314,
+          325
+        ],
+        [
+          1,
+          904,
+          924
+        ],
+        [
+          2,
+          388,
+          394
+        ]
+      ],
+      "issue": "保留为可观察假设，不定型为人格。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R043",
+      "group": "目标与原则",
+      "kind": "价值原则转述",
+      "title": "先防败再求胜",
+      "content": "材料多次转述“先防败，再求胜；先活下来，再谈复利”。",
+      "refs": [
+        [
+          1,
+          329,
+          332
+        ],
+        [
+          2,
+          46,
+          46
+        ],
+        [
+          6,
+          32,
+          32
+        ]
+      ],
+      "issue": "是否作为当前核心原则、具体边界均待本人确认。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R044",
+      "group": "目标与原则",
+      "kind": "价值偏好转述",
+      "title": "独立真实长期与纠错",
+      "content": "材料反复提到独立思考、真实客观、长期积累、自我负责和修正。",
+      "refs": [
+        [
+          1,
+          333,
+          362
+        ],
+        [
+          2,
+          248,
+          255
+        ],
+        [
+          5,
+          129,
+          143
+        ]
+      ],
+      "issue": "重复出现不等于独立证明；保留偏好与行为差距。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R045",
+      "group": "目标与原则",
+      "kind": "自我表达",
+      "title": "个人信条与便签",
+      "content": "材料三记录大道至简、知行合一、课题分离、人生导演等表达。",
+      "refs": [
+        [
+          3,
+          169,
+          185
+        ],
+        [
+          3,
+          233,
+          258
+        ]
+      ],
+      "issue": "作为自我表达存档，不当作外部事实或有效性证明。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R046",
+      "group": "目标与原则",
+      "kind": "价值偏好转述",
+      "title": "控制边界与极简选择",
+      "content": "材料四谈可控/不可控、机会成本、一箱一包及选择权。",
+      "refs": [
+        [
+          4,
+          101,
+          119
+        ],
+        [
+          4,
+          160,
+          163
+        ]
+      ],
+      "issue": "不将极简生活等同于更高风险承受能力。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R047",
+      "group": "目标与原则",
+      "kind": "AI建议",
+      "title": "生活维度优先级",
+      "content": "材料二提出基本生活、主业、应急储备、投资及副业的排序建议。",
+      "refs": [
+        [
+          2,
+          348,
+          348
+        ]
+      ],
+      "issue": "是建议而非本人已确定的权重。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R048",
+      "group": "学习生活",
+      "kind": "历史目标",
+      "title": "阅读时间版本",
+      "content": "材料一/二写平均每天约1小时；材料六写每天3小时以上。",
+      "refs": [
+        [
+          1,
+          651,
+          663
+        ],
+        [
+          2,
+          209,
+          211
+        ],
+        [
+          6,
+          84,
+          84
+        ]
+      ],
+      "issue": "目标、阶段习惯与实际执行分别确认，不取最大值。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R049",
+      "group": "学习生活",
+      "kind": "历史目标",
+      "title": "阅读总结与日记字数",
+      "content": "材料一保留单本总结3000字、每日写作1000—3000字等历史目标或记录。",
+      "refs": [
+        [
+          1,
+          651,
+          680
+        ],
+        [
+          2,
+          221,
+          223
+        ]
+      ],
+      "issue": "字数不是理解效果证据，不预填为当前硬指标。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R050",
+      "group": "学习生活",
+      "kind": "方法偏好转述",
+      "title": "用自己的话讲解与输出",
+      "content": "材料二/四强调原始输入、自己的表述、反例检验、输出和反馈。",
+      "refs": [
+        [
+          2,
+          307,
+          313
+        ],
+        [
+          4,
+          88,
+          94
+        ]
+      ],
+      "issue": "材料四的学习效率排序未附支持资料，不作为普遍排名。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R051",
+      "group": "学习生活",
+      "kind": "兴趣清单",
+      "title": "阅读主题与书目",
+      "content": "材料四列投资、经济、历史人物、方法、哲学与文学等书单。",
+      "refs": [
+        [
+          4,
+          80,
+          87
+        ]
+      ],
+      "issue": "书单不能等同已读完、理解或具备专业能力。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R052",
+      "group": "学习生活",
+      "kind": "历史目标",
+      "title": "训练频率与投入",
+      "content": "材料一/二记每周力量5次、有氧4次；材料六另有每日俯卧撑。",
+      "refs": [
+        [
+          1,
+          682,
+          699
+        ],
+        [
+          2,
+          212,
+          220
+        ],
+        [
+          6,
+          84,
+          84
+        ]
+      ],
+      "issue": "保留历史目标，不据此生成当前训练安排。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R053",
+      "group": "学习生活",
+      "kind": "历史经历",
+      "title": "减重与体型变化",
+      "content": "材料一/二/四称曾减重30多斤及体型变化。",
+      "refs": [
+        [
+          1,
+          683,
+          699
+        ],
+        [
+          2,
+          218,
+          220
+        ],
+        [
+          4,
+          139,
+          139
+        ]
+      ],
+      "issue": "起止时间、实际数据与当前状态需本人确认。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R054",
+      "group": "学习生活",
+      "kind": "历史日期",
+      "title": "戒烟开始时间",
+      "content": "材料三记戒烟日期2025-07-01。",
+      "refs": [
+        [
+          3,
+          144,
+          144
+        ],
+        [
+          3,
+          533,
+          533
+        ]
+      ],
+      "issue": "日期与“三百多天”表述需各自核对截至时间。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R055",
+      "group": "学习生活",
+      "kind": "历史日期",
+      "title": "运动开始时间",
+      "content": "材料三记2025-07-16开始健身与篮球。",
+      "refs": [
+        [
+          3,
+          145,
+          145
+        ],
+        [
+          3,
+          534,
+          534
+        ]
+      ],
+      "issue": "开始时间不证明其后持续达标。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R056",
+      "group": "学习生活",
+      "kind": "历史日期",
+      "title": "戒槟榔开始时间",
+      "content": "材料三记2026-04-20。",
+      "refs": [
+        [
+          3,
+          146,
+          146
+        ],
+        [
+          3,
+          535,
+          535
+        ]
+      ],
+      "issue": "当前状态、是否存在中断待本人确认。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R057",
+      "group": "学习生活",
+      "kind": "历史日期",
+      "title": "戒酒开始时间",
+      "content": "材料三记2026-04-24；材料一/二有减少或停止饮酒记录。",
+      "refs": [
+        [
+          3,
+          147,
+          147
+        ],
+        [
+          1,
+          700,
+          715
+        ],
+        [
+          2,
+          224,
+          226
+        ]
+      ],
+      "issue": "分别确认开始时间与当前行为。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R058",
+      "group": "学习生活",
+      "kind": "目标与表达",
+      "title": "停止游戏与高消耗娱乐",
+      "content": "材料三将游戏、麻将、熬夜、短视频等列为永久停止项。",
+      "refs": [
+        [
+          3,
+          148,
+          154
+        ],
+        [
+          3,
+          537,
+          537
+        ]
+      ],
+      "issue": "“内耗”等不宜按二元完成状态记录；目标不等于持续履行。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R059",
+      "group": "学习生活",
+      "kind": "历史偏好",
+      "title": "游戏中的积累与建设兴趣",
+      "content": "材料一/二转述喜欢资源积累、基地建设和战术，即使无排行仍可能喜欢。",
+      "refs": [
+        [
+          1,
+          740,
+          784
+        ],
+        [
+          2,
+          195,
+          197
+        ]
+      ],
+      "issue": "历史兴趣与当前戒游戏目标可以并存。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R060",
+      "group": "学习生活",
+      "kind": "行为线索",
+      "title": "日记复盘与手绘结构图",
+      "content": "多份材料记日记、总结、主题复盘；材料六新增手绘系统图。",
+      "refs": [
+        [
+          1,
+          665,
+          680
+        ],
+        [
+          4,
+          93,
+          98
+        ],
+        [
+          6,
+          84,
+          84
+        ]
+      ],
+      "issue": "当前频率、持续性与实际作品需要确认。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R061",
+      "group": "学习生活",
+      "kind": "历史目标",
+      "title": "副业每周约5小时",
+      "content": "材料一/二记录每周约5小时探索副业。",
+      "refs": [
+        [
+          1,
+          717,
+          737
+        ],
+        [
+          2,
+          227,
+          229
+        ]
+      ],
+      "issue": "投入目标、实际工时、收入和净利润应分开。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R062",
+      "group": "学习生活",
+      "kind": "AI推断",
+      "title": "目标堆叠与指标替代风险",
+      "content": "材料一/二提出过度优化、把次数字数当目标、全有或全无等风险假设。",
+      "refs": [
+        [
+          1,
+          801,
+          814
+        ],
+        [
+          2,
+          240,
+          245
+        ],
+        [
+          2,
+          299,
+          306
+        ]
+      ],
+      "issue": "只作观察问题，不作为已证实缺点。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R063",
+      "group": "关系与自我观察",
+      "kind": "历史经历",
+      "title": "独居求职阶段",
+      "content": "材料一/二记离职后的求职、学习、做饭、清洁与独居体验。",
+      "refs": [
+        [
+          1,
+          971,
+          983
+        ],
+        [
+          2,
+          238,
+          238
+        ]
+      ],
+      "issue": "这是历史阶段，不当成当前失业、独居或退休状态。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R064",
+      "group": "关系与自我观察",
+      "kind": "历史变化",
+      "title": "减少饮酒社交但保留连接",
+      "content": "材料一/二记减少部分聚会，后来主动加强亲友同事联系。",
+      "refs": [
+        [
+          1,
+          954,
+          969
+        ],
+        [
+          2,
+          239,
+          239
+        ],
+        [
+          2,
+          315,
+          318
+        ]
+      ],
+      "issue": "不能简化为彻底断绝社交。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R065",
+      "group": "关系与自我观察",
+      "kind": "价值偏好转述",
+      "title": "关系边界与生活选择",
+      "content": "材料四谈课题分离、精神同频与少量高质量关系。",
+      "refs": [
+        [
+          4,
+          116,
+          119
+        ],
+        [
+          4,
+          143,
+          149
+        ]
+      ],
+      "issue": "保留为偏好与建议，关系质量不能由数量推断。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R066",
+      "group": "关系与自我观察",
+      "kind": "数据缺口",
+      "title": "家庭与亲密关系规划",
+      "content": "材料一/二/三认为婚恋计划、家庭责任和支持网络资料不足。",
+      "refs": [
+        [
+          1,
+          1014,
+          1028
+        ],
+        [
+          2,
+          317,
+          318
+        ],
+        [
+          3,
+          519,
+          520
+        ]
+      ],
+      "issue": "不能从单身或收入直接推导无关系责任。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R067",
+      "group": "关系与自我观察",
+      "kind": "源文感受转述",
+      "title": "疲惫怀疑与意义调整",
+      "content": "材料三记录无力、疲惫、怀疑努力回报、重新校准意义等感受。",
+      "refs": [
+        [
+          3,
+          195,
+          200
+        ],
+        [
+          3,
+          401,
+          410
+        ]
+      ],
+      "issue": "描述对应时段的感受，不作持续状态或诊断。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R068",
+      "group": "关系与自我观察",
+      "kind": "自我叙事",
+      "title": "从外向到内向的表达",
+      "content": "材料三使用从e到i、观察者到参与者的叙事。",
+      "refs": [
+        [
+          3,
+          72,
+          72
+        ],
+        [
+          3,
+          195,
+          200
+        ],
+        [
+          3,
+          218,
+          227
+        ]
+      ],
+      "issue": "表达不等于稳定人格测量，也不说明能力高低。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R069",
+      "group": "关系与自我观察",
+      "kind": "AI推断",
+      "title": "建设与长期积累偏好",
+      "content": "材料一/二从游戏、知识库与投资兴趣推断建设/掌控/进步偏好。",
+      "refs": [
+        [
+          1,
+          1185,
+          1219
+        ],
+        [
+          2,
+          195,
+          203
+        ]
+      ],
+      "issue": "需要现实行为支持，不能只凭一套叙事反复确认。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R070",
+      "group": "关系与自我观察",
+      "kind": "AI推断",
+      "title": "效率完成感与不确定性",
+      "content": "材料一提出任务完成导向、希望快速简洁与长期等待之间的张力。",
+      "refs": [
+        [
+          1,
+          872,
+          903
+        ],
+        [
+          1,
+          1220,
+          1231
+        ]
+      ],
+      "issue": "相关自称不构成临床判断；只保留行为层面问题。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R071",
+      "group": "关系与自我观察",
+      "kind": "AI推断",
+      "title": "过度自信与确认偏差假设",
+      "content": "材料一/二把过度外推、确认偏差、框架崇拜等列为待观察风险。",
+      "refs": [
+        [
+          1,
+          925,
+          951
+        ],
+        [
+          2,
+          299,
+          306
+        ]
+      ],
+      "issue": "不能把假设写成已确认的人格缺陷。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R072",
+      "group": "关系与自我观察",
+      "kind": "绝对化评价待审",
+      "title": "理性免疫与超强能力评价",
+      "content": "材料四/六使用“沉没成本免疫”“极致理性”“超强”等评价。",
+      "refs": [
+        [
+          4,
+          137,
+          142
+        ],
+        [
+          6,
+          80,
+          84
+        ]
+      ],
+      "issue": "没有项目和决策证据支撑绝对能力，应由本人更正为具体行为或删除。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R073",
+      "group": "关系与自我观察",
+      "kind": "AI解释待审",
+      "title": "机制性自我描述与情绪解释",
+      "content": "材料三/四含生理机制式自我描述及对情绪原因的确定归因。",
+      "refs": [
+        [
+          3,
+          225,
+          227
+        ],
+        [
+          3,
+          414,
+          422
+        ],
+        [
+          4,
+          139,
+          145
+        ]
+      ],
+      "issue": "只登记为源文解释，不能由习惯记录推定为个人既成事实；本轮不扩展机制解释。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R074",
+      "group": "关系与自我观察",
+      "kind": "AI推断",
+      "title": "清醒参与与商业边界张力",
+      "content": "材料三/五提出参与内容商业化同时保留真诚和边界的张力。",
+      "refs": [
+        [
+          3,
+          391,
+          395
+        ],
+        [
+          5,
+          106,
+          123
+        ]
+      ],
+      "issue": "是待本人确认的解释，不断言已看透他人或掌握其真实动机。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R075",
+      "group": "内容副业与商业观察",
+      "kind": "经历转述",
+      "title": "小红书运营与课程资源",
+      "content": "材料一/二/三记小红书运营、课程线索或培训渠道经验。",
+      "refs": [
+        [
+          1,
+          717,
+          737
+        ],
+        [
+          2,
+          92,
+          94
+        ],
+        [
+          3,
+          97,
+          105
+        ]
+      ],
+      "issue": "“成功”“稳定靠谱”缺收入、交付、用户反馈等证据。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R076",
+      "group": "内容副业与商业观察",
+      "kind": "历史项目方向",
+      "title": "软测垂直内容定位",
+      "content": "材料三提出软测垂直、真诚陪伴、专业内容加个人经历的定位。",
+      "refs": [
+        [
+          3,
+          303,
+          312
+        ]
+      ],
+      "issue": "本人当前是否执行、账号情况和合规交付边界待确认。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R077",
+      "group": "内容副业与商业观察",
+      "kind": "AI建议",
+      "title": "内容价值60/30/10配比",
+      "content": "材料三给专业/情绪/故事的60%/30%/10%建议。",
+      "refs": [
+        [
+          3,
+          309,
+          312
+        ]
+      ],
+      "issue": "属于未经验证的内容建议，不是本人标签或系统权重。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R078",
+      "group": "内容副业与商业观察",
+      "kind": "AI建议",
+      "title": "选题与前十条视频计划",
+      "content": "材料三包含视频结构、选题、封面与前十条方向。",
+      "refs": [
+        [
+          3,
+          321,
+          345
+        ]
+      ],
+      "issue": "计划不等于已发布；标题中的使用年限、成果与案例不得当真经历。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R079",
+      "group": "内容副业与商业观察",
+      "kind": "AI建议",
+      "title": "简介口播与合作文案",
+      "content": "材料三提供主页、社交、面试及口播文案。",
+      "refs": [
+        [
+          3,
+          470,
+          495
+        ]
+      ],
+      "issue": "文案中的收入、经历和承诺应先核实再使用；本轮仅存为草稿。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R080",
+      "group": "内容副业与商业观察",
+      "kind": "待验项目状态",
+      "title": "副业净现金流与内容数据",
+      "content": "材料二/三均指出副业实际收入、投入、转化、账号数据缺失。",
+      "refs": [
+        [
+          2,
+          485,
+          488
+        ],
+        [
+          3,
+          513,
+          518
+        ]
+      ],
+      "issue": "不将目标或供应链存在视为盈利模式已验证。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R081",
+      "group": "内容副业与商业观察",
+      "kind": "关注对象",
+      "title": "商业IP观察名单",
+      "content": "材料三/五列杰克要加油、鲁大魔、自己造船的路飞、陈昌文。",
+      "refs": [
+        [
+          3,
+          362,
+          369
+        ],
+        [
+          5,
+          43,
+          47
+        ]
+      ],
+      "issue": "只记录研究关注，不增加关于这些人的负面事实或未证实财富结论。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R082",
+      "group": "内容副业与商业观察",
+      "kind": "关注问题",
+      "title": "商业叙事利益与证据",
+      "content": "材料五关注公开表达、连麦、利益结构、财富真实性及受众。",
+      "refs": [
+        [
+          5,
+          49,
+          68
+        ],
+        [
+          5,
+          194,
+          205
+        ]
+      ],
+      "issue": "未附原始切片、文字稿与数据；私聊内容和真实动机仍未知。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R083",
+      "group": "内容副业与商业观察",
+      "kind": "偏好转述",
+      "title": "反对AI虚构与重视定位",
+      "content": "材料五记追问切片、原话、评论并纠正AI虚构的经历。",
+      "refs": [
+        [
+          5,
+          74,
+          84
+        ],
+        [
+          5,
+          129,
+          143
+        ]
+      ],
+      "issue": "源文本身亦称此前存在虚构；本轮不因其自标确定而免审。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R084",
+      "group": "内容副业与商业观察",
+      "kind": "AI建议",
+      "title": "内容实践与反馈调整",
+      "content": "材料三建议先做小范围内容、观察反馈、调整目标与伦理边界。",
+      "refs": [
+        [
+          3,
+          424,
+          428
+        ],
+        [
+          3,
+          460,
+          466
+        ]
+      ],
+      "issue": "属于备选方案，未新建为本人已承诺的发布计划。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R085",
+      "group": "投资方法",
+      "kind": "偏好转述",
+      "title": "价值投资思想来源",
+      "content": "材料将格雷厄姆、巴菲特、芒格、段永平列为学习来源。",
+      "refs": [
+        [
+          1,
+          364,
+          459
+        ],
+        [
+          2,
+          162,
+          167
+        ],
+        [
+          6,
+          31,
+          32
+        ]
+      ],
+      "issue": "记录的是个人学习来源，不在本轮验证所有名人原话。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R086",
+      "group": "投资方法",
+      "kind": "原则转述",
+      "title": "杠杆生活资金与不懂不做",
+      "content": "材料多次提出不借贷/不加杠杆、不用生活必需资金、不碰不懂标的。",
+      "refs": [
+        [
+          1,
+          461,
+          490
+        ],
+        [
+          2,
+          177,
+          182
+        ],
+        [
+          4,
+          70,
+          73
+        ],
+        [
+          6,
+          39,
+          40
+        ]
+      ],
+      "issue": "是否列为本人当前硬边界待审核。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R087",
+      "group": "投资方法",
+      "kind": "历史配置设想",
+      "title": "美股八成A港各一成",
+      "content": "材料四标题写当前结构，但材料二和六明确说只是讨论/非实际持仓。",
+      "refs": [
+        [
+          4,
+          65,
+          69
+        ],
+        [
+          2,
+          185,
+          185
+        ],
+        [
+          6,
+          36,
+          36
+        ]
+      ],
+      "issue": "保留为设想，不产生实际持仓记录。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R088",
+      "group": "投资方法",
+      "kind": "AI建议",
+      "title": "后续集中组合与仓位方案",
+      "content": "材料六后段提出3—4只持仓、单股35%、美国70%—80%等规则。",
+      "refs": [
+        [
+          6,
+          250,
+          253
+        ],
+        [
+          6,
+          268,
+          274
+        ],
+        [
+          6,
+          299,
+          305
+        ]
+      ],
+      "issue": "不等于本人风险承受度、已采纳配置或现有持仓。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R089",
+      "group": "投资方法",
+      "kind": "知识框架候选",
+      "title": "投资八模块",
+      "content": "材料六列会计、商业质量、估值、资本配置、组合、宏观制度、认知与历史。",
+      "refs": [
+        [
+          6,
+          42,
+          53
+        ],
+        [
+          6,
+          123,
+          127
+        ]
+      ],
+      "issue": "可以组织学习资料，框架存在不代表已掌握。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R090",
+      "group": "投资方法",
+      "kind": "流程候选",
+      "title": "企业研究十四步",
+      "content": "材料六给业务、行业、竞争、治理、财务、增长、估值、情景、反方与跟踪等框架。",
+      "refs": [
+        [
+          6,
+          55,
+          58
+        ]
+      ],
+      "issue": "只作为流程候选；填满步骤不等于结论可靠。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R091",
+      "group": "投资方法",
+      "kind": "流程候选",
+      "title": "决策与复盘资产",
+      "content": "材料一/六建议决策日志、观察名单、失败案例、预测对照和能力边界清单。",
+      "refs": [
+        [
+          1,
+          1117,
+          1182
+        ],
+        [
+          6,
+          52,
+          53
+        ],
+        [
+          6,
+          129,
+          136
+        ]
+      ],
+      "issue": "不把未买入的研究判断标为已发生的投资亏损。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R092",
+      "group": "投资方法",
+      "kind": "AI建议",
+      "title": "投入新现金与回撤度量",
+      "content": "材料六用新增资金稀释回撤比例来论证风险降低。",
+      "refs": [
+        [
+          6,
+          253,
+          253
+        ]
+      ],
+      "issue": "应区分外部入金、投资损失、组合收益和资金需求；此说法不作为风险保证。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R093",
+      "group": "投资方法",
+      "kind": "风险表述待审",
+      "title": "折价买入锁死回撤说法",
+      "content": "材料六称从内在价值七折买入可将回撤锁死在28.6%。",
+      "refs": [
+        [
+          6,
+          251,
+          251
+        ]
+      ],
+      "issue": "七折跌到五折只是条件算术；不能保证市场价格下限或估值正确。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R094",
+      "group": "投资方法",
+      "kind": "风险表述待审",
+      "title": "美元短债零回撤说法",
+      "content": "材料六将美债情景与短债/货基写为0回撤。",
+      "refs": [
+        [
+          6,
+          245,
+          245
+        ],
+        [
+          6,
+          301,
+          301
+        ]
+      ],
+      "issue": "币种、持有期限、价格、费用与实际产品不同；不作为人民币本金保证。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R095",
+      "group": "投资方法",
+      "kind": "税务建议待验",
+      "title": "跨境账户税务与ETF选择",
+      "content": "材料六涉及W-8BEN、股息预提、遗产税门槛及ETF注册地建议。",
+      "refs": [
+        [
+          6,
+          298,
+          298
+        ]
+      ],
+      "issue": "原文未附规则来源和完整适用条件；本轮不认定个人资格或最终税负。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R096",
+      "group": "投资案例与数据",
+      "kind": "经历转述",
+      "title": "泡泡玛特线下观察",
+      "content": "材料一/二称走访二十多家一二线门店，并观察选址、进店及下单等。",
+      "refs": [
+        [
+          1,
+          522,
+          552
+        ],
+        [
+          2,
+          184,
+          184
+        ],
+        [
+          6,
+          71,
+          71
+        ]
+      ],
+      "issue": "具体日期、样本、记录表与观察结果尚未提供。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R097",
+      "group": "投资案例与数据",
+      "kind": "历史判断",
+      "title": "泡泡玛特估值与集中投入意向",
+      "content": "材料一记约1500亿港元估值、150亿元净利润判断和办卡集中投入冲动。",
+      "refs": [
+        [
+          1,
+          554,
+          565
+        ]
+      ],
+      "issue": "历史判断与意向，不等于净利润事实、执行交易或投资业绩。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R098",
+      "group": "投资案例与数据",
+      "kind": "历史反思转述",
+      "title": "泡泡玛特研究判断修正",
+      "content": "材料一记对复购、爆款、常态利润、集中冲动和反方证据的反思。",
+      "refs": [
+        [
+          1,
+          566,
+          615
+        ]
+      ],
+      "issue": "反思的发生日期与原始对话未附；不能据此确认交易亏损。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R099",
+      "group": "投资案例与数据",
+      "kind": "历史偏好变化",
+      "title": "新增指数与伯克希尔比较",
+      "content": "材料一/二称开始比较标普500、纳指100和伯克希尔。",
+      "refs": [
+        [
+          1,
+          618,
+          644
+        ],
+        [
+          2,
+          184,
+          186
+        ]
+      ],
+      "issue": "研究兴趣变化不等于买入或最终资产偏好。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R100",
+      "group": "投资案例与数据",
+      "kind": "外部数据待验",
+      "title": "泡泡玛特2023与2024财务",
+      "content": "材料六列收入、利润、毛利率、库存及周转等2023/2024数据。",
+      "refs": [
+        [
+          6,
+          165,
+          166
+        ]
+      ],
+      "issue": "原文未附财报页码或可核对链接；逐项等待公告核对。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R101",
+      "group": "投资案例与数据",
+      "kind": "外部数据待验",
+      "title": "泡泡玛特2025与2026H1财务",
+      "content": "材料六列371.20亿/171.73亿收入、库存61.02亿、201天等多项数值。",
+      "refs": [
+        [
+          6,
+          145,
+          145
+        ],
+        [
+          6,
+          167,
+          168
+        ]
+      ],
+      "issue": "全部作为源文数值存档，不升级为已核实财报底账。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R102",
+      "group": "投资案例与数据",
+      "kind": "分析假设待验",
+      "title": "IP护城河与情景估值",
+      "content": "材料六提出艺术家/IP/渠道飞轮、常态FCF、逆向DCF与58—350港元等区间。",
+      "refs": [
+        [
+          6,
+          144,
+          152
+        ],
+        [
+          6,
+          170,
+          174
+        ]
+      ],
+      "issue": "先核对输入和公式，分析意见与财务事实分开。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R103",
+      "group": "投资案例与数据",
+      "kind": "阈值建议待验",
+      "title": "泡泡玛特五类证伪阈值",
+      "content": "材料六用库存200天、毛利60%、IP变化、复购43%和回购执行设置阈值。",
+      "refs": [
+        [
+          6,
+          176,
+          181
+        ]
+      ],
+      "issue": "阈值是AI建议，未给推导；不直接触发真实交易。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R104",
+      "group": "投资案例与数据",
+      "kind": "外部数据待验",
+      "title": "门店空间与经营统计",
+      "content": "材料六给国内480—520商业体、门店约445—455、海外268店等数据。",
+      "refs": [
+        [
+          6,
+          184,
+          191
+        ]
+      ],
+      "issue": "选址模型、门店口径、时点和外部追踪数据来源待补。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R105",
+      "group": "投资案例与数据",
+      "kind": "外部归因待验",
+      "title": "会员库存租赁与管理层言论",
+      "content": "材料六给会员、复购、库存、租赁、人工、管理层与回购等说法。",
+      "refs": [
+        [
+          6,
+          160,
+          168
+        ],
+        [
+          6,
+          193,
+          205
+        ]
+      ],
+      "issue": "原话、公告、数据及评价分离；不以“巴菲特芒格视角”增加可信度。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R106",
+      "group": "投资案例与数据",
+      "kind": "外部数据待验",
+      "title": "中海油成本产量财务与价格",
+      "content": "材料六给成本、资本开支、产量、利润、股息和股价区间。",
+      "refs": [
+        [
+          6,
+          212,
+          214
+        ],
+        [
+          6,
+          223,
+          226
+        ],
+        [
+          6,
+          260,
+          262
+        ]
+      ],
+      "issue": "没有原始公告定位；历史价格与买入区间不是当前报价或指令。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R107",
+      "group": "投资案例与数据",
+      "kind": "外部数据待验",
+      "title": "茅台财务估值与库存评价",
+      "content": "材料六给现金、收入利润、渠道、股价和估值；另称库存零减值风险。",
+      "refs": [
+        [
+          6,
+          215,
+          218
+        ],
+        [
+          6,
+          227,
+          229
+        ],
+        [
+          6,
+          263,
+          266
+        ]
+      ],
+      "issue": "财务与价格待核验；“零风险”是待质疑的绝对表述，不作为资产保证。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R108",
+      "group": "投资案例与数据",
+      "kind": "外部数据待验",
+      "title": "美股指数利率与伯克希尔价格",
+      "content": "材料六给10年国债5.07%、标普7659点、BRK.B等历史坐标。",
+      "refs": [
+        [
+          6,
+          269,
+          269
+        ],
+        [
+          6,
+          280,
+          284
+        ]
+      ],
+      "issue": "原文标2026年10月；缺行情来源、估值口径和对应交易日核对。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R109",
+      "group": "投资案例与数据",
+      "kind": "外部数据待验",
+      "title": "七家科技公司价格与估值",
+      "content": "材料六列GOOGL、AMZN、META、NVDA、MSFT、AAPL、TSLA价格PE与增速。",
+      "refs": [
+        [
+          6,
+          285,
+          291
+        ]
+      ],
+      "issue": "逐公司逐日期核验；PE的静态/滚动/预测口径不得混用。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R110",
+      "group": "投资案例与数据",
+      "kind": "外部数据待验",
+      "title": "指数集中度与AI资本开支",
+      "content": "材料六给七家公司指数权重与云巨头资本开支合计。",
+      "refs": [
+        [
+          6,
+          281,
+          281
+        ],
+        [
+          6,
+          293,
+          295
+        ]
+      ],
+      "issue": "权重时点、成分口径、金额单位和指引/实际性质待核对。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R111",
+      "group": "投资案例与数据",
+      "kind": "人物行为待验",
+      "title": "名人持仓与交易引用",
+      "content": "材料六对段永平、伯克希尔、李录等具体交易和持仓作了断言。",
+      "refs": [
+        [
+          6,
+          146,
+          146
+        ],
+        [
+          6,
+          228,
+          229
+        ],
+        [
+          6,
+          264,
+          264
+        ],
+        [
+          6,
+          285,
+          290
+        ]
+      ],
+      "issue": "未附本人原文、监管披露或可靠记录；不据其推动个人买卖。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R112",
+      "group": "模型与证据方法",
+      "kind": "引文待验",
+      "title": "散户交易研究引文",
+      "content": "材料六引Barber与Odean 2000及跑输6.5个百分点说法。",
+      "refs": [
+        [
+          6,
+          113,
+          113
+        ]
+      ],
+      "issue": "文献、样本、比较对象、口径与结论适用范围未在本轮核验。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R113",
+      "group": "模型与证据方法",
+      "kind": "引文待验",
+      "title": "个股长期回报研究引文",
+      "content": "材料六引Bessembinder 2018及58%/4%等统计。",
+      "refs": [
+        [
+          6,
+          116,
+          116
+        ]
+      ],
+      "issue": "不将样本统计直接转换为本人最优仓位规则。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R114",
+      "group": "模型与证据方法",
+      "kind": "引文待验",
+      "title": "基准率与长期回报年鉴",
+      "content": "材料六引Mauboussin和UBS/Dimson等，涉及均值回归和年化回报。",
+      "refs": [
+        [
+          6,
+          115,
+          115
+        ],
+        [
+          6,
+          121,
+          121
+        ]
+      ],
+      "issue": "年份、名义/实际回报、币种、样本和摘录需回到原文。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R115",
+      "group": "模型与证据方法",
+      "kind": "预测与算式待验",
+      "title": "百万目标概率与三年测算",
+      "content": "材料六给达成概率≥80%及多档收益情景和“精准通关”结论。",
+      "refs": [
+        [
+          6,
+          120,
+          121
+        ],
+        [
+          6,
+          239,
+          248
+        ]
+      ],
+      "issue": "概率未给模型；初始本金、入金时点、税费及收益假设需重算，不能当保证。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R116",
+      "group": "模型与证据方法",
+      "kind": "模型候选",
+      "title": "存量流量反馈与延迟",
+      "content": "材料六及四提到存量、流量、阀门、增强/调节回路、延迟与自组织。",
+      "refs": [
+        [
+          6,
+          80,
+          83
+        ],
+        [
+          4,
+          106,
+          111
+        ]
+      ],
+      "issue": "作为个人系统建模词汇候选；具体因果关系需用实际记录检验。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R117",
+      "group": "模型与证据方法",
+      "kind": "模型候选",
+      "title": "能力圈机会成本与反方",
+      "content": "材料一/二/六反复提出能力边界、机会成本、逆向思考与反证。",
+      "refs": [
+        [
+          1,
+          418,
+          439
+        ],
+        [
+          1,
+          484,
+          490
+        ],
+        [
+          2,
+          168,
+          176
+        ],
+        [
+          6,
+          57,
+          58
+        ]
+      ],
+      "issue": "模型用于检查问题，不能替代原始证据或自动产生唯一答案。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R118",
+      "group": "模型与证据方法",
+      "kind": "AI推断",
+      "title": "一线经历转为投资优势",
+      "content": "材料一/二/六推断制造与测试经历可能帮助理解商业与现金流。",
+      "refs": [
+        [
+          1,
+          106,
+          123
+        ],
+        [
+          1,
+          1062,
+          1066
+        ],
+        [
+          2,
+          198,
+          203
+        ],
+        [
+          6,
+          69,
+          71
+        ]
+      ],
+      "issue": "从经历到可重复判断优势尚缺作品、结果与反例。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R119",
+      "group": "AI协作",
+      "kind": "偏好转述",
+      "title": "客观直接并允许反驳",
+      "content": "材料一/二/五/六反复要求不奉承、不虚构、给证据与反方。",
+      "refs": [
+        [
+          1,
+          1331,
+          1367
+        ],
+        [
+          2,
+          395,
+          406
+        ],
+        [
+          5,
+          129,
+          143
+        ],
+        [
+          6,
+          86,
+          89
+        ]
+      ],
+      "issue": "记录为待确认的长期偏好；本次明确的审核分工直接执行。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R120",
+      "group": "AI协作",
+      "kind": "方法建议",
+      "title": "先独立判断再让AI质疑",
+      "content": "材料二担心AI依赖，建议先自己写判断、再由AI反驳。",
+      "refs": [
+        [
+          2,
+          383,
+          385
+        ],
+        [
+          2,
+          407,
+          411
+        ],
+        [
+          2,
+          450,
+          456
+        ]
+      ],
+      "issue": "是协作方式候选，不断言已发生能力退化。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R121",
+      "group": "AI协作",
+      "kind": "数据治理建议",
+      "title": "保留原始版本与来源",
+      "content": "材料一/二强调时间、单位、原始记录、旧版本与修订理由。",
+      "refs": [
+        [
+          1,
+          1408,
+          1428
+        ],
+        [
+          2,
+          493,
+          499
+        ]
+      ],
+      "issue": "本轮已在来源层保留原件和定位，真实性仍由本人审核。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R122",
+      "group": "AI协作",
+      "kind": "数据治理建议",
+      "title": "私密对外与合作材料分开",
+      "content": "材料三设私密/对外/合作层，材料二强调最小必要与本地备份。",
+      "refs": [
+        [
+          3,
+          7,
+          7
+        ],
+        [
+          3,
+          44,
+          46
+        ],
+        [
+          2,
+          450,
+          454
+        ]
+      ],
+      "issue": "本轮仅本地整理；没有发布或发送个人档案。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    },
+    {
+      "id": "R123",
+      "group": "AI协作",
+      "kind": "数据缺口",
+      "title": "文档五的未知不构成反证",
+      "content": "材料五大量写身份财务未知，同时材料一/二/四/六有相应陈述。",
+      "refs": [
+        [
+          5,
+          12,
+          24
+        ],
+        [
+          5,
+          169,
+          190
+        ],
+        [
+          2,
+          51,
+          75
+        ]
+      ],
+      "issue": "这是会话信息覆盖不同，不把“未提供”当作否定其他版本。",
+      "period": "历史记录；当前适用性待本人确认",
+      "user_truth": null,
+      "user_tags": [],
+      "user_correction": null,
+      "user_effective_date": null,
+      "weight": null,
+      "weight_reason": "待本人真实性判断和标签后评定"
+    }
+  ]
+}

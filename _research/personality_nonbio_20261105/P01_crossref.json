@@ -1,0 +1,223 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        4
+      ]
+    ],
+    "date-time": "2026-11-04T20:15:12Z",
+    "timestamp": 1793823312398,
+    "version": "4.6.1"
+  },
+  "reference-count": 0,
+  "publisher": "American Psychological Association (APA)",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Psychological Bulletin"
+  ],
+  "DOI": "10.1037/bul0000365",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2022,
+        7,
+        14
+      ]
+    ],
+    "date-time": "2022-07-14T09:07:16Z",
+    "timestamp": 1657789636000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 203,
+  "title": [
+    "Personality stability and change: A meta-analysis of longitudinal studies."
+  ],
+  "prefix": "10.1037",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0003-3795-8143",
+      "authenticated-orcid": false,
+      "given": "Wiebke",
+      "family": "Bleidorn",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-5491-5386",
+      "authenticated-orcid": false,
+      "given": "Ted",
+      "family": "Schwaba",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-0238-8275",
+      "authenticated-orcid": false,
+      "given": "Anqing",
+      "family": "Zheng",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-6645-8645",
+      "authenticated-orcid": false,
+      "given": "Christopher J.",
+      "family": "Hopwood",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-2945-667X",
+      "authenticated-orcid": false,
+      "given": "Susana S.",
+      "family": "Sosa",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-3244-1164",
+      "authenticated-orcid": false,
+      "given": "Brent W.",
+      "family": "Roberts",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-6344-597X",
+      "authenticated-orcid": false,
+      "given": "D. A.",
+      "family": "Briley",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "15",
+  "published-online": {
+    "date-parts": [
+      [
+        2022,
+        7,
+        14
+      ]
+    ]
+  },
+  "container-title": [
+    "Psychological Bulletin"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://psycnet.apa.org/psycarticles/2022-79844-001.pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        5
+      ]
+    ],
+    "date-time": "2024-02-05T17:41:03Z",
+    "timestamp": 1707154863000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://doi.apa.org/doi/10.1037/bul0000365"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        7,
+        14
+      ]
+    ]
+  },
+  "references-count": 0,
+  "alternative-id": [
+    "2022-79844-001"
+  ],
+  "URL": "https://doi.org/10.1037/bul0000365",
+  "relation": {},
+  "ISSN": [
+    "1939-1455",
+    "0033-2909"
+  ],
+  "issn-type": [
+    {
+      "value": "1939-1455",
+      "type": "electronic"
+    },
+    {
+      "value": "0033-2909",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2022,
+        7,
+        14
+      ]
+    ]
+  }
+}

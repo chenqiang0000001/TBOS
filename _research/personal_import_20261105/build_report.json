@@ -1,0 +1,25 @@
+{
+  "batch": "20261105",
+  "source_docx": 6,
+  "body_characters": 55746,
+  "body_paragraphs": 3216,
+  "nonempty_paragraphs": 2267,
+  "tables": 22,
+  "records": 123,
+  "themes": 11,
+  "conflict_groups": 15,
+  "classified_counts": {
+    "身份家庭": 8,
+    "职业能力": 12,
+    "财务底账": 15,
+    "目标与原则": 12,
+    "学习生活": 15,
+    "关系与自我观察": 12,
+    "内容副业与商业观察": 10,
+    "投资方法": 11,
+    "投资案例与数据": 16,
+    "模型与证据方法": 7,
+    "AI协作": 5
+  },
+  "all_user_fields_empty": true
+}

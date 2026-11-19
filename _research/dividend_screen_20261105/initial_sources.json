@@ -1,0 +1,357 @@
+[
+  {
+    "id": "QUOTES",
+    "url": "https://qt.gtimg.cn/q=usMO,usBTI,usEPD,usMPLX,usVZ,usUPS,hk00303,hk00941,hk00883,hk01088,hk00386,hk00005,hk01308",
+    "retrieved_at_utc": "2026-11-05T03:52:43.952480+00:00",
+    "status": 200,
+    "final_url": "https://qt.gtimg.cn/q=usMO,usBTI,usEPD,usMPLX,usVZ,usUPS,hk00303,hk00941,hk00883,hk01088,hk00386,hk00005,hk01308",
+    "encoding": "gbk",
+    "links": [],
+    "text_length": 5202,
+    "excerpt": "v_usMO=\"200~奥驰亚~MO.N~78.01~76.94~77.69~8876109~0~0~77.84~100~0~0~0~0~0~0~0~0~78.50~300~0~0~0~0~0~0~0~0~~2026-11-04 16:05:07~1.07~1.39~78.57~77.13~USD~8876109~691941967~0.53~16.08~~18.93~~1.87~1296.31839~1297.64714~Altria Group, Inc.~4.85~79.81~52.17~-200~-58.32~5.50~1297.64714~41.84~6.88~GP~~23.30~5.66~12.44~21.87~1663436915~1661733614~0.70~14.00~4.29~77.96~~~~~\"; v_usBTI=\"200~英美烟草~BTI.N~62.97~60.90~62.06~5650534~0~0~61.90~5000~0~0~0~0~0~0~0~0~62"
+  },
+  {
+    "id": "MO",
+    "url": "https://investor.altria.com/",
+    "retrieved_at_utc": "2026-11-05T03:52:43.953532+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "BTI",
+    "url": "https://www.bat.com/investors-and-reporting",
+    "retrieved_at_utc": "2026-11-05T03:52:43.953532+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "EPD",
+    "url": "https://ir.enterpriseproducts.com/",
+    "retrieved_at_utc": "2026-11-05T03:52:43.954500+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "MPLX",
+    "url": "https://ir.mplx.com/",
+    "retrieved_at_utc": "2026-11-05T03:52:43.954500+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "VZ",
+    "url": "https://www.verizon.com/about/investors/stock-information/dividend-history",
+    "retrieved_at_utc": "2026-11-05T03:52:43.954500+00:00",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "UPS",
+    "url": "https://investors.ups.com/",
+    "retrieved_at_utc": "2026-11-05T03:52:44.458595+00:00",
+    "status": 200,
+    "final_url": "https://investors.ups.com/",
+    "encoding": "utf-8",
+    "links": [
+      {
+        "text": "Progress Reports and Disclosures",
+        "url": "https://about.ups.com/us/en/our-impact/reporting.html"
+      },
+      {
+        "text": "Quarterly Earnings and Financials",
+        "url": "https://investors.ups.com/quarterly-earnings-and-financials"
+      },
+      {
+        "text": "Earnings release",
+        "url": "https://investors.ups.com/news-events/press-releases/detail/2172/ups-releases-3q-2026-earnings/"
+      },
+      {
+        "text": "PDF",
+        "url": "https://investors.ups.com/_assets/_54a05567b1ad420ca940bdf5fd87c399/ups/news/2026-10-27_UPS_Releases_3Q_2026_2172.pdf"
+      },
+      {
+        "text": "HTML",
+        "url": "https://investors.ups.com/news-events/press-releases/detail/2172/ups-releases-3q-2026-earnings"
+      },
+      {
+        "text": "View",
+        "url": "https://investors.ups.com/news-events/ir-calendar/detail/11022/q3-2026-united-parcel-service-inc-earnings-conference-call#register"
+      },
+      {
+        "text": "Earnings webcast",
+        "url": "https://investors.ups.com/news-events/ir-calendar/detail/11022/q3-2026-united-parcel-service-inc-earnings-conference-call#register"
+      },
+      {
+        "text": "10-Q Filing",
+        "url": "https://investors.ups.com/sec-filings/all-sec-filings/content/0001628280-26-070246/ups-20260930.htm"
+      },
+      {
+        "text": "HTML",
+        "url": "https://investors.ups.com/sec-filings/all-sec-filings/content/0001628280-26-070246/ups-20260930.htm"
+      },
+      {
+        "text": "3Q 2026 Financial Statements",
+        "url": "https://investors.ups.com/_assets/_54a05567b1ad420ca940bdf5fd87c399/ups/db/1111/11042/file/2026+Q3+Financial+Info+for+Website.xlsx"
+      },
+      {
+        "text": "XLSX",
+        "url": "https://investors.ups.com/_assets/_54a05567b1ad420ca940bdf5fd87c399/ups/db/1111/11042/file/2026+Q3+Financial+Info+for+Website.xlsx"
+      },
+      {
+        "text": "3Q 2026 Historical Financial Info",
+        "url": "https://investors.ups.com/_assets/_54a05567b1ad420ca940bdf5fd87c399/ups/db/1111/11043/file/2026+Q3+Historical+Info+for+Website.xlsx"
+      },
+      {
+        "text": "XLSX",
+        "url": "https://investors.ups.com/_assets/_54a05567b1ad420ca940bdf5fd87c399/ups/db/1111/11043/file/2026+Q3+Historical+Info+for+Website.xlsx"
+      },
+      {
+        "text": "3Q26 Earnings Presentation",
+        "url": "https://investors.ups.com/_assets/_54a05567b1ad420ca940bdf5fd87c399/ups/db/1111/11047/file/3Q26+Earnings+Webcast+Deck.pdf"
+      },
+      {
+        "text": "PDF",
+        "url": "https://investors.ups.com/_assets/_54a05567b1ad420ca940bdf5fd87c399/ups/db/1111/11047/file/3Q26+Earnings+Webcast+Deck.pdf"
+      },
+      {
+        "text": "View webcast",
+        "url": "https://investors.ups.com/news-events/ir-calendar/detail/11022/q3-2026-united-parcel-service-inc-earnings-conference-call#register"
+      },
+      {
+        "text": "Read press release",
+        "url": "https://investors.ups.com/news-events/press-releases/detail/2173/ups-announces-quarterly-dividend"
+      },
+      {
+        "text": "Read press release",
+        "url": "https://investors.ups.com/news-events/press-releases/detail/2172/ups-releases-3q-2026-earnings"
+      },
+      {
+        "text": "View all financial news releases",
+        "url": "https://investors.ups.com/news-events/press-releases"
+      }
+    ],
+    "text_length": 4707,
+    "excerpt": "Investor Relations :: United Parcel Service, Inc. (UPS)\nsearch field input\nClear\nThe Input\nClose Menu Button\nOur Stories\nOpen Our Stories Menu\nOur Stories\nCustomer First\nPeople Led\nInnovation Driven\nOur Company\nOpen Our Company Menu\nOur Company\nOur Strategy\nOur Culture\nGlobal Presence\nLeadership\nOur History\nGreat Employer\nSuppliers\nOur Impact\nOpen Our Impact Menu\nOur Impact\nSustainability\nCommunity\nProgress Reports and Disclosures\nInvestors\nOpen "
+  },
+  {
+    "id": "VTECH",
+    "url": "https://www.vtech.com/en/investors/",
+    "retrieved_at_utc": "2026-11-05T03:52:49.971905+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "CM",
+    "url": "https://www.chinamobileltd.com/en/ir/dividends.php",
+    "retrieved_at_utc": "2026-11-05T03:52:50.060015+00:00",
+    "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+  },
+  {
+    "id": "SINOPEC",
+    "url": "https://www.sinopec.com/listco/en/",
+    "retrieved_at_utc": "2026-11-05T03:52:50.634854+00:00",
+    "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+  },
+  {
+    "id": "HSBC",
+    "url": "https://www.hsbc.com/investors",
+    "retrieved_at_utc": "2026-11-05T03:52:50.821783+00:00",
+    "status": 200,
+    "final_url": "https://www.hsbc.com/investors",
+    "encoding": "utf-8",
+    "links": [
+      {
+        "text": "Who we are  Founded in 1865, HSBC is one of the world’s largest banking and financial services organisations.   Go to this section",
+        "url": "https://www.hsbc.com/who-we-are"
+      },
+      {
+        "text": "ESG reporting centre",
+        "url": "https://www.hsbc.com/who-we-are/esg-and-responsible-business/esg-reporting-centre"
+      },
+      {
+        "text": "Fighting financial crime",
+        "url": "https://www.hsbc.com/who-we-are/esg-and-responsible-business/fighting-financial-crime"
+      },
+      {
+        "text": "Investors  Find information about our performance, dividends, and investor events.   Go to this section",
+        "url": "https://www.hsbc.com/investors"
+      },
+      {
+        "text": "Consensus, buyback updates, and analyst coverage",
+        "url": "https://www.hsbc.com/investors/investing-in-hsbc/consensus-buyback-updates-and-analyst-coverage"
+      },
+      {
+        "text": "Financial calendar",
+        "url": "https://www.hsbc.com/investors/investing-in-hsbc/financial-calendar"
+      },
+      {
+        "text": "Results and announcements",
+        "url": "https://www.hsbc.com/investors/results-and-announcements"
+      },
+      {
+        "text": "Overview",
+        "url": "https://www.hsbc.com/investors/results-and-announcements"
+      },
+      {
+        "text": "All reporting",
+        "url": "https://www.hsbc.com/investors/results-and-announcements/all-reporting/group"
+      },
+      {
+        "text": "Stock exchange announcements",
+        "url": "https://www.hsbc.com/investors/results-and-announcements/stock-exchange-announcements"
+      },
+      {
+        "text": "Annual Report",
+        "url": "https://www.hsbc.com/investors/results-and-announcements/annual-report"
+      },
+      {
+        "text": "Investor events and presentations",
+        "url": "https://www.hsbc.com/investors/results-and-announcements/investor-events-and-presentations"
+      },
+      {
+        "text": "Shareholder and dividend information",
+        "url": "https://www.hsbc.com/investors/shareholder-and-dividend-information"
+      },
+      {
+        "text": "Overview",
+        "url": "https://www.hsbc.com/investors/shareholder-and-dividend-information"
+      },
+      {
+        "text": "Manage your shareholding",
+        "url": "https://www.hsbc.com/investors/shareholder-and-dividend-information/manage-your-shareholding"
+      },
+      {
+        "text": "Dividend information and timetable",
+        "url": "https://www.hsbc.com/investors/shareholder-and-dividend-information/dividend-information-and-timetable"
+      },
+      {
+        "text": "Dividend calculator",
+        "url": "https://www.hsbc.com/investors/shareholder-and-dividend-information/dividend-calculator"
+      },
+      {
+        "text": "Scrip dividend",
+        "url": "https://www.hsbc.com/investors/shareholder-and-dividend-information/scrip-dividend"
+      },
+      {
+        "text": "AGM and shareholder meetings",
+        "url": "https://www.hsbc.com/investors/shareholder-and-dividend-information/agm-and-shareholder-meetings"
+      },
+      {
+        "text": "Share analytics",
+        "url": "https://www.hsbc.com/investors/shareholder-and-dividend-information/share-analytics"
+      },
+      {
+        "text": "Total share return",
+        "url": "https://www.hsbc.com/investors/shareholder-and-dividend-information/total-share-return"
+      },
+      {
+        "text": "Investor FAQs",
+        "url": "https://www.hsbc.com/investors/shareholder-and-dividend-information/investor-faqs"
+      },
+      {
+        "text": "3Q 2026 EARNINGS RELEASE  Get the documents and Zoom meeting details",
+        "url": "https://www.hsbc.com/investors/results-and-announcements"
+      },
+      {
+        "text": "News and views  Find the latest news, media releases, opinions, reports, images and videos from HSBC.   Go to this section",
+        "url": "https://www.hsbc.com/news-and-views"
+      },
+      {
+        "text": "See all results",
+        "url": "javascript:void(0)"
+      },
+      {
+        "text": "Full 3Q coverage",
+        "url": "https://www.hsbc.com/investors/results-and-announcements"
+      },
+      {
+        "text": "Dividend information and timetable",
+        "url": "https://www.hsbc.com/investors/shareholder-and-dividend-information/dividend-information-and-timetable"
+      },
+      {
+        "text": "View quick read",
+        "url": "https://www.hsbc.com/investors/results-and-announcements/all-reporting/3q-2026-quick-read"
+      },
+      {
+        "text": "Read media release",
+        "url": "https://www.hsbc.com/news-and-views/news/media-releases/2026/hsbc-holdings-plc-3q-2026-earnings-release"
+      },
+      {
+        "text": "3Q 2026 Earnings Release (PDF 1MB)",
+        "url": "https://www.hsbc.com/-/files/hsbc/investors/hsbc-results/2026/3q/pdfs/hsbc-holdings-plc/261027-3q-2026-earnings-release.pdf?download=1"
+      },
+      {
+        "text": "3Q 2026 Presentation to Investors and Analysts (PDF 5MB)",
+        "url": "https://www.hsbc.com/-/files/hsbc/investors/hsbc-results/2026/3q/pdfs/hsbc-holdings-plc/261027-3q-2026-presentation-to-investors-and-analysts.pdf?download=1"
+      },
+      {
+        "text": "3Q 2026 Data Pack (Excel file) (XLSX 199KB)",
+        "url": "https://www.hsbc.com/-/files/hsbc/investors/hsbc-results/2026/3q/pdfs/hsbc-holdings-plc/261027-3q-2026-data-pack-excel-file.xlsx?download=1"
+      },
+      {
+        "text": "Listen to the Zoom replay",
+        "url": "https://www.hsbc.com/investors/results-and-announcements/all-reporting/3q-2026-investors-and-analysts-call"
+      },
+      {
+        "text": "Read more",
+        "url": "https://www.hsbc.com/investors/results-and-announcements/stock-exchange-announcements"
+      },
+      {
+        "text": "Read more",
+        "url": "https://www.hsbc.com/investors/results-and-announcements/investor-events-and-presentations"
+      },
+      {
+        "text": "Read more",
+        "url": "https://www.hsbc.com/investors/shareholder-and-dividend-information"
+      },
+      {
+        "text": "Read more",
+        "url": "https://www.hsbc.com/investors/shareholder-and-dividend-information/manage-your-shareholding"
+      },
+      {
+        "text": "View dividend information",
+        "url": "https://www.hsbc.com/investors/shareholder-and-dividend-information/dividend-information-and-timetable"
+      },
+      {
+        "text": "Read more",
+        "url": "https://www.hsbc.com/investors/shareholder-and-dividend-information/investor-faqs"
+      },
+      {
+        "text": "View share analytics",
+        "url": "https://www.hsbc.com/investors/shareholder-and-dividend-information/share-analytics"
+      },
+      {
+        "text": "View share analytics",
+        "url": "https://www.hsbc.com/investors/shareholder-and-dividend-information/share-analytics"
+      },
+      {
+        "text": "View share analytics",
+        "url": "https://www.hsbc.com/investors/shareholder-and-dividend-information/share-analytics"
+      },
+      {
+        "text": "View calendar",
+        "url": "https://www.hsbc.com/investors/investing-in-hsbc/financial-calendar"
+      },
+      {
+        "text": "HSBC Holdings plc Annual Results 2026",
+        "url": "https://www.hsbc.com/investors/results-and-announcements/all-reporting/group?page=1&take=20&reporting-type=annual&years=2025"
+      },
+      {
+        "text": "View calendar",
+        "url": "https://www.hsbc.com/investors/investing-in-hsbc/financial-calendar"
+      },
+      {
+        "text": "Read more",
+        "url": "https://www.hsbc.com/who-we-are/esg-and-responsible-business/esg-reporting-centre"
+      }
+    ],
+    "text_length": 13804,
+    "excerpt": "Investors: Financial updates and events | HSBC Holdings plc\nSkip to:\nSkip to\nPrimary navigation\nSkip to\nMain content\nSkip to\nFooter\nMenu\nWho we are\nSkip to Investors\nWho we are\nFounded in 1865, HSBC is one of the world’s largest banking and financial services organisations.\nGo to this section\nMain menu\nWho we are\nHSBC at a glance\nOur strategy and values\nMain menu\nWho we are\nOur strategy and values\nOverview\nWhat sets us apart\nOur strategy\nOur valu"
+  },
+  {
+    "id": "SHENHUA",
+    "url": "https://www.csec.com/zgshwwEn/investorRelations/investorRelations.shtml",
+    "retrieved_at_utc": "2026-11-05T03:52:51.257337+00:00",
+    "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1010)>"
+  },
+  {
+    "id": "SITC",
+    "url": "https://www.sitc.com/en/investor-relations/",
+    "retrieved_at_utc": "2026-11-05T03:52:51.385386+00:00",
+    "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+  }
+]

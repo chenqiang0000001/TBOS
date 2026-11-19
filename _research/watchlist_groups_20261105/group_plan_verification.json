@@ -1,0 +1,22 @@
+{
+  "historical_rows": 167,
+  "unique_planned_security_keys": 167,
+  "current_visible_confirmed": 85,
+  "primary_group_counts": {
+    "周期·经营修复": 51,
+    "中登·持续成长": 52,
+    "老登·成熟现金流": 48,
+    "待核·证券身份": 5,
+    "ETF·基准": 2,
+    "小登·高预期验证": 9
+  },
+  "preliminary_rows": 741,
+  "us_rows": 314,
+  "hk_rows": 427,
+  "preliminary_unique_keys": 741,
+  "dividend_observation_members": 7,
+  "all_strictly_qualified": 0,
+  "actual_app_writes": 0,
+  "source_unchanged_sha256": "663e71dc91cb4a9c7bf7c43299b4d24a318f1d56f955851e324d887f0562dbf1",
+  "personal_labels_or_weights_written": false
+}

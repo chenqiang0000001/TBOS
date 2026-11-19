@@ -1,0 +1,64 @@
+ 
+ Logseq 
+ A privacy-first, open-source platform for knowledge management and collaboration
+ Home Page |
+ Blog |
+ Documentation |
+ Roadmap 
+## Table of Contents
+ * [ 🚀 Database Version](#-database-version)
+ * [ 🤔 Why Logseq?](#-why-logseq)
+ * [ 👀 How can I use it?](#-how-can-i-use-it)
+ * [ 📚 Learn more](#-learn-more)
+ * [🫶 Support Logseq Development](#-support-logseq-development)
+ * [ 💡 Feature requests](#-feature-requests)
+ * [ 🔌 Plugin API](#-plugin-api)
+ * [ 🌟 Contributing to Logseq](#-contributing-to-logseq)
+ * [ 🛠️ Setting Up a Development Environment](#️-setting-up-a-development-environment)
+ * [ ✨ Inspiration](#-inspiration)
+* [ 🙏 Thank You](#-thank-you)
+## 🚀 Database Version
+The Database version (DB version) of Logseq introduces DB graphs. [See this page](https://github.com/logseq/docs/blob/master/db-version.md) to get an overview of the main features for DB graphs. If you are an existing user, [see changes with the DB version](https://github.com/logseq/docs/blob/master/db-version-changes.md). The DB version has its own new mobile app (on iOS, with Android coming soon)! To participate in the mobile app alpha, [please complete this brief form](https://forms.gle/nfefJv51jUuULbFB9). The DB version also has a new sync approach, RTC (Real Time Collaboration)! You can use it to sync graphs between multiple devices or collaborate with others. To participate in the RTC alpha, [please fill out this form](https://forms.gle/YSyF4WfKPSDuwyjH6).
+The DB version is in beta status while the new mobile app and RTC is in alpha. This means that **data loss is possible** so we recommend [automated backups](https://github.com/logseq/docs/blob/master/db-version.md#automated-backup) or [regular SQLite DB backups](https://github.com/logseq/docs/blob/master/db-version.md#graph-export). We recommend you create a dedicated test graph and choose one project that’s not crucial for you.
+To get started with the DB version:
+* To try the latest web version, go to https://app.logseq.com/.
+* To try the latest desktop version, go to https://github.com/logseq/logseq/releases/tag/nightly and download the artifact for your operating system.
+* To try the latest by building from the source code
+ * Use `test/db` for stable releases. Fewer bugs and slower updates. Update frequency: days or weeks.
+ * Use `master` for the latest updates as they are developed. Expect more bugs and faster changes. Update frequency: hours or days.
+* To report bugs, please file them at https://github.com/logseq/db-test/issues.
+* For feature or enhancement requests, please file them on Discord on the `#db-feedback` channel.
+* For discussions:
+ * General ==> see the `#db-chat` channel in Discord.
+ * Sync and RTC ==> see the `#sync-test` channel in Discord.
+ * Mobile ==> see the `#mobile-test` channel in Discord.
+## 🤔 Why Logseq?
+[Logseq](https://logseq.com) is a **knowledge management** and **collaboration** platform. It focuses on **privacy**, **longevity**, and [**user control**](https://www.gnu.org/philosophy/free-sw.en.html). Logseq offers a range of **powerful tools** for **knowledge management**, **collaboration**, **PDF annotation**, and **task management** with support for multiple file formats, including **Markdown** and **Org-mode**, and **various features** for organizing and structuring your notes.
+In addition to its core features, Logseq has a growing ecosystem of **plugins** and **themes** that enable a wide range of workflows and **customization** options. **Mobile apps** are also available, providing access to most of the features of the desktop application. Whether you're a student, a professional, or anyone who values a clear and organized approach to managing your ideas and notes, Logseq is an excellent choice for anyone looking to improve their productivity and streamline their workflow.
+![logseq-demo](https://user-images.githubusercontent.com/25513724/221387376-4dc419c2-0d0a-460c-a920-2d211e78b456.gif)
+## 👀 How can I use it?
+To start using Logseq, follow these simple steps:
+1. [Download](https://github.com/logseq/logseq/releases/latest) the latest version of Logseq
+2. Install Logseq on your device and launch the application
+3. Start writing ✍️
+That's it! You can now enjoy the benefits of using Logseq to streamline your workflow, manage your projects, and stay on top of your goals. Have fun! 🎉
+**Linux users**: Use the automated installer script for the best experience:
+ ```bash
+ # Download and run the installer
+ curl -fsSL https://raw.githubusercontent.com/logseq/logseq/master/scripts/install-linux.sh | bash
+ # Or install a specific version
+ curl -fsSL https://raw.githubusercontent.com/logseq/logseq/master/scripts/install-linux.sh | bash -s -- 0.10.14
+ # For user-specific installation (no root required)
+ curl -fsSL https://raw.githubusercontent.com/logseq/logseq/master/scripts/install-linux.sh | bash -s -- --user
+ ```
+## 📚 Learn more
+* Website: [logseq.com](https://logseq.com)
+* Documentation: [docs.logseq.com](https://docs.logseq.com)
+ * FAQ page: [Logseq Docs: FAQ](https://docs.logseq.com/#/page/faq)
+* Blog: [blog.logseq.com](https://blog.logseq.com)
+ * Please visit our [About page](https://blog.logseq.com/about) for the latest updates.
+* Forum: [discuss.logseq.com](https://discuss.logseq.com) - Where we answer questions, discuss workflows, and share tips
+ * FAQ forum section: [Logseq Forum: FAQ](https://discuss.logseq.com/c/faq/6)
+* [Awesome Logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq extensions and resources created by the community 
+ [Become a sponsor] 
+## 🌟 Contributors

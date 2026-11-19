@@ -1,0 +1,58 @@
+{
+  "group_name": "分红",
+  "app_execution_status": "未执行：待支持分组且已登录的客户端",
+  "meaning": "分红研究观察组；不代表四项全部通过、收益稳定保证或买入名单",
+  "strict_qualified_members": [],
+  "planned_observation_members": [
+    {
+      "security_key": "US:VZ",
+      "reason": "沿用08：分红、近期实际回购已核；多年与文化待核",
+      "in_historical_watchlist": false,
+      "app_added": false
+    },
+    {
+      "security_key": "US:EPD",
+      "reason": "沿用08：分派、实际回购已核；MLP税务待个人确认",
+      "in_historical_watchlist": false,
+      "app_added": false
+    },
+    {
+      "security_key": "US:MPLX",
+      "reason": "沿用08：分派、实际回购已核；投资后现金缺口限制评级",
+      "in_historical_watchlist": false,
+      "app_added": false
+    },
+    {
+      "security_key": "US:HESM",
+      "reason": "本轮核实分派与Q1实际回购；2027分派指引持平，交易/税制待核",
+      "in_historical_watchlist": false,
+      "app_added": false
+    },
+    {
+      "security_key": "US:VICI",
+      "reason": "本轮核实分红；回购仅授权，未确认实际执行",
+      "in_historical_watchlist": false,
+      "app_added": false
+    },
+    {
+      "security_key": "HK:00941",
+      "reason": "沿用08：H1未回购；不满足已核稳定回购要求",
+      "in_historical_watchlist": false,
+      "app_added": false
+    },
+    {
+      "security_key": "HK:06823",
+      "reason": "本轮核实分派；H1无回购，AFF分派覆盖约1倍",
+      "in_historical_watchlist": false,
+      "app_added": false
+    }
+  ],
+  "exclude_from_first_batch": [
+    "HK:00823（DPU下降）",
+    "HK:00883（周期与分红稳定性待核）",
+    "US:ARCC/MAIN（BDC单列）",
+    "其余仅初筛项目均不自动添加"
+  ],
+  "transaction_actions": [],
+  "deletion_actions": []
+}

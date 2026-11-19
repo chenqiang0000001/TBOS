@@ -1,0 +1,67 @@
+[
+  {
+    "file": "知识库/15-个人档案/01-身份家庭与时间线.md",
+    "sha256_before": "595fc380c436985d4d4ab330d9a809813e7a8255e134dee231ae1835073faf17",
+    "sha256_after": "6effdfa51965bc6e745667342fecb3bc83379f17a93f22336ec676d4a0604833"
+  },
+  {
+    "file": "知识库/15-个人档案/02-职业履历与能力线索.md",
+    "sha256_before": "ba21cb0cd2c8730298f6dd528759a3320006ca66431f82004b17370f0f14871f",
+    "sha256_after": "7154e1fe47281a82ab22cdb9fa3f8d0b0dbaa5b0e9e1f7c33ef6bb7782d3f0eb"
+  },
+  {
+    "file": "知识库/15-个人档案/00-当前状态与长期方向.md",
+    "sha256_before": "20ad1f2fd413fb14e7f39cd5ed9cb69972bc6c3d6afce85a5516cb6212f367e0",
+    "sha256_after": "8ef8f83b352d1d9832dae6c0c114a2d3332a8671046caa69074c4b08620ff528"
+  },
+  {
+    "file": "知识库/80-审核与权重/01-真实性与标签审核.md",
+    "sha256_before": "57f0ceb11fb4d237f2f27d92705dfec33d9557777c0c5013d469995e21a9e065",
+    "sha256_after": "98ee2c0fca0556ac73d5a1745043fac37815018665515876cc1c0c6ef41acf99"
+  },
+  {
+    "file": "00-开始这里.md",
+    "sha256_before": "3076ea4e00a16b24ecb65e5ccb9767257204258fd75b6defa7371c7de5dbf610",
+    "sha256_after": "c8276459be249de3605a8605d94825d8d51f59ededc819a3b156d291441b786d"
+  },
+  {
+    "file": "04-首批资料分析与审核说明.md",
+    "sha256_before": "81c24560716ed2d50f4dc0d27a8ea8f726e1ccc55b3f11b08acecdf89982d5d6",
+    "sha256_after": "c4fcc65076c34474262743f96f765393c67410626f2b17d34bf96a54e14580c4"
+  },
+  {
+    "file": "知识库/00-系统导航.md",
+    "sha256_before": "74336998d3b647452093033372faf55aab8b302bb7d63c254794b10c74925486",
+    "sha256_after": "671a895a350c236cf22a6ff99469554a2349b91f8eeab7638ab15f8af693606b"
+  },
+  {
+    "file": "知识库/80-审核与权重/00-审核入口.md",
+    "sha256_before": "13fb45b47db42189693b20f809f88fa596893d46ebbbfd8077733618b207cc8c",
+    "sha256_after": "62da7773d1ba70fd9e367b965f16a05371a888b868bbee1c75c566a386a33b1a"
+  },
+  {
+    "file": "知识库/80-审核与权重/04-入库覆盖与处理报告.md",
+    "sha256_before": "8ef86c699e2f352b197ae5d5f6a29e0d6abbfabffb7fe202ef5d914b0fb622dd",
+    "sha256_after": "d65b0d6e329d5993880c11e9896e1a0f8d8c2fa88d9b2f1cb02d959c58006f5e"
+  },
+  {
+    "file": "知识库/10-原始资料/来源索引.md",
+    "sha256_before": "5cbf3a96ef350c81f3e86eeb639bd655203f878f0edf00b407d2dd765da3e2c3",
+    "sha256_after": "c3298f54b7d484ef222c45fd88ef4b40bc51803398facf8f5648f5a584d08d31"
+  },
+  {
+    "file": "知识库/40-问题地图/个人系统运行面板-建议版.md",
+    "sha256_before": "c7fe409950aaf079d73077715a0dba930479a752f6459ed544b5aae0e0c49fb5",
+    "sha256_after": "fd447889ccb6f1edbb54497401470c2d6e55d6c4a40b7367ad861f00dfb41990"
+  },
+  {
+    "file": "06-待补数据与系统构建研究路线.md",
+    "sha256_before": "6dca58ae7eff80b16beb88dc9f2983fb539b5de54026f94821758c84c9e71855",
+    "sha256_after": "67be9918316158bde935117ba1d634e02857d102e861b518f01962cd0190665e"
+  },
+  {
+    "file": "07-本次补充分析与知识库更新.md",
+    "sha256_before": "50f3532398780a31bf746b8fc6a34b4c41840691a186165bb86893ddef4ac528",
+    "sha256_after": "b619a2890f7be15d421a6e35c974c8cf0914ba549300ba9bebf4266d8132b010"
+  }
+]

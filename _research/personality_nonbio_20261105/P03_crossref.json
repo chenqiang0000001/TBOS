@@ -1,0 +1,187 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        28
+      ]
+    ],
+    "date-time": "2026-10-28T18:46:13Z",
+    "timestamp": 1793213173506,
+    "version": "4.5.0"
+  },
+  "reference-count": 0,
+  "publisher": "American Psychological Association (APA)",
+  "issue": "4",
+  "funder": [
+    {
+      "DOI": "10.13039/501100004350",
+      "name": "German National Academic Foundation",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/501100004350",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Journal of Personality and Social Psychology"
+  ],
+  "DOI": "10.1037/a0024950",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2011,
+        8,
+        22
+      ]
+    ],
+    "date-time": "2011-08-22T13:08:59Z",
+    "timestamp": 1314018539000
+  },
+  "page": "862-882",
+  "source": "Crossref",
+  "is-referenced-by-count": 946,
+  "title": [
+    "Stability and change of personality across the life course: The impact of age and major life events on mean-level and rank-order stability of the Big Five."
+  ],
+  "prefix": "10.1037",
+  "volume": "101",
+  "author": [
+    {
+      "given": "Jule",
+      "family": "Specht",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5736-9912",
+      "authenticated-orcid": false,
+      "given": "Boris",
+      "family": "Egloff",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-6279-9618",
+      "authenticated-orcid": false,
+      "given": "Stefan C.",
+      "family": "Schmukle",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "15",
+  "published-online": {
+    "date-parts": [
+      [
+        2011
+      ]
+    ]
+  },
+  "container-title": [
+    "Journal of Personality and Social Psychology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://psycnet.apa.org/journals/psp/101/4/862.pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        5
+      ]
+    ],
+    "date-time": "2024-02-05T19:15:22Z",
+    "timestamp": 1707160522000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://doi.apa.org/doi/10.1037/a0024950"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2011
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "4",
+    "published-online": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "2011-18537-001",
+    "21859226"
+  ],
+  "URL": "https://doi.org/10.1037/a0024950",
+  "relation": {},
+  "ISSN": [
+    "1939-1315",
+    "0022-3514"
+  ],
+  "issn-type": [
+    {
+      "value": "1939-1315",
+      "type": "electronic"
+    },
+    {
+      "value": "0022-3514",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2011
+      ]
+    ]
+  }
+}

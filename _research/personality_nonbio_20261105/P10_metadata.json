@@ -1,0 +1,85 @@
+{
+  "id": "P10",
+  "doi": "10.1177/0963721413475622",
+  "title": "Narrative Identity",
+  "abstract": "Narrative identity is a person’s internalized and evolving life story, integrating the reconstructed past and imagined future to provide life with some degree of unity and purpose. In recent studies on narrative identity, researchers have paid a great deal of attention to (a) psychological adaptation and (b) development. Research into the relation between life stories and adaptation shows that narrators who find redemptive meanings in suffering and adversity, and who construct life stories that feature themes of personal agency and exploration, tend to enjoy higher levels of mental health, well-being, and maturity. Researchers have tracked the development of narrative identity from its origins in conversations between parents and their young children to the articulation of sophisticated meaning-making strategies in the personal stories told in adolescence and the emerging adulthood years. Future researchers need to (a) disentangle causal relations between features of life stories and positive psychological adaptation and (b) explore further the role of broad cultural contexts in the development of narrative identity.",
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "locations": [
+    "https://doi.org/10.1177/0963721413475622"
+  ],
+  "pdfs": [],
+  "crossref": {
+    "title": [
+      "Narrative Identity"
+    ],
+    "abstract": "<jats:p>Narrative identity is a person’s internalized and evolving life story, integrating the reconstructed past and imagined future to provide life with some degree of unity and purpose. In recent studies on narrative identity, researchers have paid a great deal of attention to (a) psychological adaptation and (b) development. Research into the relation between life stories and adaptation shows that narrators who find redemptive meanings in suffering and adversity, and who construct life stories that feature themes of personal agency and exploration, tend to enjoy higher levels of mental health, well-being, and maturity. Researchers have tracked the development of narrative identity from its origins in conversations between parents and their young children to the articulation of sophisticated meaning-making strategies in the personal stories told in adolescence and the emerging adulthood years. Future researchers need to (a) disentangle causal relations between features of life stories and positive psychological adaptation and (b) explore further the role of broad cultural contexts in the development of narrative identity.</jats:p>",
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          6
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Dan P.",
+        "family": "McAdams",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Psychology and School of Education and Social Policy, Northwestern University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kate C.",
+        "family": "McLean",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychology, Western Washington University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "URL": "https://doi.org/10.1177/0963721413475622",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/0963721413475622",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/0963721413475622",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/0963721413475622",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ]
+  }
+}

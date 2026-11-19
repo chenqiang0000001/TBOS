@@ -1,0 +1,1449 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          13
+        ]
+      ],
+      "date-time": "2026-10-13T10:47:21Z",
+      "timestamp": 1791888441043,
+      "version": "4.3.4"
+    },
+    "reference-count": 80,
+    "publisher": "Wiley",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              12,
+              3
+            ]
+          ],
+          "date-time": "2016-12-03T00:00:00Z",
+          "timestamp": 1480723200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Personality"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          2
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:sec>\n                    <jats:title>Objective</jats:title>\n                    <jats:p>Theory and research have emphasized the impact of life events on personality trait change. In this article, we review prospective research on personality trait change in response to nine major life events in the broader domains of love and work.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Method</jats:title>\n                    <jats:p>We expected to find that life events lead to personality trait change to the extent that they have a lasting influence on individuals' thoughts, feelings, and behavior. Moreover, we predicted that love‐related life events such as marriage or parenthood would be more strongly related to changes in traits that emphasize affective content, whereas work‐related life events would be more likely to lead to change in traits that reflect behavioral or cognitive content.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>The current state of research provided some evidence that life events can lead to changes in personality traits and that different life events may be differently related to specific trait domains.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions</jats:title>\n                    <jats:p>A more general conclusion emerging from this review is that the evidence for the nature, shape, and timing of personality trait change in response to life events is still preliminary. We discuss the implications of the results for theory and research and provide directions for future studies on life events and personality trait change.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1111/jopy.12286",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          10,
+          13
+        ]
+      ],
+      "date-time": "2016-10-13T01:51:47Z",
+      "timestamp": 1476323507000
+    },
+    "page": "83-96",
+    "source": "Crossref",
+    "is-referenced-by-count": 413,
+    "title": [
+      "Life Events and Personality Trait Change"
+    ],
+    "prefix": "10.1111",
+    "volume": "86",
+    "author": [
+      {
+        "given": "Wiebke",
+        "family": "Bleidorn",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of California Davis"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Christopher J.",
+        "family": "Hopwood",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Michigan State University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Richard E.",
+        "family": "Lucas",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Michigan State University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          12,
+          3
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_7_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/pere.12067"
+      },
+      {
+        "key": "e_1_2_7_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/352833"
+      },
+      {
+        "key": "e_1_2_7_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/per.731"
+      },
+      {
+        "key": "e_1_2_7_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0146167212456707"
+      },
+      {
+        "key": "e_1_2_7_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0963721414568662"
+      },
+      {
+        "key": "e_1_2_7_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1948550616646428"
+      },
+      {
+        "key": "e_1_2_7_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/per.1957"
+      },
+      {
+        "key": "e_1_2_7_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0956797613498396"
+      },
+      {
+        "key": "e_1_2_7_10_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "532",
+        "DOI": "10.1037/a0022402",
+        "article-title": "Toward a process‐focused model of test score validity: Improving psychological assessment in science and practice",
+        "volume": "23",
+        "author": "Bornstein R. F.",
+        "year": "2012",
+        "journal-title": "Psychological Assessment"
+      },
+      {
+        "key": "e_1_2_7_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0038647"
+      },
+      {
+        "key": "e_1_2_7_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1207/s15327965pli0404_1"
+      },
+      {
+        "key": "e_1_2_7_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/107319110000700405"
+      },
+      {
+        "key": "e_1_2_7_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0035135"
+      },
+      {
+        "key": "e_1_2_7_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/cdep.12050"
+      },
+      {
+        "key": "e_1_2_7_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9450.2009.00711.x"
+      },
+      {
+        "key": "e_1_2_7_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0012897"
+      },
+      {
+        "key": "e_1_2_7_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/11383-000"
+      },
+      {
+        "key": "e_1_2_7_19_1",
+        "first-page": "41",
+        "volume-title": "Handbook of personality development",
+        "author": "Fleeson W.",
+        "year": "2006"
+      },
+      {
+        "key": "e_1_2_7_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0018770"
+      },
+      {
+        "key": "e_1_2_7_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0020204"
+      },
+      {
+        "key": "e_1_2_7_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.paid.2014.06.002"
+      },
+      {
+        "key": "e_1_2_7_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/per.1945"
+      },
+      {
+        "key": "e_1_2_7_24_1",
+        "first-page": "3",
+        "volume-title": "Transition: Understanding and managing personal change",
+        "author": "Hopson B.",
+        "year": "1976"
+      },
+      {
+        "key": "e_1_2_7_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0022409"
+      },
+      {
+        "key": "e_1_2_7_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jrp.2012.03.002"
+      },
+      {
+        "key": "e_1_2_7_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/per.1932"
+      },
+      {
+        "key": "e_1_2_7_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jopy.12006"
+      },
+      {
+        "key": "e_1_2_7_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/per.1959"
+      },
+      {
+        "key": "e_1_2_7_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pspp0000015"
+      },
+      {
+        "key": "e_1_2_7_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/per.822"
+      },
+      {
+        "key": "e_1_2_7_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0014058"
+      },
+      {
+        "key": "e_1_2_7_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10519-011-9491-0"
+      },
+      {
+        "key": "e_1_2_7_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/geronb/57.3.P212"
+      },
+      {
+        "key": "e_1_2_7_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jrp.2013.08.004"
+      },
+      {
+        "key": "e_1_2_7_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0015121"
+      },
+      {
+        "key": "e_1_2_7_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-8721.2007.00479.x"
+      },
+      {
+        "key": "e_1_2_7_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0024298"
+      },
+      {
+        "key": "e_1_2_7_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0023743"
+      },
+      {
+        "key": "e_1_2_7_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0146167208329215"
+      },
+      {
+        "key": "e_1_2_7_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0015809"
+      },
+      {
+        "key": "e_1_2_7_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0025948"
+      },
+      {
+        "key": "e_1_2_7_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/per.1951"
+      },
+      {
+        "key": "e_1_2_7_44_1",
+        "first-page": "1",
+        "volume-title": "Handbook of personality: Theory and research",
+        "author": "McCrae R. R.",
+        "year": "2008"
+      },
+      {
+        "key": "e_1_2_7_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1745691610383511"
+      },
+      {
+        "key": "e_1_2_7_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jrp.2016.08.007"
+      },
+      {
+        "key": "e_1_2_7_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.81.6.1190"
+      },
+      {
+        "key": "e_1_2_7_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-6494.2007.00448.x"
+      },
+      {
+        "key": "e_1_2_7_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-6494.2010.00629.x"
+      },
+      {
+        "key": "e_1_2_7_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jopy.12063"
+      },
+      {
+        "key": "e_1_2_7_51_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1159/000074389"
+      },
+      {
+        "key": "e_1_2_7_52_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0131115",
+        "article-title": "Openness to experience as a predictor and outcome of upward job changes into managerial and professional positions",
+        "volume": "10",
+        "author": "Nieß C.",
+        "year": "2015",
+        "journal-title": "PlOS ONE"
+      },
+      {
+        "key": "e_1_2_7_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0963721414547414"
+      },
+      {
+        "key": "e_1_2_7_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9780511663260.009"
+      },
+      {
+        "key": "e_1_2_7_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.84.3.582"
+      },
+      {
+        "key": "e_1_2_7_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.126.1.3"
+      },
+      {
+        "key": "e_1_2_7_57_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-6494.2008.00530.x"
+      },
+      {
+        "key": "e_1_2_7_58_1",
+        "unstructured": "Roberts B. W. &Jackson J. J.(2016). The sociogenomic model of traits revisited. Manuscript submitted for publication."
+      },
+      {
+        "key": "e_1_2_7_59_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-8721.2008.00543.x"
+      },
+      {
+        "key": "e_1_2_7_60_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/per.607"
+      },
+      {
+        "key": "e_1_2_7_61_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.132.1.1"
+      },
+      {
+        "key": "e_1_2_7_62_1",
+        "first-page": "11",
+        "volume-title": "Handbook of personality development",
+        "author": "Roberts B. W.",
+        "year": "2006"
+      },
+      {
+        "key": "e_1_2_7_63_1",
+        "first-page": "375",
+        "volume-title": "Handbook of personality: Theory and research",
+        "author": "Roberts B. W.",
+        "year": "2008"
+      },
+      {
+        "key": "e_1_2_7_64_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jrp.2004.08.002"
+      },
+      {
+        "key": "e_1_2_7_65_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/biomet/70.1.41"
+      },
+      {
+        "key": "e_1_2_7_66_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Schwaba T. Luhmann M. Denissen J. J. A. Chung J. M. &Bleidorn W.(2017). Openness to experience and culture-openness transactions across the lifespan.Journal of Personality and Social Psychology. Advance online publication. doi:https://doi.org/10.1037/pspp0000150",
+        "DOI": "10.31219/osf.io/u7tb2"
+      },
+      {
+        "key": "e_1_2_7_67_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.91.6.1152"
+      },
+      {
+        "key": "e_1_2_7_68_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/per.1966"
+      },
+      {
+        "key": "e_1_2_7_69_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0024950"
+      },
+      {
+        "key": "e_1_2_7_70_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-6494.2011.00752.x"
+      },
+      {
+        "key": "e_1_2_7_71_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0021717"
+      },
+      {
+        "key": "e_1_2_7_72_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00273171.2011.540475"
+      },
+      {
+        "key": "e_1_2_7_73_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.31219/osf.io/xv4np",
+        "volume-title": "Self‐esteem and relationship satisfaction during the transition to motherhood",
+        "author": "Scheppingen",
+        "year": "2017"
+      },
+      {
+        "key": "e_1_2_7_74_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1948550616630032"
+      },
+      {
+        "key": "e_1_2_7_75_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1948550614566092"
+      },
+      {
+        "key": "e_1_2_7_76_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "139",
+        "DOI": "10.3790/schm.127.1.139",
+        "article-title": "The German Socio‐Economic Panel Study (SOEP): Scope, evolution and enhancements",
+        "volume": "127",
+        "author": "Wagner G. G.",
+        "year": "2007",
+        "journal-title": "Schmollers Jahrbuch"
+      },
+      {
+        "key": "e_1_2_7_77_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "395",
+        "DOI": "10.1037/0022-3514.37.3.395",
+        "article-title": "A psychological taxonomy of trait‐descriptive terms: The interpersonal domain",
+        "volume": "37",
+        "author": "Wiggins J. S.",
+        "year": "1991",
+        "journal-title": "Journal of Personality and Social Psychology"
+      },
+      {
+        "key": "e_1_2_7_78_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/per.2002"
+      },
+      {
+        "key": "e_1_2_7_79_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0029322"
+      },
+      {
+        "key": "e_1_2_7_80_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1088868316652279"
+      },
+      {
+        "key": "e_1_2_7_81_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0146167202289013"
+      }
+    ],
+    "container-title": [
+      "Journal of Personality"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fjopy.12286",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fjopy.12286",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jopy.12286",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          12
+        ]
+      ],
+      "date-time": "2023-09-12T09:31:27Z",
+      "timestamp": 1694511087000
+    },
+    "score": 33.386887,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jopy.12286"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          12,
+          3
+        ]
+      ]
+    },
+    "references-count": 80,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1111/jopy.12286"
+    ],
+    "URL": "https://doi.org/10.1111/jopy.12286",
+    "archive": [
+      "Portico"
+    ],
+    "ISSN": [
+      "0022-3506",
+      "1467-6494"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-3506",
+        "type": "print"
+      },
+      {
+        "value": "1467-6494",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          12,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          26
+        ]
+      ],
+      "date-time": "2026-09-26T18:00:44Z",
+      "timestamp": 1790445644940,
+      "version": "4.1.0"
+    },
+    "reference-count": 96,
+    "publisher": "SAGE Publications",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              2,
+              15
+            ]
+          ],
+          "date-time": "2023-02-15T00:00:00Z",
+          "timestamp": 1676419200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "funder": [
+      {
+        "name": "GermanyÃ¢Â€Â™s Excellence Initiative",
+        "award": [
+          "DFG GSC 98/3"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "DFG GSC 98/3"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Eur J Pers"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          3
+        ]
+      ]
+    },
+    "abstract": "<jats:p>Personality traits can change throughout the entire life span, but people differ in their personality trait changes. To better understand individual differences in personality changes, we examined personal (personality functioning), environmental (environmental changes), and event-related moderators (e.g., perceived event characteristics) of personality trait changes. Therefore, we used a sample of 1069 participants who experienced a negative life event in the last 5 weeks and assessed their personality traits at five measurement occasions over 6 months. Employing preregistered multilevel lasso estimation, we did not find any significant effects. While exploratory analyses generally confirmed this conclusion, they also identified some effects that might being worth to be considered in future research (e.g., perceived impact and perceived social status changes were associated with changes in agreeableness after experiencing a relationship breakup). In total, our moderators explained less than 2% of variance in personality traits. Nonetheless, our study has several important implications for future research on individual differences in personality change. For example, future research should consider personal, environmental, and event-related moderators, use different analytical methods, and rely on highly powered samples to detect very small effects.</jats:p>",
+    "DOI": "10.1177/08902070231156840",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          15
+        ]
+      ],
+      "date-time": "2023-02-15T23:50:57Z",
+      "timestamp": 1676505057000
+    },
+    "page": "209-224",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 21,
+    "title": [
+      "Examining individual differences in personality trait changes after negative life events"
+    ],
+    "prefix": "10.1177",
+    "volume": "38",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-3896-6172",
+        "authenticated-orcid": false,
+        "given": "Peter",
+        "family": "Haehner",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Psychology, Ruhr University Bochum, Bochum, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Wiebke",
+        "family": "Bleidorn",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychology, University of Zurich, Zurich, Switzerland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Christopher J",
+        "family": "Hopwood",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychology, University of Zurich, Zurich, Switzerland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          15
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_7_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.96.2.358"
+      },
+      {
+        "key": "e_1_3_7_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/pere.12067"
+      },
+      {
+        "key": "e_1_3_7_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0146167215569492"
+      },
+      {
+        "key": "e_1_3_7_5_1",
+        "volume-title": "Pattern and growth in personality",
+        "author": "Allport G. W.",
+        "year": "1961",
+        "unstructured": "Allport G. W. (1961). Pattern and growth in personality. Psychology. Holt Rinehart & Winston."
+      },
+      {
+        "key": "e_1_3_7_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1176/appi.books.9780890425596"
+      },
+      {
+        "key": "e_1_3_7_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5964/ps.6055"
+      },
+      {
+        "key": "e_1_3_7_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2167702616628523"
+      },
+      {
+        "key": "e_1_3_7_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00223891.2011.583808"
+      },
+      {
+        "key": "e_1_3_7_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/08902070221104628"
+      },
+      {
+        "key": "e_1_3_7_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/amp0000503"
+      },
+      {
+        "key": "e_1_3_7_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/per.2247"
+      },
+      {
+        "key": "e_1_3_7_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5964/ps.6009"
+      },
+      {
+        "key": "e_1_3_7_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jopy.12286"
+      },
+      {
+        "key": "e_1_3_7_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/bul0000365"
+      },
+      {
+        "key": "e_1_3_7_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/NMD.0b013e318266ba02"
+      },
+      {
+        "key": "e_1_3_7_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S003329170002105X"
+      },
+      {
+        "key": "e_1_3_7_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1207/s15327965pli0404_1"
+      },
+      {
+        "key": "e_1_3_7_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1207/S15327965PLI1202_01"
+      },
+      {
+        "key": "e_1_3_7_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pspp0000196"
+      },
+      {
+        "key": "e_1_3_7_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2021.671421"
+      },
+      {
+        "key": "e_1_3_7_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.91.6.1138"
+      },
+      {
+        "key": "e_1_3_7_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jrp.2014.07.004"
+      },
+      {
+        "key": "e_1_3_7_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1948550617727589"
+      },
+      {
+        "key": "e_1_3_7_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/ijerph17082797"
+      },
+      {
+        "key": "e_1_3_7_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/08902070211031762"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_7_27_1",
+        "first-page": "1",
+        "article-title": "Modeling high dimensional multilevel data using the lasso estimator: A simulation study",
+        "volume": "7",
+        "author": "Finch W. H.",
+        "year": "2018",
+        "unstructured": "Finch W. H. (2018). Modeling high dimensional multilevel data using the lasso estimator: A simulation study. Journal of Statistical and Econometric Methods, 7(1), 1–3. https://ideas.repec.org/a/spt/stecon/v7y2018i1f7_1_3.html",
+        "journal-title": "Journal of Statistical and Econometric Methods"
+      },
+      {
+        "key": "e_1_3_7_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1201/9781351062268"
+      },
+      {
+        "key": "e_1_3_7_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2515245919847202"
+      },
+      {
+        "key": "e_1_3_7_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0165025416677847"
+      },
+      {
+        "key": "e_1_3_7_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0149206318781950"
+      },
+      {
+        "key": "e_1_3_7_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/2041-210X.12504"
+      },
+      {
+        "key": "e_1_3_7_33_1",
+        "volume-title": "Using event characteristics to predict event-related changes in subjective well-being: Specification curve analyses",
+        "author": "Haehner P.",
+        "year": "2023",
+        "unstructured": "Haehner P., Kritzler S., Luhmann M. (2023a). Using event characteristics to predict event-related changes in subjective well-being: Specification curve analyses. Manuscript in preparation."
+      },
+      {
+        "key": "e_1_3_7_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jrp.2022.104321"
+      },
+      {
+        "key": "e_1_3_7_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/08902070221107973"
+      },
+      {
+        "key": "e_1_3_7_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/famp.12006"
+      },
+      {
+        "key": "e_1_3_7_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/B978-0-12-813995-0.00029-7"
+      },
+      {
+        "key": "e_1_3_7_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1201/b18401"
+      },
+      {
+        "key": "e_1_3_7_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/esr/jcy053"
+      },
+      {
+        "key": "e_1_3_7_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.51.2.389"
+      },
+      {
+        "key": "e_1_3_7_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fgene.2016.00015"
+      },
+      {
+        "key": "e_1_3_7_42_1",
+        "volume-title": "Oxford handbook of personality and psychopathology assessment",
+        "author": "Hopwood C. J.",
+        "year": "2022",
+        "unstructured": "Hopwood C. J., Fox S., Bender S. D., Zimmermann J. (2022). The core self/other dimension of personality functioning. In Mihura J. (Ed.), Oxford handbook of personality and psychopathology assessment (2nd ed.).",
+        "edition": "2"
+      },
+      {
+        "key": "e_1_3_7_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00223891.2017.1420660"
+      },
+      {
+        "key": "e_1_3_7_44_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Huang Y. Montoya A. K. (2020). Lasso and group Lasso with categorical predictors: Impact of coding strategy on variable selection and prediction. PsyArXiv. https://doi.org/10.31234/osf.io/wc45u",
+        "DOI": "10.31234/osf.io/wc45u"
+      },
+      {
+        "key": "e_1_3_7_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/per.1963"
+      },
+      {
+        "key": "e_1_3_7_46_1",
+        "article-title": "Post-traumatic growth as positive personality change: Challenges, opportunities, and recommendations",
+        "author": "Jayawickreme E.",
+        "year": "2020",
+        "unstructured": "Jayawickreme E., Infurna F. J., Alajak K., Blackie L. E. R., Chopik W. J., Chung J. M., Dorfman A., Fleeson W., Forgeard M. J. C., Frazier P., Furr R. M., Grossmann I., Heller A. S., Laceulle O. M., Lucas R. E., Luhmann M., Luong G., Meijer L., McLean K. C., Zonneveld R. (2020). Post-traumatic growth as positive personality change: Challenges, opportunities, and recommendations. Journal of Personality. Advance online publication. https://doi.org/10.1111/jopy.12591",
+        "journal-title": "Journal of Personality"
+      },
+      {
+        "key": "e_1_3_7_47_1",
+        "volume-title": "semTools: Useful tools for structural equation modeling",
+        "author": "Jorgensen T. D.",
+        "year": "2020",
+        "unstructured": "Jorgensen T. D., Pornprasertmanit S., Schoemann A. M., Rosseel Y. (2020). semTools: Useful tools for structural equation modeling. https://CRAN.R-project.org/package=semTools"
+      },
+      {
+        "key": "e_1_3_7_48_1",
+        "volume-title": "Evaluating methods for Lasso selective inference in biomedical research by a comparative simulation study",
+        "author": "Kammer M.",
+        "year": "2020",
+        "unstructured": "Kammer M., Dunkler D., Michiels S., Heinze G. (2020). Evaluating methods for Lasso selective inference in biomedical research by a comparative simulation study. PsyArXiv. http://arxiv.org/pdf/2005.07484v2"
+      },
+      {
+        "key": "e_1_3_7_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10519-011-9491-0"
+      },
+      {
+        "key": "e_1_3_7_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/per.2065"
+      },
+      {
+        "key": "e_1_3_7_51_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jrp.2020.103929"
+      },
+      {
+        "key": "e_1_3_7_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/08902070221076586"
+      },
+      {
+        "key": "e_1_3_7_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1088868306294590"
+      },
+      {
+        "key": "e_1_3_7_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0023743"
+      },
+      {
+        "key": "e_1_3_7_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pspp0000291"
+      },
+      {
+        "key": "e_1_3_7_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/per.1951"
+      },
+      {
+        "key": "e_1_3_7_57_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00702-020-02205-y"
+      },
+      {
+        "key": "e_1_3_7_58_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ebiom.2021.103804"
+      },
+      {
+        "key": "e_1_3_7_59_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.paid.2016.04.062"
+      },
+      {
+        "key": "e_1_3_7_60_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1600-0447.2004.00398.x"
+      },
+      {
+        "key": "e_1_3_7_61_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.paid.2011.08.009"
+      },
+      {
+        "key": "e_1_3_7_62_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.dr.2016.06.004"
+      },
+      {
+        "key": "e_1_3_7_63_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/08902070211045825"
+      },
+      {
+        "key": "e_1_3_7_64_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1027/1015-5759/a000481"
+      },
+      {
+        "key": "e_1_3_7_65_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0023627"
+      },
+      {
+        "key": "e_1_3_7_66_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/met0000184"
+      },
+      {
+        "key": "e_1_3_7_67_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/cad.20387"
+      },
+      {
+        "key": "e_1_3_7_68_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/bul0000088"
+      },
+      {
+        "key": "e_1_3_7_69_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/B978-0-12-804674-6.00011-9"
+      },
+      {
+        "key": "e_1_3_7_70_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.132.1.1"
+      },
+      {
+        "key": "e_1_3_7_71_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jrp.2004.08.002"
+      },
+      {
+        "key": "e_1_3_7_72_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18637/jss.v048.i02"
+      },
+      {
+        "key": "e_1_3_7_73_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/jrr.2014.6"
+      },
+      {
+        "key": "e_1_3_7_74_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-006X.46.5.932"
+      },
+      {
+        "key": "e_1_3_7_75_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9469.2011.00740.x"
+      },
+      {
+        "key": "e_1_3_7_76_1",
+        "volume-title": "Subjective experiences of life events explain individual differences in personality",
+        "author": "Schwaba T.",
+        "year": "2023",
+        "unstructured": "Schwaba T., Denissen J. J. A., Luhmann M., Hopwood C. J., Bleidorn W. (2023). Subjective experiences of life events explain individual differences in personality. Manuscript in preparation."
+      },
+      {
+        "key": "e_1_3_7_77_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.obhdp.2021.02.003"
+      },
+      {
+        "key": "e_1_3_7_78_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-6494.2010.00625.x"
+      },
+      {
+        "key": "e_1_3_7_79_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev-clinpsy-081219-105402"
+      },
+      {
+        "key": "e_1_3_7_80_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jrp.2016.10.002"
+      },
+      {
+        "key": "e_1_3_7_81_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2515245917747646"
+      },
+      {
+        "key": "e_1_3_7_82_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jrp.2017.02.004"
+      },
+      {
+        "key": "e_1_3_7_83_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/B978-0-12-804674-6.00021-1"
+      },
+      {
+        "key": "e_1_3_7_84_1",
+        "article-title": "Die deutsche Version der Level of Personality Functioning Scale-Brief Form 2.0 (LPFS-BF): Faktorenstruktur, konvergente Validität und Normwerte in der Allgemeinbevölkerung",
+        "author": "Spitzer C.",
+        "year": "2021",
+        "unstructured": "Spitzer C., Müller S., Kerber A., Hutsebaut J., Brähler E., Zimmermann J. (2021). Die deutsche Version der Level of Personality Functioning Scale-Brief Form 2.0 (LPFS-BF): Faktorenstruktur, konvergente Validität und Normwerte in der Allgemeinbevölkerung. Psychotherapie, Psychosomatik, Medizinische Psychologie. Advance online publication. https://doi.org/10.1055/a-1343-2396",
+        "journal-title": "Psychotherapie, Psychosomatik, Medizinische Psychologie"
+      },
+      {
+        "key": "e_1_3_7_85_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.socscimed.2006.06.012"
+      },
+      {
+        "key": "e_1_3_7_86_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.70.5.1091"
+      },
+      {
+        "key": "e_1_3_7_87_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neuron.2010.10.003"
+      },
+      {
+        "key": "e_1_3_7_88_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1475-6811.00039"
+      },
+      {
+        "key": "e_1_3_7_89_1",
+        "first-page": "3",
+        "volume-title": "Loss and trauma: General and close relationship perspectives",
+        "author": "Updegraff J. A.",
+        "year": "2000",
+        "unstructured": "Updegraff J. A., Taylor S. E. (2000). From vulnerability to growth: Positive and negative effects of stressful life events. In Harvey J. H., Miller E. D. (Eds.), Loss and trauma: General and close relationship perspectives (pp. 3–28). Brunner-Routledge."
+      },
+      {
+        "key": "e_1_3_7_90_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/07481180903559196"
+      },
+      {
+        "key": "e_1_3_7_91_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.copsyc.2021.07.007"
+      },
+      {
+        "key": "e_1_3_7_92_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/pmh.1434"
+      },
+      {
+        "key": "e_1_3_7_93_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-006X.73.4.617"
+      },
+      {
+        "key": "e_1_3_7_94_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1745-6924.2008.00085.x"
+      },
+      {
+        "key": "e_1_3_7_95_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1088868316652279"
+      },
+      {
+        "key": "e_1_3_7_96_1",
+        "volume-title": "splmm: Simultaneous penalized linear mixed effects models",
+        "author": "Yang L.",
+        "year": "2021",
+        "unstructured": "Yang L., Wu T. T. (2021). splmm: Simultaneous penalized linear mixed effects models. https://CRAN.R-project.org/package=splmm"
+      },
+      {
+        "key": "e_1_3_7_97_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/20-STS815"
+      }
+    ],
+    "container-title": [
+      "European Journal of Personality"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/08902070231156840",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/08902070231156840",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/08902070231156840",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          28
+        ]
+      ],
+      "date-time": "2026-04-28T20:44:08Z",
+      "timestamp": 1777409048000
+    },
+    "score": 32.906166,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/08902070231156840"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          15
+        ]
+      ]
+    },
+    "references-count": 96,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/08902070231156840"
+    ],
+    "URL": "https://doi.org/10.1177/08902070231156840",
+    "relation": {
+      "has-review": [
+        {
+          "id-type": "doi",
+          "id": "10.1177/08902070231156840/v1/decision1",
+          "asserted-by": "object"
+        },
+        {
+          "id-type": "doi",
+          "id": "10.1177/08902070231156840/v1/review1",
+          "asserted-by": "object"
+        },
+        {
+          "id-type": "doi",
+          "id": "10.1177/08902070231156840/v2/decision1",
+          "asserted-by": "object"
+        },
+        {
+          "id-type": "doi",
+          "id": "10.1177/08902070231156840/v2/response1",
+          "asserted-by": "object"
+        }
+      ],
+      "has-preprint": [
+        {
+          "id-type": "doi",
+          "id": "10.31234/osf.io/2nygp",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "0890-2070",
+      "1099-0984"
+    ],
+    "issn-type": [
+      {
+        "value": "0890-2070",
+        "type": "print"
+      },
+      {
+        "value": "1099-0984",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          15
+        ]
+      ]
+    }
+  }
+]

@@ -1,0 +1,1259 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        3
+      ]
+    ],
+    "date-time": "2026-11-03T22:59:42Z",
+    "timestamp": 1793746782301,
+    "version": "4.6.1"
+  },
+  "reference-count": 165,
+  "publisher": "American Psychological Association (APA)",
+  "issue": "1",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Psychological Bulletin"
+  ],
+  "DOI": "10.1037/0033-2909.132.1.1",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2006,
+        1,
+        25
+      ]
+    ],
+    "date-time": "2006-01-25T08:00:38Z",
+    "timestamp": 1138176038000
+  },
+  "page": "1-25",
+  "source": "Crossref",
+  "is-referenced-by-count": 2376,
+  "title": [
+    "Patterns of mean-level change in personality traits across the life course: A meta-analysis of longitudinal studies."
+  ],
+  "prefix": "10.1037",
+  "volume": "132",
+  "author": [
+    {
+      "given": "Brent W.",
+      "family": "Roberts",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Kate E.",
+      "family": "Walton",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-3463-4063",
+      "authenticated-orcid": false,
+      "given": "Wolfgang",
+      "family": "Viechtbauer",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "15",
+  "published-online": {
+    "date-parts": [
+      [
+        2006,
+        1
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "r1_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0003-066X.55.5.469"
+    },
+    {
+      "key": "r2_10.1037/0033-2909.132.1.1",
+      "unstructured": "Asendorpf. 2003"
+    },
+    {
+      "key": "r3_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1467-6494.1991.tb00927.x"
+    },
+    {
+      "key": "r4_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.74.6.1531"
+    },
+    {
+      "key": "r5_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0003-066X.52.4.366"
+    },
+    {
+      "key": "r6_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/h0033335"
+    },
+    {
+      "key": "r7_10.1037/0033-2909.132.1.1",
+      "first-page": "1029",
+      "article-title": "Life-span theory in developmental psychology.",
+      "volume-title": "Handbook of child psychology",
+      "volume": "Vol. 1",
+      "author": "Baltes",
+      "year": "1998",
+      "edition": "5th ed."
+    },
+    {
+      "key": "r8_10.1037/0033-2909.132.1.1",
+      "first-page": "154",
+      "article-title": "Social cognitive theory of personality.",
+      "volume-title": "Handbook of personality: Theory and research",
+      "author": "Bandura",
+      "year": "1999",
+      "edition": "2nd ed."
+    },
+    {
+      "key": "r9_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0882-7974.16.2.342"
+    },
+    {
+      "key": "r10_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/h0026014"
+    },
+    {
+      "key": "r11_10.1037/0033-2909.132.1.1",
+      "unstructured": "Biggerstaff. 2000"
+    },
+    {
+      "key": "r12_10.1037/0033-2909.132.1.1",
+      "volume-title": "Lives through time.",
+      "author": "Block",
+      "year": "1971"
+    },
+    {
+      "key": "r13_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0033-2909.130.6.887"
+    },
+    {
+      "key": "r14_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.86.4.615"
+    },
+    {
+      "key": "r15_10.1037/0033-2909.132.1.1",
+      "first-page": "182",
+      "article-title": "Adult socialization.",
+      "volume-title": "Socialization and society",
+      "author": "Brim",
+      "year": "1965"
+    },
+    {
+      "key": "r16_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/1126435"
+    },
+    {
+      "key": "r17_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0191-8869(90)90275-V"
+    },
+    {
+      "key": "r18_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "first-page": "137",
+      "DOI": "10.1177/001316445501500206",
+      "article-title": "A study of emotional adjustment: The con-elation of student and adult forms of the Bell Adjustment Inventory over a period of thirteen years.",
+      "volume": "15",
+      "author": "Cantoni",
+      "year": "1955",
+      "journal-title": "Educational and Psychological Measurement",
+      "ISSN": "https://id.crossref.org/issn/0013-1644",
+      "issn-type": "print"
+    },
+    {
+      "key": "r19_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "first-page": "883",
+      "DOI": "10.1177/001316446602600408",
+      "article-title": "Test-retest reliability of the EPPS.",
+      "volume": "26",
+      "author": "Caputo",
+      "year": "1966",
+      "journal-title": "Educational and Psychological Measurement",
+      "ISSN": "https://id.crossref.org/issn/0013-1644",
+      "issn-type": "print"
+    },
+    {
+      "key": "r20_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1467-6494.1994.tb00792.x"
+    },
+    {
+      "key": "r21_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1471-6402.1994.tb00456.x"
+    },
+    {
+      "key": "r22_10.1037/0033-2909.132.1.1",
+      "first-page": "300",
+      "article-title": "Personality change and continuity across the life course.",
+      "volume-title": "Handbook of personality theory and research",
+      "author": "Caspi",
+      "year": "1999"
+    },
+    {
+      "key": "r23_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/BF01115393"
+    },
+    {
+      "key": "r24_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0033-2909.112.1.155"
+    },
+    {
+      "key": "r25_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0191-8869(84)90133-8"
+    },
+    {
+      "key": "r26_10.1037/0033-2909.132.1.1",
+      "unstructured": "Conn. 1994"
+    },
+    {
+      "key": "r27_10.1037/0033-2909.132.1.1",
+      "unstructured": "Cooper. 2004"
+    },
+    {
+      "key": "r28_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.54.5.853"
+    },
+    {
+      "key": "r29_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "first-page": "85",
+      "DOI": "10.1002/per.2410060203",
+      "article-title": "Multiple uses for longitudinal personality data.",
+      "volume": "6",
+      "author": "Costa",
+      "year": "1992",
+      "journal-title": "European Journal of Personality",
+      "ISSN": "https://id.crossref.org/issn/0890-2070",
+      "issn-type": "print"
+    },
+    {
+      "key": "r30_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "first-page": "269",
+      "DOI": "10.1016/B978-012134645-4/50012-3",
+      "article-title": "Longitudinal stability of adult personality.",
+      "volume-title": "Handbook of personality psychology",
+      "author": "Costa",
+      "year": "1997"
+    },
+    {
+      "key": "r31_10.1037/0033-2909.132.1.1",
+      "volume-title": "Revised NEO Personality Inventory (NEO-PI-R) and NEO-Five-Factor Inventory (NEO-FFI) professional manual.",
+      "author": "Costa",
+      "year": "1994"
+    },
+    {
+      "key": "r32_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "first-page": "365",
+      "DOI": "10.1177/107319110000700405",
+      "article-title": "Personality at midlife: Stability, intrinsic maturation, and response to life events.",
+      "volume": "7",
+      "author": "Costa",
+      "year": "2000",
+      "journal-title": "Assessment",
+      "ISSN": "https://id.crossref.org/issn/1073-1911",
+      "issn-type": "print"
+    },
+    {
+      "key": "r33_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.38.5.793"
+    },
+    {
+      "key": "r34_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/jrpe.1997.2208"
+    },
+    {
+      "key": "r35_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0092-6566(02)00528-7"
+    },
+    {
+      "key": "r36_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "first-page": "111",
+      "DOI": "10.1080/00221309.1943.10545198",
+      "article-title": "A retest with the Thurstone Personality Schedule after six and one-half years.",
+      "volume": "28",
+      "author": "Crook",
+      "year": "1943",
+      "journal-title": "The Journal of General Psychology",
+      "ISSN": "https://id.crossref.org/issn/0022-1309",
+      "issn-type": "print"
+    },
+    {
+      "key": "r37_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0092-6566(91)90006-C"
+    },
+    {
+      "key": "r38_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Dudek. Personality consistency: Eminent architects 25 years later. 4 213 1991",
+      "DOI": "10.1080/10400419109534395"
+    },
+    {
+      "key": "r39_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/2669529"
+    },
+    {
+      "key": "r40_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/2948438"
+    },
+    {
+      "key": "r41_10.1037/0033-2909.132.1.1",
+      "first-page": "29",
+      "article-title": "Household, kinship, and the life course: Perspectives on Black families and children.",
+      "volume-title": "Beginnings: The social and affective development of black children",
+      "author": "Elder",
+      "year": "1985"
+    },
+    {
+      "key": "r42_10.1037/0033-2909.132.1.1",
+      "volume-title": "Childhood and society.",
+      "author": "Erikson",
+      "year": "1950"
+    },
+    {
+      "key": "r43_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1207/s15327957pspr0204_5"
+    },
+    {
+      "key": "r44_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Field. Personality in advanced old age: Continuity or change? 46 299 1991",
+      "DOI": "10.1093/geronj/46.6.P299"
+    },
+    {
+      "key": "r45_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0033-295X.112.1.60"
+    },
+    {
+      "key": "r46_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/1467-6494.00127"
+    },
+    {
+      "key": "r47_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.60.5.773"
+    },
+    {
+      "key": "r48_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1525/eth.1999.27.2.180"
+    },
+    {
+      "key": "r49_10.1037/0033-2909.132.1.1",
+      "first-page": "701",
+      "article-title": "Daydreaming and curiosity: Stability and change in gifted children and adolescents.",
+      "volume": "25",
+      "author": "Gold",
+      "year": "1990",
+      "journal-title": "Adolescence",
+      "ISSN": "https://id.crossref.org/issn/0001-8449",
+      "issn-type": "print"
+    },
+    {
+      "key": "r50_10.1037/0033-2909.132.1.1",
+      "volume-title": "California Psychological Inventory manual",
+      "author": "Gough",
+      "year": "1996",
+      "edition": "3rd ed."
+    },
+    {
+      "key": "r51_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0191-8869(92)90190-Z"
+    },
+    {
+      "key": "r52_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0191-8869(96)00268-1"
+    },
+    {
+      "key": "r53_10.1037/0033-2909.132.1.1",
+      "volume-title": "Reclaimed powers: Toward a new psychology of men and women in later life.",
+      "author": "Guttman",
+      "year": "1987"
+    },
+    {
+      "key": "r54_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0882-7974.1.3.220"
+    },
+    {
+      "key": "r55_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/1467-6494.7106004"
+    },
+    {
+      "key": "r56_10.1037/0033-2909.132.1.1",
+      "volume-title": "Adolescent personality and behavior: MMPI patterns of normal, delinquent, dropout, and other outcomes.",
+      "author": "Hathaway",
+      "year": "1963"
+    },
+    {
+      "key": "r57_10.1037/0033-2909.132.1.1",
+      "first-page": "77",
+      "article-title": "Personality development in adult- hood: The broad picture and processes in one longitudinal sample.",
+      "volume-title": "Advances in personality psychology",
+      "volume": "Vol. 1",
+      "author": "Helson",
+      "year": "2000"
+    },
+    {
+      "key": "r58_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.53.1.176"
+    },
+    {
+      "key": "r59_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.59.2.311"
+    },
+    {
+      "key": "r60_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "first-page": "201",
+      "DOI": "10.1037/10143-009",
+      "article-title": "Personality change in adulthood.",
+      "volume-title": "Can personality change?",
+      "author": "Helson",
+      "year": "1994"
+    },
+    {
+      "key": "r61_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0882-7974.7.1.46"
+    },
+    {
+      "key": "r62_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.83.3.752"
+    },
+    {
+      "key": "r63_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0092-6566(02)00010-7"
+    },
+    {
+      "key": "r64_10.1037/0033-2909.132.1.1",
+      "unstructured": "Helson. 1997"
+    },
+    {
+      "key": "r65_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.69.6.1173"
+    },
+    {
+      "key": "r66_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0021-9010.88.1.100"
+    },
+    {
+      "key": "r67_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "first-page": "379",
+      "DOI": "10.1002/per.2410050505",
+      "article-title": "Change and stability of needs from middle adolescence to young adulthood in Swedish females.",
+      "volume": "5",
+      "author": "Holmlund",
+      "year": "1991",
+      "journal-title": "European Journal of Personality",
+      "ISSN": "https://id.crossref.org/issn/0890-2070",
+      "issn-type": "print"
+    },
+    {
+      "key": "r68_10.1037/0033-2909.132.1.1",
+      "first-page": "102",
+      "article-title": "The Big Five trait taxonomy: History, measurement, and theoretical perspectives.",
+      "volume-title": "Handbook of personality theory and research",
+      "volume": "Vol. 2",
+      "author": "John",
+      "year": "1999"
+    },
+    {
+      "key": "r69_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Judge. The Big Five personality traits, general mental ability, and career success across the life span. 52 621 1999",
+      "DOI": "10.1111/j.1744-6570.1999.tb00174.x"
+    },
+    {
+      "key": "r70_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.72.5.1075"
+    },
+    {
+      "key": "r71_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "first-page": "959",
+      "DOI": "10.1177/01461672002610006",
+      "article-title": "Memory bias in long-term close relationships: Consistency or improvement?",
+      "volume": "26",
+      "author": "Karney",
+      "year": "2000",
+      "journal-title": "Personality and Social Psychology Bulletin",
+      "ISSN": "https://id.crossref.org/issn/0146-1672",
+      "issn-type": "print"
+    },
+    {
+      "key": "r72_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/BF00844931"
+    },
+    {
+      "key": "r73_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/BF02089059"
+    },
+    {
+      "key": "r74_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.70.5.1067"
+    },
+    {
+      "key": "r75_10.1037/0033-2909.132.1.1",
+      "unstructured": "Klopsch. 1983"
+    },
+    {
+      "key": "r76_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "first-page": "330",
+      "DOI": "10.1016/B978-0-12-101280-9.50026-7",
+      "article-title": "Personality and aging.",
+      "volume-title": "Handbook of the psychology of aging",
+      "author": "Kogan",
+      "year": "1990"
+    },
+    {
+      "key": "r77_10.1037/0033-2909.132.1.1",
+      "unstructured": "Labouvie-Vief. 2002"
+    },
+    {
+      "key": "r78_10.1037/0033-2909.132.1.1",
+      "volume-title": "The culture of narcissism: American life in an age of diminishing expectations.",
+      "author": "Lasch",
+      "year": "1979"
+    },
+    {
+      "key": "r79_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0012-1649.35.5.1268"
+    },
+    {
+      "key": "r80_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-006X.47.3.517"
+    },
+    {
+      "key": "r81_10.1037/0033-2909.132.1.1",
+      "volume-title": "The seasons of a man's life.",
+      "author": "Levinson",
+      "year": "1978"
+    },
+    {
+      "key": "r82_10.1037/0033-2909.132.1.1",
+      "first-page": "327",
+      "article-title": "On the development of personality.",
+      "volume-title": "Handbook of personality theory and research",
+      "author": "Lewis",
+      "year": "1999"
+    },
+    {
+      "key": "r83_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1207/S15327965PLI1202_02"
+    },
+    {
+      "key": "r84_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1467-6494.1990.tb00914.x"
+    },
+    {
+      "key": "r85_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.48.4.947"
+    },
+    {
+      "key": "r86_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0033-295X.98.2.224"
+    },
+    {
+      "key": "r87_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0012-1649.14.2.189"
+    },
+    {
+      "key": "r88_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "first-page": "144",
+      "DOI": "10.1093/geronb/57.2.P144",
+      "article-title": "Age changes and differences in personality traits and states of the old and very old.",
+      "volume": "57",
+      "author": "Martin",
+      "year": "2002",
+      "journal-title": "The Journals of Gerontology. Series B, Psychological Sciences and Social Sciences",
+      "ISSN": "https://id.crossref.org/issn/1079-5014",
+      "issn-type": "print"
+    },
+    {
+      "key": "r89_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jrp.2003.09.009"
+    },
+    {
+      "key": "r90_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/1467-8721.ep10770693"
+    },
+    {
+      "key": "r91_10.1037/0033-2909.132.1.1",
+      "first-page": "139",
+      "article-title": "A five-factor theory of personality.",
+      "volume-title": "Handbook of personality theory and research",
+      "volume": "Vol. 2",
+      "author": "McCrae",
+      "year": "1999"
+    },
+    {
+      "key": "r92_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.78.1.173"
+    },
+    {
+      "key": "r93_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0012-1649.35.2.466"
+    },
+    {
+      "key": "r94_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0012-1649.29.1.96"
+    },
+    {
+      "key": "r95_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "first-page": "64",
+      "DOI": "10.2307/3510235",
+      "article-title": "Three year follow-up of women religious on the 16 Personality Factor Questionnaire.",
+      "volume": "15",
+      "author": "Melamed",
+      "year": "1974",
+      "journal-title": "Review of Religious Research",
+      "ISSN": "https://id.crossref.org/issn/0034-673X",
+      "issn-type": "print"
+    },
+    {
+      "key": "r96_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/1131678"
+    },
+    {
+      "key": "r97_10.1037/0033-2909.132.1.1",
+      "volume-title": "Personality and assessment.",
+      "author": "Mischel",
+      "year": "1968"
+    },
+    {
+      "key": "r98_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1525/9780520341371",
+      "volume-title": "Into one's own: From youth to adulthood in the United States, 1920-1975.",
+      "author": "Modell",
+      "year": "1989"
+    },
+    {
+      "key": "r99_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/1467-6494.7105002"
+    },
+    {
+      "key": "r100_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/1082-989X.7.1.105"
+    },
+    {
+      "key": "r101_10.1037/0033-2909.132.1.1",
+      "first-page": "263",
+      "article-title": "Persistence and change in development: The multidimensional self-concept.",
+      "volume-title": "Life-span development and behavior",
+      "volume": "Vol. 4",
+      "author": "Mortimer",
+      "year": "1982"
+    },
+    {
+      "key": "r102_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "first-page": "305",
+      "DOI": "10.1093/geronb/58.6.P305",
+      "article-title": "Modeling intraindividual change in personality traits: Findings from the Normative Aging Study.",
+      "volume": "58",
+      "author": "Mroczek",
+      "year": "2003",
+      "journal-title": "The Journals of Gerontology. Series B, Psychological Sciences and Social Sciences",
+      "ISSN": "https://id.crossref.org/issn/1079-5014",
+      "issn-type": "print"
+    },
+    {
+      "key": "r103_10.1037/0033-2909.132.1.1",
+      "unstructured": "Mroczek. 2002"
+    },
+    {
+      "key": "r104_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "first-page": "333",
+      "DOI": "10.1177/016502548000300309",
+      "article-title": "Continuity and change in women's characteristics over four decades.",
+      "volume": "3",
+      "author": "Mussen",
+      "year": "1980",
+      "journal-title": "International Journal of Behavioral Development",
+      "ISSN": "https://id.crossref.org/issn/0165-0254",
+      "issn-type": "print"
+    },
+    {
+      "key": "r105_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "first-page": "92",
+      "DOI": "10.1037/10099-006",
+      "article-title": "Interindividual differences in intraindividual change.",
+      "volume-title": "Best methods for the analysis of change: Recent advances, unanswered questions, future directions",
+      "author": "Nesselroade",
+      "year": "1991"
+    },
+    {
+      "key": "r106_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/1165824"
+    },
+    {
+      "key": "r107_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.81.6.1190"
+    },
+    {
+      "key": "r108_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/1161609"
+    },
+    {
+      "key": "r109_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S0954579497001478"
+    },
+    {
+      "key": "r110_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0191-8869(99)00112-9"
+    },
+    {
+      "key": "r111_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.60.2.288"
+    },
+    {
+      "key": "r112_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/1082-989X.3.3.354"
+    },
+    {
+      "key": "r113_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1360-0443.1991.tb01769.x"
+    },
+    {
+      "key": "r114_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "first-page": "678",
+      "DOI": "10.1177/0146167201276004",
+      "article-title": "Implications of authoritarianism for young adulthood: Longitudinal analysis of college experiences and future goals.",
+      "volume": "27",
+      "author": "Peterson",
+      "year": "2001",
+      "journal-title": "Personality and Social Psychology Bulletin",
+      "ISSN": "https://id.crossref.org/issn/0146-1672",
+      "issn-type": "print"
+    },
+    {
+      "key": "r115_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.56.2.289"
+    },
+    {
+      "key": "r116_10.1037/0033-2909.132.1.1",
+      "first-page": "247",
+      "article-title": "Longitudinal changes in intolerance and authoritarianism for subjects differing in amount of college education over four years.",
+      "volume": "72",
+      "author": "Plant",
+      "year": "1965",
+      "journal-title": "Genetic Psychology Monographs",
+      "ISSN": "https://id.crossref.org/issn/0016-6677",
+      "issn-type": "print"
+    },
+    {
+      "key": "r117_10.1037/0033-2909.132.1.1",
+      "first-page": "3",
+      "article-title": "Changes in personality for groups completing different amounts of college over two years.",
+      "volume": "74",
+      "author": "Plant",
+      "year": "1966",
+      "journal-title": "Genetic Psychology Monographs",
+      "ISSN": "https://id.crossref.org/issn/0016-6677",
+      "issn-type": "print"
+    },
+    {
+      "key": "r118_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1467-6494.1990.tb00913.x"
+    },
+    {
+      "key": "r119_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0012-1649.21.3.547"
+    },
+    {
+      "key": "r120_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0191-8869(91)90245-7"
+    },
+    {
+      "key": "r121_10.1037/0033-2909.132.1.1",
+      "first-page": "301",
+      "article-title": "Random effects models.",
+      "volume-title": "The handbook of research synthesis",
+      "author": "Raudenbush",
+      "year": "1994"
+    },
+    {
+      "key": "r122_10.1037/0033-2909.132.1.1",
+      "volume-title": "Hierarchical linear models: Applications and data analysis methods.",
+      "author": "Raudenbush",
+      "year": "2002"
+    },
+    {
+      "key": "r123_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1467-6494.1997.tb00953.x"
+    },
+    {
+      "key": "r124_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.0022-3506.2004.00264.x"
+    },
+    {
+      "key": "r125_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "first-page": "183",
+      "DOI": "10.1007/978-1-4615-0357-6_9",
+      "article-title": "The cumulative continuity model of personality development: Striking a balance between continuity and change in personality traits across the life course.",
+      "volume-title": "Understanding human development: Lifespan psychology in exchange with other disciplines",
+      "author": "Roberts",
+      "year": "2003"
+    },
+    {
+      "key": "r126_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/jrpe.1999.2259"
+    },
+    {
+      "key": "r127_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0033-2909.126.1.3"
+    },
+    {
+      "key": "r128_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.72.3.641"
+    },
+    {
+      "key": "r129_10.1037/0033-2909.132.1.1",
+      "article-title": "(in press). The cumulative continuity model of personality trait development.",
+      "volume-title": "Handbook of personality development.",
+      "author": "Roberts"
+    },
+    {
+      "key": "r130_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.81.4.670"
+    },
+    {
+      "key": "r131_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "first-page": "582",
+      "DOI": "10.1037/0022-3514.84.3.582",
+      "article-title": "Work experiences and personality development in young adulthood.",
+      "volume": "84",
+      "author": "Roberts",
+      "year": "2003",
+      "journal-title": "Journal of Personality and Social Psychology",
+      "ISSN": "https://id.crossref.org/issn/0022-3514",
+      "issn-type": "print"
+    },
+    {
+      "key": "r132_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/1467-6494.00179"
+    },
+    {
+      "key": "r133_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "first-page": "579",
+      "DOI": "10.1007/978-0-306-48247-2_26",
+      "article-title": "Personality trait development in adulthood.",
+      "volume-title": "Handbook of the life course",
+      "author": "Roberts",
+      "year": "2003"
+    },
+    {
+      "key": "r134_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jrp.2004.08.002"
+    },
+    {
+      "key": "r135_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "first-page": "925",
+      "DOI": "10.1111/1467-6494.05028",
+      "article-title": "It's not just who you're with, it's who you are: Personality and relationship experiences across multiple relationships.",
+      "volume": "70",
+      "author": "Robins",
+      "year": "2002",
+      "journal-title": "Journal of Personality",
+      "ISSN": "https://id.crossref.org/issn/0022-3506",
+      "issn-type": "print"
+    },
+    {
+      "key": "r136_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/1467-6494.694157"
+    },
+    {
+      "key": "r137_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "first-page": "89",
+      "DOI": "10.2466/pms.1994.78.1.89",
+      "article-title": "Stability of personality traits and psychological distress over six years.",
+      "volume": "78",
+      "author": "Sanderman",
+      "year": "1994",
+      "journal-title": "Perceptual and Motor Skills",
+      "ISSN": "https://id.crossref.org/issn/0031-5125",
+      "issn-type": "print"
+    },
+    {
+      "key": "r138_10.1037/0033-2909.132.1.1",
+      "volume-title": "The American college.",
+      "author": "Sanford",
+      "year": "1962"
+    },
+    {
+      "key": "r139_10.1037/0033-2909.132.1.1",
+      "first-page": "176",
+      "article-title": "Role theoretical interpretation of psychological change.",
+      "volume-title": "Personality change",
+      "author": "Sarbin",
+      "year": "1964"
+    },
+    {
+      "key": "r140_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "first-page": "137",
+      "DOI": "10.1080/00223980.1953.9712883",
+      "article-title": "A study of medical students with the MMPI: II. Group and individual changes after two years.",
+      "volume": "36",
+      "author": "Schofield",
+      "year": "1953",
+      "journal-title": "The Journal of Psychology",
+      "ISSN": "https://id.crossref.org/issn/0022-3980",
+      "issn-type": "print"
+    },
+    {
+      "key": "r141_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.56.5.777"
+    },
+    {
+      "key": "r142_10.1037/0033-2909.132.1.1",
+      "unstructured": "Scollon. 2004"
+    },
+    {
+      "key": "r143_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Small. Stability and change in adult personality over 6 years: Findings from the Victoria Longitudinal Study. 58 166 2003",
+      "DOI": "10.1093/geronb/58.3.P166"
+    },
+    {
+      "key": "r144_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.84.5.1041"
+    },
+    {
+      "key": "r145_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0092-6566(86)90135-2"
+    },
+    {
+      "key": "r146_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0012-1649.21.3.568"
+    },
+    {
+      "key": "r147_10.1037/0033-2909.132.1.1",
+      "unstructured": "Tenerowicz. 1992"
+    },
+    {
+      "key": "r148_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0882-7974.4.4.393"
+    },
+    {
+      "key": "r149_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.79.6.1007"
+    },
+    {
+      "key": "r150_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.81.1.133"
+    },
+    {
+      "key": "r151_10.1037/0033-2909.132.1.1",
+      "first-page": "196",
+      "article-title": "Birth cohort, social change, and personality: The interplay of dysphoria and individualism in the 20th century.",
+      "volume-title": "Advances in personality science",
+      "author": "Twenge",
+      "year": "2002"
+    },
+    {
+      "key": "r152_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.83.6.1469"
+    },
+    {
+      "key": "r153_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0191-8869(94)00111-5"
+    },
+    {
+      "key": "r154_10.1037/0033-2909.132.1.1",
+      "unstructured": "Viechtbauer. 2004a"
+    },
+    {
+      "key": "r155_10.1037/0033-2909.132.1.1",
+      "unstructured": "Viechtbauer. 2004b"
+    },
+    {
+      "key": "r156_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "first-page": "722",
+      "DOI": "10.1037/0022-3514.66.4.722",
+      "article-title": "A developmental genetic analysis of adult personality: Extraversion and neuroticism from 18 to 59 years of age.",
+      "volume": "4",
+      "author": "Viken",
+      "year": "1994",
+      "journal-title": "Journal of Personality and Social Psychology",
+      "ISSN": "https://id.crossref.org/issn/0022-3514",
+      "issn-type": "print"
+    },
+    {
+      "key": "r157_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/obhd.1993.1009"
+    },
+    {
+      "key": "r158_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.70.3.567"
+    },
+    {
+      "key": "r159_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "first-page": "179",
+      "DOI": "10.1111/j.1600-0447.1992.tb03248.x",
+      "article-title": "Stability over time of character assessment using a psychodynamic instrument and personality inventories.",
+      "volume": "86",
+      "author": "Weinryb",
+      "year": "1992",
+      "journal-title": "Acta Psychiatrica Scandinavica",
+      "ISSN": "https://id.crossref.org/issn/0001-690X",
+      "issn-type": "print"
+    },
+    {
+      "key": "r160_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1006/jrpe.1999.2248"
+    },
+    {
+      "key": "r161_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "crossref",
+      "first-page": "199",
+      "DOI": "10.3109/00048679009077683",
+      "article-title": "Reliability of the parental bonding instrument and intimate bond measure scales.",
+      "volume": "24",
+      "author": "Wilhelm",
+      "year": "1990",
+      "journal-title": "The Australian and New Zealand Journal of Psychiatry",
+      "ISSN": "https://id.crossref.org/issn/0004-8674",
+      "issn-type": "print"
+    },
+    {
+      "key": "r162_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.65.3.597"
+    },
+    {
+      "key": "r163_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.64.3.491"
+    },
+    {
+      "key": "r164_10.1037/0033-2909.132.1.1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/h0032086"
+    },
+    {
+      "key": "r165_10.1037/0033-2909.132.1.1",
+      "first-page": "94",
+      "article-title": "Personality development from the bottom up.",
+      "volume-title": "The coherence of personality: Social-cognitive bases of consistency, variability, and organization",
+      "author": "Zelli",
+      "year": "1999"
+    }
+  ],
+  "container-title": [
+    "Psychological Bulletin"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://psycnet.apa.org/journals/bul/132/1/1.pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        6
+      ]
+    ],
+    "date-time": "2024-02-06T12:46:26Z",
+    "timestamp": 1707223586000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://doi.apa.org/doi/10.1037/0033-2909.132.1.1"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2006,
+        1
+      ]
+    ]
+  },
+  "references-count": 165,
+  "journal-issue": {
+    "issue": "1",
+    "published-online": {
+      "date-parts": [
+        [
+          2006,
+          1
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "2006-00818-001",
+    "16435954"
+  ],
+  "URL": "https://doi.org/10.1037/0033-2909.132.1.1",
+  "relation": {},
+  "ISSN": [
+    "1939-1455",
+    "0033-2909"
+  ],
+  "issn-type": [
+    {
+      "value": "1939-1455",
+      "type": "electronic"
+    },
+    {
+      "value": "0033-2909",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2006,
+        1
+      ]
+    ]
+  }
+}

@@ -1,0 +1,392 @@
+Partnership withholding | Internal Revenue Service
+Skip to main content
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+) or
+https://
+means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+English
+Español
+中文 (简体)
+中文 (繁體)
+한국어
+Русский
+Tiếng Việt
+Kreyòl ayisyen
+Information Menu
+Help
+News
+Tax Pros
+Sign in
+Individual
+Business
+Tax Pro
+Access your tax information with an IRS account.
+Refunds
+Payments
+Tax records
+Create account
+Search
+Help Menu Mobile
+Sign in
+Individual
+Business
+Tax Pro
+Access your tax information with an IRS account.
+Refunds
+Payments
+Tax records
+Create account
+Menu
+Main navigation
+File
+Overview
+INFORMATION FOR…
+Individuals
+Business and self-employed
+Charities and nonprofits
+International filers
+Retirement
+Governments and tax-exempt bonds
+Indian Tribal Governments
+FILING FOR INDIVIDUALS
+How to file
+When to file
+Where to file
+Update your information
+POPULAR
+Tax record (transcript)
+Apply for an Employer ID Number (EIN)
+Amend return
+Identity Protection PIN (IP PIN)
+Pay
+Overview
+PAY BY
+Bank Account (Direct Pay)
+Payment Plan (Installment Agreement)
+Electronic Federal Tax Payment System (EFTPS)
+POPULAR
+Your Online Account
+Tax Withholding Estimator
+Estimated Taxes
+Penalties
+Refunds
+Overview
+About refunds
+Direct deposit
+Reduced refunds
+Where’s my amended return?
+Credits & Deductions
+Overview
+INFORMATION FOR...
+Individuals
+For you and your family
+Businesses & Self-Employed
+Standard mileage and other information
+POPULAR
+Earned Income Credit (EITC)
+Child Tax Credit
+Clean Energy and Vehicle Credits
+Standard Deduction
+Retirement Plans
+Forms
+Overview
+POPULAR FORMS & INSTRUCTIONS
+Form 1040
+Individual Income Tax Return
+Form 1040 Instructions
+Instructions for Form 1040
+Form W-9
+Request for Taxpayer Identification Number (TIN) and Certification
+Form 4506-T
+Request for Transcript of Tax Return
+Form W-4
+Employee's Withholding Certificate
+Form 941
+Employer's Quarterly Federal Tax Return
+Form W-2
+Wage and Tax Statement
+Form 9465
+Installment Agreement Request
+POPULAR FOR TAX PROS
+Form 1040-X
+Amended Individual Income Tax Return
+Form 2848
+Power of Attorney
+Form W-7
+Apply for an ITIN
+Circular 230
+Regulations Governing Practice before the IRS
+Report Fraud
+Overview
+Tax fraud and scams
+Identity theft
+Fake IRS email or message
+Tax return preparer misconduct
+Help for tax professionals
+Search
+Include Historical Content
+- Any -
+No
+Include Historical Content
+- Any -
+No
+Search
+File
+Overview
+INFORMATION FOR…
+Individuals
+Business and self-employed
+Charities and nonprofits
+International filers
+Retirement
+Governments and tax-exempt bonds
+Indian Tribal Governments
+FILING FOR INDIVIDUALS
+How to file
+When to file
+Where to file
+Update your information
+POPULAR
+Tax record (transcript)
+Apply for an Employer ID Number (EIN)
+Amend return
+Identity Protection PIN (IP PIN)
+Pay
+Overview
+PAY BY
+Bank Account (Direct Pay)
+Payment Plan (Installment Agreement)
+Electronic Federal Tax Payment System (EFTPS)
+POPULAR
+Your Online Account
+Tax Withholding Estimator
+Estimated Taxes
+Penalties
+Refunds
+Overview
+About refunds
+Direct deposit
+Reduced refunds
+Where’s my amended return?
+Credits & Deductions
+Overview
+INFORMATION FOR...
+Individuals
+Businesses & Self-Employed
+POPULAR
+Earned Income Credit (EITC)
+Child Tax Credit
+Clean Energy and Vehicle Credits
+Standard Deduction
+Retirement Plans
+Forms
+Overview
+POPULAR FORMS & INSTRUCTIONS
+Form 1040
+Form 1040 Instructions
+Form W-9
+Form 4506-T
+Form W-4
+Form 941
+Form W-2
+Form 9465
+POPULAR FOR TAX PROS
+Form 1040-X
+Form 2848
+Form W-7
+Circular 230
+Report Fraud
+Overview
+Tax fraud and scams
+Identity theft
+Fake IRS email or message
+Tax return preparer misconduct
+Help for tax professionals
+Main navigation
+File
+Pay
+Refunds
+Credits & Deductions
+Forms & Instructions
+Info Menu Mobile
+Charities & Nonprofits
+Help
+News
+Tax Pros
+Search
+Include Historical Content
+- Any -
+No
+Include Historical Content
+- Any -
+No
+Search
+Home
+File
+Businesses and self-employed
+Business structures
+Partnerships
+Partnership withholding
+Partnership withholding
+More In File
+Individuals
+Businesses and self-employed
+Business tax account
+Employer ID numbers
+Business taxes
+Business structures
+Sole proprietorships
+Partnerships
+Centralized Partnership Audit Regime (BBA)
+Partnership withholding
+Publicly traded partnerships
+Corporations
+S corporations
+Limited liability company (LLC)
+Operating a business
+Self-employed
+Small business
+Large business
+Charities and nonprofits
+International taxpayers
+Governmental liaisons
+Federal, state and local governments
+Indian tribal governments
+Tax exempt bonds
+Taxpayer identification numbers (TIN)
+Partnerships, including partnerships with foreign partners, have many filing and reporting requirements. In addition to filing annual partnership tax returns (
+Form 1065, U.S. Return of Partnership Income
+), partnerships could be responsible for other tax issues, such as
+FIRPTA withholding
+,
+NRA withholding
+, and partnership withholding under sections 1446(a) and 1446(f) of the Internal Revenue Code (IRC).
+Withholding tax on foreign partners' share of effectively connected income – IRC Section 1446
+Under section 1446(a), a partnership (foreign or domestic) that has
+income effectively connected
+with a U.S. trade or business (or income treated as effectively connected) must pay a withholding tax on the effectively connected taxable income (ECTI) that is allocable to its foreign partners. In most cases, a partnership determines if a partner is a foreign partner and the partner’s tax classification based on the withholding certificate provided by the partner. The tax rate for such withholding varies depending on whether the foreign partner is a corporation, in which case the rate is the highest rate of tax specified in IRC 11(b). In case of foreign partners that are not corporations, the rate is the highest rate of tax specified in IRC 1.
+Note:
+Currently, the withholding tax rate for effectively connected income (ECI) allocable to non-corporate foreign partners is 37%, and 21% for corporate foreign partners.
+A
+publicly traded partnership
+must withhold tax on actual distributions of ECI. Internal Revenue Code Chapter 4 withholding does not apply to this income.
+This withholding tax regime under IRC section 1446(a) does not apply to income that is not effectively connected with the partnership’s U.S. trade or business (i.e., it does not apply to
+FDAP income
+). FDAP income is subject to the NRA withholding tax regime, Forms 1042/1042-S, under which withholding is required under Internal Revenue Code Chapter 3 sections 1441, 1442, and 1443. This withholding tax regime requires 30% withholding on a payment of U.S. source income to a foreign person.
+The partnership, or a withholding agent for the partnership, must pay the withholding tax. The partnership that must pay the withholding tax but fails to do so may be liable for the payment of the tax and any penalties and interest. See
+Who must withhold
+on partnership withholding for further information.
+The partnership must use
+Form 8813, Partnership Withholding Tax Payment Voucher (Section 1446)
+, to make payments of withheld tax to the U.S. Treasury. The withholding tax liability of the partnership for its tax year is reported on
+Form 8804, Annual Return for Partnership Withholding Tax (Section 1446
+). Form 8804 must have attached
+Form 8805, Foreign Partner's Information Statement of Section 1446 Withholding Tax
+, that has been completed for each foreign partner and must include the payment of any additional tax owed under IRC 1446. The partnership must provide the foreign partners with a copy of Form 8805 even if no IRC 1446 tax is paid by the partnership. See
+Reporting and paying tax on partnership withholding
+for further information.
+Form 8804-C, Certificate of Partner-Level Items to Reduce Section 1446 Withholding
+, is used by a foreign partner who chooses to provide to a partnership a certification to reduce or eliminate the partnership's withholding tax obligation under IRC section 1446 (1446 tax) on the partner's allocable share of effectively connected taxable income (ECTI) from the partnership. The foreign partner uses Form 8804-C to certify to the partnership that it has certain partner-level deductions and losses that can reduce or eliminate the 1446 tax on its allocable share of ECTI from the partnership or that its investment in the partnership is its only activity giving rise to effectively connected income, gain, loss, or deduction. A partnership that receives a Form 8804-C from a foreign partner is not obligated to consider the Form 8804-C in computing the 1446 tax due with respect to that foreign partner. However, if the partnership considers the Form 8804-C in computing the 1446 tax due with respect to a foreign partner, the partnership must submit a copy of the Form 8804-C with Form 8805 to the IRS.
+Section 1446(f) withholding
+Section 13501 of the TCJA added IRC section 1446(f), effective for transfers of partnership interests occurring on or after January 1, 2018.
+Under IRC section 1446(f)(1), a transferee of an interest in a partnership must withhold 10% of the amount realized on the disposition of an interest in a partnership if any portion of the gain (if any) on the disposition would be treated under IRC section 864(c)(8) as effectively connected with the conduct of a trade or business within the United States. A transfer can occur when a partnership distribution results in gain under IRC section 731.
+Under IRC section 1446(f)(4), if the transferee fails to withhold any amount required to be withheld, the partnership must deduct and withhold from distributions to the transferee the amount the transferee failed to withhold (plus interest).
+Notice 2018-08, 2018-07 I.R.B. 352
+temporarily suspended the application of IRC section 1446(f) to the disposition of certain PTP interests.
+Notice 2018-29, 2018-16 I.R.B. 495
+provides interim guidance regarding withholding of U.S. tax related to transfers of interests in partnerships, other than PTPs, under IRC section 1446(f). It also temporarily suspended withholding under IRC section 1446(f)(4).
+On May 7, 2019, the Department of Treasury and the IRS issued proposed regulations under IRC section 1446(f) (84 FR 21198) for transfers of both non-PTP and PTP interests. During the period that Notice 2018-29 applies, instead of applying the rules described in the Notice, taxpayers and other affected persons may choose to apply Regulations sections 1.1446(f)-1, 1.1446(f)-2, and 1.1446(f)-5 of the proposed regulations in their entirety to all transfers as if they were final regulations.
+On November 30, 2020, the Department of Treasury and the IRS issued
+final regulations
+under IRC section 1446(f) (85 FR 76910) for transfers of both non-PTP and PTP interests. The final regulations require any transferee to withhold a tax equal to 10% of the amount realized on any transfer of a partnership interest (other than certain PTP interests) under IRC section 1446(f)(1), unless an exception to withholding applies. These regulations generally apply to transfers that occur on or after January 29, 2021. However, in accordance with Notice 2021-51, 2021-36 I.R.B. 361, the rules related to withholding under IRC section 1446(f)(4) and to transfers of PTP interests apply to transfers occurring on or after January 1, 2023. Additionally, the final regulations revised certain provisions in Regulations section 1.1446-4 for withholding under IRC section 1446(a) on PTP distributions. Also, in accordance with Notice 2021-51, these revisions apply to PTP distributions made on or after January 1, 2023.
+Notices 2018-8 and 2018-29 apply to transfers that occur before the effective date of the final regulations or, as previously described, taxpayers may apply the proposed regulations to transfers of non-PTP interests during this time. For additional guidance to brokers required to withhold on transfers of PTP interests, see
+Notice 2023-8, 2023-2 I.R.B. 344
+.
+To meet the withholding, payment, and reporting requirements under IRC section 1446(f)(1) for transfers of interests in partnerships other than PTPs, taxpayers must use
+Form 8288, U.S. Withholding Tax Return for Certain Dispositions by Foreign Persons
+, and
+Form 8288-A, Statement of Withholding on Certain Dispositions by Foreign Persons
+, and follow the instructions for those forms.
+The time for filing Forms 8288 and 8288-A to report IRC section 1446(f)(1) withholding is the same as for IRC section 1445 withholding. The same rules for filing Forms 8288 and 8288-A by transferees withholding tax under IRC section 1445 apply to transferees withholding tax under IRC section 1446(f)(1). The same rules for claiming a credit for withholding of tax under IRC section 1445 apply to transferors receiving Form 8288-A claiming credit for withholding under IRC section 1446(f)(1).
+A partnership required to withhold under section 1446(f)(4) must report and pay the tax withheld using Forms 8288 and
+8288-C, Statement of Withholding Under Section 1446(f)(4) on Dispositions by Foreign Persons of Partnership Interests
+.
+For more information on
+section 1446(f) Withholding
+requirements, please refer to
+Publication 515, Withholding of Tax on Nonresident Aliens and Foreign Entities
+.
+While both IRC sections 1446(a) and 1446(f) require withholding if a foreign partner has gain that is effectively connected to the conduct of a U.S. trade or business, there are differences between the withholding provisions. The differences include:
+Under IRC Section1446(a), a partnership must withhold on effectively connected taxable income the partnership earns that flows through the partnership and is allocable to a foreign partner. Withholding is at the partner's highest tax rate (i.e., under Section 1 or 37% for non-corporate foreign partners and 21% for corporate foreign partners).
+Under IRC section 1446(f), if the foreign partner has gain on the sale or exchange of a partnership interest, the purchaser/transferee of the partnership interest must withhold 10% of the amount realized on that sale or exchange, unless the transaction qualifies for a full or partial exception. Thus, the withholding generally is not based on income flowing through the partnership to the foreign partner.
+Related
+Publication 515, Withholding of Tax on Nonresident Aliens and Foreign Entities
+Helpful hints for partnerships with foreign partners
+Who must withhold on partnership withholding
+Reporting and paying the tax on partnership withholding
+Publicly traded partnerships
+Effectively connected income (ECI)
+U.S. tax withholding on effectively connected income allocable to foreign partners
+Note:
+This page contains one or more references to the Internal Revenue Code (IRC), Treasury Regulations, court cases, or other official tax guidance. References to these legal authorities are included for the convenience of those who would like to read the technical reference material. To access the applicable IRC sections, Treasury Regulations, or other official tax guidance, visit the
+Tax code, regulations, and official guidance
+page. To access any Tax Court cases filed on or after May 1, 1986, visit the
+Opinions Search
+page of the United States Tax Court.
+Page Last Reviewed or Updated: 21-Jul-2026
+Share
+Facebook
+Twitter
+Linkedin
+Print
+Footer Navigation
+Our Agency
+About IRS
+Careers
+Financial and Budget Reports
+Tax Statistics
+Help
+Find a Local Office
+Know Your Rights
+Taxpayer Bill of Rights
+Taxpayer Advocate Service
+Independent Office of Appeals
+Civil Rights
+FOIA
+No FEAR Act Data
+Reliance on Guidance
+Resolve an Issue
+IRS Notices and Letters
+Identity Theft
+Tax scams
+Tax Fraud
+Criminal Investigation
+Whistleblower Office
+Languages
+Español
+中文 (简体)
+中文 (繁體)
+한국어
+Pусский
+Tiếng Việt
+Kreyòl ayisyen
+English
+Related Sites
+U.S. Treasury
+Treasury Inspector General for Tax Administration
+USA.gov
+USAspending.gov
+Vote.gov
+Subfooter
+Privacy Policy
+Accessibility

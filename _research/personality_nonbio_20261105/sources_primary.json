@@ -1,0 +1,118 @@
+[
+  {
+    "id": "P01",
+    "title": "Personality stability and change 2022",
+    "url": "https://doi.apa.org/doi/10.1037/bul0000365",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "P02",
+    "title": "Patterns of mean-level change 2006",
+    "url": "https://doi.apa.org/doi/10.1037/0033-2909.132.1.1",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "P03",
+    "title": "Life course and life events 2011",
+    "url": "https://doi.apa.org/doi/10.1037/a0024950",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "P04",
+    "title": "Psychology of social class 2018",
+    "url": "https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12251",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "P05",
+    "title": "Conscientiousness at work 2019",
+    "url": "https://www.pnas.org/doi/10.1073/pnas.1908430116",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "P06",
+    "title": "Personality academic performance 2009",
+    "url": "https://doi.apa.org/doi/10.1037/a0014996",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "P07",
+    "title": "Grit meta-analysis 2017",
+    "url": "https://doi.apa.org/doi/10.1037/pspp0000102",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "P08",
+    "title": "Growth mindset meta-analyses 2018",
+    "url": "https://journals.sagepub.com/doi/10.1177/0956797617739704",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "P09",
+    "title": "Traits as distributions of states 2001",
+    "url": "https://doi.apa.org/doi/10.1037/0022-3514.80.6.1011",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "P10",
+    "title": "Narrative identity 2013",
+    "url": "https://journals.sagepub.com/doi/10.1177/0963721413475622",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "P11",
+    "title": "BFI-2 author university",
+    "url": "https://www.colby.edu/psych/personality-lab/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "P12",
+    "title": "National school mindset experiment 2019",
+    "url": "https://www.nature.com/articles/s41586-019-1466-y",
+    "status": 200,
+    "final_url": "https://www.nature.com/articles/s41586-019-1466-y?error=cookies_not_supported&code=b4531922-1595-42ff-be03-d62e84c812a0",
+    "content_type": "text/html; charset=utf-8",
+    "characters": 78214,
+    "preview": "A national experiment reveals where a growth mindset improves achievement | Nature\nSkip to main content\nThank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain\nthe best experience, we recommend you use a more up to date browser (or turn off compatibility mode in\nInternet Explorer). In the meantime,"
+  },
+  {
+    "id": "Q01",
+    "title": "Search personality meta 2022",
+    "url": "https://www.google.com/search?q=%22Personality%20stability%20and%20change%22%20%222022%22%20meta%20analysis",
+    "status": 200,
+    "final_url": "https://www.google.com.hk/search?q=%22Personality%20stability%20and%20change%22%20%222022%22%20meta%20analysis",
+    "content_type": "text/html; charset=UTF-8",
+    "characters": 102,
+    "preview": "Google Search If you're having trouble accessing Google Search, please click here , or send feedback ."
+  },
+  {
+    "id": "Q02",
+    "title": "Search social class Manstead",
+    "url": "https://www.google.com/search?q=%22Manstead%22%20%222018%22%20%22social%20class%22",
+    "status": 200,
+    "final_url": "https://www.google.com.hk/search?q=%22Manstead%22%20%222018%22%20%22social%20class%22",
+    "content_type": "text/html; charset=UTF-8",
+    "characters": 102,
+    "preview": "Google Search If you're having trouble accessing Google Search, please click here , or send feedback ."
+  },
+  {
+    "id": "Q03",
+    "title": "Search mindset meta statistics",
+    "url": "https://www.google.com/search?q=%22Sisk%22%20%222018%22%20%22365%2C915%22",
+    "status": 200,
+    "final_url": "https://www.google.com.hk/search?q=%22Sisk%22%20%222018%22%20%22365%2C915%22",
+    "content_type": "text/html; charset=UTF-8",
+    "characters": 102,
+    "preview": "Google Search If you're having trouble accessing Google Search, please click here , or send feedback ."
+  },
+  {
+    "id": "Q04",
+    "title": "Search conscientiousness statistics",
+    "url": "https://www.google.com/search?q=%22Wilmot%22%20%22Ones%22%20%222019%22%20%2292%22",
+    "status": 200,
+    "final_url": "https://www.google.com.hk/search?q=%22Wilmot%22%20%22Ones%22%20%222019%22%20%2292%22",
+    "content_type": "text/html; charset=UTF-8",
+    "characters": 102,
+    "preview": "Google Search If you're having trouble accessing Google Search, please click here , or send feedback ."
+  }
+]

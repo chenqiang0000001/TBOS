@@ -1,0 +1,617 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        29
+      ]
+    ],
+    "date-time": "2026-10-29T00:05:22Z",
+    "timestamp": 1793232322456,
+    "version": "4.5.0"
+  },
+  "reference-count": 81,
+  "publisher": "Wiley",
+  "issue": "2",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2018,
+            2,
+            28
+          ]
+        ],
+        "date-time": "2018-02-28T00:00:00Z",
+        "timestamp": 1519776000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "British J Social Psychol"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2018,
+        4
+      ]
+    ]
+  },
+  "abstract": "<jats:p>Drawing on recent research on the psychology of social class, I argue that the material conditions in which people grow up and live have a lasting impact on their personal and social identities and that this influences both the way they think and feel about their social environment and key aspects of their social behaviour. Relative to middle‐class counterparts, lower/working‐class individuals are less likely to define themselves in terms of their socioeconomic status and are more likely to have interdependent self‐concepts; they are also more inclined to explain social events in situational terms, as a result of having a lower sense of personal control. Working‐class people score higher on measures of empathy and are more likely to help others in distress. The widely held view that working‐class individuals are more prejudiced towards immigrants and ethnic minorities is shown to be a function of economic threat, in that highly educated people also express prejudice towards these groups when the latter are described as highly educated and therefore pose an economic threat. The fact that middle‐class norms of independence prevail in universities and prestigious workplaces makes working‐class people less likely to apply for positions in such institutions, less likely to be selected and less likely to stay if selected. In other words, social class differences in identity, cognition, feelings, and behaviour make it less likely that working‐class individuals can benefit from educational and occupational opportunities to improve their material circumstances. This means that redistributive policies are needed to break the cycle of deprivation that limits opportunities and threatens social cohesion.</jats:p>",
+  "DOI": "10.1111/bjso.12251",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2018,
+        2,
+        28
+      ]
+    ],
+    "date-time": "2018-02-28T23:42:42Z",
+    "timestamp": 1519861362000
+  },
+  "page": "267-291",
+  "source": "Crossref",
+  "is-referenced-by-count": 636,
+  "title": [
+    "The psychology of social class: How socioeconomic status impacts thought, feelings, and behaviour"
+  ],
+  "prefix": "10.1111",
+  "volume": "57",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-7540-2096",
+      "authenticated-orcid": false,
+      "given": "Antony S. R.",
+      "family": "Manstead",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Cardiff University UK"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "311",
+  "published-online": {
+    "date-parts": [
+      [
+        2018,
+        2,
+        28
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_2_13_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0278-6133.19.6.586"
+    },
+    {
+      "key": "e_1_2_13_3_1",
+      "volume-title": "The authoritarian personality",
+      "author": "Adorno T. W.",
+      "year": "1950"
+    },
+    {
+      "key": "e_1_2_13_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jpubeco.2003.07.006"
+    },
+    {
+      "key": "e_1_2_13_5_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0065-2601(08)60382-2"
+    },
+    {
+      "key": "e_1_2_13_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3200/SOCP.147.2.137-157"
+    },
+    {
+      "key": "e_1_2_13_7_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/1469-7610.00715"
+    },
+    {
+      "key": "e_1_2_13_8_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/josi.12209"
+    },
+    {
+      "key": "e_1_2_13_9_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1093/migration/mnu023"
+    },
+    {
+      "key": "e_1_2_13_10_1",
+      "volume-title": "Reproduction in education, society and culture",
+      "author": "Bourdieu P.",
+      "year": "1990"
+    },
+    {
+      "key": "e_1_2_13_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/a0031751"
+    },
+    {
+      "key": "e_1_2_13_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/10508619.2011.646565"
+    },
+    {
+      "key": "e_1_2_13_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/pspp0000076"
+    },
+    {
+      "key": "e_1_2_13_14_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0956797614553947"
+    },
+    {
+      "key": "e_1_2_13_15_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/bjso.12202"
+    },
+    {
+      "key": "e_1_2_13_16_1",
+      "first-page": "5",
+      "article-title": "Understanding society: Design overview",
+      "volume": "3",
+      "author": "Buck N.",
+      "year": "2012",
+      "journal-title": "Longitudinal and Life Course Studies"
+    },
+    {
+      "key": "e_1_2_13_17_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/00224545.2016.1242472"
+    },
+    {
+      "key": "e_1_2_13_18_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/ejsp.1961"
+    },
+    {
+      "key": "e_1_2_13_19_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1467-985X.2012.01043.x"
+    },
+    {
+      "key": "e_1_2_13_20_1",
+      "volume-title": "Public attitudes to poverty and welfare, 1983–2011: Analysis using British attitudes data",
+      "author": "Clery E.",
+      "year": "2013"
+    },
+    {
+      "key": "e_1_2_13_21_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0278-6133.27.2.268"
+    },
+    {
+      "key": "e_1_2_13_22_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.riob.2011.09.004"
+    },
+    {
+      "key": "e_1_2_13_23_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.1511536112"
+    },
+    {
+      "key": "e_1_2_13_24_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/bjso.12214"
+    },
+    {
+      "key": "e_1_2_13_25_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/1745691614562005"
+    },
+    {
+      "key": "e_1_2_13_26_1",
+      "unstructured": "Department for Communities and Local Government. (2012).Citizenship survey. Retrieved fromhttp://webarchive.nationalarchives.gov.uk/20120919133219/http://www.communities.gov.uk/communities/research/citizenshipsurvey/"
+    },
+    {
+      "key": "e_1_2_13_27_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/pspi0000008"
+    },
+    {
+      "key": "e_1_2_13_28_1",
+      "unstructured": "Easterbrook M. Kuppens T. &Manstead A. S. R.(2018).Socioeconomic status and the structure of the self‐concept. Unpublished manuscript University of Sussex."
+    },
+    {
+      "key": "e_1_2_13_29_1",
+      "unstructured": "Equality Trust. (2017).How has inequality changed?Retrieved fromhttps://www.equalitytrust.org.uk/how-has-inequality-changed"
+    },
+    {
+      "key": "e_1_2_13_30_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/S1930297500003284"
+    },
+    {
+      "key": "e_1_2_13_31_1",
+      "first-page": "1",
+      "article-title": "Social class: Identity, awareness and political attitudes: Why are we still working class?",
+      "volume": "33",
+      "author": "Evans G.",
+      "year": "2016",
+      "journal-title": "British Social Attitudes"
+    },
+    {
+      "key": "e_1_2_13_32_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1515/9781503620766"
+    },
+    {
+      "key": "e_1_2_13_33_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/cdev.12954"
+    },
+    {
+      "key": "e_1_2_13_34_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1467-954X.1963.tb01230.x"
+    },
+    {
+      "key": "e_1_2_13_35_1",
+      "unstructured": "Higher Education Statistics Agency. Retrieved fromhttps://www.hesa.ac.uk/data-and-analysis/students/overviews?keyword=All&year=13"
+    },
+    {
+      "key": "e_1_2_13_36_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/02671520010011879"
+    },
+    {
+      "key": "e_1_2_13_37_1",
+      "volume-title": "International comparisons of social mobility",
+      "author": "Isaacs J. B.",
+      "year": "2008"
+    },
+    {
+      "key": "e_1_2_13_38_1",
+      "volume-title": "Family background and access to high ‘status’ universities",
+      "author": "Jerrim J.",
+      "year": "2013"
+    },
+    {
+      "key": "e_1_2_13_39_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/ejsp.471"
+    },
+    {
+      "key": "e_1_2_13_40_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/josi.12204"
+    },
+    {
+      "key": "e_1_2_13_41_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/ejsp.127"
+    },
+    {
+      "key": "e_1_2_13_42_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/1745691614549773"
+    },
+    {
+      "key": "e_1_2_13_43_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pone.0133193"
+    },
+    {
+      "key": "e_1_2_13_44_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/1948550616659120"
+    },
+    {
+      "key": "e_1_2_13_45_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0956797610387613"
+    },
+    {
+      "key": "e_1_2_13_46_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1467-9280.2008.02251.x"
+    },
+    {
+      "key": "e_1_2_13_47_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/1745691616673192"
+    },
+    {
+      "key": "e_1_2_13_48_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/a0016357"
+    },
+    {
+      "key": "e_1_2_13_49_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0963721411414654"
+    },
+    {
+      "key": "e_1_2_13_50_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/a0028756"
+    },
+    {
+      "key": "e_1_2_13_51_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jesp.2015.01.005"
+    },
+    {
+      "key": "e_1_2_13_52_1",
+      "unstructured": "Kuppens T. Spears R. Manstead A. S. R. &Tausch N.(2018).Education and lower prejudice towards immigrants and ethnic minorities: A question of increased enlightenment or reduced economic threat?Unpublished manuscript University of Groningen."
+    },
+    {
+      "key": "e_1_2_13_53_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0038038509105412"
+    },
+    {
+      "key": "e_1_2_13_54_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0038040713498777"
+    },
+    {
+      "key": "e_1_2_13_55_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/2089536"
+    },
+    {
+      "key": "e_1_2_13_56_1",
+      "volume-title": "Mayer‐Salovey‐Caruso Emotional Intelligence Test (MSCEIT) user's manual",
+      "author": "Mayer J. D.",
+      "year": "2002"
+    },
+    {
+      "key": "e_1_2_13_57_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.1706253114"
+    },
+    {
+      "key": "e_1_2_13_58_1",
+      "unstructured": "Nieuwenhuis M. Easterbrook M. &Manstead A. S. R.(2018).Accounting for unequal access to higher education: The role of social identity factors. Unpublished manuscript University of Sussex."
+    },
+    {
+      "key": "e_1_2_13_59_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/1745691610393524"
+    },
+    {
+      "key": "e_1_2_13_60_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/asap.12058"
+    },
+    {
+      "key": "e_1_2_13_61_1",
+      "unstructured": "Office for National Statistics. (2014).Wealth in Great Britain Wave 4: 2012 to 2014. Retrieved fromhttps://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/compendium/wealthingreatbritainwave4/2012to2014"
+    },
+    {
+      "key": "e_1_2_13_62_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3389/fpsyg.2016.01889"
+    },
+    {
+      "key": "e_1_2_13_63_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/a0020092"
+    },
+    {
+      "key": "e_1_2_13_64_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.1118373109"
+    },
+    {
+      "key": "e_1_2_13_65_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1251936"
+    },
+    {
+      "key": "e_1_2_13_66_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0038038509345700"
+    },
+    {
+      "key": "e_1_2_13_67_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/01411920902878925"
+    },
+    {
+      "key": "e_1_2_13_68_1",
+      "first-page": "131",
+      "volume-title": "Facing social class: How societal rank influences interaction",
+      "author": "Ridgway C. L.",
+      "year": "2012"
+    },
+    {
+      "key": "e_1_2_13_69_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0003122412463213"
+    },
+    {
+      "key": "e_1_2_13_70_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0038038513481128"
+    },
+    {
+      "key": "e_1_2_13_71_1",
+      "first-page": "373",
+      "article-title": "Income mobility breeds tolerance for income inequality: Cross‐national and experimental evidence",
+      "volume": "11",
+      "author": "Shariff A. F.",
+      "year": "2016",
+      "journal-title": "Psychological Science"
+    },
+    {
+      "key": "e_1_2_13_72_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1017/CBO9781139175043"
+    },
+    {
+      "key": "e_1_2_13_73_1",
+      "volume-title": "State of the nation 2017: Social mobility in Great Britain",
+      "author": "Social Mobility Commission",
+      "year": "2017"
+    },
+    {
+      "key": "e_1_2_13_74_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/sipr.12008"
+    },
+    {
+      "key": "e_1_2_13_75_1",
+      "first-page": "87",
+      "volume-title": "Facing social class: How societal rank influences interaction",
+      "author": "Stephens N. M.",
+      "year": "2012"
+    },
+    {
+      "key": "e_1_2_13_76_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/a0027143"
+    },
+    {
+      "key": "e_1_2_13_77_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1146/annurev-psych-010213-115143"
+    },
+    {
+      "key": "e_1_2_13_78_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1467-923X.2013.02435.x"
+    },
+    {
+      "key": "e_1_2_13_79_1",
+      "volume-title": "Inequality and class prejudice in an age of austerity",
+      "author": "Valentine G.",
+      "year": "2014"
+    },
+    {
+      "key": "e_1_2_13_80_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.73.4.733"
+    },
+    {
+      "key": "e_1_2_13_81_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0022-3514.87.5.649"
+    },
+    {
+      "key": "e_1_2_13_82_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3389/fpsyg.2015.01053"
+    }
+  ],
+  "container-title": [
+    "British Journal of Social Psychology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fbjso.12251",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://bpspsychub.onlinelibrary.wiley.com/doi/pdf/10.1111/bjso.12251",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        29
+      ]
+    ],
+    "date-time": "2025-10-29T12:44:26Z",
+    "timestamp": 1761741866000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12251"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        2,
+        28
+      ]
+    ]
+  },
+  "references-count": 81,
+  "journal-issue": {
+    "issue": "2",
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          4
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1111/bjso.12251"
+  ],
+  "URL": "https://doi.org/10.1111/bjso.12251",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+    "0144-6665",
+    "2044-8309"
+  ],
+  "issn-type": [
+    {
+      "value": "0144-6665",
+      "type": "print"
+    },
+    {
+      "value": "2044-8309",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2018,
+        2,
+        28
+      ]
+    ]
+  }
+}

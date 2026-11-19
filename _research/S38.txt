@@ -1,0 +1,68 @@
+{
+ "title": [
+ " Review \n : Knowledge Management and Knowledge Management Systems: Conceptual Foundations And Research Issues1,2"
+ ],
+ "author": [
+ {
+ "given": "Maryam",
+ "family": "Alavi",
+ "sequence": "first",
+ "affiliation": [
+ {
+ "name": "John and Lucy Cook Chair of Information Technology, Goizueta Business School, Emory University, Atlanta, GA 30322, U.S.A."
+ }
+ ],
+ "role": [
+ {
+ "vocabulary": "crossref",
+ "role": "author"
+ }
+ ]
+ },
+ {
+ "given": "Dorothy E.",
+ "family": "Leidner",
+ "sequence": "additional",
+ "affiliation": [
+ {
+ "name": "Texas Christian University, Fort Worth, Texas 76129, U.S.A."
+ },
+ {
+ "name": "INSEAD, 77305 Fontainebleau, France"
+ }
+ ],
+ "role": [
+ {
+ "vocabulary": "crossref",
+ "role": "author"
+ }
+ ]
+ }
+ ],
+ "published": {
+ "date-parts": [
+ [
+ 2001,
+ 3,
+ 1
+ ]
+ ]
+ },
+ "DOI": "10.2307/3250961",
+ "URL": "https://doi.org/10.2307/3250961",
+ "abstract": " Knowledge is a broad and abstract notion that has defined epistemological debate in western philosophy since the classical Greek era. In the past few years, however, there has been a growing interest in treating knowledge as a significant organizational resource. Consistent with the interest in organizational knowledge and knowledge management (KM), IS researchers have begun promoting a class of information systems, referred to as knowledge management systems (KMS). The objective of KMS is to support creation, transfer, and application of knowledge in organizations. Knowledge and knowledge management are complex and multi-faceted concepts. Thus, effective development and implementation of KMS requires a foundation in several rich literatures. \n To be credible, KMS research and development should preserve and build upon the significant literature that exists in different but related fields. This paper provides a review and interpretation of knowledge management literatures in different fields with an eye toward identifying the important areas for research. We present a detailed process view of organizational knowledge management with a focus on the potential role of information technology in this process. Drawing upon the literature review and analysis of knowledge management processes, we discuss several important research issues surrounding the knowledge management processes and the role of IT in support of these processes. ",
+ "link": [
+ {
+ "URL": "https://misq.umn.edu/misq/article-pdf/25/1/107/4852/6_alavi.pdf",
+ "content-type": "application/pdf",
+ "content-version": "vor",
+ "intended-application": "syndication"
+ },
+ {
+ "URL": "https://misq.umn.edu/misq/article-pdf/25/1/107/4852/6_alavi.pdf",
+ "content-type": "unspecified",
+ "content-version": "vor",
+ "intended-application": "similarity-checking"
+ }
+ ]
+}

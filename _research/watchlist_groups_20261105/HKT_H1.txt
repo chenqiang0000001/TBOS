@@ -1,0 +1,1668 @@
+PAGE 1
+1 
+ 
+Hong Kong Exchanges and Clearing Limited and The Stock Exchange of Hong Kong Limited take no responsibility for the contents 
+of this announcement, make no representation as to its accuracy or completeness and expressly disclaim any liability whatsoev er 
+for any loss howsoever arising from or in reliance upon the whole or any part of the contents of this announcement.  
+ 
+ 
+ 
+HKT Trust 
+(a trust constituted on 7 November 2011 under the laws of Hong Kong and managed by HKT Management Limited) 
+ 
+and 
+ 
+HKT Limited 
+(incorporated in the Cayman Islands with limited liability) 
+(Stock Code: 06823) 
+ 
+INTERIM RESULTS ANNOUNCEMENT 
+FOR THE SIX MONTHS ENDED 30 JUNE 2026 
+ 
+The directors of HKT Management Limited (in its capacity as the trustee -manager of the HKT Trust)  
+(the “Trustee-Manager”) and HKT Limited (the “Company” or “HKT”) are pleased to announce the unaudited 
+consolidated results of the HKT Trust and of the Company together with the Company’s subsidiaries 
+(collectively the “Group”) for the six months ended 30 June 20 26. This condensed consolidated interim 
+financial information has not been audited, but has been reviewed by the Audit Committee of the  Trustee-
+Manager and of the Company and, in accordance with the Hong Kong Standard on Review Engagements 2410 
+Review of Interim Financial Information Performed by the Independent Auditor of the Entity  issued by the 
+Hong Kong Institute of Certified Public Accountants, by the Group’s independent auditor, 
+PricewaterhouseCoopers. 
+ 
+ 
+• Consolidated market leadership in broadband, with FTTH connections growing by 4% to  
+1.101 million; continued customer upgrades driving 68% expansion in 2500M customer segment; 
+ 
+• 5G customer base expanded by  16% to 2.2 million ; together with sustained growth in  roaming 
+revenue, drove 5% increase in Mobile services revenue; 
+ 
+• Enterprise business maintained strong momentum, delivering 8% revenue growth in the first half  of 
+2026; secured new project wins worth more than HK$2.2 billion, underpinning further growth; 
+ 
+• Total revenue increased by 8% to HK$18,685 million; total revenue excluding Mobile product sales 
+rose by 3% to HK$16,831 million; 
+ 
+• Total EBITDA grew by 3% to HK$ 6,586 million, bolstered by efficiency and productivity 
+improvements resulting from AI adoption; 
+ 
+• Adjusted funds flow also climbed by 3% to HK$2,639 million; 
+ 
+• Profit attributable to holders of Share Stapled Units increased by 4% to HK$ 2,153 million;  
+basic earnings per Share Stapled Unit was 28.41 HK cents; and 
+ 
+• Interim distribution per Share Stapled Unit of 34.80 HK cents. 
+ 
+
+PAGE 2
+2 
+ 
+LETTER TO HOLDERS OF SHARE STAPLED UNITS 
+ 
+Dear Holders of Share Stapled Units, 
+ 
+During the first half of 2026, Hong Kong ’s economy continued to improve amidst a gradually strengthening 
+business environment on the back of more positive consumer sentiment, though this momentum was tempered 
+by geopolitical turbulence. Against this backdrop, HKT once again demonstrated resilienc e, underpinned by 
+our artificial intelligence (“AI”)-ready infrastructure, disciplined execution and relentless focus on innovation. 
+Our comprehensive business portfolio and strong operational capabilities fuelled further growth across our 
+key business segments, while our emphasis on cost efficiency and pru dent capital management further 
+strengthened our financial performance, with total revenue expanding by 8% to HK$18,685 million, EBITDA 
+rising by over 3% to HK$6,586 million, and most importantly, adjusted funds flow (“AFF”) increasing by 3% 
+to HK$2,639 million. 
+ 
+Unleashing the Power of AI 
+ 
+As AI increasingly reshapes industries and customer experiences, HKT is committed to integrating AI into 
+every aspect of its business to capitalise  on the opportunities presented by this structural shift. Over the past 
+six months, we have accelerated the incorporation of AI into our network and operational processes, and 
+embedded AI into our services for both consumer and enterprise customers, thereb y enhancing productivity, 
+service quality and creating new growth opportunities. 
+ 
+We envision the central role that HKT can play in unleashing the power of AI by harnessing our existing assets 
+and capabilities. A key to this is our unparalleled network infrastructure consisting of fibre rich coverage across 
+Hong Kong and extensive international subsea cable portfolio which we will continue to invest in through pre-
+funded capital expenditure from anchor customers to support the increasing capacity requirements of AI data 
+centres.  HKT will also play an aggregator role to offer a trusted single AI interface to consumers and SMEs 
+enabling us to retain a direct customer relationship  to drive average revenue per user (“ARPU”) uplift and 
+customer stickiness. Finally, HKT will be an enabl er of AI-powered solutions to enterprises leveraging the 
+accumulated expertise from our own internal AI deployments. 
+ 
+Capturing the Infrastructure Supercycle 
+ 
+At the core of HKT’s AI ecosystem lies its advanced network infrastructure. Building on our territory-wide 
+100G network, as well as our existing 800G AI Superhighway, we recently introduced an ultra -low latency 
+3.2Tbps AI Data Centre Inter-connect (“DCI”) Superhighway linking major data centre clusters in Hong Kong 
+– the first of its kind in the city. This 3.2Tbps AI DCI Superhighway compr ises advanced hollow core fibre 
+upgrades connecting the Lok Ma Chau Loop cluster with the Tseung Kwan O cluster, and will be further 
+extended to Fo Tan and Kwai Chung as well as to the Sandy Ridge cluster once it becomes operational. This 
+will offer AI infrastructure providers and academic institutions, such as universities and research labs, ultra -
+fast and seamless access to computing resources across multiple data  centres to meet the demands of next -
+generation AI workloads.  
+ 
+Within our mobile network, HKT is leveraging AI to automate network performance assurance during major 
+events as well as real -time, scenario-based automated traffic balancing to mitigate periods of exceptionally 
+high demand, safeguard network stability, and ensure a consistently superior customer experience. HKT has 
+also deployed AI-assisted optimisation at all MTR stations, significantly improving 5G network performance. 
+ 
+The quality of our network infrastructure was once again recognised through our success at the recent Ookla® 
+Speedtest® Awards, where HKT was awarded the Best and Fastest Fixed Network in Hong Kong as well as 
+East Asia. We were also  designated as Hong Kong’s Most Consistent Fixed Network, underscoring our 
+unwavering commitment to network excellence, reliability and superior customer experience.  
+ 
+ 
+
+PAGE 3
+3 
+ 
+LETTER TO HOLDERS OF SHARE STAPLED UNITS (Continued) 
+ 
+Delivering a Premium Consumer Experience 
+ 
+As AI-powered digital services become increasingly prevalent, consumers place even greater value on access 
+to HKT’s advanced, secure and reliable network infrastructure. During the first half of 2026, we continued to 
+upgrade customers to our 2500M broadband service, with the customer  subscriptions growing by 68% year-
+on-year and generating an ARPU uplift of around HK$ 70. Penetration of the 2500M customer  segment has 
+now reached almost 12 % of our fibre -to-the-home (“FTTH”) base. Our 5G mobile customer base also 
+continued to expand, increasing by 16% year-on-year to 2.2 million users as at the end of June 2026, with a 
+growing number also using our high-quality roaming services to support their needs while travelling. In order 
+to further elevate the consumer experience, we have paired our consumer offering with 1O1O’s cus tomer 
+service excellence to offer the 1O1O HOME premium service. This customer segment grew by 26% year-on-
+year, highlighting the appeal of our premium proposition and smart lifestyle experience.  We also recently 
+launched HKT.AI, which is a single, unified platform, providing consumers with access to all of the leading 
+third party AI models in the market.  This will strengthen HKT’s relationship with its customers, providing a 
+compelling AI proposition that can be bundled with other services to drive ARPU uplift and enhance customer 
+stickiness. 
+ 
+The FIFA World Cup 2026 ™ recently concluded, and our exclusive broadcast was one of the highlights of 
+the first half of 2026. The event provided opportunities to up -sell and cross -sell tailored promotions, while 
+attracting new customers, particularly non -HKT customers, through sp ecially designed World Cup content 
+and service offerings, showcasing the strength of our quad-play capabilities. These efforts will generate further 
+positive spillover effects across our pay TV, mobile, and broadband businesses. Now TV has also successfully 
+extended its exclusive Premier League broadcasting right to 2031, reinforcing our commitment to delivering 
+world-class football coverage to customers. 
+ 
+The 1O1O HOME premium service and recent FIFA World Cup 2026™ event offerings are examples of some 
+of our upselling and cross -selling initiatives. By harnessing our unique data assets and enhanced AI 
+capabilities, we continue to strengthen our ability to deliver hyper -personalised offerings to consumers, 
+thereby improving the effectiveness and conversion rates of these initiatives. This strategy has yielded 
+significant results, with the number of customers using multiple HKT services continuing to grow; 
+subscriptions to three or mo re products recorded a year -on-year increase of 20%. As we further enrich our 
+service offerings, including through The Club, we are confident that customers will continue to choose HKT 
+for more of their digital lifestyle services. 
+ 
+Driving AI Transformation Across Enterprise Customers  
+ 
+HKT continues to assist enterprise customers with their AI transformation through the implementation of our 
+AI-powered solutions across multiple industries, helping our clients to elevate the customer experience, 
+enhance productivity and automate operation s. During the past six months, we built AI security operation 
+centres for top-tier customers in the banking, finance and retail sectors, providing proactive threat detection 
+and response capabilities. We also deployed AI Firewall solutions to more than 500 SME customers, further 
+reinforcing their cybersecurity resilience.  
+ 
+Additionally, we deployed sector-specific AI applications, including AI-powered contact centre solutions for 
+clients in the insurance and community service sectors, an AI-powered marketing video scanning solution for 
+a healthcare group to streamline compliance checks, and AI -powered workflow automation solutions 
+supporting various government departments.  
+ 
+These AI transformation solutions, together with numerous other mission-critical enterprise solutions, helped 
+us deliver 8% growth in Enterprise revenue during the period as well as secure multiple project wins in the 
+first half of 2026, with the total contract value exceeding HK$2.2 billion. 
+ 
+
+PAGE 4
+4 
+ 
+LETTER TO HOLDERS OF SHARE STAPLED UNITS (Continued) 
+ 
+AI is also driving growing demand for international connectivity and enterprise solutions beyond Hong Kong. 
+Given Hong Kong’s crucial role as a key international gateway, we have been supporting numerous global 
+OTT (“over-the-top”) players – both from Chinese Mainland and the West – in expanding their global footprint 
+as they enhance the interconnectivity of their data centre infrastructure across the region. 
+ 
+I would like to thank our holders of Share Stapled Units for their continued support, and the team for delivering 
+such a strong start to the year. Barring any unforeseen circumstances, I am confident that the momentum seen 
+in our business will drive strong results for the full year. 
+ 
+ 
+Susanna Hui 
+Group Managing Director 
+Hong Kong, 29 July 2026 
+
+PAGE 5
+5 
+ 
+FINANCIAL REVIEW BY SEGMENT 
+ 
+For the six months ended 
+HK$ million 
+ 30 Jun 
+2025 
+31 Dec 
+2025 
+30 Jun 
+2026 
+Better/ 
+(Worse) 
+     y-o-y 
+Revenue      
+TSS  12,527 12,601 12,913 3% 
+- Local TSS Services  8,714 9,071 9,014 3% 
+- International Telecommunications Services  3,813 3,530 3,899 2% 
+Mobile  5,200 7,494 6,248 20% 
+- Mobile Services  4,189 4,968 4,394 5% 
+- Mobile Product Sales  1,011 2,526 1,854 83% 
+Other Businesses  570 311 568 – 
+Eliminations  (975) (1,175) (1,044) (7)% 
+Total revenue  17,322 19,231 18,685 8% 
+Total revenue (excluding Mobile Product Sales)  16,311 16,705 16,831 3% 
+      
+Cost of sales  (9,021) (10,119) (10,248) (14)% 
+      
+Net operating costs before depreciation, 
+amortisation, and gains on disposal of 
+property, plant and equipment and  
+right-of-use assets 
+ 
+(1,921) (1,258) (1,851) 4% 
+      
+EBITDA1      
+TSS  4,421 5,300 4,508 2% 
+Mobile  2,412 3,156 2,532 5% 
+- Mobile Services  2,409 3,151 2,527 5% 
+- Mobile Product Sales  3 5 5 67% 
+Other Businesses  (453) (602) (454) – 
+Total EBITDA1  6,380 7,854 6,586 3% 
+      
+TSS EBITDA1 Margin  35% 42% 35%  
+Mobile EBITDA1 Margin  46% 42% 41%  
+- Mobile Services EBITDA1 Margin  58% 63% 58%  
+Total EBITDA1 Margin  37% 41% 35%  
+Total EBITDA1 Margin (excluding Mobile 
+Product Sales) 
+ 
+39% 47% 39%  
+      
+Depreciation and amortisation  (2,757) (3,080) (2,984) (8)% 
+Net gains on disposal of property, plant and   
+equipment and right-of-use assets 
+ 
+1 4 2 100% 
+Net other gains/(losses) & others  4 57 (25) NA 
+Net finance costs  (885) (835) (768) 13% 
+Share of results of associates and joint ventures  (31) (58) (14) 55% 
+      
+Profit before income tax  2,712 3,942 2,797 3% 
+ 
+ 
+
+PAGE 6
+6 
+ 
+ADJUSTED FUNDS FLOW3 
+ 
+For the six months ended 
+HK$ million 
+ 30 Jun 
+2025 
+31 Dec 
+2025 
+30 Jun 
+2026 
+Better/ 
+(Worse) 
+     y-o-y 
+      
+Total EBITDA1  6,380 7,854 6,586 3% 
+      
+Less cash outflows in respect of capital expenditures, 
+customer acquisition costs and licence fees2: 
+ 
+    
+Capital expenditures  (1,008) (969) (981) 3% 
+Customer acquisition costs and licence fees  (686) (1,126) (805) (17)% 
+Fulfilment costs  (320) (367) (344) (8)% 
+Right-of-use assets  (710) (633) (603) 15% 
+      
+Adjusted funds flow3 before tax paid, net finance 
+costs paid and changes in working capital 
+ 
+3,656 4,759 3,853 5% 
+      
+Adjusted for:      
+Net finance costs paid  (764) (809) (752) 2% 
+Tax payment  (196) (34) (445) (127)% 
+Changes in working capital  (134) (279) (17) 87% 
+      
+Adjusted funds flow3  2,562 3,637 2,639 3% 
+      
+ 
+KEY OPERATING DRIVERS4 
+ 
+ 30 Jun 31 Dec 30 Jun Better/(Worse) 
+ 2025 2025 2026 y-o-y h-o-h 
+      
+Exchange lines in service (’000) 2,070 2,026 2,008 (3)% (1)% 
+Business lines (’000) 1,088 1,069 1,062 (2)% (1)% 
+Residential lines (’000) 982 957 946 (4)% (1)% 
+      
+Total broadband access lines (’000) 1,657 1,661 1,670 1% 1% 
+(Consumer, business and wholesale)      
+Retail consumer broadband access lines (’000) 1,482 1,488 1,497 1% 1% 
+Retail business broadband access lines (’000) 158 156 156 (1)% – 
+      
+Mobile subscribers (’000)  4,875 4,817 4,923 1% 2% 
+Post-paid subscribers (’000) 3,478 3,494 3,522 1% 1% 
+Prepaid subscribers (’000) 1,397 1,323 1,401 – 6% 
+      
+Pay TV installed base (’000) 1,448 1,464 1,490 3% 2% 
+      
+The Club members (’000) 4,070 4,148 4,226 4% 2% 
+ 
+
+PAGE 7
+7 
+ 
+Note 1 EBITDA represents earnings before interest income, finance costs, income tax, depreciation and 
+amortisation, gains/losses on disposal of property, plant and equipment, interests in leasehold land, 
+right-of-use assets and intangible assets , net other gains/losses, losses on property, plant and 
+equipment, restructuring costs, impairment losses on goodwill, tangible and intangible assets and 
+interests in associates and joint ventures, and the Group’s share of results of associates and joint 
+ventures. While EBITDA is commonly used in the telecommunications industry worldwide as an 
+indicator of operating performance, leverage and liquidity, it is not presented as a measure of 
+operating performance in accordance with the HKFRS Accounting Standards and should not be 
+considered as representing net cash flows from operating activities. The computation of the 
+Group’s EBITDA may not be comparable to similarly titled measures of other companies. 
+ 
+Note 2 Group capital expenditures represent additions to property, plant and equipment and interests in 
+leasehold land. Fulfilment costs and right -of-use assets are considered as part of customer 
+acquisition costs and capital expenditures, respectively, for the p urpose of adjusted funds flow 
+calculation. 
+ 
+Note 3 Adjusted funds flow is defined as EBITDA less  capital expenditures, customer acquisition costs 
+and licence fees paid, taxes paid, finance costs and interest expense paid, and adjusted for interest 
+income received and changes in working capital. It is not presented as a measure of leverage or 
+liquidity in accordance with HKFRS Accounting Standards and should not be considered as 
+representing net cash flows or any other similar measures derived in accordance with HKFRS 
+Accounting Standards, or an alternative to cash flow from operations or a measure of liquidity. 
+The Group’s adjusted funds flow is computed in accordance with the above definition using 
+financial information derived from the Group’s unaudited condensed consolidated interim 
+financial information. The adjusted funds flow may be used for debt repayment and the repurchase 
+of Share Stapled Units. 
+ 
+Note 4 Figures are stated as at the period end. 
+ 
+Note 5 Gross debt refers to the principal amount of short-term borrowings and long-term borrowings. 
+ 
+
+PAGE 8
+8 
+ 
+Telecommunications Services 
+ 
+For the six months ended 
+HK$ million 
+ 30 Jun 
+2025 
+31 Dec 
+2025 
+30 Jun 
+2026 
+Better/ 
+(Worse) 
+     y-o-y 
+      
+TSS Revenue      
+Local TSS Services  8,714 9,071 9,014 3% 
+International Telecommunications Services  3,813 3,530 3,899 2% 
+  ¯¯¯¯¯¯¯¯¯¯¯ ¯¯¯¯¯¯¯¯¯¯¯ ¯¯¯¯¯¯¯¯¯¯¯  
+Total TSS Revenue  12,527 12,601 12,913 3% 
+      
+Cost of sales  (7,052) (6,602) (7,404) (5)% 
+Operating costs before depreciation and amortisation  (1,054) (699) (1,001) 5% 
+  ¯¯¯¯¯¯¯¯¯¯¯ ¯¯¯¯¯¯¯¯¯¯¯ ¯¯¯¯¯¯¯¯¯¯¯  
+Total TSS EBITDA1  4,421 5,300 4,508 2% 
+  ========= ========= =========  
+TSS EBITDA1 margin  35% 42% 35%  
+  ========= ========= =========  
+ 
+Revenue from Local TSS Services grew by 3% to HK$9,014 million for the six months ended 30 June 2026, 
+underpinned by a  6% increase in Local Data Services revenue to HK$ 7,265 million. Local Data Services 
+constitutes the largest component of the Local TSS Services segment, accounting for 81% of revenue. Pay TV 
+Services revenue rose to HK$1,169 million, while Local Telephony Services revenue was HK$ 853 million. 
+During the period, revenue from International Telecommunications Services increased by 2% to  
+HK$3,899 million. As a result, total TSS revenue expanded by 3% to HK$12,913 million. 
+ 
+Local Data Services. Revenue from Local Data Services, which comprises broadband revenue and local data 
+revenue, increased by 6% year-on-year to HK$7,265 million for the six months ended 30 June 2026. 
+ 
+Broadband revenue grew by 3% during the period, underpinned by sustained demand for our high-speed, ultra-
+low latency fibre services as households increasingly require high-bandwidth and enhanced network reliability 
+to support digital entertainment, hybrid work, smart home applications and AI -powered services. HKT’s 
+comprehensive broadband portfolio, spanning 1G to 50G fibre services, continues to deliver seamless, high-
+bandwidth and uninterrupted connectivity to address the evolving digital needs of households across Hong 
+Kong. 
+ 
+Our FTTH connections reached 1.101 million at the end of June 2026, representing a net increase of 46,000 
+or 4% growth from a year earlier and accounting for 74% of our consumer broadband base of 1.4 97 million. 
+As AI-powered digital services become increasingly prevalent, consumers place even greater value on access 
+to HKT’s advanced, secure and reliable network infrastructure. During the first half of 2026, we continued to 
+upgrade customers to our 2500M broadband service , with this customer segment growing by 68% year -on-
+year to 129,00 0 subscribers and generating an ARPU uplift of around HK$70. Penetration of the 2500M 
+customer segment has now reached almost 12% of our FTTH base. 
+ 
+In order to further elevate the consumer experience, we have paired our consumer offering with 1O1O ’s 
+customer service excellence to offer the 1O1O HOME premium service. This customer segment grew by 26% 
+year-on-year, highlighting the appeal of our premium proposition and smart lifestyle experience. 
+ 
+The quality of our network infrastructure was once again recognised through our success at the recent Ookla® 
+Speedtest® Awards, where HKT was awarded the Best and Fastest Fixed Network in Hong Kong as well as 
+East Asia. We were also designated as Hong Kong’s Most Consistent Fixed Network.  These accolades 
+highlight the sustained quality, reliability and performance of our network. 
+
+PAGE 9
+9 
+ 
+Telecommunications Services (Continued) 
+ 
+As a trusted partner to both public and private enterprises, HKT leverages its robust connectivity platform – 
+combined with 5G, IoT, cloud, cybersecurity, data analytics and AI technologies  – to provide end -to-end 
+solutions that help enterprises to achieve operational transformation, improve efficiency, and create new value 
+in the rapidly evolving digital economy.  Consequently, our enterprise business continued to achieve robust 
+growth in the first half of 2026, with local data revenue increasing by 8% year-on-year.   
+ 
+During the period, we delivered a number of key projects. These included the deployment of an integrated 5G 
+telecommunications system for a public hospital, comprising advanced mobile infrastructure, communications 
+systems and a cloud-enabled mobile application platform to support healthcare operations, as well as a fully 
+fibre-optic network with 5G Advanced infrastructure and Wi -Fi solution s for a landmark commercial 
+development in the Central Business District to enhance the digital experience for tenants and visitors. We 
+also completed a network and security modernisation project for a large retail chain with over 180 stores in 
+Hong Kong and Macao, and upgraded a mission-critical communications system for a leading power utility. 
+In addition, we upgraded the critical network infrastructure and implemented modern workspace solutions for 
+numerous customers in the banking and finance sector. 
+ 
+HKT continued to expand the adoption of AI-enabled enterprise solutions across a broad range of industries, 
+helping our clients to elevate customer experience, enhance productivity and automate operations. During the 
+first half of the year , we implemented AI security operation centres for top-tier customers in the banking, 
+finance and retail sectors, providing proactive threat detection and response capabilities. We also deployed AI 
+Firewall solutions to more than  500 SME customers , further reinforcing  their cybersecurity resilience. 
+Additionally, we delivered a range of industry-specific AI applications, including AI-powered contact centre 
+solutions for clients in the insurance and community service sectors, an AI-powered marketing video scanning 
+solution for a healthcare group to streamline compliance checks, and AI -powered workflow automation 
+solutions supporting various government departments.  
+ 
+Beyond Hong Kong, we continued to capture the growth opportunities in Chinese Mainland and the Greater 
+Bay Area (“GBA”) through continuous penetration of our integrated connectivity and digital solutions, driving 
+sustained growth in our business from Chinese Mainland enterprise customers, with revenue expanding by 6% 
+year-on-year. We continued to support Hong Kong enterprises and multinational corporations in expanding 
+their operations across the Chinese Mainland, while assisting Chinese Mainland enterprises pursuing global 
+growth opportunities. 
+ 
+These AI deployments, together with our broader portfolio of mission-critical enterprise solutions, helped us 
+secure multiple project wins in the first half of 2026, with the total contract value exceeding HK$2.2 billion.  
+ 
+Pay TV Services. Pay TV Services revenue increased by 1% to HK$1,169 million for the six months ended  
+30 June 2026, up from HK$1,160 million a year earlier, despite intense competition from an expanding array 
+of free and paid entertainment services.  
+ 
+The FIFA World Cup 2026 ™ recently concluded, and our exclusive broadcast was one of the highlights of 
+the first half of 2026. The event provided opportunities to up -sell and cross -sell tailored promotions , while 
+attracting new customers, particular ly non-HKT customers, through specially designed World Cup content 
+and service offerings, showcasing the strength of our quad-play capabilities. These efforts will generate further 
+positive spillover effects across our pay TV, mobile , and broadband businesses. Recently, Now TV 
+successfully secured an extension of its exclusive Premier League broadcasting rights to 2031, reinforcing our 
+commitment to delivering world-class football coverage to customers. 
+ 
+The total installed base of Now TV expand ed by 3% to 1.490 million as at the end of June 2026 , up from 
+1.448 million a year earlier. The OTT segment grew by 18% year-on-year, highlighting continued demand for 
+flexible, multi-platform content consumption. 
+
+PAGE 10
+10 
+ 
+Telecommunications Services (Continued) 
+ 
+Local Telephony Services.  Revenue from Local Telephony Services recorded a decline of 10% to  
+HK$853 million for the six months ended 30 June 2026, compared with HK$953 million a year earlier , 
+reflecting the ongoing migration from traditional  voice services to mobile and data offerings, as well as 
+continued softness in the SME market, particularly in the retail and food & beverage sectors. The total number 
+of fixed lines in service decreased to 2.008 million at the end of June 2026 from 2.070 million in the previous 
+year. 
+ 
+International Telecommunications Services. Revenue from International Telecommunications Services grew 
+by 2% to HK$3,899 million for the six months ended 30 June 2026, compared with HK$3,813 million for the 
+same period last year. The increase in revenue was driven by higher data and wholesale global voice revenues, 
+alongside growing customer demand for Console Connect, our software defined cloud connectivity platform. 
+In particular, we witnessed healthy growth in demand from Chinese Mainland OTT customers with their 
+revenue growing by over 50%. 
+ 
+The TSS business achieved EBITDA growth of 2% year-on-year to HK$ 4,508 million. This growth was 
+fuelled by further improvements in operating efficiency during the period, though it was partially offset by a 
+change in the revenue mix of the TSS business, resulting in an EBITDA margin of 35%. 
+ 
+ 
+
+PAGE 11
+11 
+ 
+Mobile 
+ 
+For the six months ended 
+HK$ million 
+ 30 Jun 
+2025 
+31 Dec 
+2025 
+30 Jun 
+2026 
+Better/ 
+(Worse) 
+     y-o-y 
+      
+Mobile Revenue      
+Mobile Services  4,189 4,968 4,394 5% 
+Mobile Product Sales  1,011 2,526 1,854 83% 
+  ¯¯¯¯¯¯¯¯¯¯ ¯¯¯¯¯¯¯¯¯¯ ¯¯¯¯¯¯¯¯¯¯  
+Total Mobile Revenue  5,200 7,494 6,248 20% 
+  ======== ======== ========  
+Mobile EBITDA1      
+Mobile Services  2,409 3,151 2,527 5% 
+Mobile Product Sales  3 5 5 67% 
+  ¯¯¯¯¯¯¯¯¯¯ ¯¯¯¯¯¯¯¯¯¯ ¯¯¯¯¯¯¯¯¯¯  
+Total Mobile EBITDA1  2,412 3,156 2,532 5% 
+  ======== ======== ========  
+Mobile EBITDA1 margin  46% 42% 41%  
+   Mobile Services EBITDA1 margin  58% 63% 58%  
+  ======== ======== ========  
+ 
+Mobile business continued to deliver growth during the six months ended 30 June 2026, with services revenue 
+increasing by 5% to HK$4,394 million, driven by sustained growth in roaming services, an expanding 5G 
+post-paid customer base and increasing demand for mobile solutions from enterprise customers. 
+ 
+To meet growing demand for seamless travel connectivity, we continued to enhance our roaming services with 
+innovative features, including travel protection benefits integrated into selected roaming packages. Supported 
+by strong outbound travel demand and i ncreasing visitor arrivals to Hong Kong, our consumer outbound 
+roaming and inbound roaming revenues recorded healthy growth of 11% and 28% respectively in the first half 
+of 2026, resulting in total roaming revenue growth of 8% year-on-year. During the period , we added two 
+destinations to our “Golden Roaming” service , which  now covers 10 destinations across the Asia -Pacific 
+region with 13 leading mobile partners. 
+ 
+Overall, the Mobile business reported a net gain of 4 4,000 year -on-year in its post -paid customer base , 
+reaching 3.522 million as at the end of June 202 6. This was achieved  despite continued intense market 
+competition, particularly in the price-sensitive segment s. The customer base for our core 1O1O and csl 
+segment further expanded by 2% year-on-year during the period. Our 5G mobile customer base also continued 
+to expand, increasing by 16% year-on-year to 2.2 million users as at the end of June 2026, representing 62% 
+of our total post-paid base.  
+ 
+Customer retention remained strong during the period, with the post-paid churn rate of our core 1O1O and csl 
+customer base further improving to 0.6%, reflecting the continued effectiveness of our customer engagement 
+and retention strategies, including initiatives offered through The Club. The newly launched HKT.AI should 
+further strengthen the relationship with customers, helping to drive ARPU uplift and customer stickiness. 
+ 
+Mobile product sales increased by 83% year-on-year to HK$1,854 million for the six months ended  
+30 June 2026, driven by higher demand for the latest flagship handsets, which became available towards the 
+end of 2025. Sales were further supported by The Club, which provides customers with a convenient digital 
+shopping experience. 
+ 
+Mobile services EBITDA rose by 5% to HK$2,527 million during the period, maintaining a stable EBITDA 
+margin of 58%. Total Mobile EBITDA for the period also increased by 5% to HK$2, 532 million, up from 
+HK$2,412 million a year earlier, resulting in an EBITDA margin of 41% due to the higher contribution from 
+lower-margin Mobile product sales. 
+
+PAGE 12
+12 
+ 
+Other Businesses 
+ 
+Other Businesses primarily comprises businesses including our loyalty platform, The Club, and corporate 
+support functions. These businesses complement our core telecommunications services by strengthening 
+customer engagement and supporting the broader digital lifestyle ecosystem . For the six months ended   
+30 June 202 6, revenue from Other Businesses remained stable at  HK$568 million, compared with   
+HK$570 million a year earlier. 
+ 
+The Club’s membership base expanded by 4% to 4.23 million in the first half of 2026, up from 4.07 million a 
+year earlier. The platform continued to expand its  ecosystem of merchant offerings across a broad range of 
+lifestyle categories, while further deepening customer engagement through its AI-powered digital ecosystem, 
+leveraging real-time social listening, autonomous content generation and hyper-personalised communications. 
+By combining telco insights, localisation capabilities and merchant integration, The Club delivers highly 
+targeted experiences that enhance member engagement, customer loyalty and merchant values.  The Club also 
+recently launched an AI CMO marketing engine that can assist our over 2,000 merchant brands to deepen their 
+engagement with customers. 
+ 
+At Tap & Go, we have revitalised the service through the launch of a pay-safe, Single Use Card that has a 
+number of unique features to ensure card users do not suffer unnecessary losses from online shopping scams, 
+stolen credit card details and AI agent hallucinations. 
+ 
+Our healthtech platform, DrGo, recorded a 2% year-on-year rise in registered users , reaching 416,000 as at 
+the end of June 202 6. Following the launch of the DrGo One Wellness subscription service in 2025, we 
+introduced the DrGo Travel Pass to further enhance customer retention and lifetime value through an 
+integrated health and travel proposition. The service combines telemedicine consultations, overseas and GBA 
+medical support, worldwide travel insurance and 24/7 emergency assistance, offering travellers greater 
+convenience, more comprehensive coverage, and peace of mind. 
+ 
+Eliminations 
+ 
+Eliminations were HK$ 1,044 million for the six months ended  30 June 20 26, compared with   
+HK$975 million a year earlier, reflecting the increased collaboration across HKT’s business segments. 
+ 
+Cost of Sales 
+ 
+Cost of sales for the six months ended 30 June 2026 increased by 14% year-on-year to HK$10,248 million, 
+reflecting a change in the revenue mix and the significant growth in Mobile product sales during the period. 
+ 
+General and Administrative Expenses 
+ 
+HKT has been reshaping its workflows and network management through AI deployment, yielding notable 
+enhancements in operating efficiency and cost optimisation . Together with the Group’s continued efforts in 
+IT platform modernisation, the overall net operating costs before depreciation, amortisation, and gains on 
+disposal of property, plant and equipment and right -of-use assets (“operating costs”) improved by 4% year-
+on-year to HK$ 1,851 million for the six months ended 30 June 202 6. As such, overall operating costs -to-
+revenue ratio for the period reached 9.9%, compared with 11.1% a year earlier. 
+ 
+For the six months ended 30 June 202 6, total depreciation and amortisation expenses increased by 8% to 
+HK$2,984 million. Lower depreciation expenses reflected our recent level of capital expenditure spending , 
+while higher amortisation costs are linked to increased investments in research and development and 
+intellectual property for the various diversified enterprise projects including AI, automation and cybersecurity. 
+ 
+As a result of the above, general and administrative expenses increased by 3% to HK$4,833 million for the 
+six months ended 30 June 2026, compared with HK$4,677 million a year earlier. 
+
+PAGE 13
+13 
+ 
+EBITDA1 
+ 
+Reflecting the growth in TSS and Mobile services revenue and further operating efficiencies, total EBITDA 
+excluding Mobile product sales for the six months ended 30 June 2026 increased by 3% to HK$6,581 million 
+with a margin of 39%. Total EBITDA also increased by 3% year-on-year to HK$6,586 million with a margin 
+of 35% during the period. The economic benefits of AI have yet to be fully realised, as the dual costs associated 
+with the new platform and parallel operation of the legacy system were incurred. These benefits are expected 
+to materialise progressively as the transition is completed and AI-enabled revenue growth gains momentum. 
+ 
+Net Finance Costs 
+ 
+Net finance costs for the six months ended 30 June 202 6 decreased by 13% to HK$ 768 million from  
+HK$885 million a year earlier, driven by the downward trend in HIBOR during the period. The average cost 
+of debt was 3.75% during the period, compared to 3.96% a year earlier. 
+ 
+Income Tax 
+ 
+Income tax expense for the six months ended 30 June 20 26 was HK$ 411 million, compared with  
+HK$414 million a year earlier. The effective tax rate for the period remained relatively steady at  14.7%, 
+compared with 15.3% for the same period last year. 
+ 
+Profit Attributable to Non-controlling Interests 
+ 
+Profit attributable to non-controlling interests of HK$233 million (30 June 2025: HK$228 million) comprised 
+the net profits/losses attributable to the non-controlling shareholders of the Group’s subsidiaries. 
+ 
+Profit Attributable to Holders of Share Stapled Units/Shares of the Company 
+ 
+Profit attributable to holders of Share Stapled Units/shares of the Company for the six months ended  
+30 June 2026 increased by 4% to HK$2,153 million (30 June 2025: HK$2,070 million). 
+ 
+LIQUIDITY AND CAPITAL RESOURCES 
+ 
+The Group actively and regularly reviews and manages its capital structure to maintain a balance between 
+shareholder return and sound capital position. Adjustments are made, when necessary, to maintain an optimal 
+capital structure in light of changes in economic conditions and to reduce the cost of capital. 
+ 
+In June 2026, HKT issued US$650 million 10-year senior unsecured notes under the US$3 billion guaranteed 
+medium term note programme to pre-finance the US$750 million 10-year senior unsecured notes due in July. 
+As a result, HKT’s gross debt 5 increased to  HK$48,161 million as at  
+30 June 20 26 (31 December 20 25: HK$4 4,750 million). Cash and short -term deposits increased to   
+HK$3,227 million as at 30 June 20 26 (31 December 2025: HK$ 2,432 million). HKT’s gross debt 5 to  
+total assets was 39% as at 30 June 2026 (31 December 2025: 37%). 
+ 
+As at 30 June 2026, HKT had ample liquidity in the form of banking facilities totalling HK$47,594 million, 
+of which HK$23,328 million remained undrawn. 
+ 
+ 
+
+PAGE 14
+14 
+ 
+CREDIT RATINGS OF HONG KONG TELECOMMUNICATIONS (HKT) LIMITED 
+ 
+As at 30 June 2026, Hong Kong Telecommunications (HKT) Limited, an indirect wholly -owned subsidiary 
+of the Company, had investment grade ratings with Moody’s Investors Service  Hong Kong Limited (Baa2) 
+and S&P Global Ratings (BBB). 
+ 
+CAPITAL EXPENDITURE2 
+ 
+Capital expenditure including capitali sed interest for the six months ended 30 June 2026 was  
+HK$1,042 million (30 June 2025: HK$1,075 million). Capital expenditure relative to revenue was 5.6% for 
+the six months ended 30 June 2026 (30 June 2025: 6.2%).  
+ 
+Capital expenditure for HKT’s Mobile business was 2% lower during the period, reflecting the efficiency 
+gains from capacity upgrades and network maintenance. TSS capital expenditure was 3% lower during the 
+period, with investments largely to support growing demand for our integrated fixed -mobile solutions for 
+enterprise customers as well as AI related network infrastructure. 
+ 
+HKT will continue to invest in further upgrading its network infrastructure and building digital capabilities to 
+support its existing businesses and enable its growth in new areas , with pre -funding support from anchor 
+customers and taking into account the prevailing market conditions using assessment criteria including internal 
+rate of return, net present value and payback period. 
+ 
+ADJUSTED FUNDS FLOW3 
+ 
+AFF increased by 3% to HK$ 2,639 million for the six months ended 30 June 202 6, up  from  
+HK$2,562 million for the six months ended 30 June 2025.  
+ 
+Notably, our operating AFF in the first half of 2026 increased by 5% driven by the 3% expansion in EBITDA, 
+disciplined capital expenditure investments and lower right -of-use assets payments.  These positive factors 
+were partially offset by increases in customer acquisition costs and fulfilment costs to serve our growing base 
+of consumer and enterprise customers. Benefitting from the downward trend in HIBOR, our net finance costs 
+paid declined by 2% year-on-year. After accounting for higher tax payments and continuous improvement in 
+working capital management, total AFF increased by 3% during the period. 
+ 
+The amounts presented in the AFF calculation represent the respective cash flows to the Group during the 
+period, which may be different from the related corresponding amounts recognised in the consolidated income 
+statement due to various reasons such as non-cash items recognised in the consolidated income statement and 
+timing difference between accounting recognition and actual cash flows. 
+ 
+ 
+
+PAGE 15
+15 
+ 
+HEDGING 
+ 
+Market risk arises from foreign currency and interest rate exposure related to investments and financing. As a 
+matter of policy, HKT continues to manage the market risk directly relating to its operations and financing 
+and does not undertake any speculative derivative trading activities. The Finance and Management Committee, 
+a sub -committee of the Executive Committee of the board of directors of the Company, determines the 
+appropriate risk management activities with the aim of prudently managing the market risk associated with 
+transactions undertaken in the normal course of the Group’s business. All treasury risk management activities 
+are carried out in accordance with polic ies and guidelines approved by the Finance and Management 
+Committee, which are reviewed on a regular basis. 
+ 
+More than three quarters  of HKT’s consolidated revenue and costs are denominated in Hong Kong dollars. 
+For those operations with revenues denominated in foreign currencies, the related costs and expenses are 
+usually denominated in the same foreign currencies and hence provide a n atural hedge against each other. 
+Therefore, the Group is not exposed to significant foreign currency fluctuation risk from operations. 
+ 
+A significant portion of the Group’s financing is denominated in foreign currencies including United States  
+dollars. Accordingly, the Group has entered into forward and swap contracts in order to manage its exposure 
+to adverse fluctuations in foreign currency exchange rates and interest rates. These instruments are executed 
+with creditworthy financial institutions. As at 30 June 2026, the majority of the  forward and swap contracts 
+were designated as cash flow hedges for the related financing of the Group. 
+ 
+As a result, the impact of these operational and financial risks to HKT is considered not material. 
+ 
+CHARGE ON ASSETS 
+ 
+As at 30 June 2026, no assets of the Group (31 December 2025: nil) were pledged to secure loans and banking 
+facilities of the Group. 
+ 
+CONTINGENT LIABILITIES 
+ 
+ As at As at 
+ 31 Dec 2025  30 Jun 2026 
+HK$ million (Audited) (Unaudited) 
+   
+Performance guarantees 883 846 
+Others 2 1 
+   
+ 885 847 
+   
+The Group is subject to certain corporate guarantee obligations to guarantee the performance of its subsidiaries 
+in the normal course of their businesses. The amount of liabilities arising from such obligations, if any, cannot 
+be ascertained but the directors are of the opinion that any resulting liability w ill not materially affect the 
+financial position of the Group. 
+ 
+HUMAN RESOURCES 
+ 
+HKT had over 12,600 employees as at 30 June 2026 (30 June 2025: 12,500) located in 22 countries and cities. 
+About 64% of these employees work in Hong Kong and the others are based mainly in Chinese Mainland, the 
+United States, the United Kingdom  and the Philippines. HKT has established performance -based bonus and 
+incentive schemes designed to motivate and reward employees at all levels to achieve business performance 
+targets. Payment of performance bonuses is generally based on achievement of revenue, EBITDA  and free 
+cash flow targets for HKT as a whole and for each of the individual business units and performance ratings of 
+employees. 
+
+PAGE 16
+16 
+ 
+INTERIM DIVIDEND/DISTRIBUTION 
+ 
+The board of directors of the Trustee -Manager declared an interim distribution by the HKT Trust in respect 
+of the Share Stapled Units, of 34.80 HK cents per Share Stapled Unit (after deduction of any operating 
+expenses permissible under the trust deed dated 7 November 2011 constituting the HKT Trust (the “Trust 
+Deed”)), in respect of the six months ended 30 June 2026 (and in order to enable the HKT Trust to pay that 
+distribution, the board of directors of the Company declare d an interim dividend in respect of the ordinary 
+shares in the Company held by the Trustee -Manager, of 34.80 HK cents per ordinary share, in respect of the 
+same period) to holders of Share Stapled Units. 
+ 
+The board of directors of the Trustee-Manager has confirmed, in accordance with the Trust Deed, that (i) the 
+auditor of the Group has performed limited assurance procedures in accordance with Hong Kong Standard on 
+Assurance Engagements 3000 (Revised) Assurance Engagements Other than Audits or Reviews of Historical 
+Financial Information issued by the Hong Kong Institute of Certified Public Accountants to review and verify 
+the Trustee-Manager’s calculation of the above distribution entitlement per Share Stapled Unit and (ii) having 
+made all reasonable enquiries, immediately after making t he above distribution to the registered unitholders 
+of the HKT Trust, the Trustee-Manager will be able to fulfil, from the Trust Property (as defined in the Trust 
+Deed), the liabilities of the HKT Trust as they fall due. 
+ 
+CLOSURE OF BOOKS 
+ 
+The record date for the interim distribution will be Tuesday, 18 August 2026. The register of registered holders 
+of Share Stapled Units, the register of holders of units, the principal and Hong Kong branch registers of 
+members of the Company and the register of beneficial interests as maintained by the Trustee -Manager and 
+the Company in accordance with the provisions of the Trust Deed will all be closed from  Monday,  
+17 August 2026 to Tuesday, 18 August 2026 (both days inclusive), in order to determine entitlements to the 
+interim distribution. During such period, no transfer of Share Stapled Units will be effected. In order to qualify 
+for the interim distribution, all transfers of Share Stapled Units accompani ed by the relevant certificates in 
+respect of the Share Stapled Units must be lodged with the Share Stapled Units Registrar, Computershare 
+Hong Kong Investor Services Limited, Transfer Office, Shops 1712-1716, 17th Floor, Hopewell Centre, 183 
+Queen’s Road East, Wan Chai, Hong Kong, for registration no later than 4.30pm on Friday, 14 August 2026. 
+Distribution warrants will be d espatched to holders of Share Stapled Units on or around  Thursday,  
+3 September 2026. 
+ 
+PURCHASE, SALE OR REDEMPTION OF LISTED SECURITIES 
+ 
+During the six months ended 30 June 2026, none of the HKT Trust (including the Trustee -Manager), the 
+Company or the Company’s subsidiaries purchased, sold or redeemed any Share Stapled Units. 
+ 
+AUDIT COMMITTEE 
+ 
+The Trustee-Manager’s Audit Committee and the Company’s Audit Committee have reviewed the accounting 
+policies adopted by the Group and the Trustee -Manager, the unaudited condensed consolidated interim 
+financial information of the HKT Trust and HKT Limited  for the six months ended  30 June 2026 and the 
+unaudited condensed interim financial information of the Trustee-Manager for the same period. Such financial 
+information of the HKT Trust and HKT Limited and of the Trustee -Manager has not been audited but ha s 
+been reviewed by the independent auditor of the Trustee-Manager and the Company. 
+
+PAGE 17
+17 
+ 
+CORPORATE GOVERNANCE CODE 
+ 
+The HKT Trust, the Trustee -Manager and the Company are committed to maintaining a high standard of 
+corporate governance, the principles of which serve to uphold a high standard of ethics, transparency, 
+responsibility and integrity in all aspects of their businesses, and to ensure that their affairs are conducted in 
+accordance with applicable laws and regulations. 
+ 
+The HKT Trust and the Company have applied the principles, and complied with all relevant code provisions of 
+the Corporate Governance Code (the “CG Code”) in each case as set out in Appendix C1 to the Rules Governing 
+the Listing of Securities on The Stock Exchange of Hong Kong Limited during the six months ended   
+30 June 2026, save and except for the code provisions set out below. The requirement to establish a separate 
+Remuneration Committee with written terms of reference for the Trustee -Manager under the code provision 
+E.1.2 of the CG Code is not relevant to the Trustee-Manager as its directors are not entitled to any remuneration 
+under the Trust Deed, and therefore has not been complied with. In addition, given the unique circumstances of 
+the HKT Trust i.e., the fact that the Trust Deed requires that the directors of the Company and the directors of 
+the Trustee -Manager must always be the same individuals, the establishment of a separate Nomination 
+Committee with written terms of reference for the Trustee-Manager as required by code provision B.3.1 of the 
+CG Code is not relevant to the Trustee-Manager, and therefore has not been complied with. 
+ 
+PUBLICATION OF RESULTS ANNOUNCEMENT AND INTERIM REPORT 
+ 
+This announcement is published on the websites of the Company ( www.hkt.com/ir) and Hong Kong 
+Exchanges and Clearing Limited (www.hkexnews.hk). The 2026 interim report will be despatched to holders 
+of Share Stapled Units and available on the above websites in due course. 
+ 
+ 
+ By order of the boards of 
+HKT Management Limited 
+and 
+HKT Limited 
+Cheung Hok Chee, Vanessa 
+Group General Counsel and Company Secretary 
+ 
+Hong Kong, 29 July 2026 
+ 
+ 
+
+PAGE 18
+18 
+ 
+CONSOLIDATED INCOME STATEMENT OF HKT TRUST AND OF HKT LIMITED 
+For the six months ended 30 June 2026 
+(In HK$ million except for earnings per Share Stapled Unit/share of the Company) 
+ 
+  2025 2026 
+ Note(s) (Unaudited) (Unaudited) 
+    
+Revenue 2 17,322 18,685 
+Cost of sales  (9,021) (10,248) 
+General and administrative expenses  (4,677) (4,833) 
+Other gains/(losses), net  4 (25) 
+Finance costs, net  (885) (768) 
+Share of results of associates  (29) (7) 
+Share of results of joint ventures  (2) (7) 
+    
+Profit before income tax 2, 3 2,712 2,797 
+Income tax 4 (414) (411) 
+    
+Profit for the period  2,298 2,386 
+    
+Profit attributable to:    
+ Holders of Share Stapled Units/shares of the Company   2,070 2,153 
+ Non-controlling interests  228 233 
+    
+Profit for the period  2,298 2,386 
+    
+    
+Earnings per Share Stapled Unit/share of the Company 6   
+    
+Basic  27.32 cents 28.41 cents 
+    
+Diluted  27.32 cents 28.40 cents 
+ 
+
+PAGE 19
+19 
+ 
+CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME OF 
+HKT TRUST AND OF HKT LIMITED 
+For the six months ended 30 June 2026 
+(In HK$ million) 
+ 
+  2025 2026 
+  (Unaudited) (Unaudited) 
+    
+Profit for the period  2,298 2,386 
+    
+Other comprehensive (loss)/income    
+Item that will not be reclassified subsequently to 
+consolidated income statement:    
+Changes in fair value of a financial asset at fair value 
+through other comprehensive income  (225) (10) 
+Items that have been reclassified or may be reclassified 
+subsequently to consolidated income statement:    
+Translation exchange differences: 
+- exchange differences on translating foreign  
+  operations of subsidiaries 
+- exchange differences on translating foreign 
+  operations of joint ventures  
+127 
+ 
+13 
+(3) 
+ 
+2 
+Cash flow hedges:    
+- effective portion of changes in fair value  (110) 249 
+- transfer from equity to consolidated income 
+statement  (396) (110) 
+Costs of hedging  5 (25) 
+Share of other comprehensive income/(loss) of an 
+associate  7 (1) 
+    
+Other comprehensive (loss)/income for the period  (579) 102 
+    
+Total comprehensive income for the period  1,719 2,488 
+    
+Attributable to:    
+ Holders of Share Stapled Units/shares of the Company   1,491 2,255 
+ Non-controlling interests  228 233 
+    
+Total comprehensive income for the period  1,719 2,488 
+ 
+ 
+ 
+
+PAGE 20
+20 
+ 
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION OF  
+HKT TRUST AND OF HKT LIMITED 
+As at 30 June 2026 
+(In HK$ million) 
+ 
+  As at As at 
+  31 December 30 June 
+  2025 2026 
+ Note (Audited) (Unaudited) 
+    
+ASSETS AND LIABILITIES    
+    
+Non-current assets    
+Property, plant and equipment  29,618 30,249 
+Right-of-use assets  2,553 2,770 
+Interests in leasehold land  143 139 
+Goodwill  49,813 49,812 
+Intangible assets  20,656 21,486 
+Fulfilment costs  2,298 2,446 
+Customer acquisition costs  951 876 
+Contract assets  236 228 
+Interests in associates  437 438 
+Interests in joint ventures   507 508 
+Financial assets at fair value through other 
+comprehensive income 
+ 
+105 95 
+Financial assets at fair value through profit or loss  21 642 
+Derivative financial instrument  121 – 
+Deferred income tax assets  731 678 
+Other non-current assets  843 805 
+    
+  109,033 111,172 
+    
+Current assets    
+Inventories  1,546 1,699 
+Prepayments, deposits and other current assets  4,019 4,127 
+Contract assets  673 744 
+Trade receivables, net 7 2,549 2,522 
+Amounts due from related companies  650 655 
+Financial assets at fair value through profit or loss  21 10 
+Derivative financial instruments  40 222 
+Tax recoverable  2 17 
+Restricted cash  187 177 
+Short-term deposits  475 480 
+Cash and cash equivalents  1,957 2,747 
+    
+  12,119 13,400 
+    
+ 
+ 
+
+PAGE 21
+21 
+ 
+CONSOLIDATED STATEMENT OF FINANCIAL POSITION OF  
+HKT TRUST AND OF HKT LIMITED (CONTINUED) 
+As at 30 June 2026 
+(In HK$ million) 
+ 
+  As at As at 
+  31 December 30 June 
+  2025 2026 
+ Note (Audited) (Unaudited) 
+    
+Current liabilities    
+Short-term borrowings  (5,884) (7,721) 
+Trade payables 8 (9,762) (10,752) 
+Accruals and other payables  (6,339) (7,124) 
+Derivative financial instruments  (17) (30) 
+Carrier licence fee liabilities  (384) (387) 
+Amount due to a fellow subsidiary  (1,167) (1,519) 
+Amounts due to related companies  (84) (78) 
+Advances from customers  (313) (309) 
+Contract liabilities  (1,659) (1,471) 
+Lease liabilities  (891) (924) 
+Current income tax liabilities  (1,954) (1,635) 
+    
+  (28,454) (31,950) 
+    
+Non-current liabilities    
+Long-term borrowings 9 (38,691) (40,330) 
+Derivative financial instruments  (814) (555) 
+Deferred income tax liabilities  (6,290) (6,538) 
+Carrier licence fee liabilities  (3,494) (3,342) 
+Contract liabilities  (937) (1,050) 
+Lease liabilities  (1,619) (1,610) 
+Amount due to a non-controlling interest  (337) (305) 
+Other long-term liabilities  (2,122) (1,867) 
+    
+  (54,304) (55,597) 
+    
+Net assets  38,394 37,025 
+    
+CAPITAL AND RESERVES    
+    
+Share capital  8 8 
+Reserves  36,813 35,441 
+    
+Equity attributable to holders of  
+Share Stapled Units/shares of the Company  36,821 35,449 
+Non-controlling interests  1,573 1,576 
+    
+Total equity  38,394 37,025 
+ 
+ 
+ 
+
+PAGE 22
+22 
+ 
+NOTES 
+ 
+1. BASIS OF PREPARATION AND PRESENTATION 
+ 
+The HKT Trust (the “HKT Trust”) is constituted by a Hong Kong law governed trust deed as 
+supplemented, amended or substituted from time to time (the “Trust Deed”), entered into between 
+HKT Management Limited (in its capacity as the trustee -manager of the H KT Trust) (the “Trustee -
+Manager”) and HKT Limited (the “Company”). In accordance with the Trust Deed, the HKT Trust 
+and the Company are each required to prepare their own interim financial information  on a 
+consolidated basis. The HKT Trust unaudited condensed consolidated interim financial information 
+for the six months ended 30 June 20 26 comprises the unaudited condensed consolidated interim 
+financial information of the HKT Trust, the Company and its subsidiaries (together the “Group”), and 
+the Group’s interests in associate s and joint  ventures. The HKT Limited unaudited condensed 
+consolidated interim financial information for the six months ended 30 June 20 26 comprises the 
+unaudited condensed consolidated interim financial information of the Company and its subsidiaries 
+(together the “HKT Limited Group”) and the HKT Limited Group’s interests in associate s and joint 
+ventures. 
+ 
+The HKT Trust controls the Company and the sole activity of the HKT Trust during the six months 
+ended 30 June 2026 was investing in the Company. Therefore, the consolidated financial results and 
+financial position that would be presented in the unaudited condensed consolidated interim financial 
+information of the HKT Trust are identical to the consolidated financial results and financial position 
+of the Company  with the only differences being disclosures of the capital of the Company . The 
+directors of the Trustee-Manager and the directors of the Company believe therefore that it is clearer 
+to present the unaudited condensed consolidated interim financial information of the HKT Trust and 
+of the Company together. The unaudited condensed consolidated interim financial information of the 
+HKT Trust and the unaudited condensed consolidated interim financial information of the Company 
+are presented together to the extent they are identical and are hereinafter referred to as the “HKT Trust 
+and HKT Limited unaudited condensed consolidated interim financial information”. 
+ 
+The Group and the HKT Limited Group are referred to as the “Groups”. 
+ 
+The share stapled units (the “Share Stapled Units”) structure comprises: (a) a unit in the HKT Trust; 
+(b) a beneficial interest in a specifically identified ordinary share in the Company which is “linked” to 
+the unit and held by the Trustee-Manager as legal owner in its capacity as the trustee -manager of the 
+HKT Trust; and (c) a specifically identified preference share in the Company which is “stapled” to the 
+unit. The Share Stapled Units, which are jointly issued by the HKT Trust and the Company, are listed 
+on the Main Board of The Stock Exchange of Hong Kong Limited. 
+ 
+The HKT Trust and HKT Limited unaudited condensed consolidated interim financial information has 
+been prepared in accordance with the applicable disclosure requirements of Appendix D2 to the Rules 
+Governing the Listing of Securities on The Stock Exchange of Hong Kong Limited and Hong Kong 
+Accounting Standard (“HKAS”) 34 Interim Financial Reporting issued by the Hong Kong Institute of 
+Certified Public Accountants (“HKICPA”). The HKT Trust and HKT Limited unaudited condensed 
+consolidated interim financial information should be read in conjunction with the annual consolidated 
+financial statements of the HKT Trust and HKT Limited for the year ended 31 December 2025. 
+ 
+The HKT Trust and HKT Limited unaudited condensed consolidated interim financial information is 
+presented in Hong Kong dollars, unless otherwise stated. The HKT Trust and HKT Limited unaudited 
+condensed consolidated interim financial information was approved for issue on 29 July 2026. 
+ 
+ 
+
+PAGE 23
+23 
+ 
+1. BASIS OF PREPARATION AND PRESENTATION (CONTINUED) 
+ 
+The HKT Trust and HKT Limited unaudited condensed consolidated interim financial information has 
+been reviewed by the Audit Committee of the Trustee-Manager and of the Company and, in accordance 
+with Hong Kong Standard on Review Engagements 2410 Review of Interim Financial Information 
+Performed by the Independent Auditor of the Entity  issued by the HKICPA, by the Groups’ 
+independent auditor. 
+ 
+The financial information of the Trustee-Manager relating to the year ended 31 December 2025 that is 
+included in this interim results announcement as comparative information does not constitute the 
+Trustee-Manager’s statutory annual financial statements for that year but is derived from those 
+financial statements. Further information relating to those statutory financial statements required to be 
+disclosed in accordance with section 436 of the Hong Kong Companies Ordinance (Cap. 622) is as 
+follows: 
+ 
+- The Trustee -Manager’s financial statements combined with the HKT Trust and HKT Limited 
+consolidated financial statements for the year ended 31 December 202 5 have been delivered to 
+the Registrar of Companies. 
+ 
+- The Trustee-Manager’s auditor has reported on those financial statements of the Trustee-Manager. 
+The auditor’s report was unqualified; did not include a reference to any matters to which  the 
+auditor drew attention by way of emphasis without qualifying its report; and did not  
+contain a statement under sections 406(2), 407(2) or (3) of the Hong Kong Companies Ordinance 
+(Cap. 622). 
+ 
+The preparation of the HKT Trust and HKT Limited unaudited condensed consolidated interim 
+financial information in conformity with HKAS 34 requires management to make judgements, 
+estimates and assumptions that affect the application of accounting policies and reported amounts of 
+assets, liabilities, income and expenses on a year -to-date basis. Actual results may differ from these 
+estimates.  
+ 
+In preparing this unaudited condensed consolidated interim financial information, the significant 
+judgements made by management in applying the Groups’ accounting policies and the key sources of 
+estimation uncertainty were the same as those that applied to the consolidated financial statements for 
+the year ended 31 December 2025. 
+ 
+The accounting policies , basis of presentation and methods of computation used in preparing  
+the HKT Trust and HKT Limited unaudited condensed consolidated interim financial information  
+are consistent with those followed in preparing the Groups’ annual consolidated financial statements 
+for the year ended 31 December 20 25, except for the adoption of the following amended  
+HKFRS Accounting Standards which are first effective for accounting periods beginning on or after  
+1 January 2026 as described below. 
+ 
+The following amended HKFRS Accounting Standards are adopted for the financial year beginning  
+1 January 2026, but have no material effect on the Groups’ reported results and financial position for 
+the current and prior accounting periods. 
+ 
+- Hong Kong Financial Reporting Standard (“HKFRS”) 7 (Amendments), Financial Instruments:    
+Disclosures 
+- HKFRS 9 (Amendments), Financial Instruments 
+- Annual Improvements to HKFRS Accounting Standards – Volume 11 
+ 
+The Groups have not early adopted any new or amended HKFRS Accounting Standards that are not 
+yet effective for the current accounting period. 
+
+PAGE 24
+24 
+ 
+1. BASIS OF PREPARATION AND PRESENTATION (CONTINUED) 
+ 
+As at 30 June 2026, the current liabilities of the Groups exceeded their current assets by  
+HK$18,550 million. After considering the Groups’ ability to generate net operating cash inflows and 
+raise additional debt financing, and the un drawn banking facilities available as at 30 June 202 6, 
+management considers the Groups are able to meet their liabilities as and when they fall due  within 
+the next 12 -month period . Accordingly, this unaudited condensed consolidated interim financial 
+information has been prepared on a going concern basis. 
+ 
+2. SEGMENT INFORMATION 
+  
+The chief operating decision-maker (the “CODM”) is the Groups’ senior executive management. The 
+CODM reviews the Groups’ internal reporting in order to assess performance and allocate resources  
+and the segment information is reported below in accordance with this internal reporting. 
+ 
+The CODM considers the business from the product perspective and assesses the performance of the 
+following segments: 
+ 
+- Telecommunications Services (“TSS”) is the leading provider of technology and 
+telecommunications and related services including enterprise solutions, total home solutions, and 
+media entertainment. It operates primarily in Hong Kong, and also serves customers in Chinese 
+Mainland and other parts of the world. 
+ 
+- Mobile includes the Groups’ mobile telecommunications businesses in Hong Kong. 
+ 
+- Other businesses of the Groups (“Other Businesses”) primarily comprise other new businesses 
+such as The Club’s loyalty platform, HKT Financial Services and healthtech services, as well as 
+corporate support functions. 
+ 
+The CODM assesses the performance of the operating segments based on a measure of adjusted 
+earnings before interest, tax, depreciation and amortisation (“EBITDA”). EBITDA represents earnings 
+before interest income, finance costs, income tax, depreciation and amorti sation, gains/losses on 
+disposal of property, plant and equipment, interests in leasehold land, right-of-use assets and intangible 
+assets, net other gains/losses, losses on property, plant and equipment, restructuring costs, impairment 
+losses on goodwill, tangible and intangible assets and interests in associates and joint ventures, and the 
+Groups’ share of results of associates and joint ventures.  
+ 
+Segment revenue, expense and segment performance include transactions between segments.  
+Inter-segment pricing is based on similar terms to those available to other external parties for similar 
+services. The revenue from external parties reported to the CODM is measured in a manner consistent 
+with that in the consolidated income statement. 
+
+PAGE 25
+25 
+ 
+2. SEGMENT INFORMATION (CONTINUED) 
+ 
+Information regarding the Groups’ reportable segments as provided to the Groups’ CODM is set out 
+below: 
+ 
+For the six months ended 30 June 2025 
+(In HK$ million)  
+ 
+ 
+ 
+ 
+TSS 
+(Unaudited) 
+ 
+Mobile 
+(Unaudited)  
+Other  
+Businesses 
+(Unaudited) 
+ 
+Eliminations 
+(Unaudited)  
+ 
+Consolidated 
+(Unaudited) 
+      
+Revenue      
+External revenue 11,914 4,861 547 – 17,322 
+Inter-segment revenue 613 339 23 (975) – 
+      
+Total revenue 12,527 5,200 570 (975) 17,322 
+      
+External revenue from 
+contracts with customers:      
+Timing of revenue 
+recognition      
+At a point in time 3,153 864 506 – 4,523 
+Over time 8,723 3,997 41 – 12,761 
+External revenue from 
+other sources:      
+Rental income 38 – – – 38 
+      
+ 11,914 4,861 547 – 17,322 
+      
+Results      
+EBITDA 4,421 2,412 (453) – 6,380 
+ 
+ 
+For the six months ended 30 June 2026 
+(In HK$ million)   
+ 
+ 
+ 
+TSS 
+(Unaudited) 
+ 
+Mobile 
+(Unaudited)  
+Other  
+Businesses 
+(Unaudited) 
+ 
+Eliminations 
+(Unaudited)  
+ 
+Consolidated 
+(Unaudited) 
+      
+Revenue      
+External revenue 12,283 5,862 540 – 18,685 
+Inter-segment revenue 630 386 28 (1,044) – 
+      
+Total revenue 12,913 6,248 568 (1,044) 18,685 
+      
+External revenue from 
+contracts with customers:      
+Timing of revenue 
+recognition      
+At a point in time 2,900 1,658 467 – 5,025 
+Over time 9,340 4,204 73 – 13,617 
+External revenue from 
+other sources:      
+Rental income 43 – – – 43 
+      
+ 12,283 5,862 540 – 18,685 
+      
+Results      
+EBITDA 4,508 2,532 (454) – 6,586 
+ 
+
+PAGE 26
+26 
+ 
+2. SEGMENT INFORMATION (CONTINUED) 
+ 
+A reconciliation of total segment EBITDA to profit before income tax is provided as follows: 
+ 
+             Six months ended 
+ 30 June 30 June 
+ 2025 2026 
+In HK$ million (Unaudited) (Unaudited) 
+   
+Total segment EBITDA 6,380 6,586 
+Gains on disposal of property, plant and equipment and 
+right-of-use assets, net 1 2 
+Depreciation and amortisation (2,757) (2,984) 
+Other gains/(losses), net 4 (25) 
+Finance costs, net (885) (768) 
+Share of results of associates and joint ventures (31) (14) 
+   
+Profit before income tax 2,712 2,797 
+ 
+3. PROFIT BEFORE INCOME TAX 
+ 
+Profit before income tax was stated after charging the following: 
+ 
+             Six months ended 
+ 30 June 30 June 
+ 2025 2026 
+In HK$ million (Unaudited) (Unaudited) 
+   
+Cost of inventories sold 4,240 4,850 
+Cost of sales, excluding inventories sold 4,781 5,398 
+Impairment loss for trade receivables 151 135 
+Depreciation of property, plant and equipment 519 409 
+Depreciation of right-of-use assets 640 593 
+Amortisation of land lease premium – interests in 
+leasehold land 6 4 
+Amortisation of intangible assets 823 1,094 
+Amortisation of fulfilment costs 230 196 
+Amortisation of customer acquisition costs 539 688 
+Finance costs on borrowings 826 814 
+ 
+ 
+
+PAGE 27
+27 
+ 
+4. INCOME TAX 
+ 
+            Six months ended 
+ 30 June 30 June 
+ 2025 2026 
+In HK$ million (Unaudited) (Unaudited) 
+   
+Current income tax:   
+Hong Kong profits tax 141 89 
+Overseas tax 19 22 
+Movement of deferred income tax 254 300 
+   
+ 414 411 
+ 
+Hong Kong profits tax is provided at the rate of 16.5% (2025: 16.5%) on the estimated assessable 
+profits for the period. Overseas tax is calculated on the estimated assessable profits for the period at 
+the rates of taxation prevailing in the respective jurisdictions. 
+ 
+In December 2021, the Organisation for Economic Co-operation and Development released the Global 
+Anti-Base Erosion rules, also known as Pillar Two, aimed at reforming international corporate taxation. 
+Hong Kong passed legislation to implement Pillar Two, with the Hong Kong minimum top-up tax and 
+Income Inclusion Rule effective retroactively from 1 January 2025. The Groups are within the scope 
+of this legislation.  
+ 
+Following the amendments to HKAS 12 Income Taxes issued by the HKICPA in July 2023, the Groups 
+have applied the mandatory temporary exception under paragraph 4 of the amendments to HKAS 12 
+and have not recognised or disclosed deferred income tax assets and liabilities related to Pillar Two 
+Income Taxes. 
+ 
+For the six months ended 30 June 2026, the Groups have completed their assessment and have not 
+identified any material current Pillar Two tax exposure. 
+ 
+5. DISTRIBUTIONS/DIVIDENDS 
+   
+a. Distribution/Dividend attributable to the interim period 
+ 
+             Six months ended 
+ 30 June 30 June 
+ 2025 2026 
+In HK$ million (Unaudited) (Unaudited) 
+   
+Interim distribution/dividend declared after the end  
+of the interim period of 34.80 HK cents  
+(2025: 33.80 HK cents) per Share Stapled Unit/ 
+ordinary share of the Company 2,562 2,639 
+ 
+At meetings held on 29 July 2026, the directors of the Trustee-Manager and the Company declared an 
+interim distribution/dividend of 34.80 HK cents per Share Stapled Unit/ordinary share of the Company 
+for the year ending 31 December 202 6. This interim distribution/dividend is not recognised as a 
+liability in the HKT Trust and HKT Limited unaudited condensed consolidated interim financial 
+information. 
+ 
+
+PAGE 28
+28 
+ 
+5. DISTRIBUTIONS/DIVIDENDS (CONTINUED) 
+ 
+b. Distribution/Dividend approved and paid during the interim period 
+ 
+             Six months ended 
+ 30 June 30 June 
+ 2025 2026 
+In HK$ million (Unaudited) (Unaudited) 
+   
+Final distribution/dividend declared in respect of  
+the previous financial year, approved and paid  
+during the interim period of 47.97 HK cents  
+(2025: 45.88 HK cents) per Share Stapled Unit/ 
+ordinary share of the Company 3,478 3,637 
+Less: distribution/dividend for Share Stapled Units/ 
+ordinary shares of the Company held by  
+the Share Stapled Unit award schemes (2) (1) 
+   
+ 3,476 3,636 
+ 
+6. EARNINGS PER SHARE STAPLED UNIT/SHARE OF THE COMPANY 
+  
+The calculations of basic and diluted earnings per Share Stapled Unit/share of the Company were based 
+on the following data: 
+ 
+                Six months ended 
+ 30 June  30 June 
+ 2025 2026 
+ (Unaudited) (Unaudited) 
+   
+Earnings (in HK$ million)   
+Earnings for the purpose of basic and diluted earnings per 
+Share Stapled Unit/share of the Company 2,070 2,153 
+   
+Number of Share Stapled Units/shares of the Company   
+Weighted average number of Share Stapled Units/ordinary 
+shares of the Company 7,579,776,147 7,582,398,399 
+Effect of Share Stapled Units held under the Share Stapled 
+Unit award schemes (3,429,785) (3,705,543) 
+   
+Weighted average number of Share Stapled Units/ordinary 
+shares of the Company for the purpose of basic earnings 
+per Share Stapled Unit/share of the Company 7,576,346,362 7,578,692,856 
+Effect of Share Stapled Units awarded under the Share 
+Stapled Unit award schemes 1,788,048 1,722,213 
+   
+Weighted average number of Share Stapled Units/ordinary 
+shares of the Company for the purpose of diluted earnings 
+per Share Stapled Unit/share of the Company 7,578,134,410 7,580,415,069 
+ 
+ 
+
+PAGE 29
+29 
+ 
+7. TRADE RECEIVABLES, NET 
+  
+The ageing of trade receivables based on the date of invoice is set out below: 
+  
+ As at As at 
+ 31 December 30 June 
+ 2025 2026 
+In HK$ million (Audited) (Unaudited) 
+   
+1 – 30 days  1,448 1,652 
+31 – 60 days  438 189 
+61 – 90 days  197 200 
+91 – 120 days  129 115 
+Over 120 days  458 486 
+   
+ 2,670 2,642 
+Less: loss allowance (121) (120) 
+   
+Trade receivables, net 2,549 2,522 
+ 
+As at 30 June 202 6, included in trade receivables, net were amounts due from related parties of  
+HK$228 million (as at 31 December 2025: HK$129 million).  
+ 
+The Groups’ normal credit period for customers is ranging up to 30 days from the date of invoice 
+unless there is a separate mutual agreement on extension of the credit period. The Groups maintain a 
+well-defined credit policy and individual credit evaluatio ns are performed on all customers requiring 
+credit over a certain amount. These evaluations focus on the customer’s past history of making 
+payments when due and current ability to pay, and  take into account information specific to the 
+customer as well as pertaining to the economic environment in which the customer operates. Debtors 
+who have overdue balances are requested to settle all outstanding balances before any further credit is 
+granted. 
+ 
+8. TRADE PAYABLES 
+  
+The ageing of trade payables based on the date of invoice is set out below: 
+  
+ As at As at 
+ 31 December 30 June 
+ 2025 2026 
+In HK$ million (Audited) (Unaudited) 
+   
+1 – 30 days  3,697 4,893 
+31 – 60 days  2,816 3,182 
+61 – 90 days  1,159 657 
+91 – 120 days  1,065 744 
+Over 120 days  1,025 1,276 
+   
+ 9,762 10,752 
+ 
+As at 30 June 202 6, included in trade payables were amounts due to related parties of  
+HK$128 million (as at 31 December 2025: HK$186 million). 
+ 
+ 
+
+PAGE 30
+30 
+ 
+9. LONG-TERM BORROWINGS 
+ 
+On 10 June 2026, HKT Capital Limited, an indirect wholly-owned subsidiary of the Company, issued 
+US$650 million 5.125% notes due 2036 under the US$3 billion guaranteed medium term note 
+programme, which are listed on the Singapore Exchange Securities Trading Limited. The notes are 
+irrevocably and unconditionally guaranteed by HKT Group Holdings Limited (“HKTGH”) and  
+Hong Kong Telecommunications (HKT) Limited (“HKTL”), both being wholly-owned subsidiaries of 
+the Company, and rank pari passu with all other outstanding unsecured and unsubordinated obligations 
+of HKTGH and HKTL. 
+ 
+10. CHANGE IN INTERESTS IN SUBSIDIARIES WITHOUT A LOSS OF CONTROL 
+ 
+On 30 March 2026, the Company’s indirect wholly -owned subsidiary, Apex Link Communications 
+Holdings Limited (the “Seller”), entered into a share purchase agreement with Pegasus Investment 
+BidCo Limited (the “Purchaser”). The Purchaser is controlled and managed by China Merchants 
+Capital Holdings Co., Ltd.*, which controls and manages another company holding 40% of the issued 
+share capital of  Regional Link Telecom Services Holdings Limited (the “Target”), an indirect non -
+wholly owned subsidiary of the Company. Pursuant to the agreement, the Purchaser shall  purchase (i) 
+9% of the entire issued share capital of the Target as at completion; and (ii) a receivable in the amount 
+of 9% of the total amounts owing from Fiber Link Global Limited, an indirect non -wholly owned 
+subsidiary of the Company, to the Seller and the initial investor (a company controlled and managed 
+by China Merchants Capital Holdings Co., Ltd. *) outstanding as at the completion date, for a total 
+consideration of US$209,452,500 (the “Transaction”). As at 30 June 2026, the Transaction has not 
+been completed, subject to the satisfaction or waiver of certain conditions. 
+ 
+* For identification purpose only 
+ 
+
+PAGE 31
+31 
+ 
+INCOME STATEMENT OF  
+HKT MANAGEMENT LIMITED 
+For the six months ended 30 June 2026 
+(In HK$’000) 
+ 
+  2025 2026 
+  (Unaudited) (Unaudited) 
+    
+Management fee income  32 32 
+General and administrative expenses  (32) (32) 
+    
+Result before income tax  – – 
+    
+Income tax  – – 
+    
+Result for the period  – – 
+ 
+ 
+STATEMENT OF COMPREHENSIVE INCOME OF  
+HKT MANAGEMENT LIMITED 
+For the six months ended 30 June 2026 
+(In HK$’000) 
+ 
+  2025 2026 
+  (Unaudited) (Unaudited) 
+    
+Result for the period  – – 
+    
+Other comprehensive income  – – 
+    
+Total comprehensive income for the period  – – 
+ 
+
+PAGE 32
+32 
+ 
+STATEMENT OF FINANCIAL POSITION OF  
+HKT MANAGEMENT LIMITED 
+As at 30 June 2026 
+(In HK$’000) 
+ 
+  As at As at 
+  31 December  30 June 
+  2025 2026 
+   (Audited) (Unaudited) 
+    
+ASSET AND LIABILITIES    
+    
+Current asset    
+Amount due from a fellow subsidiary  729 761 
+    
+  729 761 
+    
+Current liabilities    
+Accruals and other payables  (58) (87) 
+Amounts due to fellow subsidiaries  (671) (674) 
+    
+  (729) (761) 
+    
+Net assets  – – 
+    
+CAPITAL AND RESERVES    
+    
+Share capital  – – 
+Reserves  – – 
+    
+Total equity  – – 
+ 
+
+PAGE 33
+33 
+ 
+As at the date of this announcement, the directors of the Trustee-Manager and the Company are as follows: 
+ 
+Executive Directors: 
+Li Tzar Kai, Richard (Executive Chairman) and Hui Hon Hing, Susanna (Group Managing Director)  
+ 
+Non-Executive Directors: 
+Peter Anthony Allen; Chung Cho Yee, Mico; Tang Yongbo and Zhao Xingfu 
+ 
+Independent Non-Executive Directors: 
+Chang Hsin Kang; Aman Mehta; Frances Waikwun Wong; Charlene Dawes and Ng Wai Lun 
+ 
+ 
+Forward-Looking Statements 
+ 
+This announcement may contain certain forward -looking statements. These forward -looking statements 
+include, without limitation, statements relating to revenues , earnings and prospects. The words “believe”, 
+“intend”, “expect”, “anticipate”, “project”, “estimate”, “predict”, “is confident”, “has confidence” and similar 
+expressions are also intended to identify forward -looking statements. These forward -looking statements are 
+not historica l facts. Rather, the forward -looking statements are based on the current beliefs, assumptions, 
+expectations, estimates and projections of the directors and management of HKT relating to the business, 
+industry and markets in which HKT operates. 
+ 
+ 
+ 

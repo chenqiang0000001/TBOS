@@ -1,0 +1,218 @@
+[
+  {
+    "id": "S01",
+    "title": "Meadows leverage points",
+    "url": "https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/",
+    "status": 200,
+    "final_url": "https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/",
+    "content_type": "text/html; charset=UTF-8",
+    "chars": 60258
+  },
+  {
+    "id": "S02",
+    "title": "Meadows dancing with systems",
+    "url": "https://donellameadows.org/archives/dancing-with-systems/",
+    "status": 200,
+    "final_url": "https://donellameadows.org/archives/dancing-with-systems/",
+    "content_type": "text/html; charset=UTF-8",
+    "chars": 27143
+  },
+  {
+    "id": "S03",
+    "title": "Berkshire 1996 shareholder letter",
+    "url": "https://www.berkshirehathaway.com/letters/1996.html",
+    "status": 200,
+    "final_url": "https://www.berkshirehathaway.com/letters/1996.html",
+    "content_type": "text/html",
+    "chars": 71080
+  },
+  {
+    "id": "S04",
+    "title": "Poor Charlie official publisher",
+    "url": "https://www.stripe.press/poor-charlies-almanack",
+    "status": 200,
+    "final_url": "https://www.stripe.press/poor-charlies-almanack",
+    "content_type": "text/html; charset=utf-8",
+    "chars": 74
+  },
+  {
+    "id": "S05",
+    "title": "Duan original public blog",
+    "url": "https://blog.sina.com.cn/s/blog_49eea45a0100pffv.html",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "S06",
+    "title": "Dweck growth mindset HBR",
+    "url": "https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means",
+    "status": 200,
+    "final_url": "https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means",
+    "content_type": "text/html; charset=utf-8",
+    "chars": 3767
+  },
+  {
+    "id": "S07",
+    "title": "ISO 30401",
+    "url": "https://www.iso.org/standard/68683.html",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "S08",
+    "title": "NIST Baldrige values",
+    "url": "https://www.nist.gov/baldrige/core-values-and-concepts",
+    "status": 200,
+    "final_url": "https://www.nist.gov/baldrige/core-values-and-concepts",
+    "content_type": "text/html; charset=UTF-8",
+    "chars": 9197
+  },
+  {
+    "id": "S09",
+    "title": "NASA knowledge policy",
+    "url": "https://km.nasa.gov/knowledge-policy/",
+    "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+  },
+  {
+    "id": "S10",
+    "title": "PARA original author",
+    "url": "https://fortelabs.com/blog/para/",
+    "status": 200,
+    "final_url": "https://fortelabs.com/blog/para/",
+    "content_type": "text/html; charset=UTF-8",
+    "chars": 15582
+  },
+  {
+    "id": "S11",
+    "title": "CODE original author",
+    "url": "https://fortelabs.com/blog/basboverview/",
+    "status": 200,
+    "final_url": "https://fortelabs.com/blog/basboverview/",
+    "content_type": "text/html; charset=UTF-8",
+    "chars": 32383
+  },
+  {
+    "id": "S12",
+    "title": "Andy Matuschak evergreen notes",
+    "url": "https://notes.andymatuschak.org/Evergreen_notes",
+    "status": 200,
+    "final_url": "https://notes.andymatuschak.org/z5E5QawiXCMbtNtupvxeoEX",
+    "content_type": "text/html; charset=utf-8",
+    "chars": 2329
+  },
+  {
+    "id": "S13",
+    "title": "Luhmann archive",
+    "url": "https://niklas-luhmann-archiv.de/",
+    "status": 200,
+    "final_url": "https://niklas-luhmann-archiv.de/",
+    "content_type": "text/html; charset=utf-8",
+    "chars": 76
+  },
+  {
+    "id": "S14",
+    "title": "LYT starter kit",
+    "url": "https://www.linkingyourthinking.com/lyt-kit",
+    "status": 200,
+    "final_url": "https://www.linkingyourthinking.com/download-lyt-kit",
+    "content_type": "text/html; charset=utf-8",
+    "chars": 3479
+  },
+  {
+    "id": "S15",
+    "title": "Johnny Decimal official",
+    "url": "https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/",
+    "status": 200,
+    "final_url": "https://johnnydecimal.com/documentation/introduction",
+    "content_type": "text/html",
+    "chars": 7174
+  },
+  {
+    "id": "S16",
+    "title": "Obsidian storage help",
+    "url": "https://help.obsidian.md/Files+and+folders/How+Obsidian+stores+data",
+    "status": 200,
+    "final_url": "https://obsidian.md/help/Files+and+folders/How+Obsidian+stores+data",
+    "content_type": "text/html; charset=utf-8",
+    "chars": 40
+  },
+  {
+    "id": "S17",
+    "title": "Logseq repository",
+    "url": "https://api.github.com/repos/logseq/logseq",
+    "status": 200,
+    "final_url": "https://api.github.com/repos/logseq/logseq",
+    "content_type": "application/json; charset=utf-8",
+    "chars": 450
+  },
+  {
+    "id": "S18",
+    "title": "Digital garden Maggie Appleton",
+    "url": "https://maggieappleton.com/garden-history",
+    "status": 200,
+    "final_url": "https://maggieappleton.com/garden-history",
+    "content_type": "text/html; charset=utf-8",
+    "chars": 62010
+  },
+  {
+    "id": "S19",
+    "title": "Notion export official",
+    "url": "https://www.notion.com/help/export-your-content",
+    "status": 200,
+    "final_url": "https://www.notion.com/help/export-your-content",
+    "content_type": "text/html; charset=utf-8",
+    "chars": 12343
+  },
+  {
+    "id": "S20",
+    "title": "Brier score mathematical definition",
+    "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.brier_score_loss.html",
+    "status": 200,
+    "final_url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.brier_score_loss.html",
+    "content_type": "text/html; charset=utf-8",
+    "chars": 15296
+  },
+  {
+    "id": "S21",
+    "title": "NIST AI risk management",
+    "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+    "status": 200,
+    "final_url": "https://www.nist.gov/itl/ai-risk-management-framework",
+    "content_type": "text/html; charset=UTF-8",
+    "chars": 7168
+  },
+  {
+    "id": "S22",
+    "title": "Daniel Miessler Fabric repository",
+    "url": "https://api.github.com/repos/danielmiessler/fabric",
+    "status": 200,
+    "final_url": "https://api.github.com/repos/danielmiessler/fabric",
+    "content_type": "application/json; charset=utf-8",
+    "chars": 506
+  },
+  {
+    "id": "S23",
+    "title": "Ness Labs digital garden",
+    "url": "https://nesslabs.com/digital-garden-set-up",
+    "status": 200,
+    "final_url": "https://nesslabs.com/digital-garden-set-up",
+    "content_type": "text/html; charset=UTF-8",
+    "chars": 6354
+  },
+  {
+    "id": "S24",
+    "title": "Berkshire 1986 letter",
+    "url": "https://www.berkshirehathaway.com/letters/1986.html",
+    "status": 200,
+    "final_url": "https://www.berkshirehathaway.com/letters/1986.html",
+    "content_type": "text/html",
+    "chars": 84114
+  },
+  {
+    "id": "S25",
+    "title": "Mindset publisher",
+    "url": "https://www.penguinrandomhouse.com/books/44330/mindset-by-carol-s-dweck-phd/",
+    "status": 200,
+    "final_url": "https://www.penguinrandomhouse.com/books/44330/mindset-by-carol-s-dweck-phd/",
+    "content_type": "text/html; charset=UTF-8",
+    "chars": 12388
+  }
+]

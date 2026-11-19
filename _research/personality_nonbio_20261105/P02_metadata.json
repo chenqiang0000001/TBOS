@@ -1,0 +1,81 @@
+{
+  "id": "P02",
+  "doi": "10.1037/0033-2909.132.1.1",
+  "title": "Patterns of mean-level change in personality traits across the life course: A meta-analysis of longitudinal studies.",
+  "abstract": "The present study used meta-analytic techniques (number of samples = 92) to determine the patterns of mean-level change in personality traits across the life course. Results showed that people increase in measures of social dominance (a facet of extraversion), conscientiousness, and emotional stability, especially in young adulthood (age 20 to 40). In contrast, people increase on measures of social vitality (a 2nd facet of extraversion) and openness in adolescence but then decrease in both of these domains in old age. Agreeableness changed only in old age. Of the 6 trait categories, 4 demonstrated significant change in middle and old age. Gender and attrition had minimal effects on change, whereas longer studies and studies based on younger cohorts showed greater change.",
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "locations": [
+    "https://doi.org/10.1037/0033-2909.132.1.1",
+    "https://pubmed.ncbi.nlm.nih.gov/16435954",
+    "https://pubmed.ncbi.nlm.nih.gov/16435954"
+  ],
+  "pdfs": [],
+  "crossref": {
+    "title": [
+      "Patterns of mean-level change in personality traits across the life course: A meta-analysis of longitudinal studies."
+    ],
+    "abstract": null,
+    "published": {
+      "date-parts": [
+        [
+          2006,
+          1
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Brent W.",
+        "family": "Roberts",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kate E.",
+        "family": "Walton",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3463-4063",
+        "authenticated-orcid": false,
+        "given": "Wolfgang",
+        "family": "Viechtbauer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "URL": "https://doi.org/10.1037/0033-2909.132.1.1",
+    "link": [
+      {
+        "URL": "http://psycnet.apa.org/journals/bul/132/1/1.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ]
+  }
+}

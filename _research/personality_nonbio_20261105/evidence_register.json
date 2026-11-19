@@ -1,0 +1,111 @@
+[
+  {
+    "evidence_id": "E1",
+    "source_id": "P01",
+    "doi": "10.1037/bul0000365",
+    "title": "Personality stability and change: A meta-analysis of longitudinal studies.",
+    "checked_at": "2026-11-05",
+    "bibliography_source": "Crossref",
+    "abstract_source": "OpenAlex or publisher abstract via Crossref",
+    "metadata_path": "_research\\personality_nonbio_20261105\\P01_metadata.json"
+  },
+  {
+    "evidence_id": "E2",
+    "source_id": "P03",
+    "doi": "10.1037/a0024950",
+    "title": "Stability and change of personality across the life course: The impact of age and major life events on mean-level and rank-order stability of the Big Five.",
+    "checked_at": "2026-11-05",
+    "bibliography_source": "Crossref",
+    "abstract_source": "OpenAlex or publisher abstract via Crossref",
+    "metadata_path": "_research\\personality_nonbio_20261105\\P03_metadata.json"
+  },
+  {
+    "evidence_id": "E3",
+    "source_id": "P09",
+    "doi": "10.1037/0022-3514.80.6.1011",
+    "title": "Toward a structure- and process-integrated view of personality: Traits as density distributions of states.",
+    "checked_at": "2026-11-05",
+    "bibliography_source": "Crossref",
+    "abstract_source": "OpenAlex or publisher abstract via Crossref",
+    "metadata_path": "_research\\personality_nonbio_20261105\\P09_metadata.json"
+  },
+  {
+    "evidence_id": "E4",
+    "source_id": "P05",
+    "doi": "10.1073/pnas.1908430116",
+    "title": "A century of research on conscientiousness at work",
+    "checked_at": "2026-11-05",
+    "bibliography_source": "Crossref",
+    "abstract_source": "OpenAlex or publisher abstract via Crossref",
+    "metadata_path": "_research\\personality_nonbio_20261105\\P05_metadata.json"
+  },
+  {
+    "evidence_id": "E5",
+    "source_id": "P06",
+    "doi": "10.1037/a0014996",
+    "title": "A meta-analysis of the five-factor model of personality and academic performance.",
+    "checked_at": "2026-11-05",
+    "bibliography_source": "Crossref",
+    "abstract_source": "OpenAlex or publisher abstract via Crossref",
+    "metadata_path": "_research\\personality_nonbio_20261105\\P06_metadata.json"
+  },
+  {
+    "evidence_id": "E6",
+    "source_id": "P07",
+    "doi": "10.1037/pspp0000102",
+    "title": "Much ado about grit: A meta-analytic synthesis of the grit literature.",
+    "checked_at": "2026-11-05",
+    "bibliography_source": "Crossref",
+    "abstract_source": "OpenAlex or publisher abstract via Crossref",
+    "metadata_path": "_research\\personality_nonbio_20261105\\P07_metadata.json"
+  },
+  {
+    "evidence_id": "E7",
+    "source_id": "P08",
+    "doi": "10.1177/0956797617739704",
+    "title": "To What Extent and Under Which Circumstances Are Growth Mind-Sets Important to Academic Achievement? Two Meta-Analyses",
+    "checked_at": "2026-11-05",
+    "bibliography_source": "Crossref",
+    "abstract_source": "OpenAlex or publisher abstract via Crossref",
+    "metadata_path": "_research\\personality_nonbio_20261105\\P08_metadata.json"
+  },
+  {
+    "evidence_id": "E8",
+    "source_id": "P12",
+    "doi": "10.1038/s41586-019-1466-y",
+    "title": "A national experiment reveals where a growth mindset improves achievement",
+    "checked_at": "2026-11-05",
+    "access": "publisher public full-text relevant sections",
+    "local_text": "_research/personality_nonbio_20261105/P12.txt"
+  },
+  {
+    "evidence_id": "E9",
+    "source_id": "P04",
+    "doi": "10.1111/bjso.12251",
+    "title": "The psychology of social class: How socioeconomic status impacts thought, feelings, and behaviour",
+    "checked_at": "2026-11-05",
+    "bibliography_source": "Crossref",
+    "abstract_source": "OpenAlex or publisher abstract via Crossref",
+    "metadata_path": "_research\\personality_nonbio_20261105\\P04_metadata.json"
+  },
+  {
+    "evidence_id": "E10",
+    "source_id": "P11",
+    "doi": "10.1037/pspp0000096",
+    "title": "The next Big Five Inventory (BFI-2): Developing and assessing a hierarchical model with 15 facets to enhance bandwidth, fidelity, and predictive power.",
+    "checked_at": "2026-11-05",
+    "bibliography_source": "Crossref",
+    "abstract_source": "OpenAlex or publisher abstract via Crossref",
+    "metadata_path": "_research\\personality_nonbio_20261105\\P11_metadata.json"
+  },
+  {
+    "evidence_id": "E11",
+    "source_id": "P10",
+    "doi": "10.1177/0963721413475622",
+    "title": "Narrative Identity",
+    "checked_at": "2026-11-05",
+    "bibliography_source": "Crossref",
+    "abstract_source": "OpenAlex or publisher abstract via Crossref",
+    "metadata_path": "_research\\personality_nonbio_20261105\\P10_metadata.json"
+  }
+]

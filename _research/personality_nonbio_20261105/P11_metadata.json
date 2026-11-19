@@ -1,0 +1,72 @@
+{
+  "id": "P11",
+  "doi": "10.1037/pspp0000096",
+  "title": "The next Big Five Inventory (BFI-2): Developing and assessing a hierarchical model with 15 facets to enhance bandwidth, fidelity, and predictive power.",
+  "abstract": "(see record 2017-26058-001).In the article, all citations to McCrae and Costa (2008), except for the instance in which it appears in the first paragraph of the introduction, should instead appear as McCrae and Costa (2010). The complete citation should read as follows: McCrae, R. R., & Costa, P. T. (2010). NEO Inventories professional manual. Lutz, FL: Psychological Assessment Resources. The attribution to the BFI-2 items that appears in the Table 6 note should read as follows: BFI-2 items adapted from \"Conceptualization, Development, and Initial Validation of the Big Five Inventory-2,\" by C. J. Soto and O. P. John, 2015, Paper presented at the biennial meeting of the Association for Research in Personality. Copyright 2015 by Oliver P. John and Christopher J. Soto. The complete citation in the References list should appear as follows: Soto, C. J., & John, O. P. (2015, June). Conceptualization, development, and initial validation of the Big Five Inventory-2. Paper presented at the biennial meeting of the Association for Research in Personality, St. Louis, MO. Available from http://www.colby.edu/psych/personality-lab/ All versions of this article have been corrected. All versions of this article have been corrected.] Three studies were conducted to develop and validate the Big Five Inventory-2 (BFI-2), a major revision of the Big Five Inventory (BFI). Study 1 specified a hierarchical model of personality structure with 15 facet traits nested within the Big Five domains, and developed a preliminary item pool to measure this structure. Study 2 used conceptual and empirical criteria to construct the BFI-2 domain and facet scales from the preliminary item pool. Study 3 used data from 2 validation samples to evaluate the BFI-2's measurement properties and substantive relations with self-reported and peer-reported criteria. The results of these studies indicate that the BFI-2 is a reliable and valid personality measure, and an important advance over the original BFI. Specifically, the BFI-2 introduces a robust hierarchical structure, controls for individual differences in acquiescent responding, and provides greater bandwidth, fidelity, and predictive power than the original BFI, while still retaining the original measure's conceptual focus, brevity, and ease of understanding. The BFI-2 therefore offers valuable new opportunities for research examining the structure, assessment, development, and life outcomes of personality traits. (PsycINFO Database Record (c) 2017 APA, all rights reserved).",
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://escholarship.org/content/qt16x6n05t/qt16x6n05t.pdf?t=qwp60t",
+    "any_repository_has_fulltext": true
+  },
+  "locations": [
+    "https://doi.org/10.1037/pspp0000096",
+    "https://pubmed.ncbi.nlm.nih.gov/27055049",
+    "https://escholarship.org/uc/item/16x6n05t",
+    "https://escholarship.org/uc/item/16x6n05t"
+  ],
+  "pdfs": [
+    "https://escholarship.org/content/qt16x6n05t/qt16x6n05t.pdf?t=qwp60t"
+  ],
+  "crossref": {
+    "title": [
+      "The next Big Five Inventory (BFI-2): Developing and assessing a hierarchical model with 15 facets to enhance bandwidth, fidelity, and predictive power."
+    ],
+    "abstract": null,
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          7
+        ]
+      ]
+    },
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-2875-8919",
+        "authenticated-orcid": false,
+        "given": "Christopher J.",
+        "family": "Soto",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Oliver P.",
+        "family": "John",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "URL": "https://doi.org/10.1037/pspp0000096",
+    "link": [
+      {
+        "URL": "http://psycnet.apa.org/journals/psp/113/1/117.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-05",
+  "local_links_checked": 58,
+  "errors": [],
+  "original_docx_hashes_match": true,
+  "review_rows": 123,
+  "review_fields_still_blank": true,
+  "scenarios_are_illustrative": true,
+  "scenarios": [
+    {
+      "months": 34,
+      "annual_return_assumption": -0.1,
+      "end_value_yuan": 605696.0,
+      "display_wan": 60.6
+    },
+    {
+      "months": 34,
+      "annual_return_assumption": 0,
+      "end_value_yuan": 715000.0,
+      "display_wan": 71.5
+    },
+    {
+      "months": 34,
+      "annual_return_assumption": 0.05,
+      "end_value_yuan": 774582.0,
+      "display_wan": 77.5
+    },
+    {
+      "months": 34,
+      "annual_return_assumption": 0.08,
+      "end_value_yuan": 811965.0,
+      "display_wan": 81.2
+    },
+    {
+      "months": 36,
+      "annual_return_assumption": -0.1,
+      "end_value_yuan": 630000.0,
+      "display_wan": 63.0
+    },
+    {
+      "months": 36,
+      "annual_return_assumption": 0,
+      "end_value_yuan": 750000.0,
+      "display_wan": 75.0
+    },
+    {
+      "months": 36,
+      "annual_return_assumption": 0.05,
+      "end_value_yuan": 815978.0,
+      "display_wan": 81.6
+    },
+    {
+      "months": 36,
+      "annual_return_assumption": 0.08,
+      "end_value_yuan": 857559.0,
+      "display_wan": 85.8
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "usVICI": {
+    "price": 25.25,
+    "price_timestamp": "2026-11-04 16:05:07",
+    "source": "https://qt.gtimg.cn/q=usVICI,usHESM,hk06823",
+    "cash_basis": 1.84,
+    "pretax_yield_pct": 7.287128712871288,
+    "mechanical_6pct_price": 30.666666666666668,
+    "basis": "最新季息0.46×4，未来维持的假设"
+  },
+  "usHESM": {
+    "price": 31.8,
+    "price_timestamp": "2026-11-04 16:05:07",
+    "source": "https://qt.gtimg.cn/q=usVICI,usHESM,hk06823",
+    "cash_basis": 3.194,
+    "pretax_yield_pct": 10.044025157232705,
+    "mechanical_6pct_price": 53.233333333333334,
+    "basis": "最新季分派0.7985×4，未来维持的假设"
+  },
+  "hk06823": {
+    "price": 12.29,
+    "price_timestamp": "2026/11/05 11:59:59",
+    "source": "https://qt.gtimg.cn/q=usVICI,usHESM,hk06823",
+    "cash_basis": 0.8277,
+    "pretax_yield_pct": 6.734743694060212,
+    "mechanical_6pct_price": 13.795,
+    "basis": "2025末期0.4797+2026中期0.3480；后者支付未再独立核实"
+  }
+}

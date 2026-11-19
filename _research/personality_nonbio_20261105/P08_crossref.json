@@ -1,0 +1,482 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        1
+      ]
+    ],
+    "date-time": "2026-11-01T03:31:17Z",
+    "timestamp": 1793503877697,
+    "version": "4.5.0"
+  },
+  "reference-count": 44,
+  "publisher": "SAGE Publications",
+  "issue": "4",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2018,
+            3,
+            5
+          ]
+        ],
+        "date-time": "2018-03-05T00:00:00Z",
+        "timestamp": 1520208000000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "journals.sagepub.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Psychol Sci"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2018,
+        4
+      ]
+    ]
+  },
+  "abstract": "<jats:p>Mind-sets (aka implicit theories) are beliefs about the nature of human attributes (e.g., intelligence). The theory holds that individuals with growth mind-sets (beliefs that attributes are malleable with effort) enjoy many positive outcomes—including higher academic achievement—while their peers who have fixed mind-sets experience negative outcomes. Given this relationship, interventions designed to increase students’ growth mind-sets—thereby increasing their academic achievement—have been implemented in schools around the world. In our first meta-analysis ( k = 273, N = 365,915), we examined the strength of the relationship between mind-set and academic achievement and potential moderating factors. In our second meta-analysis ( k = 43, N = 57,155), we examined the effectiveness of mind-set interventions on academic achievement and potential moderating factors. Overall effects were weak for both meta-analyses. However, some results supported specific tenets of the theory, namely, that students with low socioeconomic status or who are academically at risk might benefit from mind-set interventions.</jats:p>",
+  "DOI": "10.1177/0956797617739704",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2018,
+        3,
+        5
+      ]
+    ],
+    "date-time": "2018-03-05T12:38:25Z",
+    "timestamp": 1520253505000
+  },
+  "page": "549-571",
+  "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 739,
+  "title": [
+    "To What Extent and Under Which Circumstances Are Growth Mind-Sets Important to Academic Achievement? Two Meta-Analyses"
+  ],
+  "prefix": "10.1177",
+  "volume": "29",
+  "author": [
+    {
+      "given": "Victoria F.",
+      "family": "Sisk",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Psychological Sciences, Case Western Reserve University"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Alexander P.",
+      "family": "Burgoyne",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Psychology, Michigan State University"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jingze",
+      "family": "Sun",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Psychological Sciences, Case Western Reserve University"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jennifer L.",
+      "family": "Butler",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Psychological Sciences, Case Western Reserve University"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Brooke N.",
+      "family": "Macnamara",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Psychological Sciences, Case Western Reserve University"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "179",
+  "published-online": {
+    "date-parts": [
+      [
+        2018,
+        3,
+        5
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "bibr1-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.4135/9781452270012"
+    },
+    {
+      "key": "bibr2-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/00220973.1986.10806427"
+    },
+    {
+      "key": "bibr3-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.7717/peerj.1715"
+    },
+    {
+      "key": "bibr4-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1467-8624.2007.00995.x"
+    },
+    {
+      "key": "bibr5-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2304/forum.2013.55.1.143"
+    },
+    {
+      "key": "bibr6-0956797617739704",
+      "unstructured": "Borenstein M., Hedges L., Higgins J., Rothstein H. (2005). Comprehensive Meta-Analysis (version 2) [Computer software]. Englewood, NJ: Biostat."
+    },
+    {
+      "key": "bibr7-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jesp.2011.12.020"
+    },
+    {
+      "key": "bibr8-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/a0029531"
+    },
+    {
+      "key": "bibr9-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0021-9010.89.5.780"
+    },
+    {
+      "key": "bibr10-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0013164408315263"
+    },
+    {
+      "key": "bibr11-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1073/pnas.1608207113"
+    },
+    {
+      "key": "bibr12-0956797617739704",
+      "volume-title": "Self-theories: Their role in motivation, personality, and development",
+      "author": "Dweck C. S.",
+      "year": "2000"
+    },
+    {
+      "key": "bibr13-0956797617739704",
+      "volume-title": "Mindset: The new psychology of success",
+      "author": "Dweck C. S.",
+      "year": "2006"
+    },
+    {
+      "key": "bibr14-0956797617739704",
+      "unstructured": "Dweck C. S. (2008, Winter). Brainology: Transforming students’ motivation to learn. Independent School. Retrieved from https://www.nais.org/magazine/independent-school/winter-2008/brainology/"
+    },
+    {
+      "key": "bibr15-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/a0029783"
+    },
+    {
+      "key": "bibr16-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/scientificamericanmind0116-36"
+    },
+    {
+      "key": "bibr17-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1207/s15327965pli0604_1"
+    },
+    {
+      "key": "bibr18-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1136/bmj.315.7109.629"
+    },
+    {
+      "key": "bibr19-0956797617739704",
+      "unstructured": "Eisenberg D. (2005, November 6). How to help them succeed.\n                      Time\n                      . Retrieved from http://content.time.com/time/magazine/article/0,9171,1126743,00.html"
+    },
+    {
+      "key": "bibr20-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3102/00346543066002099"
+    },
+    {
+      "key": "bibr21-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978-3-642-72087-1_17"
+    },
+    {
+      "key": "bibr22-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0021-9010.75.3.334"
+    },
+    {
+      "key": "bibr23-0956797617739704",
+      "volume-title": "Survey sampling",
+      "author": "Kish L.",
+      "year": "1965"
+    },
+    {
+      "key": "bibr24-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/1745691616635612"
+    },
+    {
+      "key": "bibr25-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jesp.2008.03.005"
+    },
+    {
+      "key": "bibr26-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1371/journal.pmed1000097"
+    },
+    {
+      "key": "bibr27-0956797617739704",
+      "unstructured": "Paul A. M. (2013, June 11). The science of smart: Eight ways of looking at intelligence. PBS. Retrieved from http://www.pbs.org/wgbh/nova/blogs/secretlife/blogposts/the-science-of-smart-eight-ways-of-looking-at-intelligence/"
+    },
+    {
+      "key": "bibr28-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0956797615571017"
+    },
+    {
+      "key": "bibr29-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.intell.2015.10.006"
+    },
+    {
+      "key": "bibr30-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3389/neuro.09.003.2010"
+    },
+    {
+      "key": "bibr31-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/1745691615599383"
+    },
+    {
+      "key": "bibr32-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/a0035490"
+    },
+    {
+      "key": "bibr33-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/0033-2909.86.3.638"
+    },
+    {
+      "key": "bibr34-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/0956797616658563"
+    },
+    {
+      "key": "bibr35-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1037/a0033242"
+    },
+    {
+      "key": "bibr36-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/1745691614553988"
+    },
+    {
+      "key": "bibr37-0956797617739704",
+      "unstructured": "Smith T. (2014, March 17). Does teaching kids to get ‘gritty’ help them to get ahead? NPR. Retrieved from https://www.npr.org/sections/ed/2014/03/17/290089998/does-teaching-kids-to-get-gritty-help-them-get-ahead"
+    },
+    {
+      "key": "bibr38-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1136/bmj.d4002"
+    },
+    {
+      "key": "bibr39-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/1745691616650874"
+    },
+    {
+      "key": "bibr40-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0022-1031(03)00019-2"
+    },
+    {
+      "key": "bibr41-0956797617739704",
+      "volume-title": "Paper presented at the annual Campbell Collaboration Colloquium, Copenhagen",
+      "author": "Williams R.",
+      "year": "2012"
+    },
+    {
+      "key": "bibr42-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/00461520.2012.722805"
+    },
+    {
+      "key": "bibr43-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3102/0034654311405999"
+    },
+    {
+      "key": "bibr44-0956797617739704",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1177/003172171309400514"
+    }
+  ],
+  "container-title": [
+    "Psychological Science"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://journals.sagepub.com/doi/pdf/10.1177/0956797617739704",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/0956797617739704",
+      "content-type": "application/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://journals.sagepub.com/doi/pdf/10.1177/0956797617739704",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        1
+      ]
+    ],
+    "date-time": "2026-05-01T21:30:16Z",
+    "timestamp": 1777671016000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://journals.sagepub.com/doi/10.1177/0956797617739704"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        3,
+        5
+      ]
+    ]
+  },
+  "references-count": 44,
+  "journal-issue": {
+    "issue": "4",
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          4
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1177/0956797617739704"
+  ],
+  "URL": "https://doi.org/10.1177/0956797617739704",
+  "relation": {},
+  "ISSN": [
+    "0956-7976",
+    "1467-9280"
+  ],
+  "issn-type": [
+    {
+      "value": "0956-7976",
+      "type": "print"
+    },
+    {
+      "value": "1467-9280",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2018,
+        3,
+        5
+      ]
+    ]
+  }
+}

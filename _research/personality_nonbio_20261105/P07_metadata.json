@@ -1,0 +1,80 @@
+{
+  "id": "P07",
+  "doi": "10.1037/pspp0000102",
+  "title": "Much ado about grit: A meta-analytic synthesis of the grit literature.",
+  "abstract": "Grit has been presented as a higher order personality trait that is highly predictive of both success and performance and distinct from other traits such as conscientiousness. This paper provides a meta-analytic review of the grit literature with a particular focus on the structure of grit and the relation between grit and performance, retention, conscientiousness, cognitive ability, and demographic variables. Our results based on 584 effect sizes from 88 independent samples representing 66,807 individuals indicate that the higher order structure of grit is not confirmed, that grit is only moderately correlated with performance and retention, and that grit is very strongly correlated with conscientiousness. We also find that the perseverance of effort facet has significantly stronger criterion validities than the consistency of interest facet and that perseverance of effort explains variance in academic performance even after controlling for conscientiousness. In aggregate our results suggest that interventions designed to enhance grit may only have weak effects on performance and success, that the construct validity of grit is in question, and that the primary utility of the grit construct may lie in the perseverance facet. (PsycINFO Database Record",
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "locations": [
+    "https://doi.org/10.1037/pspp0000102",
+    "https://pubmed.ncbi.nlm.nih.gov/27845531"
+  ],
+  "pdfs": [],
+  "crossref": {
+    "title": [
+      "Much ado about grit: A meta-analytic synthesis of the grit literature."
+    ],
+    "abstract": null,
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          9
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Marcus",
+        "family": "Credé",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael C.",
+        "family": "Tynan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4477-6313",
+        "authenticated-orcid": false,
+        "given": "Peter D.",
+        "family": "Harms",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "URL": "https://doi.org/10.1037/pspp0000102",
+    "link": [
+      {
+        "URL": "https://psycnet.apa.org/journals/psp/113/3/492.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ]
+  }
+}

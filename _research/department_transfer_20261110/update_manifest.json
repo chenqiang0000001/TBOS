@@ -1,0 +1,42 @@
+[
+  {
+    "file": "知识库/15-个人档案/00-当前状态与长期方向.md",
+    "sha256_before": "8ef8f83b352d1d9832dae6c0c114a2d3332a8671046caa69074c4b08620ff528",
+    "sha256_after": "f82c734f45da914e9d9fbf9c762cf0567bf19af10a93d485a1304b701c314eaa"
+  },
+  {
+    "file": "知识库/15-个人档案/02-职业履历与能力线索.md",
+    "sha256_before": "7154e1fe47281a82ab22cdb9fa3f8d0b0dbaa5b0e9e1f7c33ef6bb7782d3f0eb",
+    "sha256_after": "811e5ce1d6d5ec42a3e1243deab89944272101cd607c5fa1aac5e6c6460540b0"
+  },
+  {
+    "file": "知识库/80-审核与权重/01-真实性与标签审核.md",
+    "sha256_before": "98ee2c0fca0556ac73d5a1745043fac37815018665515876cc1c0c6ef41acf99",
+    "sha256_after": "fb1cda82769a779780261324cee47c2e743dfab321988ec0734cd7b5849ca3bd"
+  },
+  {
+    "file": "知识库/10-原始资料/来源索引.md",
+    "sha256_before": "c3298f54b7d484ef222c45fd88ef4b40bc51803398facf8f5648f5a584d08d31",
+    "sha256_after": "e594bdffbde0bb1fe71442bba3a149b64bcd801e9805d7792a84a02da7c8b955"
+  },
+  {
+    "file": "00-开始这里.md",
+    "sha256_before": "c8276459be249de3605a8605d94825d8d51f59ededc819a3b156d291441b786d",
+    "sha256_after": "2bf188ffd4a38e0f31a59f9251d202822f48be15aa65cdffca4bb4c3bf12523b"
+  },
+  {
+    "file": "知识库/00-系统导航.md",
+    "sha256_before": "671a895a350c236cf22a6ff99469554a2349b91f8eeab7638ab15f8af693606b",
+    "sha256_after": "830d45a63db811572441cc4a4aa5643f0311dca4b62f16760b49c1b015c22be9"
+  },
+  {
+    "file": "知识库/40-问题地图/个人系统运行面板-建议版.md",
+    "sha256_before": "fd447889ccb6f1edbb54497401470c2d6e55d6c4a40b7367ad861f00dfb41990",
+    "sha256_after": "f5dda6c2081cd0a5a60cf925a8a4353991b048ff4ffa9bbef1f4843416b1dd47"
+  },
+  {
+    "file": "知识库/60-行动项目/ACT-20261109-001-PMP与MES-MOM项目经理转型.md",
+    "sha256_before": "9b363a63b539a28d507a339bf32a041a4c383712b05a8d0ccee11da19b206203",
+    "sha256_after": "19c4fb2bb1505383ea74416f0b7eb16792f01ae14d839d57d6a604846675de00"
+  }
+]

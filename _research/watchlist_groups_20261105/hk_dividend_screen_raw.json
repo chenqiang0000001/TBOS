@@ -1,0 +1,2144 @@
+{
+  "observed_on": "2026-11-05",
+  "source": "https://stockanalysis.com/stocks/screener/",
+  "filter": "Exchange Country: Hong Kong; Dividend Yield Over 6%",
+  "count": 427,
+  "scope": "Third-party preliminary screen only; dividends may include special distributions, decline or different price dates; not qualified recommendations",
+  "rows": [
+    {
+      "symbol": "0941",
+      "name": "China Mobile Limited",
+      "displayed_dividend_yield": "6.52%"
+    },
+    {
+      "symbol": "0883",
+      "name": "CNOOC Limited",
+      "displayed_dividend_yield": "6.56%"
+    },
+    {
+      "symbol": "0728",
+      "name": "China Telecom Corporation Limited",
+      "displayed_dividend_yield": "6.99%"
+    },
+    {
+      "symbol": "2601",
+      "name": "China Pacific Insurance (Group) Co., Ltd.",
+      "displayed_dividend_yield": "6.47%"
+    },
+    {
+      "symbol": "6818",
+      "name": "China Everbright Bank Company Limited",
+      "displayed_dividend_yield": "6.93%"
+    },
+    {
+      "symbol": "1378",
+      "name": "China Hongqiao Group Limited",
+      "displayed_dividend_yield": "7.84%"
+    },
+    {
+      "symbol": "6066",
+      "name": "CSC Financial Co., Ltd.",
+      "displayed_dividend_yield": "6.51%"
+    },
+    {
+      "symbol": "1336",
+      "name": "New China Life Insurance Company Ltd.",
+      "displayed_dividend_yield": "7.97%"
+    },
+    {
+      "symbol": "1988",
+      "name": "China Minsheng Banking Corp., Ltd.",
+      "displayed_dividend_yield": "6.37%"
+    },
+    {
+      "symbol": "0762",
+      "name": "China Unicom (Hong Kong) Limited",
+      "displayed_dividend_yield": "8.60%"
+    },
+    {
+      "symbol": "1308",
+      "name": "SITC International Holdings Company Limited",
+      "displayed_dividend_yield": "6.86%"
+    },
+    {
+      "symbol": "0902",
+      "name": "Huaneng Power International, Inc.",
+      "displayed_dividend_yield": "7.68%"
+    },
+    {
+      "symbol": "2333",
+      "name": "Great Wall Motor Company Limited",
+      "displayed_dividend_yield": "6.32%"
+    },
+    {
+      "symbol": "6806",
+      "name": "Shenwan Hongyuan Group Co., Ltd.",
+      "displayed_dividend_yield": "6.62%"
+    },
+    {
+      "symbol": "0823",
+      "name": "Link Real Estate Investment Trust",
+      "displayed_dividend_yield": "6.19%"
+    },
+    {
+      "symbol": "1800",
+      "name": "China Communications Construction Company Limited",
+      "displayed_dividend_yield": "6.80%"
+    },
+    {
+      "symbol": "3808",
+      "name": "Sinotruk (Hong Kong) Limited",
+      "displayed_dividend_yield": "6.75%"
+    },
+    {
+      "symbol": "9980",
+      "name": "Eastroc Beverage (Group) Co., Ltd.",
+      "displayed_dividend_yield": "6.14%"
+    },
+    {
+      "symbol": "6823",
+      "name": "HKT Trust and HKT Limited",
+      "displayed_dividend_yield": "6.65%"
+    },
+    {
+      "symbol": "1928",
+      "name": "Sands China Ltd.",
+      "displayed_dividend_yield": "8.73%"
+    },
+    {
+      "symbol": "1186",
+      "name": "China Railway Construction Corporation Limited",
+      "displayed_dividend_yield": "8.37%"
+    },
+    {
+      "symbol": "2016",
+      "name": "China Zheshang Bank Co., Ltd",
+      "displayed_dividend_yield": "6.34%"
+    },
+    {
+      "symbol": "0288",
+      "name": "WH Group Limited",
+      "displayed_dividend_yield": "9.33%"
+    },
+    {
+      "symbol": "0991",
+      "name": "Datang International Power Generation Co., Ltd.",
+      "displayed_dividend_yield": "8.64%"
+    },
+    {
+      "symbol": "1876",
+      "name": "Budweiser Brewing Company APAC Limited",
+      "displayed_dividend_yield": "7.16%"
+    },
+    {
+      "symbol": "0322",
+      "name": "Tingyi (Cayman Islands) Holding Corp.",
+      "displayed_dividend_yield": "6.95%"
+    },
+    {
+      "symbol": "0168",
+      "name": "Tsingtao Brewery Company Limited",
+      "displayed_dividend_yield": "6.53%"
+    },
+    {
+      "symbol": "0291",
+      "name": "China Resources Beer (Holdings) Company Limited",
+      "displayed_dividend_yield": "6.31%"
+    },
+    {
+      "symbol": "0966",
+      "name": "China Taiping Insurance Holdings Company Limited",
+      "displayed_dividend_yield": "6.72%"
+    },
+    {
+      "symbol": "3698",
+      "name": "Huishang Bank Corporation Limited",
+      "displayed_dividend_yield": "6.29%"
+    },
+    {
+      "symbol": "2313",
+      "name": "Shenzhou International Group Holdings Limited",
+      "displayed_dividend_yield": "6.65%"
+    },
+    {
+      "symbol": "1157",
+      "name": "Zoomlion Heavy Industry Science and Technology Co., Ltd.",
+      "displayed_dividend_yield": "8.34%"
+    },
+    {
+      "symbol": "3969",
+      "name": "China Railway Signal & Communication Corporation Limited",
+      "displayed_dividend_yield": "6.45%"
+    },
+    {
+      "symbol": "6862",
+      "name": "Haidilao International Holding Ltd.",
+      "displayed_dividend_yield": "7.09%"
+    },
+    {
+      "symbol": "2688",
+      "name": "ENN Energy Holdings Limited",
+      "displayed_dividend_yield": "6.08%"
+    },
+    {
+      "symbol": "6181",
+      "name": "Laopu Gold Co., Ltd.",
+      "displayed_dividend_yield": "13.81%"
+    },
+    {
+      "symbol": "1508",
+      "name": "China Reinsurance (Group) Corporation",
+      "displayed_dividend_yield": "6.50%"
+    },
+    {
+      "symbol": "0598",
+      "name": "Sinotrans Limited",
+      "displayed_dividend_yield": "7.10%"
+    },
+    {
+      "symbol": "3998",
+      "name": "Bosideng International Holdings Limited",
+      "displayed_dividend_yield": "7.01%"
+    },
+    {
+      "symbol": "3311",
+      "name": "China State Construction International Holdings Limited",
+      "displayed_dividend_yield": "7.04%"
+    },
+    {
+      "symbol": "0659",
+      "name": "CTF Services Limited",
+      "displayed_dividend_yield": "6.92%"
+    },
+    {
+      "symbol": "0008",
+      "name": "PCCW Limited",
+      "displayed_dividend_yield": "7.47%"
+    },
+    {
+      "symbol": "1963",
+      "name": "Bank of Chongqing Co., Ltd.",
+      "displayed_dividend_yield": "6.43%"
+    },
+    {
+      "symbol": "2282",
+      "name": "MGM China Holdings Limited",
+      "displayed_dividend_yield": "6.88%"
+    },
+    {
+      "symbol": "0576",
+      "name": "Zhejiang Expressway Co., Ltd.",
+      "displayed_dividend_yield": "7.35%"
+    },
+    {
+      "symbol": "0874",
+      "name": "Guangzhou Baiyunshan Pharmaceutical Holdings Company Limited",
+      "displayed_dividend_yield": "6.55%"
+    },
+    {
+      "symbol": "0220",
+      "name": "Uni-President China Holdings Ltd",
+      "displayed_dividend_yield": "6.69%"
+    },
+    {
+      "symbol": "0101",
+      "name": "Hang Lung Properties Limited",
+      "displayed_dividend_yield": "7.69%"
+    },
+    {
+      "symbol": "0921",
+      "name": "Hisense Home Appliances Group Co., Ltd.",
+      "displayed_dividend_yield": "7.83%"
+    },
+    {
+      "symbol": "2380",
+      "name": "China Power International Development Limited",
+      "displayed_dividend_yield": "7.27%"
+    },
+    {
+      "symbol": "1908",
+      "name": "C&D International Investment Group Limited",
+      "displayed_dividend_yield": "6.42%"
+    },
+    {
+      "symbol": "0564",
+      "name": "ZCZL Industrial Technology Group Company Limited",
+      "displayed_dividend_yield": "11.69%"
+    },
+    {
+      "symbol": "1513",
+      "name": "Livzon Pharmaceutical Group Inc.",
+      "displayed_dividend_yield": "17.78%"
+    },
+    {
+      "symbol": "0384",
+      "name": "China Gas Holdings Limited",
+      "displayed_dividend_yield": "6.84%"
+    },
+    {
+      "symbol": "3360",
+      "name": "Far East Horizon Limited",
+      "displayed_dividend_yield": "9.73%"
+    },
+    {
+      "symbol": "0683",
+      "name": "Kerry Properties Limited",
+      "displayed_dividend_yield": "7.22%"
+    },
+    {
+      "symbol": "1585",
+      "name": "Yadea Group Holdings Ltd.",
+      "displayed_dividend_yield": "6.10%"
+    },
+    {
+      "symbol": "9896",
+      "name": "MINISO Group Holding Limited",
+      "displayed_dividend_yield": "6.15%"
+    },
+    {
+      "symbol": "0956",
+      "name": "China Suntien Green Energy Corporation Limited",
+      "displayed_dividend_yield": "7.02%"
+    },
+    {
+      "symbol": "0552",
+      "name": "China Communications Services Corporation Limited",
+      "displayed_dividend_yield": "7.17%"
+    },
+    {
+      "symbol": "1044",
+      "name": "Hengan International Group Company Limited",
+      "displayed_dividend_yield": "7.51%"
+    },
+    {
+      "symbol": "1128",
+      "name": "Wynn Macau, Limited",
+      "displayed_dividend_yield": "9.56%"
+    },
+    {
+      "symbol": "6186",
+      "name": "China Feihe Limited",
+      "displayed_dividend_yield": "9.14%"
+    },
+    {
+      "symbol": "2367",
+      "name": "Giant Biogene Holding Co., Ltd.",
+      "displayed_dividend_yield": "6.65%"
+    },
+    {
+      "symbol": "0107",
+      "name": "Sichuan Expressway Group Company Limited",
+      "displayed_dividend_yield": "6.86%"
+    },
+    {
+      "symbol": "0551",
+      "name": "Yue Yuen Industrial (Holdings) Limited",
+      "displayed_dividend_yield": "9.41%"
+    },
+    {
+      "symbol": "2602",
+      "name": "Onewo Inc.",
+      "displayed_dividend_yield": "9.41%"
+    },
+    {
+      "symbol": "1606",
+      "name": "China Development Bank Financial Leasing Co., Ltd.",
+      "displayed_dividend_yield": "7.06%"
+    },
+    {
+      "symbol": "0811",
+      "name": "Xinhua Winshare Publishing and Media Co., Ltd.",
+      "displayed_dividend_yield": "8.19%"
+    },
+    {
+      "symbol": "2510",
+      "name": "T.S. Lines Limited",
+      "displayed_dividend_yield": "9.07%"
+    },
+    {
+      "symbol": "9889",
+      "name": "Dongguan Rural Commercial Bank Co., Ltd.",
+      "displayed_dividend_yield": "8.87%"
+    },
+    {
+      "symbol": "2518",
+      "name": "Autohome Inc.",
+      "displayed_dividend_yield": "11.54%"
+    },
+    {
+      "symbol": "2356",
+      "name": "Dah Sing Banking Group Limited",
+      "displayed_dividend_yield": "6.19%"
+    },
+    {
+      "symbol": "3858",
+      "name": "Jiaxin International Resources Investment Limited",
+      "displayed_dividend_yield": "9.71%"
+    },
+    {
+      "symbol": "0010",
+      "name": "Hang Lung Group Limited",
+      "displayed_dividend_yield": "6.82%"
+    },
+    {
+      "symbol": "0014",
+      "name": "Hysan Development Company Limited",
+      "displayed_dividend_yield": "6.52%"
+    },
+    {
+      "symbol": "6098",
+      "name": "Country Garden Services Holdings Company Limited",
+      "displayed_dividend_yield": "10.68%"
+    },
+    {
+      "symbol": "6993",
+      "name": "Blue Moon Group Holdings Limited",
+      "displayed_dividend_yield": "7.61%"
+    },
+    {
+      "symbol": "0371",
+      "name": "Beijing Enterprises Water Group Limited",
+      "displayed_dividend_yield": "11.25%"
+    },
+    {
+      "symbol": "0363",
+      "name": "Shanghai Industrial Holdings Limited",
+      "displayed_dividend_yield": "6.76%"
+    },
+    {
+      "symbol": "2009",
+      "name": "BBMG Corporation",
+      "displayed_dividend_yield": "9.57%"
+    },
+    {
+      "symbol": "1277",
+      "name": "Kinetic Development Group Limited",
+      "displayed_dividend_yield": "7.25%"
+    },
+    {
+      "symbol": "6199",
+      "name": "Bank of Guizhou Co., Ltd.",
+      "displayed_dividend_yield": "7.37%"
+    },
+    {
+      "symbol": "0303",
+      "name": "Vtech Holdings Limited",
+      "displayed_dividend_yield": "7.60%"
+    },
+    {
+      "symbol": "0579",
+      "name": "Beijing Jingneng Clean Energy Co., Limited",
+      "displayed_dividend_yield": "9.80%"
+    },
+    {
+      "symbol": "6699",
+      "name": "Angelalign Technology Inc.",
+      "displayed_dividend_yield": "12.69%"
+    },
+    {
+      "symbol": "9898",
+      "name": "Weibo Corporation",
+      "displayed_dividend_yield": "9.37%"
+    },
+    {
+      "symbol": "3339",
+      "name": "Lonking Holdings Limited",
+      "displayed_dividend_yield": "6.81%"
+    },
+    {
+      "symbol": "0590",
+      "name": "Luk Fook Holdings (International) Limited",
+      "displayed_dividend_yield": "9.59%"
+    },
+    {
+      "symbol": "0152",
+      "name": "Shenzhen International Holdings Limited",
+      "displayed_dividend_yield": "9.46%"
+    },
+    {
+      "symbol": "1578",
+      "name": "Bank of Tianjin Co., Ltd.",
+      "displayed_dividend_yield": "8.13%"
+    },
+    {
+      "symbol": "3306",
+      "name": "JNBY Design Limited",
+      "displayed_dividend_yield": "7.15%"
+    },
+    {
+      "symbol": "1836",
+      "name": "Stella International Holdings Limited",
+      "displayed_dividend_yield": "9.85%"
+    },
+    {
+      "symbol": "1083",
+      "name": "Towngas Smart Energy Company Limited",
+      "displayed_dividend_yield": "6.26%"
+    },
+    {
+      "symbol": "1905",
+      "name": "Haitong Unitrust International Financial Leasing Co., Ltd.",
+      "displayed_dividend_yield": "7.46%"
+    },
+    {
+      "symbol": "0041",
+      "name": "Great Eagle Holdings Limited",
+      "displayed_dividend_yield": "7.69%"
+    },
+    {
+      "symbol": "6808",
+      "name": "Sun Art Retail Group Limited",
+      "displayed_dividend_yield": "15.14%"
+    },
+    {
+      "symbol": "0517",
+      "name": "COSCO SHIPPING International (Hong Kong) Co., Ltd.",
+      "displayed_dividend_yield": "7.30%"
+    },
+    {
+      "symbol": "1361",
+      "name": "361 Degrees International Limited",
+      "displayed_dividend_yield": "6.65%"
+    },
+    {
+      "symbol": "3918",
+      "name": "NagaCorp Ltd.",
+      "displayed_dividend_yield": "6.66%"
+    },
+    {
+      "symbol": "1368",
+      "name": "Xtep International Holdings Limited",
+      "displayed_dividend_yield": "7.40%"
+    },
+    {
+      "symbol": "2580",
+      "name": "Aux Electric Co., Ltd.",
+      "displayed_dividend_yield": "19.40%"
+    },
+    {
+      "symbol": "0546",
+      "name": "Fufeng Group Limited",
+      "displayed_dividend_yield": "10.58%"
+    },
+    {
+      "symbol": "0934",
+      "name": "Sinopec Kantons Holdings Limited",
+      "displayed_dividend_yield": "6.20%"
+    },
+    {
+      "symbol": "2128",
+      "name": "China Lesso Group Holdings Limited",
+      "displayed_dividend_yield": "6.39%"
+    },
+    {
+      "symbol": "1999",
+      "name": "Man Wah Holdings Limited",
+      "displayed_dividend_yield": "9.76%"
+    },
+    {
+      "symbol": "1065",
+      "name": "Tianjin Capital Environmental Protection Group Company Limited",
+      "displayed_dividend_yield": "6.49%"
+    },
+    {
+      "symbol": "2666",
+      "name": "Genertec Universal Medical Group Company Limited",
+      "displayed_dividend_yield": "7.75%"
+    },
+    {
+      "symbol": "0778",
+      "name": "Fortune Real Estate Investment Trust",
+      "displayed_dividend_yield": "7.80%"
+    },
+    {
+      "symbol": "0667",
+      "name": "China East Education Holdings Limited",
+      "displayed_dividend_yield": "7.27%"
+    },
+    {
+      "symbol": "0999",
+      "name": "Xiaocaiyuan International Holding Ltd.",
+      "displayed_dividend_yield": "6.35%"
+    },
+    {
+      "symbol": "2145",
+      "name": "Shanghai Chicmax Cosmetic Co., Ltd.",
+      "displayed_dividend_yield": "6.07%"
+    },
+    {
+      "symbol": "0116",
+      "name": "Chow Sang Sang Holdings International Limited",
+      "displayed_dividend_yield": "7.51%"
+    },
+    {
+      "symbol": "1114",
+      "name": "Brilliance China Automotive Holdings Limited",
+      "displayed_dividend_yield": "28.33%"
+    },
+    {
+      "symbol": "1883",
+      "name": "CITIC Telecom International Holdings Limited",
+      "displayed_dividend_yield": "7.95%"
+    },
+    {
+      "symbol": "3983",
+      "name": "China BlueChemical Ltd.",
+      "displayed_dividend_yield": "6.99%"
+    },
+    {
+      "symbol": "1310",
+      "name": "HKBN Ltd.",
+      "displayed_dividend_yield": "6.28%"
+    },
+    {
+      "symbol": "0086",
+      "name": "Sun Hung Kai & Co. Limited",
+      "displayed_dividend_yield": "6.99%"
+    },
+    {
+      "symbol": "6069",
+      "name": "SY Holdings Group Limited",
+      "displayed_dividend_yield": "6.91%"
+    },
+    {
+      "symbol": "6826",
+      "name": "Shanghai Haohai Biological Technology Co., Ltd.",
+      "displayed_dividend_yield": "7.25%"
+    },
+    {
+      "symbol": "6110",
+      "name": "Topsports International Holdings Limited",
+      "displayed_dividend_yield": "29.19%"
+    },
+    {
+      "symbol": "1798",
+      "name": "China Datang Corporation Renewable Power Co., Limited",
+      "displayed_dividend_yield": "7.16%"
+    },
+    {
+      "symbol": "3868",
+      "name": "Xinyi Energy Holdings Limited",
+      "displayed_dividend_yield": "8.13%"
+    },
+    {
+      "symbol": "0855",
+      "name": "China Water Affairs Group Limited",
+      "displayed_dividend_yield": "6.55%"
+    },
+    {
+      "symbol": "2589",
+      "name": "Auntea Jenny (Shanghai) Industrial Co., Ltd.",
+      "displayed_dividend_yield": "7.55%"
+    },
+    {
+      "symbol": "0737",
+      "name": "Shenzhen Investment Holdings Bay Area Development Company Limited",
+      "displayed_dividend_yield": "9.28%"
+    },
+    {
+      "symbol": "1983",
+      "name": "Luzhou Bank Co., Ltd.",
+      "displayed_dividend_yield": "6.59%"
+    },
+    {
+      "symbol": "1448",
+      "name": "Fu Shou Yuan International Group Limited",
+      "displayed_dividend_yield": "20.97%"
+    },
+    {
+      "symbol": "2555",
+      "name": "Sichuan Baicha Baidao Industrial Co., Ltd.",
+      "displayed_dividend_yield": "9.16%"
+    },
+    {
+      "symbol": "3316",
+      "name": "Binjiang Service Group Co. Ltd.",
+      "displayed_dividend_yield": "8.68%"
+    },
+    {
+      "symbol": "2877",
+      "name": "China Shineway Pharmaceutical Group Limited",
+      "displayed_dividend_yield": "19.10%"
+    },
+    {
+      "symbol": "2858",
+      "name": "Yixin Group Limited",
+      "displayed_dividend_yield": "16.97%"
+    },
+    {
+      "symbol": "1052",
+      "name": "Yuexiu Transport Infrastructure Limited",
+      "displayed_dividend_yield": "7.87%"
+    },
+    {
+      "symbol": "1478",
+      "name": "Q Technology (Group) Company Limited",
+      "displayed_dividend_yield": "12.72%"
+    },
+    {
+      "symbol": "0215",
+      "name": "Hutchison Telecommunications Hong Kong Holdings Limited",
+      "displayed_dividend_yield": "6.75%"
+    },
+    {
+      "symbol": "3660",
+      "name": "Qfin Holdings, Inc.",
+      "displayed_dividend_yield": "22.49%"
+    },
+    {
+      "symbol": "0315",
+      "name": "SmarTone Telecommunications Holdings Limited",
+      "displayed_dividend_yield": "6.80%"
+    },
+    {
+      "symbol": "0034",
+      "name": "Kowloon Development Company Limited",
+      "displayed_dividend_yield": "6.43%"
+    },
+    {
+      "symbol": "3613",
+      "name": "Beijing Tong Ren Tang Chinese Medicine Company Limited",
+      "displayed_dividend_yield": "6.45%"
+    },
+    {
+      "symbol": "6168",
+      "name": "Zhou Liu Fu Jewellery Co., Ltd.",
+      "displayed_dividend_yield": "9.08%"
+    },
+    {
+      "symbol": "0062",
+      "name": "Transport International Holdings Limited",
+      "displayed_dividend_yield": "9.14%"
+    },
+    {
+      "symbol": "0258",
+      "name": "Tomson Group Limited",
+      "displayed_dividend_yield": "6.57%"
+    },
+    {
+      "symbol": "0028",
+      "name": "Tian An China Investments Company Limited",
+      "displayed_dividend_yield": "6.48%"
+    },
+    {
+      "symbol": "9676",
+      "name": "Shiyue Daotian Group Co., Ltd.",
+      "displayed_dividend_yield": "9.27%"
+    },
+    {
+      "symbol": "0777",
+      "name": "NetDragon Websoft Holdings Limited",
+      "displayed_dividend_yield": "12.58%"
+    },
+    {
+      "symbol": "1205",
+      "name": "CITIC Resources Holdings Limited",
+      "displayed_dividend_yield": "15.88%"
+    },
+    {
+      "symbol": "1809",
+      "name": "Prinx Chengshan Holdings Limited",
+      "displayed_dividend_yield": "8.40%"
+    },
+    {
+      "symbol": "1666",
+      "name": "Tong Ren Tang Technologies Co. Ltd.",
+      "displayed_dividend_yield": "7.00%"
+    },
+    {
+      "symbol": "1126",
+      "name": "Dream International Limited",
+      "displayed_dividend_yield": "10.68%"
+    },
+    {
+      "symbol": "0435",
+      "name": "Sunlight Real Estate Investment Trust",
+      "displayed_dividend_yield": "8.21%"
+    },
+    {
+      "symbol": "3382",
+      "name": "Tianjin Port Development Holdings Limited",
+      "displayed_dividend_yield": "7.10%"
+    },
+    {
+      "symbol": "0819",
+      "name": "Tianneng Power International Limited",
+      "displayed_dividend_yield": "11.28%"
+    },
+    {
+      "symbol": "2139",
+      "name": "Bank of Gansu Co., Ltd.",
+      "displayed_dividend_yield": "56.68%"
+    },
+    {
+      "symbol": "0289",
+      "name": "Wing On Company International Limited",
+      "displayed_dividend_yield": "9.22%"
+    },
+    {
+      "symbol": "0746",
+      "name": "Lee & Man Chemical Company Limited",
+      "displayed_dividend_yield": "7.61%"
+    },
+    {
+      "symbol": "6686",
+      "name": "Noah Holdings Limited",
+      "displayed_dividend_yield": "17.88%"
+    },
+    {
+      "symbol": "0900",
+      "name": "AEON Credit Service (Asia) Company Limited",
+      "displayed_dividend_yield": "7.62%"
+    },
+    {
+      "symbol": "1857",
+      "name": "China Everbright Water Limited",
+      "displayed_dividend_yield": "8.12%"
+    },
+    {
+      "symbol": "2156",
+      "name": "C&D Property Management Group Co. Limited",
+      "displayed_dividend_yield": "6.00%"
+    },
+    {
+      "symbol": "0341",
+      "name": "Café de Coral Holdings Limited",
+      "displayed_dividend_yield": "6.47%"
+    },
+    {
+      "symbol": "1571",
+      "name": "Xin Point Holdings Limited",
+      "displayed_dividend_yield": "14.58%"
+    },
+    {
+      "symbol": "1916",
+      "name": "Jiangxi Bank Co., Ltd.",
+      "displayed_dividend_yield": "7.02%"
+    },
+    {
+      "symbol": "3709",
+      "name": "EEKA Fashion Holdings Limited",
+      "displayed_dividend_yield": "6.91%"
+    },
+    {
+      "symbol": "9979",
+      "name": "Greentown Management Holdings Company Limited",
+      "displayed_dividend_yield": "12.76%"
+    },
+    {
+      "symbol": "0581",
+      "name": "China Oriental Group Company Limited",
+      "displayed_dividend_yield": "7.82%"
+    },
+    {
+      "symbol": "0272",
+      "name": "Shui On Land Limited",
+      "displayed_dividend_yield": "9.52%"
+    },
+    {
+      "symbol": "1576",
+      "name": "Qilu Expressway Company Limited",
+      "displayed_dividend_yield": "8.43%"
+    },
+    {
+      "symbol": "3990",
+      "name": "Midea Real Estate Holding Limited",
+      "displayed_dividend_yield": "10.53%"
+    },
+    {
+      "symbol": "1785",
+      "name": "Chengdu Expressway Co., Ltd.",
+      "displayed_dividend_yield": "7.21%"
+    },
+    {
+      "symbol": "2517",
+      "name": "Guoquan Food (Shanghai) Co., Ltd.",
+      "displayed_dividend_yield": "9.98%"
+    },
+    {
+      "symbol": "0405",
+      "name": "Yuexiu Real Estate Investment Trust",
+      "displayed_dividend_yield": "10.00%"
+    },
+    {
+      "symbol": "1515",
+      "name": "China Resources Medical Holdings Company Limited",
+      "displayed_dividend_yield": "6.27%"
+    },
+    {
+      "symbol": "0799",
+      "name": "IGG Inc",
+      "displayed_dividend_yield": "7.86%"
+    },
+    {
+      "symbol": "1234",
+      "name": "China Lilang Limited",
+      "displayed_dividend_yield": "11.90%"
+    },
+    {
+      "symbol": "1272",
+      "name": "Datang Environment Industry Group Co., Ltd.",
+      "displayed_dividend_yield": "9.37%"
+    },
+    {
+      "symbol": "6805",
+      "name": "Kimou Environmental Holding Limited",
+      "displayed_dividend_yield": "8.93%"
+    },
+    {
+      "symbol": "1476",
+      "name": "Financial Street Securities Co., Limited",
+      "displayed_dividend_yield": "15.56%"
+    },
+    {
+      "symbol": "1995",
+      "name": "Ever Sunshine Services Group Limited",
+      "displayed_dividend_yield": "12.01%"
+    },
+    {
+      "symbol": "1497",
+      "name": "Xiamen Yan Palace Bird's Nest Industry Co., Ltd.",
+      "displayed_dividend_yield": "8.73%"
+    },
+    {
+      "symbol": "1848",
+      "name": "China Aircraft Leasing Group Holdings Limited",
+      "displayed_dividend_yield": "9.05%"
+    },
+    {
+      "symbol": "6626",
+      "name": "Yuexiu Services Group Limited",
+      "displayed_dividend_yield": "7.27%"
+    },
+    {
+      "symbol": "0752",
+      "name": "Pico Far East Holdings Limited",
+      "displayed_dividend_yield": "9.20%"
+    },
+    {
+      "symbol": "1104",
+      "name": "APAC Resources Limited",
+      "displayed_dividend_yield": "6.86%"
+    },
+    {
+      "symbol": "2191",
+      "name": "SF Real Estate Investment Trust",
+      "displayed_dividend_yield": "8.28%"
+    },
+    {
+      "symbol": "6831",
+      "name": "Green Tea Group Limited",
+      "displayed_dividend_yield": "15.33%"
+    },
+    {
+      "symbol": "6601",
+      "name": "Cheerwin Group Limited",
+      "displayed_dividend_yield": "8.20%"
+    },
+    {
+      "symbol": "0807",
+      "name": "SIIC Environment Holdings Ltd.",
+      "displayed_dividend_yield": "6.72%"
+    },
+    {
+      "symbol": "2488",
+      "name": "Launch Tech Company Limited",
+      "displayed_dividend_yield": "13.75%"
+    },
+    {
+      "symbol": "2490",
+      "name": "LC Group Holding Limited",
+      "displayed_dividend_yield": "6.23%"
+    },
+    {
+      "symbol": "3319",
+      "name": "A-Living Smart City Services Co., Ltd.",
+      "displayed_dividend_yield": "8.18%"
+    },
+    {
+      "symbol": "0032",
+      "name": "The Cross-Harbour (Holdings) Limited",
+      "displayed_dividend_yield": "6.36%"
+    },
+    {
+      "symbol": "2660",
+      "name": "Zengame Technology Holding Limited",
+      "displayed_dividend_yield": "16.67%"
+    },
+    {
+      "symbol": "0331",
+      "name": "FSE Lifestyle Services Limited",
+      "displayed_dividend_yield": "6.78%"
+    },
+    {
+      "symbol": "2111",
+      "name": "Best Pacific International Holdings Limited",
+      "displayed_dividend_yield": "11.52%"
+    },
+    {
+      "symbol": "0732",
+      "name": "Truly International Holdings Limited",
+      "displayed_dividend_yield": "7.36%"
+    },
+    {
+      "symbol": "1086",
+      "name": "Goodbaby International Holdings Limited",
+      "displayed_dividend_yield": "14.39%"
+    },
+    {
+      "symbol": "1345",
+      "name": "Shanghai Pioneer Holding Ltd",
+      "displayed_dividend_yield": "6.37%"
+    },
+    {
+      "symbol": "0808",
+      "name": "Prosperity Real Estate Investment Trust",
+      "displayed_dividend_yield": "8.34%"
+    },
+    {
+      "symbol": "1936",
+      "name": "Ritamix Global Limited",
+      "displayed_dividend_yield": "6.32%"
+    },
+    {
+      "symbol": "0882",
+      "name": "Tianjin Development Holdings Limited",
+      "displayed_dividend_yield": "7.13%"
+    },
+    {
+      "symbol": "0098",
+      "name": "Xingfa Aluminium Holdings Limited",
+      "displayed_dividend_yield": "10.29%"
+    },
+    {
+      "symbol": "6889",
+      "name": "DYNAM JAPAN HOLDINGS Co., Ltd.",
+      "displayed_dividend_yield": "8.36%"
+    },
+    {
+      "symbol": "0709",
+      "name": "Giordano International Limited",
+      "displayed_dividend_yield": "11.35%"
+    },
+    {
+      "symbol": "0393",
+      "name": "Glorious Sun Enterprises Limited",
+      "displayed_dividend_yield": "7.54%"
+    },
+    {
+      "symbol": "1458",
+      "name": "Zhou Hei Ya International Holdings Company Limited",
+      "displayed_dividend_yield": "9.72%"
+    },
+    {
+      "symbol": "0816",
+      "name": "Jinmao Property Services Co., Limited",
+      "displayed_dividend_yield": "8.06%"
+    },
+    {
+      "symbol": "0887",
+      "name": "Emperor Watch & Jewellery Limited",
+      "displayed_dividend_yield": "6.50%"
+    },
+    {
+      "symbol": "2633",
+      "name": "Jacobson Pharma Corporation Limited",
+      "displayed_dividend_yield": "9.63%"
+    },
+    {
+      "symbol": "3813",
+      "name": "Pou Sheng International (Holdings) Limited",
+      "displayed_dividend_yield": "10.00%"
+    },
+    {
+      "symbol": "6980",
+      "name": "BAMA TEA Co., Ltd.",
+      "displayed_dividend_yield": "12.73%"
+    },
+    {
+      "symbol": "1899",
+      "name": "Xingda International Holdings Limited",
+      "displayed_dividend_yield": "25.91%"
+    },
+    {
+      "symbol": "0105",
+      "name": "Associated International Hotels Limited",
+      "displayed_dividend_yield": "6.54%"
+    },
+    {
+      "symbol": "0240",
+      "name": "Build King Holdings Limited",
+      "displayed_dividend_yield": "11.89%"
+    },
+    {
+      "symbol": "1713",
+      "name": "Sichuan Energy Investment Development Co., Ltd.",
+      "displayed_dividend_yield": "8.62%"
+    },
+    {
+      "symbol": "1733",
+      "name": "E-Commodities Holdings Limited",
+      "displayed_dividend_yield": "7.08%"
+    },
+    {
+      "symbol": "3978",
+      "name": "China Beststudy Education Group",
+      "displayed_dividend_yield": "10.31%"
+    },
+    {
+      "symbol": "1973",
+      "name": "Tian Tu Capital Co., Ltd.",
+      "displayed_dividend_yield": "14.31%"
+    },
+    {
+      "symbol": "1890",
+      "name": "China Kepei Education Group Limited",
+      "displayed_dividend_yield": "15.57%"
+    },
+    {
+      "symbol": "2219",
+      "name": "Chaoju Eye Care Holdings Limited",
+      "displayed_dividend_yield": "10.05%"
+    },
+    {
+      "symbol": "2360",
+      "name": "Best Mart 360 Holdings Limited",
+      "displayed_dividend_yield": "11.98%"
+    },
+    {
+      "symbol": "1982",
+      "name": "Nameson Holdings Limited",
+      "displayed_dividend_yield": "15.07%"
+    },
+    {
+      "symbol": "2886",
+      "name": "Binhai Investment Company Limited",
+      "displayed_dividend_yield": "7.67%"
+    },
+    {
+      "symbol": "2368",
+      "name": "Eagle Nice (International) Holdings Limited",
+      "displayed_dividend_yield": "9.35%"
+    },
+    {
+      "symbol": "1270",
+      "name": "Langham Hospitality Investments Limited",
+      "displayed_dividend_yield": "7.27%"
+    },
+    {
+      "symbol": "0398",
+      "name": "Oriental Watch Holdings Limited",
+      "displayed_dividend_yield": "11.59%"
+    },
+    {
+      "symbol": "6811",
+      "name": "Tai Hing Group Holdings Limited",
+      "displayed_dividend_yield": "7.73%"
+    },
+    {
+      "symbol": "0194",
+      "name": "Liu Chong Hing Investment Limited",
+      "displayed_dividend_yield": "7.01%"
+    },
+    {
+      "symbol": "1979",
+      "name": "Ten Pao Group Holdings Limited",
+      "displayed_dividend_yield": "7.40%"
+    },
+    {
+      "symbol": "3818",
+      "name": "China Dongxiang (Group) Co., Ltd.",
+      "displayed_dividend_yield": "8.94%"
+    },
+    {
+      "symbol": "1426",
+      "name": "Spring Real Estate Investment Trust",
+      "displayed_dividend_yield": "7.13%"
+    },
+    {
+      "symbol": "1257",
+      "name": "China Everbright Greentech Limited",
+      "displayed_dividend_yield": "8.06%"
+    },
+    {
+      "symbol": "6896",
+      "name": "Golden Throat Holdings Group Company Limited",
+      "displayed_dividend_yield": "17.00%"
+    },
+    {
+      "symbol": "8049",
+      "name": "Jilin Province Huinan Changlong Bio-pharmacy Company Limited",
+      "displayed_dividend_yield": "10.38%"
+    },
+    {
+      "symbol": "1830",
+      "name": "Perfect Medical Health Management Limited",
+      "displayed_dividend_yield": "12.48%"
+    },
+    {
+      "symbol": "3991",
+      "name": "Changhong Jiahua Holdings Limited",
+      "displayed_dividend_yield": "21.24%"
+    },
+    {
+      "symbol": "1588",
+      "name": "Chanjet Information Technology Company Limited",
+      "displayed_dividend_yield": "7.25%"
+    },
+    {
+      "symbol": "0408",
+      "name": "Yip's Chemical Holdings Limited",
+      "displayed_dividend_yield": "6.18%"
+    },
+    {
+      "symbol": "0686",
+      "name": "Beijing Energy International Holding Co., Ltd.",
+      "displayed_dividend_yield": "12.88%"
+    },
+    {
+      "symbol": "1600",
+      "name": "Tian Lun Gas Holdings Limited",
+      "displayed_dividend_yield": "8.06%"
+    },
+    {
+      "symbol": "6668",
+      "name": "E-Star Commercial Management Company Limited",
+      "displayed_dividend_yield": "9.64%"
+    },
+    {
+      "symbol": "2348",
+      "name": "Dawnrays Pharmaceutical (Holdings) Limited",
+      "displayed_dividend_yield": "6.85%"
+    },
+    {
+      "symbol": "2161",
+      "name": "JBM (Healthcare) Limited",
+      "displayed_dividend_yield": "10.30%"
+    },
+    {
+      "symbol": "0025",
+      "name": "Chevalier International Holdings Limited",
+      "displayed_dividend_yield": "6.67%"
+    },
+    {
+      "symbol": "1568",
+      "name": "Sundart Holdings Limited",
+      "displayed_dividend_yield": "8.13%"
+    },
+    {
+      "symbol": "0558",
+      "name": "L.K. Technology Holdings Limited",
+      "displayed_dividend_yield": "8.21%"
+    },
+    {
+      "symbol": "0909",
+      "name": "Ming Yuan Cloud Group Holdings Limited",
+      "displayed_dividend_yield": "13.60%"
+    },
+    {
+      "symbol": "0830",
+      "name": "China State Construction Development Holdings Limited",
+      "displayed_dividend_yield": "10.26%"
+    },
+    {
+      "symbol": "1977",
+      "name": "Analogue Holdings Limited",
+      "displayed_dividend_yield": "10.77%"
+    },
+    {
+      "symbol": "3718",
+      "name": "Beijing Enterprises Urban Resources Group Limited",
+      "displayed_dividend_yield": "11.27%"
+    },
+    {
+      "symbol": "1599",
+      "name": "Beijing Urban Construction Design & Development Group Co., Limited",
+      "displayed_dividend_yield": "9.00%"
+    },
+    {
+      "symbol": "0837",
+      "name": "Carpenter Tan Holdings Limited",
+      "displayed_dividend_yield": "8.07%"
+    },
+    {
+      "symbol": "3658",
+      "name": "New Hope Service Holdings Limited",
+      "displayed_dividend_yield": "14.15%"
+    },
+    {
+      "symbol": "2283",
+      "name": "TK Group (Holdings) Limited",
+      "displayed_dividend_yield": "12.14%"
+    },
+    {
+      "symbol": "6100",
+      "name": "Tongdao Liepin Group",
+      "displayed_dividend_yield": "8.87%"
+    },
+    {
+      "symbol": "1061",
+      "name": "Essex Bio-Technology Limited",
+      "displayed_dividend_yield": "6.97%"
+    },
+    {
+      "symbol": "0838",
+      "name": "EVA Precision Industrial Holdings Limited",
+      "displayed_dividend_yield": "6.47%"
+    },
+    {
+      "symbol": "1503",
+      "name": "China Merchants Commercial Real Estate Investment Trust",
+      "displayed_dividend_yield": "10.06%"
+    },
+    {
+      "symbol": "6661",
+      "name": "Huzhou Gas Co., Ltd.",
+      "displayed_dividend_yield": "6.37%"
+    },
+    {
+      "symbol": "0687",
+      "name": "Tysan Holdings Limited",
+      "displayed_dividend_yield": "15.15%"
+    },
+    {
+      "symbol": "2543",
+      "name": "Dahon Tech (Shenzhen) Co., Ltd.",
+      "displayed_dividend_yield": "8.44%"
+    },
+    {
+      "symbol": "9616",
+      "name": "Neutech Group Limited",
+      "displayed_dividend_yield": "16.47%"
+    },
+    {
+      "symbol": "0321",
+      "name": "Texwinca Holdings Limited",
+      "displayed_dividend_yield": "12.82%"
+    },
+    {
+      "symbol": "1601",
+      "name": "Zhongguancun Science-Tech Leasing Co., Ltd.",
+      "displayed_dividend_yield": "10.43%"
+    },
+    {
+      "symbol": "0635",
+      "name": "Playmates Holdings Limited",
+      "displayed_dividend_yield": "9.09%"
+    },
+    {
+      "symbol": "9869",
+      "name": "Helens International Holdings Company Limited",
+      "displayed_dividend_yield": "11.49%"
+    },
+    {
+      "symbol": "1981",
+      "name": "Cathay Group Holdings Inc.",
+      "displayed_dividend_yield": "10.97%"
+    },
+    {
+      "symbol": "2317",
+      "name": "Vedan International (Holdings) Limited",
+      "displayed_dividend_yield": "13.41%"
+    },
+    {
+      "symbol": "2789",
+      "name": "Yuanda China Holdings Limited",
+      "displayed_dividend_yield": "32.05%"
+    },
+    {
+      "symbol": "1180",
+      "name": "Paradise Entertainment Limited",
+      "displayed_dividend_yield": "10.93%"
+    },
+    {
+      "symbol": "0266",
+      "name": "Tian Teck Land Limited",
+      "displayed_dividend_yield": "6.44%"
+    },
+    {
+      "symbol": "3399",
+      "name": "Guangdong Yueyun Transportation Company Limited",
+      "displayed_dividend_yield": "8.86%"
+    },
+    {
+      "symbol": "0716",
+      "name": "Singamas Container Holdings Limited",
+      "displayed_dividend_yield": "7.60%"
+    },
+    {
+      "symbol": "1127",
+      "name": "Lion Rock Group Limited",
+      "displayed_dividend_yield": "10.04%"
+    },
+    {
+      "symbol": "0057",
+      "name": "Chen Hsong Holdings Limited",
+      "displayed_dividend_yield": "6.14%"
+    },
+    {
+      "symbol": "2483",
+      "name": "K Cash Corporation Limited",
+      "displayed_dividend_yield": "6.70%"
+    },
+    {
+      "symbol": "0536",
+      "name": "Tradelink Electronic Commerce Limited",
+      "displayed_dividend_yield": "8.99%"
+    },
+    {
+      "symbol": "9960",
+      "name": "Kindstar Globalgene Technology, Inc.",
+      "displayed_dividend_yield": "10.62%"
+    },
+    {
+      "symbol": "2180",
+      "name": "ManpowerGroup Greater China Limited",
+      "displayed_dividend_yield": "44.42%"
+    },
+    {
+      "symbol": "0255",
+      "name": "Lung Kee Group Holdings Limited",
+      "displayed_dividend_yield": "17.65%"
+    },
+    {
+      "symbol": "1346",
+      "name": "Lever Style Corporation",
+      "displayed_dividend_yield": "7.27%"
+    },
+    {
+      "symbol": "0538",
+      "name": "Ajisen (China) Holdings Limited",
+      "displayed_dividend_yield": "10.89%"
+    },
+    {
+      "symbol": "0623",
+      "name": "Golden Bridge Group Holdings Limited",
+      "displayed_dividend_yield": "22.70%"
+    },
+    {
+      "symbol": "1731",
+      "name": "Prosperous Industrial (Holdings) Limited",
+      "displayed_dividend_yield": "11.79%"
+    },
+    {
+      "symbol": "0505",
+      "name": "Xingye Alloy Materials Group Limited",
+      "displayed_dividend_yield": "6.51%"
+    },
+    {
+      "symbol": "1525",
+      "name": "Shanghai Gench Education Group Limited",
+      "displayed_dividend_yield": "6.90%"
+    },
+    {
+      "symbol": "2560",
+      "name": "Anhui Conch Material Technology Co., Ltd.",
+      "displayed_dividend_yield": "13.88%"
+    },
+    {
+      "symbol": "0239",
+      "name": "Pak Fah Yeow International Limited",
+      "displayed_dividend_yield": "8.10%"
+    },
+    {
+      "symbol": "0420",
+      "name": "Fountain Set (Holdings) Limited",
+      "displayed_dividend_yield": "9.12%"
+    },
+    {
+      "symbol": "0711",
+      "name": "Asia Allied Infrastructure Holdings Limited",
+      "displayed_dividend_yield": "10.12%"
+    },
+    {
+      "symbol": "0128",
+      "name": "ENM Holdings Limited",
+      "displayed_dividend_yield": "15.39%"
+    },
+    {
+      "symbol": "1036",
+      "name": "Vanke Overseas Investment Holding Company Limited",
+      "displayed_dividend_yield": "10.47%"
+    },
+    {
+      "symbol": "2481",
+      "name": "SL Gemini Energy Co., Ltd",
+      "displayed_dividend_yield": "8.10%"
+    },
+    {
+      "symbol": "0898",
+      "name": "Multifield International Holdings Limited",
+      "displayed_dividend_yield": "6.98%"
+    },
+    {
+      "symbol": "1502",
+      "name": "Financial Street Property Co., Limited",
+      "displayed_dividend_yield": "8.86%"
+    },
+    {
+      "symbol": "0640",
+      "name": "Infinity Development Holdings Company Limited",
+      "displayed_dividend_yield": "8.99%"
+    },
+    {
+      "symbol": "6820",
+      "name": "FriendTimes Inc.",
+      "displayed_dividend_yield": "6.06%"
+    },
+    {
+      "symbol": "1425",
+      "name": "Justin Allen Holdings Limited",
+      "displayed_dividend_yield": "8.81%"
+    },
+    {
+      "symbol": "1450",
+      "name": "Be Friends Holding Limited",
+      "displayed_dividend_yield": "10.75%"
+    },
+    {
+      "symbol": "8371",
+      "name": "Taste Gourmet Group Limited",
+      "displayed_dividend_yield": "10.59%"
+    },
+    {
+      "symbol": "1627",
+      "name": "Able Engineering Holdings Limited",
+      "displayed_dividend_yield": "9.23%"
+    },
+    {
+      "symbol": "2289",
+      "name": "Charmacy Pharmaceutical Co., Ltd.",
+      "displayed_dividend_yield": "6.38%"
+    },
+    {
+      "symbol": "0677",
+      "name": "Golden Resources Development International Limited",
+      "displayed_dividend_yield": "6.67%"
+    },
+    {
+      "symbol": "1285",
+      "name": "Jiashili Group Limited",
+      "displayed_dividend_yield": "14.18%"
+    },
+    {
+      "symbol": "3689",
+      "name": "Guangdong Kanghua Healthcare Group Co., Ltd.",
+      "displayed_dividend_yield": "10.73%"
+    },
+    {
+      "symbol": "2381",
+      "name": "SMC Electric Limited",
+      "displayed_dividend_yield": "17.81%"
+    },
+    {
+      "symbol": "1319",
+      "name": "Oi Wah Pawnshop Credit Holdings Limited",
+      "displayed_dividend_yield": "9.49%"
+    },
+    {
+      "symbol": "2298",
+      "name": "Cosmo Lady (China) Holdings Company Limited",
+      "displayed_dividend_yield": "6.15%"
+    },
+    {
+      "symbol": "0225",
+      "name": "Pokfulam Development Company Limited",
+      "displayed_dividend_yield": "7.02%"
+    },
+    {
+      "symbol": "2003",
+      "name": "VCREDIT Holdings Limited",
+      "displayed_dividend_yield": "21.74%"
+    },
+    {
+      "symbol": "1278",
+      "name": "China New Town Development Company Limited",
+      "displayed_dividend_yield": "8.77%"
+    },
+    {
+      "symbol": "2377",
+      "name": "China Boqi Environmental (Holding) Co., Ltd.",
+      "displayed_dividend_yield": "10.00%"
+    },
+    {
+      "symbol": "1412",
+      "name": "Q P Group Holdings Limited",
+      "displayed_dividend_yield": "6.83%"
+    },
+    {
+      "symbol": "0450",
+      "name": "Hung Hing Printing Group Limited",
+      "displayed_dividend_yield": "8.33%"
+    },
+    {
+      "symbol": "0210",
+      "name": "Daphne International Holdings Limited",
+      "displayed_dividend_yield": "7.27%"
+    },
+    {
+      "symbol": "1100",
+      "name": "Mainland Headwear Holdings Limited",
+      "displayed_dividend_yield": "7.26%"
+    },
+    {
+      "symbol": "3348",
+      "name": "China PengFei Group Limited",
+      "displayed_dividend_yield": "6.70%"
+    },
+    {
+      "symbol": "2539",
+      "name": "Lemo Services Co., Ltd",
+      "displayed_dividend_yield": "6.23%"
+    },
+    {
+      "symbol": "9919",
+      "name": "Activation Group Holdings Limited",
+      "displayed_dividend_yield": "12.85%"
+    },
+    {
+      "symbol": "0458",
+      "name": "Tristate Holdings Limited",
+      "displayed_dividend_yield": "9.97%"
+    },
+    {
+      "symbol": "2621",
+      "name": "Shouhui Group Limited",
+      "displayed_dividend_yield": "6.39%"
+    },
+    {
+      "symbol": "2189",
+      "name": "Kato (Hong Kong) Holdings Limited",
+      "displayed_dividend_yield": "6.12%"
+    },
+    {
+      "symbol": "2281",
+      "name": "Luzhou Xinglu Water (Group) Co., Ltd.",
+      "displayed_dividend_yield": "8.26%"
+    },
+    {
+      "symbol": "8188",
+      "name": "GME Group Holdings Limited",
+      "displayed_dividend_yield": "8.87%"
+    },
+    {
+      "symbol": "3828",
+      "name": "Ming Fai International Holdings Limited",
+      "displayed_dividend_yield": "10.00%"
+    },
+    {
+      "symbol": "1500",
+      "name": "In Construction Holdings Limited",
+      "displayed_dividend_yield": "8.62%"
+    },
+    {
+      "symbol": "1769",
+      "name": "Scholar Education Group",
+      "displayed_dividend_yield": "10.07%"
+    },
+    {
+      "symbol": "1612",
+      "name": "Vincent Medical Holdings Limited",
+      "displayed_dividend_yield": "7.38%"
+    },
+    {
+      "symbol": "0382",
+      "name": "Edvantage Group Holdings Limited",
+      "displayed_dividend_yield": "19.22%"
+    },
+    {
+      "symbol": "9928",
+      "name": "Times Neighborhood Holdings Limited",
+      "displayed_dividend_yield": "12.04%"
+    },
+    {
+      "symbol": "2885",
+      "name": "Peiport Holdings Ltd.",
+      "displayed_dividend_yield": "17.90%"
+    },
+    {
+      "symbol": "1373",
+      "name": "International Housewares Retail Company Limited",
+      "displayed_dividend_yield": "8.28%"
+    },
+    {
+      "symbol": "2683",
+      "name": "Wah Sun Handbags International Holdings Limited",
+      "displayed_dividend_yield": "10.81%"
+    },
+    {
+      "symbol": "2101",
+      "name": "Fulu Holdings Limited",
+      "displayed_dividend_yield": "31.09%"
+    },
+    {
+      "symbol": "1565",
+      "name": "Virscend Education Company Limited",
+      "displayed_dividend_yield": "7.14%"
+    },
+    {
+      "symbol": "3315",
+      "name": "Goldpac Group Limited",
+      "displayed_dividend_yield": "10.61%"
+    },
+    {
+      "symbol": "2107",
+      "name": "First Service Holding Limited",
+      "displayed_dividend_yield": "10.00%"
+    },
+    {
+      "symbol": "3686",
+      "name": "Clifford Modern Living Holdings Limited",
+      "displayed_dividend_yield": "22.62%"
+    },
+    {
+      "symbol": "6919",
+      "name": "Renrui Human Resources Technology Holdings Limited",
+      "displayed_dividend_yield": "10.00%"
+    },
+    {
+      "symbol": "1692",
+      "name": "Town Ray Holdings Limited",
+      "displayed_dividend_yield": "9.70%"
+    },
+    {
+      "symbol": "2152",
+      "name": "Suxin Joyful Life Services Co., Ltd.",
+      "displayed_dividend_yield": "10.59%"
+    },
+    {
+      "symbol": "2529",
+      "name": "Hollwin Urban Operation Service Group Co., Ltd",
+      "displayed_dividend_yield": "11.20%"
+    },
+    {
+      "symbol": "6038",
+      "name": "G & M Holdings Limited",
+      "displayed_dividend_yield": "15.19%"
+    },
+    {
+      "symbol": "2177",
+      "name": "UNQ Holdings Limited",
+      "displayed_dividend_yield": "10.50%"
+    },
+    {
+      "symbol": "0090",
+      "name": "Puxing Energy Limited",
+      "displayed_dividend_yield": "8.61%"
+    },
+    {
+      "symbol": "1268",
+      "name": "China MeiDong Auto Holdings Limited",
+      "displayed_dividend_yield": "13.54%"
+    },
+    {
+      "symbol": "6890",
+      "name": "KangLi International Holdings Limited",
+      "displayed_dividend_yield": "28.13%"
+    },
+    {
+      "symbol": "1522",
+      "name": "BII Railway Transportation Technology Holdings Company Limited",
+      "displayed_dividend_yield": "10.81%"
+    },
+    {
+      "symbol": "0114",
+      "name": "Herald Holdings Limited",
+      "displayed_dividend_yield": "9.38%"
+    },
+    {
+      "symbol": "0111",
+      "name": "Cinda International Holdings Limited",
+      "displayed_dividend_yield": "8.33%"
+    },
+    {
+      "symbol": "2031",
+      "name": "Ausupreme International Holdings Limited",
+      "displayed_dividend_yield": "6.00%"
+    },
+    {
+      "symbol": "9998",
+      "name": "Kwan Yong Holdings Limited",
+      "displayed_dividend_yield": "6.32%"
+    },
+    {
+      "symbol": "0229",
+      "name": "Raymond Industrial Limited",
+      "displayed_dividend_yield": "9.72%"
+    },
+    {
+      "symbol": "1023",
+      "name": "Sitoy Group Holdings Limited",
+      "displayed_dividend_yield": "10.81%"
+    },
+    {
+      "symbol": "2230",
+      "name": "Medialink Group Limited",
+      "displayed_dividend_yield": "7.95%"
+    },
+    {
+      "symbol": "1556",
+      "name": "Chinney Kin Wing Holdings Limited",
+      "displayed_dividend_yield": "8.48%"
+    },
+    {
+      "symbol": "2102",
+      "name": "Tak Lee Machinery Holdings Limited",
+      "displayed_dividend_yield": "8.57%"
+    },
+    {
+      "symbol": "1827",
+      "name": "Miricor Enterprises Holdings Limited",
+      "displayed_dividend_yield": "11.70%"
+    },
+    {
+      "symbol": "0912",
+      "name": "Suga International Holdings Limited",
+      "displayed_dividend_yield": "10.08%"
+    },
+    {
+      "symbol": "0146",
+      "name": "Tai Ping Carpets International Limited",
+      "displayed_dividend_yield": "7.52%"
+    },
+    {
+      "symbol": "0311",
+      "name": "Luen Thai Holdings Limited",
+      "displayed_dividend_yield": "15.55%"
+    },
+    {
+      "symbol": "3389",
+      "name": "Hengdeli Holdings Limited",
+      "displayed_dividend_yield": "345.46%"
+    },
+    {
+      "symbol": "1292",
+      "name": "Changan Minsheng APLL Logistics Co., Ltd.",
+      "displayed_dividend_yield": "10.43%"
+    },
+    {
+      "symbol": "2176",
+      "name": "CCID Consulting Company Limited",
+      "displayed_dividend_yield": "22.82%"
+    },
+    {
+      "symbol": "1397",
+      "name": "Baguio Green Group Limited",
+      "displayed_dividend_yield": "9.46%"
+    },
+    {
+      "symbol": "1641",
+      "name": "Hongxing Coldchain (Hunan) Co., Ltd.",
+      "displayed_dividend_yield": "11.42%"
+    },
+    {
+      "symbol": "0556",
+      "name": "Pan Asia Environmental Protection Group Limited",
+      "displayed_dividend_yield": "69.51%"
+    },
+    {
+      "symbol": "0722",
+      "name": "UMP Healthcare Holdings Limited",
+      "displayed_dividend_yield": "7.47%"
+    },
+    {
+      "symbol": "0831",
+      "name": "Convenience Retail Asia Limited",
+      "displayed_dividend_yield": "10.53%"
+    },
+    {
+      "symbol": "1273",
+      "name": "Hong Kong Finance Group Limited",
+      "displayed_dividend_yield": "6.62%"
+    },
+    {
+      "symbol": "0767",
+      "name": "Zhong Ji Longevity Science Group Limited",
+      "displayed_dividend_yield": "3,109,227.35%"
+    },
+    {
+      "symbol": "1962",
+      "name": "Evergreen Products Group Limited",
+      "displayed_dividend_yield": "9.79%"
+    },
+    {
+      "symbol": "3368",
+      "name": "Parkson Retail Group Limited",
+      "displayed_dividend_yield": "19.88%"
+    },
+    {
+      "symbol": "0046",
+      "name": "Computer And Technologies Holdings Limited",
+      "displayed_dividend_yield": "7.56%"
+    },
+    {
+      "symbol": "1245",
+      "name": "Niraku GC Holdings, Inc.",
+      "displayed_dividend_yield": "9.25%"
+    },
+    {
+      "symbol": "8502",
+      "name": "Ocean Line Port Development Limited",
+      "displayed_dividend_yield": "8.57%"
+    },
+    {
+      "symbol": "1637",
+      "name": "SH Group (Holdings) Limited",
+      "displayed_dividend_yield": "7.35%"
+    },
+    {
+      "symbol": "1662",
+      "name": "Yee Hop Holdings Limited",
+      "displayed_dividend_yield": "28.85%"
+    },
+    {
+      "symbol": "1451",
+      "name": "MS Group Holdings Limited",
+      "displayed_dividend_yield": "11.54%"
+    },
+    {
+      "symbol": "1284",
+      "name": "New Media Lab Limited",
+      "displayed_dividend_yield": "9.48%"
+    },
+    {
+      "symbol": "6119",
+      "name": "Tian Yuan Group Holdings Limited",
+      "displayed_dividend_yield": "13.30%"
+    },
+    {
+      "symbol": "1170",
+      "name": "Kingmaker Footwear Holdings Limited",
+      "displayed_dividend_yield": "10.00%"
+    },
+    {
+      "symbol": "1975",
+      "name": "Sun Hing Printing Holdings Limited",
+      "displayed_dividend_yield": "7.00%"
+    },
+    {
+      "symbol": "1289",
+      "name": "Wuxi Sunlit Science and Technology Company Limited",
+      "displayed_dividend_yield": "9.26%"
+    },
+    {
+      "symbol": "0423",
+      "name": "Hong Kong Economic Times Holdings Limited",
+      "displayed_dividend_yield": "11.77%"
+    },
+    {
+      "symbol": "6083",
+      "name": "World-Link Logistics (Asia) Holding Limited",
+      "displayed_dividend_yield": "7.35%"
+    },
+    {
+      "symbol": "2693",
+      "name": "Anhui Jinyan Kaolin New Materials Co., Ltd.",
+      "displayed_dividend_yield": "7.65%"
+    },
+    {
+      "symbol": "6882",
+      "name": "EGL Holdings Company Limited",
+      "displayed_dividend_yield": "7.14%"
+    },
+    {
+      "symbol": "1001",
+      "name": "Hong Kong Shanghai Alliance Holdings Limited",
+      "displayed_dividend_yield": "9.05%"
+    },
+    {
+      "symbol": "1008",
+      "name": "Litu Holdings Limited",
+      "displayed_dividend_yield": "17.33%"
+    },
+    {
+      "symbol": "0476",
+      "name": "Ev Dynamics (Holdings) Limited",
+      "displayed_dividend_yield": "2,020.20%"
+    },
+    {
+      "symbol": "0543",
+      "name": "Pacific Online Limited",
+      "displayed_dividend_yield": "20.63%"
+    },
+    {
+      "symbol": "1418",
+      "name": "Sinomax Group Limited",
+      "displayed_dividend_yield": "8.00%"
+    },
+    {
+      "symbol": "1752",
+      "name": "Top Education Group Ltd",
+      "displayed_dividend_yield": "8.91%"
+    },
+    {
+      "symbol": "8426",
+      "name": "Modern Living Investments Holdings Limited",
+      "displayed_dividend_yield": "6.01%"
+    },
+    {
+      "symbol": "0294",
+      "name": "Yangtzekiang Garment Limited",
+      "displayed_dividend_yield": "9.90%"
+    },
+    {
+      "symbol": "2455",
+      "name": "Runhua Living Service Group Holdings Limited",
+      "displayed_dividend_yield": "7.30%"
+    },
+    {
+      "symbol": "0833",
+      "name": "Alltronics Holdings Limited",
+      "displayed_dividend_yield": "9.41%"
+    },
+    {
+      "symbol": "1690",
+      "name": "Lap Kei Engineering (Holdings) Limited",
+      "displayed_dividend_yield": "14.71%"
+    },
+    {
+      "symbol": "0725",
+      "name": "Perennial International Limited",
+      "displayed_dividend_yield": "6.09%"
+    },
+    {
+      "symbol": "0396",
+      "name": "Hing Lee (HK) Holdings Limited",
+      "displayed_dividend_yield": "10.33%"
+    },
+    {
+      "symbol": "6033",
+      "name": "Telecom Digital Holdings Limited",
+      "displayed_dividend_yield": "6.67%"
+    },
+    {
+      "symbol": "1354",
+      "name": "Xi'an Kingfar Property Services Co., Ltd.",
+      "displayed_dividend_yield": "17.98%"
+    },
+    {
+      "symbol": "1146",
+      "name": "Huicheng International Holdings Limited",
+      "displayed_dividend_yield": "20.41%"
+    },
+    {
+      "symbol": "2695",
+      "name": "Impression Dahongpao Co., Ltd.",
+      "displayed_dividend_yield": "20.42%"
+    },
+    {
+      "symbol": "1895",
+      "name": "Xinyuan Property Management Service (Cayman) Ltd.",
+      "displayed_dividend_yield": "16.14%"
+    },
+    {
+      "symbol": "0375",
+      "name": "YGM Trading Limited",
+      "displayed_dividend_yield": "9.66%"
+    },
+    {
+      "symbol": "0188",
+      "name": "Sunwah Kingsway Capital Holdings Limited",
+      "displayed_dividend_yield": "9.09%"
+    },
+    {
+      "symbol": "0851",
+      "name": "Sheng Yuan Holdings Limited",
+      "displayed_dividend_yield": "4,972.97%"
+    },
+    {
+      "symbol": "2293",
+      "name": "Bamboos Health Care Holdings Limited",
+      "displayed_dividend_yield": "6.17%"
+    },
+    {
+      "symbol": "0104",
+      "name": "Asia Commercial Holdings Limited",
+      "displayed_dividend_yield": "14.01%"
+    },
+    {
+      "symbol": "1433",
+      "name": "Cirtek Holdings Limited",
+      "displayed_dividend_yield": "9.26%"
+    },
+    {
+      "symbol": "2682",
+      "name": "Yun Lee Marine Group Holdings Limited",
+      "displayed_dividend_yield": "6.25%"
+    },
+    {
+      "symbol": "8529",
+      "name": "UBoT Holding Limited",
+      "displayed_dividend_yield": "6.67%"
+    },
+    {
+      "symbol": "0387",
+      "name": "Leeport (Holdings) Limited",
+      "displayed_dividend_yield": "24.24%"
+    },
+    {
+      "symbol": "1379",
+      "name": "Wenling Zhejiang Measuring and Cutting Tools Trading Centre Company Limited",
+      "displayed_dividend_yield": "7.66%"
+    },
+    {
+      "symbol": "0094",
+      "name": "Greenheart Group Limited",
+      "displayed_dividend_yield": "20.00%"
+    },
+    {
+      "symbol": "0077",
+      "name": "AMS Public Transport Holdings Limited",
+      "displayed_dividend_yield": "12.00%"
+    },
+    {
+      "symbol": "1739",
+      "name": "Qeeka Home (Cayman) Inc.",
+      "displayed_dividend_yield": "24.83%"
+    },
+    {
+      "symbol": "6909",
+      "name": "BetterLife Holding Limited",
+      "displayed_dividend_yield": "11.67%"
+    },
+    {
+      "symbol": "8480",
+      "name": "Furniweb Holdings Limited",
+      "displayed_dividend_yield": "12.00%"
+    },
+    {
+      "symbol": "8062",
+      "name": "EFT Solutions Holdings Limited",
+      "displayed_dividend_yield": "8.51%"
+    },
+    {
+      "symbol": "0675",
+      "name": "K & P International Holdings Limited",
+      "displayed_dividend_yield": "11.43%"
+    },
+    {
+      "symbol": "3822",
+      "name": "Sam Woo Construction Group Limited",
+      "displayed_dividend_yield": "10.96%"
+    },
+    {
+      "symbol": "0910",
+      "name": "China Sandi Holdings Limited",
+      "displayed_dividend_yield": "597.91%"
+    },
+    {
+      "symbol": "8121",
+      "name": "Guoen Holdings Limited",
+      "displayed_dividend_yield": "725.58%"
+    },
+    {
+      "symbol": "8033",
+      "name": "Vodatel Networks Holdings Limited",
+      "displayed_dividend_yield": "10.00%"
+    },
+    {
+      "symbol": "8432",
+      "name": "Bar Pacific Group Holdings Limited",
+      "displayed_dividend_yield": "13.64%"
+    }
+  ]
+}

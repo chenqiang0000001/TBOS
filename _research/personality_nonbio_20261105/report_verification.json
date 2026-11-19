@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-05",
+  "selected_publications": 11,
+  "local_links_checked": 49,
+  "claim_checks": {
+    "E1_sample_counts": {
+      "matched": true,
+      "missing": [],
+      "source": "P01_metadata.json"
+    },
+    "E2_sample_count": {
+      "matched": true,
+      "missing": [],
+      "source": "P03_metadata.json"
+    },
+    "E6_sample_and_effect_counts": {
+      "matched": true,
+      "missing": [],
+      "source": "P07_metadata.json"
+    },
+    "E7_sample_counts": {
+      "matched": true,
+      "missing": [],
+      "source": "P08_metadata.json"
+    },
+    "E8_sample_and_effect": {
+      "matched": true,
+      "missing": [],
+      "source": "P12.txt"
+    }
+  },
+  "original_docx_hashes_match": true,
+  "review_rows": 123,
+  "rows_with_personal_review": 6,
+  "knowledge_weights_still_blank": true,
+  "errors": [],
+  "report_characters": 10978
+}

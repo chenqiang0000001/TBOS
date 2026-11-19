@@ -1,0 +1,57 @@
+{
+  "id": "P06",
+  "doi": "10.1037/a0014996",
+  "title": "A meta-analysis of the five-factor model of personality and academic performance.",
+  "abstract": "This article reports a meta-analysis of personality-academic performance relationships, based on the 5-factor model, in which cumulative sample sizes ranged to over 70,000. Most analyzed studies came from the tertiary level of education, but there were similar aggregate samples from secondary and tertiary education. There was a comparatively smaller sample derived from studies at the primary level. Academic performance was found to correlate significantly with Agreeableness, Conscientiousness, and Openness. Where tested, correlations between Conscientiousness and academic performance were largely independent of intelligence. When secondary academic performance was controlled for, Conscientiousness added as much to the prediction of tertiary academic performance as did intelligence. Strong evidence was found for moderators of correlations. Academic level (primary, secondary, or tertiary), average age of participant, and the interaction between academic level and age significantly moderated correlations with academic performance. Possible explanations for these moderator effects are discussed, and recommendations for future research are provided.",
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "locations": [
+    "https://doi.org/10.1037/a0014996",
+    "https://pubmed.ncbi.nlm.nih.gov/19254083",
+    "http://hdl.handle.net/10072/30324"
+  ],
+  "pdfs": [],
+  "crossref": {
+    "title": [
+      "A meta-analysis of the five-factor model of personality and academic performance."
+    ],
+    "abstract": null,
+    "published": {
+      "date-parts": [
+        [
+          2009,
+          3
+        ]
+      ]
+    },
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-8496-1815",
+        "authenticated-orcid": false,
+        "given": "Arthur E.",
+        "family": "Poropat",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "URL": "https://doi.org/10.1037/a0014996",
+    "link": [
+      {
+        "URL": "http://psycnet.apa.org/journals/bul/135/2/322.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ]
+  }
+}

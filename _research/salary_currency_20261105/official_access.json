@@ -1,0 +1,27 @@
+[
+  {
+    "id": "CHINA_FX",
+    "url": "https://www.chinamoney.com.cn/ags/ms/cm-u-bk-ccpr/CcprHisNew?startDate=2026-11-01&endDate=2026-11-05&currency=USD&pageNum=1&pageSize=10",
+    "retrieved_at_utc": "2026-11-05T02:55:28.949666+00:00",
+    "status": 200,
+    "final_url": "https://www.chinamoney.com.cn/ags/ms/cm-u-bk-ccpr/CcprHisNew?startDate=2026-11-01&endDate=2026-11-05&currency=USD&pageNum=1&pageSize=10",
+    "content_type": "application/json;charset=UTF-8",
+    "bytes_read": 183,
+    "saved_file": "CHINA_FX.txt",
+    "business_response_code": "500",
+    "usable_market_data": false,
+    "assessment": "HTTP 200 but business response 500 and no records; no exchange rate obtained"
+  },
+  {
+    "id": "TREASURY_OFFICIAL",
+    "url": "https://home.treasury.gov/resource-center-data-chart-center/interest-rates",
+    "retrieved_at_utc": "2026-11-05T02:55:28.950665+00:00",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "CCB_FX",
+    "url": "https://www2.ccb.com/chn/forex/newfx.html",
+    "retrieved_at_utc": "2026-11-05T02:55:28.950665+00:00",
+    "error": "<urlopen error [SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1010)>"
+  }
+]

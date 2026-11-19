@@ -1,0 +1,52 @@
+[
+  {
+    "id": "PARA",
+    "requested_url": "https://fortelabs.com/blog/para/",
+    "final_url": "https://fortelabs.com/blog/para/",
+    "status": 200,
+    "characters": 15560,
+    "preview": "The PARA Method: The Simple System for Organizing Your Digital Life in Seconds\nSkip to content\nStart Here\nFree Resources\nBlog\nVideos\nPodcast\nCommunity\nBooks\nLif"
+  },
+  {
+    "id": "EVERGREEN",
+    "requested_url": "https://notes.andymatuschak.org/Evergreen_notes",
+    "final_url": "https://notes.andymatuschak.org/z5E5QawiXCMbtNtupvxeoEX",
+    "status": 200,
+    "characters": 2323,
+    "preview": "Evergreen notes\nAndyʼs working notes\nAbout these notes\nEvergreen notes\nEvergreen notes are written and organized to evolve, contribute, and accumulate over time"
+  },
+  {
+    "id": "DECISION",
+    "requested_url": "https://fs.blog/decision-journal/",
+    "final_url": "https://fs.blog/decision-journal/",
+    "status": 200,
+    "characters": 7573,
+    "preview": "How a Decision Journal Changed the Way I make Decisions (Template Included)\nSkip to main content\nSkip to header right navigation\nSkip to site footer\nFarnam Stre"
+  },
+  {
+    "id": "GTD",
+    "requested_url": "https://gettingthingsdone.com/what-is-gtd/",
+    "final_url": "https://gettingthingsdone.com/what-is-gtd/",
+    "status": 200,
+    "characters": 2613,
+    "preview": "What is GTD - Getting Things Done®\nSkip to content\nWhat is GTD\nNext steps\nTraining & Coaching\nFree Resources\nShop\nGTD Connect\nBack\nSearch for:\nSearch\nSearch for"
+  },
+  {
+    "id": "PMI",
+    "requested_url": "https://www.pmi.org/learning/careers/talent-triangle",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "BERKSHIRE1996",
+    "requested_url": "https://www.berkshirehathaway.com/letters/1996.html",
+    "final_url": "https://www.berkshirehathaway.com/letters/1996.html",
+    "status": 200,
+    "characters": 71079,
+    "preview": "Chairman's Letter - 1996\nBERKSHIRE HATHAWAY INC.\nChairman's Letter\nTo the Shareholders of Berkshire Hathaway Inc.:\nOur gain in net worth during 1996 was $6.2 bi"
+  },
+  {
+    "id": "SEC_FINANCIAL",
+    "requested_url": "https://www.sec.gov/investor/pubs/begfinstmtguide.htm",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

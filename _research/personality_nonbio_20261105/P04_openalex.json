@@ -1,0 +1,1451 @@
+{
+  "id": "https://openalex.org/W2790166484",
+  "doi": "https://doi.org/10.1111/bjso.12251",
+  "title": "The psychology of social class: How socioeconomic status impacts thought, feelings, and behaviour",
+  "display_name": "The psychology of social class: How socioeconomic status impacts thought, feelings, and behaviour",
+  "publication_year": 2018,
+  "publication_date": "2018-02-28",
+  "ids": {
+    "openalex": "https://openalex.org/W2790166484",
+    "doi": "https://doi.org/10.1111/bjso.12251",
+    "mag": "2790166484",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/29492984",
+    "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/5901394"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1111/bjso.12251",
+    "doi": "https://doi.org/10.1111/bjso.12251",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1111/bjso.12251",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/bjso.12251",
+    "source": {
+      "id": "https://openalex.org/S179906392",
+      "display_name": "British Journal of Social Psychology",
+      "issn_l": "0144-6665",
+      "issn": [
+        "0144-6665",
+        "2044-8309"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+        "abdc-a",
+        "cwts-core",
+        "dongbi-d",
+        "erih-plus",
+        "jufo-3",
+        "medline",
+        "norway-1",
+        "poland-100",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "British Journal of Social Psychology",
+    "raw_type": "journal-article"
+  },
+  "volume": null,
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/bjso.12251",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5114375328",
+        "display_name": "Antony S. R. Manstead",
+        "orcid": "https://orcid.org/0000-0001-7540-2096",
+        "observed_orcids": [
+          "https://orcid.org/0000-0001-7540-2096"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I79510175",
+          "display_name": "Cardiff University",
+          "ror": "https://ror.org/03kk7td41",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I79510175"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Antony S. R. Manstead",
+      "raw_affiliation_strings": [
+        "Cardiff University, UK"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7540-2096",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Cardiff University, UK",
+          "institution_ids": [
+            "https://openalex.org/I79510175"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5114375328"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I79510175"
+  ],
+  "apc_list": {
+    "value": 3970,
+    "currency": "USD",
+    "value_usd": 3970
+  },
+  "apc_paid": {
+    "value": 1695,
+    "currency": "EUR",
+    "value_usd": 1828
+  },
+  "fwci": 131.6991,
+  "has_fulltext": true,
+  "cited_by_count": 859,
+  "citation_normalized_percentile": {
+    "value": 0.99983102,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "57",
+    "issue": "2",
+    "first_page": "267",
+    "last_page": "291"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10314",
+    "display_name": "Social and Intergroup Psychology",
+    "score": 0.5893999934196472,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3312",
+      "display_name": "Sociology and Political Science"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/33",
+      "display_name": "Social Sciences"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10314",
+      "display_name": "Social and Intergroup Psychology",
+      "score": 0.5893999934196472,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11895",
+      "display_name": "Social and Cultural Dynamics",
+      "score": 0.2531999945640564,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12892",
+      "display_name": "Social Power and Status Dynamics",
+      "score": 0.06289999932050705,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/social-class",
+      "display_name": "social class",
+      "score": 0.9589999914169312
+    },
+    {
+      "id": "https://openalex.org/keywords/socioeconomic-status",
+      "display_name": "socioeconomic status",
+      "score": 0.9959999918937683
+    },
+    {
+      "id": "https://openalex.org/keywords/working-class",
+      "display_name": "working class",
+      "score": 0.75
+    },
+    {
+      "id": "https://openalex.org/keywords/middle-class",
+      "display_name": "middle class",
+      "score": 0.9610000252723694
+    },
+    {
+      "id": "https://openalex.org/keywords/self-concept",
+      "display_name": "self-concept",
+      "score": 0.8560000061988831
+    },
+    {
+      "id": "https://openalex.org/keywords/interdependence",
+      "display_name": "interdependence",
+      "score": 0.7099999785423279
+    },
+    {
+      "id": "https://openalex.org/keywords/personal-control",
+      "display_name": "personal control",
+      "score": 0.6830000281333923
+    },
+    {
+      "id": "https://openalex.org/keywords/empathy",
+      "display_name": "empathy",
+      "score": 0.9879999756813049
+    },
+    {
+      "id": "https://openalex.org/keywords/helping-behavior",
+      "display_name": "helping behavior",
+      "score": 0.9210000038146973
+    },
+    {
+      "id": "https://openalex.org/keywords/prejudice",
+      "display_name": "prejudice",
+      "score": 0.7730000019073486
+    },
+    {
+      "id": "https://openalex.org/keywords/economic-threats",
+      "display_name": "economic threats",
+      "score": 0.8880000114440918
+    },
+    {
+      "id": "https://openalex.org/keywords/educational-attainment",
+      "display_name": "educational attainment",
+      "score": 0.6140000224113464
+    },
+    {
+      "id": "https://openalex.org/keywords/occupational-attainment",
+      "display_name": "occupational attainment",
+      "score": 0.40299999713897705
+    },
+    {
+      "id": "https://openalex.org/keywords/social-mobility",
+      "display_name": "social mobility",
+      "score": 0.5389999747276306
+    },
+    {
+      "id": "https://openalex.org/keywords/redistribution",
+      "display_name": "redistribution",
+      "score": 0.7549999952316284
+    },
+    {
+      "id": "https://openalex.org/keywords/social-cohesion",
+      "display_name": "social cohesion",
+      "score": 0.593999981880188
+    },
+    {
+      "id": "https://openalex.org/keywords/material-conditions",
+      "display_name": "material conditions",
+      "score": 0.38100001215934753
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C110888244",
+      "wikidata": "https://www.wikidata.org/wiki/Q187588",
+      "display_name": "Social class",
+      "level": 2,
+      "score": 0.6995934247970581
+    },
+    {
+      "id": "https://openalex.org/C147077947",
+      "wikidata": "https://www.wikidata.org/wiki/Q1515895",
+      "display_name": "Socioeconomic status",
+      "level": 3,
+      "score": 0.6805338859558105
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.6772993803024292
+    },
+    {
+      "id": "https://openalex.org/C77805123",
+      "wikidata": "https://www.wikidata.org/wiki/Q161272",
+      "display_name": "Social psychology",
+      "level": 1,
+      "score": 0.6612145900726318
+    },
+    {
+      "id": "https://openalex.org/C170950685",
+      "wikidata": "https://www.wikidata.org/wiki/Q191159",
+      "display_name": "Working class",
+      "level": 3,
+      "score": 0.6294201016426086
+    },
+    {
+      "id": "https://openalex.org/C122980154",
+      "wikidata": "https://www.wikidata.org/wiki/Q205555",
+      "display_name": "Feeling",
+      "level": 2,
+      "score": 0.5998459458351135
+    },
+    {
+      "id": "https://openalex.org/C9114305",
+      "wikidata": "https://www.wikidata.org/wiki/Q1428317",
+      "display_name": "Situational ethics",
+      "level": 2,
+      "score": 0.5768059492111206
+    },
+    {
+      "id": "https://openalex.org/C32437296",
+      "wikidata": "https://www.wikidata.org/wiki/Q6545083",
+      "display_name": "Life chances",
+      "level": 3,
+      "score": 0.4903407096862793
+    },
+    {
+      "id": "https://openalex.org/C2779885105",
+      "wikidata": "https://www.wikidata.org/wiki/Q182263",
+      "display_name": "Empathy",
+      "level": 2,
+      "score": 0.4861859679222107
+    },
+    {
+      "id": "https://openalex.org/C98447023",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540351",
+      "display_name": "Social identity theory",
+      "level": 3,
+      "score": 0.42722100019454956
+    },
+    {
+      "id": "https://openalex.org/C2780129554",
+      "wikidata": "https://www.wikidata.org/wiki/Q1066261",
+      "display_name": "Class consciousness",
+      "level": 3,
+      "score": 0.426156222820282
+    },
+    {
+      "id": "https://openalex.org/C180872759",
+      "wikidata": "https://www.wikidata.org/wiki/Q874405",
+      "display_name": "Social group",
+      "level": 2,
+      "score": 0.34886372089385986
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.21456152200698853
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.12280544638633728
+    },
+    {
+      "id": "https://openalex.org/C94625758",
+      "wikidata": "https://www.wikidata.org/wiki/Q7163",
+      "display_name": "Politics",
+      "level": 2,
+      "score": 0.11246386170387268
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C149923435",
+      "wikidata": "https://www.wikidata.org/wiki/Q37732",
+      "display_name": "Demography",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C2908647359",
+      "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+      "display_name": "Population",
+      "level": 2,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007398",
+      "descriptor_name": "Interpersonal Relations",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D011287",
+      "descriptor_name": "Prejudice",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012649",
+      "descriptor_name": "Self Concept",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012919",
+      "descriptor_name": "Social Behavior",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012923",
+      "descriptor_name": "Social Class",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012931",
+      "descriptor_name": "Social Environment",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D012959",
+      "descriptor_name": "Socioeconomic Factors",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.1111/bjso.12251",
+      "doi": "https://doi.org/10.1111/bjso.12251",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1111/bjso.12251",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/bjso.12251",
+      "source": {
+        "id": "https://openalex.org/S179906392",
+        "display_name": "British Journal of Social Psychology",
+        "issn_l": "0144-6665",
+        "issn": [
+          "0144-6665",
+          "2044-8309"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "abdc-a",
+          "cwts-core",
+          "dongbi-d",
+          "erih-plus",
+          "jufo-3",
+          "medline",
+          "norway-1",
+          "poland-100",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "British Journal of Social Psychology",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:europepmc.org:4838411",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "http://europepmc.org/pmc/articles/PMC5901394",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I1303153112",
+        "host_organization_name": "European Bioinformatics Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/I1303153112"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:5901394",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/5901394",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Br J Soc Psychol",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmid:29492984",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/29492984",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "The British journal of social psychology",
+      "raw_type": "Journal Article"
+    },
+    {
+      "id": "pmh:oai:https://orca.cardiff.ac.uk:109026",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "https://orca.cardiff.ac.uk/id/eprint/109026/8/Manstead-2018-British_Journal_of_Social_Psychology.pdf",
+      "pdf_url": "https://orca.cardiff.ac.uk/id/eprint/109026/8/Manstead-2018-British_Journal_of_Social_Psychology.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306401195",
+        "display_name": "ORCA Online Research @Cardiff (Cardiff University)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I79510175",
+        "host_organization_name": "Cardiff University",
+        "host_organization_lineage": [
+          "https://openalex.org/I79510175"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1111/bjso.12251",
+    "doi": "https://doi.org/10.1111/bjso.12251",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1111/bjso.12251",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/bjso.12251",
+    "source": {
+      "id": "https://openalex.org/S179906392",
+      "display_name": "British Journal of Social Psychology",
+      "issn_l": "0144-6665",
+      "issn": [
+        "0144-6665",
+        "2044-8309"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+        "abdc-a",
+        "cwts-core",
+        "dongbi-d",
+        "erih-plus",
+        "jufo-3",
+        "medline",
+        "norway-1",
+        "poland-100",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "British Journal of Social Psychology",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.9629999995231628,
+      "id": "https://metadata.un.org/sdg/10",
+      "display_name": "Reduced inequalities"
+    },
+    {
+      "score": 0.41670000553131104,
+      "id": "https://metadata.un.org/sdg/1",
+      "display_name": "No poverty"
+    }
+  ],
+  "study_designs": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2790166484.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2790166484.grobid-xml"
+  },
+  "referenced_works_count": 82,
+  "referenced_works": [
+    "https://openalex.org/W330766106",
+    "https://openalex.org/W1500273044",
+    "https://openalex.org/W1511181678",
+    "https://openalex.org/W1517495738",
+    "https://openalex.org/W1846925334",
+    "https://openalex.org/W1942245897",
+    "https://openalex.org/W1963500368",
+    "https://openalex.org/W1966114254",
+    "https://openalex.org/W1968444489",
+    "https://openalex.org/W1976888500",
+    "https://openalex.org/W1979644882",
+    "https://openalex.org/W2000361445",
+    "https://openalex.org/W2004641479",
+    "https://openalex.org/W2007514939",
+    "https://openalex.org/W2016561445",
+    "https://openalex.org/W2017403528",
+    "https://openalex.org/W2039675961",
+    "https://openalex.org/W2042025456",
+    "https://openalex.org/W2044132146",
+    "https://openalex.org/W2045796947",
+    "https://openalex.org/W2050978732",
+    "https://openalex.org/W2058465735",
+    "https://openalex.org/W2068370029",
+    "https://openalex.org/W2071881301",
+    "https://openalex.org/W2077208391",
+    "https://openalex.org/W2084246693",
+    "https://openalex.org/W2098662075",
+    "https://openalex.org/W2102737969",
+    "https://openalex.org/W2106125319",
+    "https://openalex.org/W2111616598",
+    "https://openalex.org/W2115030660",
+    "https://openalex.org/W2125457158",
+    "https://openalex.org/W2127087511",
+    "https://openalex.org/W2128833564",
+    "https://openalex.org/W2130339726",
+    "https://openalex.org/W2133344766",
+    "https://openalex.org/W2133353131",
+    "https://openalex.org/W2133875312",
+    "https://openalex.org/W2134558131",
+    "https://openalex.org/W2135435159",
+    "https://openalex.org/W2135699994",
+    "https://openalex.org/W2140930733",
+    "https://openalex.org/W2141028849",
+    "https://openalex.org/W2141708772",
+    "https://openalex.org/W2147588779",
+    "https://openalex.org/W2149268645",
+    "https://openalex.org/W2157848026",
+    "https://openalex.org/W2160355410",
+    "https://openalex.org/W2161430222",
+    "https://openalex.org/W2162722984",
+    "https://openalex.org/W2169400393",
+    "https://openalex.org/W2171177713",
+    "https://openalex.org/W2238113724",
+    "https://openalex.org/W2401836676",
+    "https://openalex.org/W2464353904",
+    "https://openalex.org/W2490146414",
+    "https://openalex.org/W2527355274",
+    "https://openalex.org/W2557261007",
+    "https://openalex.org/W2577722818",
+    "https://openalex.org/W2596394106",
+    "https://openalex.org/W2618394217",
+    "https://openalex.org/W2619510374",
+    "https://openalex.org/W2620982814",
+    "https://openalex.org/W2625974598",
+    "https://openalex.org/W2747618620",
+    "https://openalex.org/W2754469960",
+    "https://openalex.org/W2756441501",
+    "https://openalex.org/W2809005724",
+    "https://openalex.org/W2896180857",
+    "https://openalex.org/W2903602706",
+    "https://openalex.org/W2914558026",
+    "https://openalex.org/W2952430541",
+    "https://openalex.org/W3121225713",
+    "https://openalex.org/W3121592088",
+    "https://openalex.org/W4205751207",
+    "https://openalex.org/W4232838662",
+    "https://openalex.org/W4240843895",
+    "https://openalex.org/W4243905769",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W4294333904",
+    "https://openalex.org/W4299946577",
+    "https://openalex.org/W4300107936"
+  ],
+  "related_works": [
+    "https://openalex.org/W2079228847",
+    "https://openalex.org/W1942245897",
+    "https://openalex.org/W2986785970",
+    "https://openalex.org/W2135699994",
+    "https://openalex.org/W1988826992",
+    "https://openalex.org/W4233756834",
+    "https://openalex.org/W7005668019",
+    "https://openalex.org/W1894812484",
+    "https://openalex.org/W2084246693",
+    "https://openalex.org/W2745054930"
+  ],
+  "abstract_inverted_index": {
+    "Drawing": [
+      0
+    ],
+    "on": [
+      1,
+      4,
+      27,
+      108
+    ],
+    "recent": [
+      2
+    ],
+    "research": [
+      3
+    ],
+    "the": [
+      5,
+      13,
+      38,
+      157,
+      247
+    ],
+    "psychology": [
+      6
+    ],
+    "of": [
+      7,
+      51,
+      69,
+      96,
+      101,
+      110,
+      142,
+      175,
+      249
+    ],
+    "social": [
+      8,
+      31,
+      46,
+      53,
+      88,
+      210,
+      256
+    ],
+    "class,": [
+      9
+    ],
+    "I": [
+      10
+    ],
+    "argue": [
+      11
+    ],
+    "that": [
+      12,
+      34,
+      125,
+      146,
+      172,
+      223,
+      240,
+      251
+    ],
+    "material": [
+      14,
+      236
+    ],
+    "conditions": [
+      15
+    ],
+    "in": [
+      16,
+      67,
+      90,
+      119,
+      145,
+      178,
+      192,
+      213
+    ],
+    "which": [
+      17
+    ],
+    "people": [
+      18,
+      105,
+      149,
+      185
+    ],
+    "grow": [
+      19
+    ],
+    "up": [
+      20
+    ],
+    "and": [
+      21,
+      30,
+      33,
+      42,
+      48,
+      73,
+      112,
+      133,
+      164,
+      180,
+      200,
+      217,
+      230,
+      254
+    ],
+    "live": [
+      22
+    ],
+    "have": [
+      23,
+      78
+    ],
+    "a": [
+      24,
+      94,
+      98,
+      140
+    ],
+    "lasting": [
+      25
+    ],
+    "impact": [
+      26
+    ],
+    "their": [
+      28,
+      45,
+      52,
+      70,
+      235
+    ],
+    "personal": [
+      29,
+      102
+    ],
+    "identities": [
+      32
+    ],
+    "this": [
+      35
+    ],
+    "influences": [
+      36
+    ],
+    "both": [
+      37
+    ],
+    "way": [
+      39
+    ],
+    "they": [
+      40,
+      81
+    ],
+    "think": [
+      41
+    ],
+    "feel": [
+      43
+    ],
+    "about": [
+      44
+    ],
+    "environment": [
+      47
+    ],
+    "key": [
+      49
+    ],
+    "aspects": [
+      50
+    ],
+    "behaviour.": [
+      54
+    ],
+    "Relative": [
+      55
+    ],
+    "to": [
+      56,
+      64,
+      77,
+      86,
+      116,
+      138,
+      188,
+      197,
+      203,
+      233,
+      245
+    ],
+    "middle-class": [
+      57,
+      173
+    ],
+    "counterparts,": [
+      58
+    ],
+    "lower/working-class": [
+      59
+    ],
+    "individuals": [
+      60,
+      127,
+      225
+    ],
+    "are": [
+      61,
+      74,
+      82,
+      113,
+      128,
+      159,
+      243
+    ],
+    "less": [
+      62,
+      186,
+      195,
+      201,
+      221
+    ],
+    "likely": [
+      63,
+      76,
+      115,
+      187,
+      196,
+      202,
+      222
+    ],
+    "define": [
+      65
+    ],
+    "themselves": [
+      66
+    ],
+    "terms": [
+      68
+    ],
+    "socioeconomic": [
+      71
+    ],
+    "status": [
+      72
+    ],
+    "more": [
+      75,
+      84,
+      114,
+      129
+    ],
+    "interdependent": [
+      79
+    ],
+    "self-concepts;": [
+      80
+    ],
+    "also": [
+      83,
+      150
+    ],
+    "inclined": [
+      85
+    ],
+    "explain": [
+      87
+    ],
+    "events": [
+      89
+    ],
+    "situational": [
+      91
+    ],
+    "terms,": [
+      92
+    ],
+    "as": [
+      93,
+      161
+    ],
+    "result": [
+      95
+    ],
+    "having": [
+      97
+    ],
+    "lower": [
+      99
+    ],
+    "sense": [
+      100
+    ],
+    "control.": [
+      103
+    ],
+    "Working-class": [
+      104
+    ],
+    "score": [
+      106
+    ],
+    "higher": [
+      107
+    ],
+    "measures": [
+      109
+    ],
+    "empathy": [
+      111
+    ],
+    "help": [
+      117
+    ],
+    "others": [
+      118
+    ],
+    "distress.": [
+      120
+    ],
+    "The": [
+      121,
+      170
+    ],
+    "widely": [
+      122
+    ],
+    "held": [
+      123
+    ],
+    "view": [
+      124
+    ],
+    "working-class": [
+      126,
+      184,
+      224
+    ],
+    "prejudiced": [
+      130
+    ],
+    "towards": [
+      131,
+      153
+    ],
+    "immigrants": [
+      132
+    ],
+    "ethnic": [
+      134
+    ],
+    "minorities": [
+      135
+    ],
+    "is": [
+      136
+    ],
+    "shown": [
+      137
+    ],
+    "be": [
+      139,
+      198
+    ],
+    "function": [
+      141
+    ],
+    "economic": [
+      143,
+      168
+    ],
+    "threat,": [
+      144
+    ],
+    "highly": [
+      147,
+      162
+    ],
+    "educated": [
+      148,
+      163
+    ],
+    "express": [
+      151
+    ],
+    "prejudice": [
+      152
+    ],
+    "these": [
+      154
+    ],
+    "groups": [
+      155
+    ],
+    "when": [
+      156
+    ],
+    "latter": [
+      158
+    ],
+    "described": [
+      160
+    ],
+    "therefore": [
+      165
+    ],
+    "pose": [
+      166
+    ],
+    "an": [
+      167
+    ],
+    "threat.": [
+      169
+    ],
+    "fact": [
+      171
+    ],
+    "norms": [
+      174
+    ],
+    "independence": [
+      176
+    ],
+    "prevail": [
+      177
+    ],
+    "universities": [
+      179
+    ],
+    "prestigious": [
+      181
+    ],
+    "workplaces": [
+      182
+    ],
+    "makes": [
+      183
+    ],
+    "apply": [
+      189
+    ],
+    "for": [
+      190
+    ],
+    "positions": [
+      191
+    ],
+    "such": [
+      193
+    ],
+    "institutions,": [
+      194
+    ],
+    "selected": [
+      199
+    ],
+    "stay": [
+      204
+    ],
+    "if": [
+      205
+    ],
+    "selected.": [
+      206
+    ],
+    "In": [
+      207
+    ],
+    "other": [
+      208
+    ],
+    "words,": [
+      209
+    ],
+    "class": [
+      211
+    ],
+    "differences": [
+      212
+    ],
+    "identity,": [
+      214
+    ],
+    "cognition,": [
+      215
+    ],
+    "feelings,": [
+      216
+    ],
+    "behaviour": [
+      218
+    ],
+    "make": [
+      219
+    ],
+    "it": [
+      220
+    ],
+    "can": [
+      226
+    ],
+    "benefit": [
+      227
+    ],
+    "from": [
+      228
+    ],
+    "educational": [
+      229
+    ],
+    "occupational": [
+      231
+    ],
+    "opportunities": [
+      232,
+      253
+    ],
+    "improve": [
+      234
+    ],
+    "circumstances.": [
+      237
+    ],
+    "This": [
+      238
+    ],
+    "means": [
+      239
+    ],
+    "redistributive": [
+      241
+    ],
+    "policies": [
+      242
+    ],
+    "needed": [
+      244
+    ],
+    "break": [
+      246
+    ],
+    "cycle": [
+      248
+    ],
+    "deprivation": [
+      250
+    ],
+    "limits": [
+      252
+    ],
+    "threatens": [
+      255
+    ],
+    "cohesion.": [
+      257
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 104
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 161
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 139
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 110
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 97
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 94
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 110
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 37
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2012,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-11-04T10:54:05.112534",
+  "created_date": "2018-03-29T00:00:00"
+}

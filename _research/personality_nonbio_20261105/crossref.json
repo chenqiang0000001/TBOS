@@ -1,0 +1,315 @@
+[
+  {
+    "query": "Personality stability and change A meta-analysis of longitudinal studies Bleidorn 2022",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Patterns of mean-level change in personality traits across the life course A meta-analysis of longitudinal studies Roberts Walton Viechtbauer",
+    "matches": [
+      {
+        "title": [
+          "Patterns of mean-level change in personality traits across the life course: A meta-analysis of longitudinal studies."
+        ],
+        "DOI": "10.1037/0033-2909.132.1.1",
+        "URL": "https://doi.org/10.1037/0033-2909.132.1.1",
+        "container-title": [
+          "Psychological Bulletin"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2006,
+              1
+            ]
+          ]
+        },
+        "abstract": null,
+        "link": [
+          {
+            "URL": "http://psycnet.apa.org/journals/bul/132/1/1.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://doi.apa.org/doi/10.1037/0033-2909.132.1.1"
+          }
+        }
+      },
+      {
+        "title": [
+          "Changes in Personality Traits Across the Life Course"
+        ],
+        "DOI": "10.1037/e416902005-049",
+        "URL": "https://doi.org/10.1037/e416902005-049",
+        "container-title": [
+          "PsycEXTRA Dataset"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2003
+            ]
+          ]
+        },
+        "abstract": null,
+        "link": null,
+        "resource": {
+          "primary": {
+            "URL": "https://doi.apa.org/doi/10.1037/e416902005-049"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "query": "Stability and change of personality across the life course The impact of age and major life events Specht Egloff Schmukle",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "The psychology of social class How socioeconomic status impacts thought feelings and behaviour Manstead",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "A century of research on conscientiousness at work Wilmot Ones",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "A meta-analysis of the five-factor model of personality and academic performance Poropat",
+    "matches": [
+      {
+        "title": [
+          "A meta-analysis of the five-factor model of personality and academic performance."
+        ],
+        "DOI": "10.1037/a0014996",
+        "URL": "https://doi.org/10.1037/a0014996",
+        "container-title": [
+          "Psychological Bulletin"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2009,
+              3
+            ]
+          ]
+        },
+        "abstract": null,
+        "link": [
+          {
+            "URL": "http://psycnet.apa.org/journals/bul/135/2/322.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://doi.apa.org/doi/10.1037/a0014996"
+          }
+        }
+      },
+      {
+        "title": [
+          "The relationship between attributional style, gender and the Five-Factor Model of personality"
+        ],
+        "DOI": "10.1016/s0191-8869(02)00008-9",
+        "URL": "https://doi.org/10.1016/s0191-8869(02)00008-9",
+        "container-title": [
+          "Personality and Individual Differences"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2002,
+              11
+            ]
+          ]
+        },
+        "abstract": null,
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0191886902000089?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0191886902000089?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0191886902000089"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "query": "Much ado about grit A meta-analytic synthesis of the grit literature Crede Tynan Harms",
+    "matches": [
+      {
+        "title": [
+          "Much ado about grit: A meta-analytic synthesis of the grit literature."
+        ],
+        "DOI": "10.1037/pspp0000102",
+        "URL": "https://doi.org/10.1037/pspp0000102",
+        "container-title": [
+          "Journal of Personality and Social Psychology"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2017,
+              9
+            ]
+          ]
+        },
+        "abstract": null,
+        "link": [
+          {
+            "URL": "https://psycnet.apa.org/journals/psp/113/3/492.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://doi.apa.org/doi/10.1037/pspp0000102"
+          }
+        }
+      },
+      {
+        "title": [
+          "L2 grit unboxed: A meta-analytic journey into L2 grit and its correlates"
+        ],
+        "DOI": "10.1093/applin/amag027",
+        "URL": "https://doi.org/10.1093/applin/amag027",
+        "container-title": [
+          "Applied Linguistics"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              5
+            ]
+          ]
+        },
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>As an emerging field of study within second language acquisition (SLA), the notion of grit has gained immediate relevance as it is considered to play a key role in language achievement. Although recent years have witnessed increasing attention to second language (L2) grit due to its merits in foreign/second language learning processes, a comprehensive meta-analysis synthesizing the results of all available studies on the relationship between L2 grit and its frequently associated variables is currently lacking. Therefore, the current meta-analytic study scrutinized the total mean correlation between L2 grit and six main correlates examined in the research domain: foreign language enjoyment, L2 motivation, foreign language anxiety (FLA), ideal L2 self, growth mindset, and teacher support. A total of k = 34 effect sizes were analyzed with an overall sample size of N = 13,068 in random-effects models with correlation coefficients. The findings indicated that L2 motivation is the strongest correlate of L2 grit (r = .58), indicating a large effect size. The other five variables were moderately correlated with L2 grit, with FLA (r = −.47) being the strongest correlate and growth mindset (r = .33) being the weakest correlate. Implications of these findings and directions for future research are discussed.</jats:p>",
+        "link": [
+          {
+            "URL": "https://academic.oup.com/applij/advance-article-pdf/doi/10.1093/applin/amag027/68480816/amag027.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+          },
+          {
+            "URL": "https://academic.oup.com/applij/advance-article-pdf/doi/10.1093/applin/amag027/68480816/amag027.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/applij/advance-article/doi/10.1093/applin/amag027/8703002"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "query": "To What Extent and Under Which Circumstances Are Growth Mind-Sets Important to Academic Achievement Two Meta-Analyses Sisk",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Toward a structure- and process-integrated view of personality Traits as density distributions of states Fleeson",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Narrative identity McAdams McLean 2013",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "The next Big Five Inventory BFI-2 Developing and assessing a hierarchical model with 15 facets Soto John",
+    "matches": [
+      {
+        "title": [
+          "“The next Big Five Inventory (BFI-2): Developing and assessing a hierarchical model with 15 facets to enhance bandwidth, fidelity, and predictive power”: Correction to Soto and John (2016)."
+        ],
+        "DOI": "10.1037/pspp0000155",
+        "URL": "https://doi.org/10.1037/pspp0000155",
+        "container-title": [
+          "Journal of Personality and Social Psychology"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2017,
+              7
+            ]
+          ]
+        },
+        "abstract": null,
+        "link": [
+          {
+            "URL": "https://psycnet.apa.org/journals/psp/113/1/143.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://doi.apa.org/doi/10.1037/pspp0000155"
+          }
+        }
+      },
+      {
+        "title": [
+          "The next Big Five Inventory (BFI-2): Developing and assessing a hierarchical model with 15 facets to enhance bandwidth, fidelity, and predictive power."
+        ],
+        "DOI": "10.1037/pspp0000096",
+        "URL": "https://doi.org/10.1037/pspp0000096",
+        "container-title": [
+          "Journal of Personality and Social Psychology"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2017,
+              7
+            ]
+          ]
+        },
+        "abstract": null,
+        "link": [
+          {
+            "URL": "http://psycnet.apa.org/journals/psp/113/1/117.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://doi.apa.org/doi/10.1037/pspp0000096"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "query": "A national experiment reveals where a growth mindset improves achievement Yeager 2019",
+    "error": "HTTP Error 429: Too Many Requests"
+  }
+]

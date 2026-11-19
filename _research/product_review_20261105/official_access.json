@@ -1,0 +1,17 @@
+[
+  {
+    "id": "CCB_WEALTH",
+    "url": "https://www.ccbwealth.com/",
+    "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+  },
+  {
+    "id": "CCB",
+    "url": "https://www.ccb.com/cn/home/indexv3.html",
+    "error": "<urlopen error [SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1010)>"
+  },
+  {
+    "id": "TREASURY",
+    "url": "https://home.treasury.gov/resource-center-data-chart-center/interest-rates/TextView?type=daily_treasury_bill_rates&field_tdr_date_value=2026",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

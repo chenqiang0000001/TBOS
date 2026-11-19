@@ -1,0 +1,113 @@
+[
+  {
+    "id": "PMI_PMP",
+    "url": "https://www.pmi.org/certifications/project-management-pmp",
+    "retrieved_utc": "2026-11-09T00:50:00.372665+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "PMI_NEW",
+    "url": "https://www.pmi.org/certifications/project-management-pmp/new-exam",
+    "retrieved_utc": "2026-11-09T00:50:00.373664+00:00",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "CHINA_EXAM",
+    "url": "https://event.chinapmp.cn/",
+    "retrieved_utc": "2026-11-09T00:50:00.374778+00:00",
+    "status": 200,
+    "final_url": "https://event.chinapmp.cn:443/PMP/LEAP/pmp/html/index.html",
+    "content_type": "text/html; charset=UTF-8",
+    "links": [
+      {
+        "text": "活动参与",
+        "url": "https://event.chinapmp.cn:443/PMP/LEAP/pmp/html/base_newsList.html?newstype=35"
+      },
+      {
+        "text": "登录注册  SIGN UP/SIGN IN",
+        "url": "javaScript:;"
+      },
+      {
+        "text": "关于考试  About Examinations",
+        "url": "https://event.chinapmp.cn:443/PMP/LEAP/pmp/html/base_newsList.html?newstype=18"
+      },
+      {
+        "text": "报名指南  Application guidelines",
+        "url": "https://event.chinapmp.cn/PMP/LEAP/Download/AddressBookPhoto/PMP_OperationManual(Examinee).pdf"
+      },
+      {
+        "text": "证书查询",
+        "url": "https://event.chinapmp.cn:443/PMP/LEAP/pmp/html/certificateSearch.html"
+      },
+      {
+        "text": "more",
+        "url": "https://event.chinapmp.cn:443/PMP/LEAP/pmp/html/base_newsList.html?newstype=2"
+      },
+      {
+        "text": "",
+        "url": "https://event.chinapmp.cn:443/PMP/LEAP/pmp/html/index.html"
+      },
+      {
+        "text": "more",
+        "url": "https://event.chinapmp.cn:443/PMP/LEAP/pmp/html/base_newsList.html?newstype=1"
+      },
+      {
+        "text": "",
+        "url": "https://event.chinapmp.cn:443/PMP/LEAP/pmp/html/index.html"
+      },
+      {
+        "text": "",
+        "url": "https://event.chinapmp.cn:443/PMP/LEAP/pmp/html/index.html"
+      },
+      {
+        "text": "more",
+        "url": "https://event.chinapmp.cn:443/PMP/LEAP/pmp/html/index.html"
+      },
+      {
+        "text": "",
+        "url": "https://event.chinapmp.cn:443/PMP/LEAP/pmp/html/index.html"
+      },
+      {
+        "text": "",
+        "url": "https://www.citef.org.cn/CITEF/LEAP/citef/html/politicalParty_education.html"
+      },
+      {
+        "text": "",
+        "url": "javascript:void('0')"
+      },
+      {
+        "text": "",
+        "url": "javascript:void('0')"
+      },
+      {
+        "text": "more",
+        "url": "https://event.chinapmp.cn:443/PMP/LEAP/pmp/html/recommendedBooks.html"
+      },
+      {
+        "text": "",
+        "url": "https://event.chinapmp.cn:443/PMP/LEAP/pmp/html/index.html"
+      },
+      {
+        "text": "more",
+        "url": "https://event.chinapmp.cn:443/PMP/LEAP/pmp/html/static_certificationIntroduction.html"
+      },
+      {
+        "text": "",
+        "url": "javaScript:;"
+      },
+      {
+        "text": "",
+        "url": "https://chinanpdp.cn"
+      },
+      {
+        "text": "",
+        "url": "https://crmoexam.cn/"
+      },
+      {
+        "text": "",
+        "url": "https://dmaexam.cn"
+      }
+    ],
+    "text_chars": 187
+  }
+]

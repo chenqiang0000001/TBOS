@@ -1,0 +1,82 @@
+{
+  "id": "P05",
+  "doi": "10.1073/pnas.1908430116",
+  "title": "A century of research on conscientiousness at work",
+  "abstract": "> 2,500 studies, we present the most comprehensive, quantitative review and synthesis of the occupational effects of C available in the literature. Results show C has effects in a desirable direction for 98% of variables and a grand mean of [Formula: see text] (SD = 0.13), indicative of a potent, pervasive influence across occupational variables. Using the top 33% of effect sizes [Formula: see text] we synthesize 10 characteristic themes of C's occupational functioning: 1) motivation for goal-directed performance, 2) preference for more predictable environments, 3) interpersonal responsibility for shared goals, 4) commitment, 5) perseverance, 6) self-regulatory restraint to avoid counterproductivity, and 7) proficient performance-especially for 8) conventional goals, 9) requiring persistence. Finally, we examine C's relation to performance across 8 occupations. Results indicate that occupational complexity moderates this relation. That is, 10) high occupational complexity versus low-to-moderate occupational complexity attenuates the performance effect of C. Altogether, results suggest that goal-directed performance is fundamental to C and that motivational engagement, behavioral restraint, and environmental predictability influence its optimal occupational expression. We conclude by discussing applied and policy implications of our findings.",
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://www.pnas.org/content/pnas/116/46/23004.full.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "locations": [
+    "https://doi.org/10.1073/pnas.1908430116",
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/6859351",
+    "https://pubmed.ncbi.nlm.nih.gov/31666330"
+  ],
+  "pdfs": [
+    "https://www.pnas.org/content/pnas/116/46/23004.full.pdf"
+  ],
+  "crossref": {
+    "title": [
+      "A century of research on conscientiousness at work"
+    ],
+    "abstract": "<jats:title>Significance</jats:title>\n                  <jats:p>\n                    Conscientiousness (C) is the most potent noncognitive predictor of occupational performance. However, questions remain about how C relates to a plethora of occupational variables, what its defining characteristics and functions are in occupational settings, and whether its performance relation differs across occupations. To answer these questions, we quantitatively review 92 meta-analyses reporting relations to 175 occupational variables. Across variables, results reveal a substantial mean effect of\n                    <jats:inline-formula>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:mrow>\n                          <mml:msub>\n                            <mml:mrow>\n                              <mml:mover accent=\"true\">\n                                <mml:mo>ρ</mml:mo>\n                                <mml:mo>¯</mml:mo>\n                              </mml:mover>\n                            </mml:mrow>\n                            <mml:mi mathvariant=\"italic\">M</mml:mi>\n                          </mml:msub>\n                          <mml:mo>=</mml:mo>\n                          <mml:mn>20</mml:mn>\n                          <mml:mo>.</mml:mo>\n                        </mml:mrow>\n                      </mml:math>\n                    </jats:inline-formula>\n                    We then use results to synthesize 10 themes that characterize C in occupational settings. Finally, we discover that performance effects of C are weaker in high-complexity versus low- to moderate-complexity occupations. Thus, for optimal occupational performance, we encourage decision makers to match C’s goal-directed motivation and behavioral restraint to more predictable environments.\n                  </jats:p>",
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          10,
+          30
+        ]
+      ]
+    },
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-3062-7651",
+        "authenticated-orcid": false,
+        "given": "Michael P.",
+        "family": "Wilmot",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Management, University of Toronto Scarborough, Toronto, ON M1C 1A4, Canada;"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1739-8951",
+        "authenticated-orcid": false,
+        "given": "Deniz S.",
+        "family": "Ones",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Psychology, University of Minnesota, Minneapolis, MN 55455"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "URL": "https://doi.org/10.1073/pnas.1908430116",
+    "link": [
+      {
+        "URL": "https://pnas.org/doi/pdf/10.1073/pnas.1908430116",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ]
+  }
+}

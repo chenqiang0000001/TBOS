@@ -1,0 +1,10 @@
+{
+  "full_name": "logseq/logseq",
+  "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
+  "html_url": "https://github.com/logseq/logseq",
+  "homepage": "https://logseq.com",
+  "updated_at": "2026-11-05T00:18:29Z",
+  "pushed_at": "2026-11-04T23:54:50Z",
+  "archived": false,
+  "default_branch": "master"
+}

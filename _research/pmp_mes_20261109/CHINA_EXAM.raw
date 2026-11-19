@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Security-Policy" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta name="keywords" content="中国国际人才交流基金会、基金会"/>
+    <meta name="description"
+          content="中国国际人才交流基金会（以下简称“基金会”）是经中国政府批准、为促进国际人才交流与合作提供基金支持和相关服 务的非盈利机构，受中华人民共和国人力资源和社会保障部管理和指导。基金来源于政府拨款和社会捐赠，用以支持和推动中国各级政府、企业、研发机构、 大专院校和各类社会组织开展相关的国际人才交流与合作。"/>
+    <link href="https://download.yxybb.com/project/LPSC/images/home/ctef.ico" type="image/ico" rel="shortcut icon">
+    <title>项目管理系列专业人士认证-首页</title>
+    <link rel="stylesheet" href="../webpkg/css/swiper.css">
+    <link rel="stylesheet" href="../webpkg/css/main.css">
+    <link rel="stylesheet" href="../webpkg/css/index.css">
+    <link rel="stylesheet" href="../webpkg/css/layout.css">
+    <script src="../weblib/promise.js"></script>
+    <style>
+        .grid-panel {
+            display: inline-block;
+            vertical-align: top;
+            padding: 20px 12px;
+            box-sizing: border-box;
+        }
+        .floating-box {
+            cursor: pointer;
+            width: 100px; /* 设置色块的宽度 */
+            height: 100px; /* 设置色块的高度 */
+            background-color: #3498db; /* 设置色块的背景颜色 */
+            position: fixed; /* 使用固定定位 */
+            right: 150px;
+            bottom: 90px;
+            border-radius: 50%;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); /* 添加阴影效果 */
+            z-index: 1000; /* 确保色块在其他内容之上 */
+        }
+    </style>
+</head>
+
+<body>
+<div class="page">
+    <div ms-controller="header" ms-html="@header"></div>
+    <div class="page-section" ms-controller="index">
+        <div class="page-mid">
+
+            <div class="floating-box">
+                <a href="base_newsList.html?newstype=35">
+                    <img style="margin: 23px 0px 0px 37px;position: absolute;" src="https://1.tel.jtzyzg.org.cn/allvideos/yxy/tiadlongrise/ltpu/images/common/back.png" alt="活动参与" class="v-m">
+                    <span style="color: white;font-weight: bolder;top: 20px;color: white;font-weight: bolder;margin: 35px 0px 20px 20px;position: absolute;">活动参与</span>
+                </a>
+            </div>
+
+            <div class="grid-item w24" >
+                <ul class="menu">
+                    <li class="menu-item" ms-controller="header" >
+                        <a class="menu-item-wrap" href="javaScript:;" :click="popbox_login('index',1)">
+                            <img src="http://download.yxybb.com/project/CTEF/PMP/images/menu1.png" alt="">
+                            <span class="menu-item-info">
+                              <b>登录注册</b>
+                              <span>SIGN UP/SIGN IN</span>
+                            </span>
+                        </a>
+                    </li>
+                    <li class="menu-item">
+                        <a class="menu-item-wrap" href="base_newsList.html?newstype=18">
+                            <img src="http://download.yxybb.com/project/CTEF/PMP/images/menu2.png" alt="">
+                            <span class="menu-item-info">
+                              <b>关于考试</b>
+                              <span>About Examinations</span>
+                            </span>
+                        </a>
+                    </li>
+                    <li class="menu-item">
+                        <a class="menu-item-wrap" target="_blank" href="https://event.chinapmp.cn/PMP/LEAP/Download/AddressBookPhoto/PMP_OperationManual(Examinee).pdf" rel="noopener noreferrer">
+                            <img src="http://download.yxybb.com/project/CTEF/PMP/images/menu3.png" alt="">
+                            <span class="menu-item-info">
+                              <b>报名指南</b>
+                              <span>Application guidelines</span>
+                            </span>
+                        </a>
+                    </li>
+                    <li class="menu-item" ms-controller="header">
+                        <!--:click="goExam()"-->
+
+                        <a class="menu-item-wrap"  href="certificateSearch.html">
+                            <img src="http://download.yxybb.com/project/CTEF/PMP/images/menu4.png" alt="">
+                            <span class="menu-item-info">
+                              <b>证书查询</b>
+                              <span></span>
+                            </span>
+                        </a>
+
+                        <!--<a class="menu-item-wrap"  href="javascript:void(0)" :click="goExam()">
+                            <img src="http://download.yxybb.com/project/CTEF/PMP/images/menu4.png" alt="">
+                            <span class="menu-item-info">
+                              <b>考生报名</b>
+                              <span>Candidate registration</span>
+                            </span>
+                        </a>-->
+                    </li>
+                </ul>
+            </div>
+
+<!--            新闻和机构部分-->
+<!--            新闻-->
+            <div class="grid-item w17">
+                <div class="panel">
+                    <div class="panel-head">
+                        <div class="panel-head-prefix">
+                            <h2 class="panel-title">通知公告</h2>
+                        </div>
+                        <div class="panel-head-suffix">
+                            <a href="base_newsList.html?newstype=2" class="panel-more">more</a>
+                        </div>
+                    </div>
+                    <div class="panel-content">
+                        <ul class="list" style="min-height: 256px" :visible="@NotesList.length>0">
+                            <!-- 有class new时 有"new"标志 -->
+                            <!-- 有class hot时 有"火苗"标志 -->
+                            <li style="margin-bottom: 20px" :for="($index,el) in NotesList">
+                                <div :class="$index<=2? 'list-item hot new':'list-item'">
+                                    <div class="list-item-core">
+                                        <a :text="el.title" :attr="{href:el.href}" :class="$index<=2? '':'textlength'"></a>
+                                    </div>
+                                    <span :text="el.entrytime|truncate(10,'')"></span>
+                                </div>
+                            </li>
+                        </ul>
+                        <div class="no-msg" :visible="@NotesList.length<=0" style="text-align: center;padding: 30px 0;">
+                            <img src="http://download.yxybb.com/project/CTEF/PMP/images/no-msg-icon.png" alt="">
+                            <p>暂无数据</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="panel" style="margin-top: 30px;">
+                    <div class="panel-head">
+                        <div class="panel-head-prefix">
+                            <h2 class="panel-title">工作动态</h2>
+                        </div>
+                        <div class="panel-head-suffix">
+                            <a href="base_newsList.html?newstype=1" class="panel-more">more</a>
+                        </div>
+                    </div>
+                    <div class="panel-content">
+                        <div class="flex-h">
+                            <div style="width:310px;margin-right: 16px;" :visible="@midScroll.length>0">
+                                <div class="swiper-container swiper-news" style="width: 310px;height: 185px">
+                                    <div class="swiper-wrapper">
+                                        <div class="swiper-slide" :for="el in midScroll">
+                                            <a :attr="{href:el.href}" >
+                                            <img :attr="{src:cutoutUrl+el.imgtitle}" alt="">
+                                            <a :attr="{href:el.href}" class="swiper-news-summary" :text="el.title|truncate(32,'...')"></a>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-pagination swiper-news-pagination"></div>
+                                </div>
+                            </div>
+                            <div class="flex-1">
+                                <ul class="list order" :visible="@newsList.length>0">
+                                    <li class="list-item" :for="($index,el) in newsList">
+                                        <span :class="$index<=2?'listNum acitive':'listNum'" :text="$index+1"></span>
+                                        <div class="list-item-core">
+                                            <a :attr="{href:el.href}" :text="el.title|truncate(35,'...')"></a>
+                                        </div>
+                                        <span :text="el.entrytime|truncate(11,'')"></span>
+                                    </li>
+                                </ul>
+                                <div class="no-msg" :visible="@newsList.length<=0" style="text-align: center;">
+                                    <img src="http://download.yxybb.com/project/CTEF/PMP/images/no-msg-icon.png" alt="">
+                                    <p>暂无数据</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!--机构-->
+            <div class="grid-item w7 cooperate-box">
+                <div class="panel">
+                    <div class="panel-head">
+                        <div class="panel-head-prefix">
+                            <h2 class="panel-title" :click="cooperChange(2,$event)">考试机构</h2>
+                            <div class="v-line" style="margin: 0px 5px 0px 5px;">|</div>
+                            <h2 class="panel-title dark" :click="cooperChange(1,$event)">培训机构</h2>
+                        </div>
+                        <div class="panel-head-suffix">
+                            <a :attr="{href:cooperateTurn}" class="panel-more">more</a>
+                        </div>
+                    </div>
+                    <div class="panel-content">
+                        <ul class="list type2" style="padding:20px;box-shadow: 0 0 15px rgba(0,0,0,.05);" :visible="@getcooperList.length>0">
+                            <li class="list-item" :for="el in getcooperList">
+                                <div class="list-item-core">
+                                    <a :attr="{href:el.href}" :text="el.title"></a>
+                                </div>
+                            </li>
+                        </ul>
+                        <div class="no-msg" :visible="!@getcooperList" style="text-align: center;margin-top:145px;">
+                            <img src="http://download.yxybb.com/project/CTEF/PMP/images/no-msg-icon.png" alt="">
+                            <p>暂无数据</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <!--banner和服务平台-->
+
+            <!--<div class="grid-item w24 banner_pic">
+                <a href="https://event.chinapmp.cn/PMP/LEAP/pmp/html/base_newsDetail.html?newstype=1&newsid=e2704c15e1ad4c7cb63facb9028c123d" target="_blank" class="flex-h" rel="noopener noreferrer">
+                    <img src="https://download.yxybb.com/project/CTEF/PMP/images/banner2025.jpg" alt="">
+                </a>
+            </div>-->
+
+            <div id ="mid_banner" class="grid-panel swiper-container swiper-banner" span="24" style="width: 98%;margin-left: 15px;padding: 20px 0px;height: 180px;">
+                <div class="swiper-wrapper" >
+                    <div class="banner swiper-slide" style="width: 1320px!important;">
+                        <a href="https://www.citef.org.cn/CITEF/LEAP/citef/html/politicalParty_education.html">
+                            <img src="http://download.yxybb.com/project/CTEF/CITEF/images/banner2.png" alt="" >
+                        </a>
+                    </div>
+                    <div class="banner swiper-slide" style="width: 1320px!important;">
+                        <a href="javascript:void('0')" style="cursor: default">
+                            <img src="http://download.yxybb.com/project/CTEF/CITEF/images/mid_banner1.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="banner swiper-slide" style="width: 1320px!important;">
+                        <a href="javascript:void('0')" style="cursor: default">
+                            <img src="https://download.yxybb.com/project/CTEF/CITEF/images/djxuexi.png" alt="" style="height: 120px;">
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 服务平台-->
+            <!--2022/10/18 暂时隐藏-->
+            <!--<div class="grid-item w24">
+                <div class="panel">
+                    <div class="panel-head">
+                        <div class="panel-head-prefix">
+                            <h2 class="panel-title">服务平台</h2>
+                        </div>
+                        <div class="panel-head-content">
+                            <ul class="tab tabList" id="tab1">
+                                <li class="tab-item active" :click="tabChange(0,$event)">活动参与</li>
+                                <li class="tab-item" style="cursor: default" onclick="return alert('暂未开放，敬请期待')">继续教育</li>
+                                <li class="tab-item" style="cursor: default" onclick="return alert('暂未开放，敬请期待')">课程资源</li>
+                                <li class="tab-item" :click="tabChange(3,$event)">推荐图书</li>
+                            </ul>
+                        </div>
+                        <div class="panel-head-suffix">
+                            <a :attr="{href:tabHref}" class="panel-more">more</a>
+                        </div>
+                    </div>
+                    <div class="panel-content">
+                        <div class="tab-view" id="tab-view1">
+                            <div class="tab-view-item active">
+                                <ul class="gallery" :visible="@activityList && @activityList.length>0">
+                                    <li class="gallery-item" :for="el in activityList">
+                                        <a :attr="{href:el.href}" class="gallery-item-wrap">
+                                            <img  :attr="{src:el.picturl}" alt="">
+                                            <span class="gallery-item-content">
+                                              <b :text="el.title|truncate(15,'...')"></b>
+                                              <span :text="el.newscontent|truncate(50,'...')"></span>
+                                            </span>
+                                        </a>
+                                    </li>
+
+                                </ul>
+                                <div class="no-msg" :visible="!@activityList || @activityList.length <=0" style="text-align: center;">
+                                    <img src="http://download.yxybb.com/project/CTEF/PMP/images/no-msg-icon.png" alt="">
+                                    <p>暂无数据</p>
+                                </div>
+                            </div>
+
+                        &lt;!&ndash;继续教育&ndash;&gt;
+                            <div class="tab-view-item" >继续教育</div>
+
+                        &lt;!&ndash;课程资源&ndash;&gt;
+                            <div class="tab-view-item" >课程资源</div>
+
+                        &lt;!&ndash;推荐书籍&ndash;&gt;
+                            <div class="tab-view-item">
+                                <div class="bookList-box">
+                                    <ul class="gallery booklist"  :visible="@booklist && @booklist.length>0">
+                                        <li class="gallery-item" :for="el in booklist">
+                                            <a :attr="{href:'recommendedBooksDetail.html?id='+el.id,title:el.bookname}" class="gallery-item-wrap">
+                                                <img :attr="{src:cutoutUrl+el.bimagesrc}" alt="" style="width: 150px">
+                                                <span class="gallery-item-content">
+                                                  <b :text="el.bookname|truncate(19,'...')"></b>
+                                                </span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                    <div class="no-msg" :visible="!@booklist || @booklist.length <=0" style="text-align: center;">
+                                        <img src="http://download.yxybb.com/project/CTEF/PMP/images/no-msg-icon.png" alt="">
+                                        <p>暂无数据</p>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>-->
+
+
+<!--            参考书籍，下载专区，其他认证项目-->
+<!--            1课程新闻-->
+<!--            <div class="grid-item w8">-->
+<!--                <div class="panel">-->
+<!--                    <div class="panel-head">-->
+<!--                        <div class="panel-head-prefix">-->
+<!--                            <h2 class="panel-title">课程新闻</h2>-->
+<!--                        </div>-->
+<!--                        <div class="panel-head-suffix">-->
+<!--                            <a href="base_newsList.html?newstype=15" class="panel-more">more</a>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class="panel-content">-->
+<!--                        <ul class="list" style="padding:20px;box-shadow: 0 0 15px rgba(0,0,0,.05);" :visible="@classNewsList.length>0" >-->
+<!--                            <li class="list-item" :for="el in classNewsList" :visible="@classNewsList.length>0">-->
+<!--                                <div class="list-item-core">-->
+<!--                                    <a :attr="{href:el.href}" :text="el.title|truncate(30,'...')"></a>-->
+<!--                                </div>-->
+<!--                            </li>-->
+<!--                        </ul>-->
+<!--                        <div class="no-msg" :visible="@classNewsList.length<=0" style="text-align: center;padding: 60px 0;">-->
+<!--                            <img src="http://download.yxybb.com/project/CTEF/PMP/images/no-msg-icon.png" alt="">-->
+<!--                            <p>暂无数据</p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            1参考书籍-->
+            <div class="grid-item w8">
+                <div class="panel">
+                    <div class="panel-head">
+                        <div class="panel-head-prefix">
+                            <h2 class="panel-title">参考书籍</h2>
+                        </div>
+                        <div class="panel-head-suffix">
+                            <a href="recommendedBooks.html" class="panel-more">more</a>
+                        </div>
+                    </div>
+                    <div class="panel-content" >
+                        <ul class="people-list" :visible="booklist.length>0">
+                            <li :for="el in booklist">
+                                <a >
+                                    <img class="people-avatar" :attr="{src:cutoutUrl+el.bimagesrc}" alt="">
+                                    <div class="people-info">
+                                        <p :text="el.bookname"></p>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="no-msg" :visible="booklist.length<=0" style="text-align: center;margin-top:75px;">
+                            <img src="http://download.yxybb.com/project/CTEF/PMP/images/no-msg-icon.png" alt="">
+                            <p>暂无数据</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+<!--            2下载专区-->
+            <div class="grid-item w8">
+                <div class="panel">
+                    <div class="panel-head">
+                        <div class="panel-head-prefix">
+                            <h2 class="panel-title">下载专区</h2>
+                        </div>
+                        <div class="panel-head-suffix">
+                            <a href="static_certificationIntroduction.html" class="panel-more">more</a>
+                        </div>
+                    </div>
+                    <div class="panel-content">
+                        <ul class="list" style="padding:20px;box-shadow: 0 0 15px rgba(0,0,0,.05);" :visible="@downlist.length>0" >
+                            <li class="list-item" :for="el in downlist">
+                                <div class="list-item-core">
+<!--                                    <a :attr="{href:el.attachments}" target="_blank" rel="noopener" :text="el.title|truncate(30,'...')" rel="noopener noreferrer"></a>-->
+                                    <a href="javaScript:;" :click="turnDown(el)" rel="noopener" :text="el.title|truncate(30,'...')" ></a>
+                                </div>
+                            </li>
+                        </ul>
+                        <div class="no-msg" :visible="@downlist.length<=0" style="text-align: center;padding: 60px 0;">
+                            <img src="http://download.yxybb.com/project/CTEF/PMP/images/no-msg-icon.png" alt="">
+                            <p>暂无数据</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+<!--            3认证师资-->
+<!--            <div class="grid-item w8">-->
+<!--                <div class="panel">-->
+<!--                    <div class="panel-head">-->
+<!--                        <div class="panel-head-prefix">-->
+<!--                            <h2 class="panel-title">认证师资</h2>-->
+<!--                        </div>-->
+<!--                        <div class="panel-head-suffix">-->
+<!--                            <a href="knowledgeSharing.html" class="panel-more">more</a>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class="panel-content">-->
+<!--                        <ul class="people-list"  :visible="teacher.length>0">-->
+<!--                            <li :for="el in teacher">-->
+<!--                                <a :attr="{href:'teacherDetail.html?id='+el.id}">-->
+<!--                                <img class="people-avatar" :attr="{src:cutoutUrl+el.teacherpicsrc}" alt="">-->
+<!--                                <div class="people-info">-->
+<!--                                    <h3 :text="el.teachername"></h3>-->
+<!--                                    <span>-->
+<!--                                        <span :text="el.trainstyle|truncate(34,'......')"></span>-->
+<!--                                        <span :attr="{href:'teacherDetail.html?id='+el.id}" class="view-detail">【详情】</span>-->
+<!--                                    </span>-->
+<!--                                </div>-->
+<!--                                </a>-->
+<!--                            </li>-->
+<!--                        </ul>-->
+<!--                        <div class="no-msg" :visible="teacher.length<=0" style="text-align: center;margin-top:75px;">-->
+<!--                            <img src="http://download.yxybb.com/project/CTEF/PMP/images/no-msg-icon.png" alt="">-->
+<!--                            <p>暂无数据</p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            3其他认证项目-->
+            <div class="grid-item w8">
+                <div class="panel">
+                    <div class="panel-head">
+                        <div class="panel-head-prefix">
+                            <h2 class="panel-title">其他认证项目</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel-content" style="display: flex;flex-wrap: wrap;">
+                    <a class="panel-project" href="https://chinanpdp.cn" target="_blank" rel="noopener noreferrer">
+                        <img src="http://download.yxybb.com/project/CTEF/PMP/images/right_icon_npdp.png"/>
+                    </a>
+                  <!--  <a class="panel-project" href="https://chinashrm.cn" target="_blank" rel="noopener noreferrer">
+                        <img src="http://download.yxybb.com/project/CTEF/PMP/images/right_icon_shrm.png"/>
+                    </a>-->
+                    <a class="panel-project" href="https://crmoexam.cn/" target="_blank" rel="noopener noreferrer">
+                        <img src="http://download.yxybb.com/project/CTEF/PMP/images/right_icon_cfrm.png"/>
+                    </a>
+                    <a class="panel-project" href="https://dmaexam.cn" target="_blank" rel="noopener noreferrer">
+                        <img src="http://download.yxybb.com/project/CTEF/PMP/images/right_icon_dma.png"/>
+                    </a>
+                    <!--<a class="panel-project" href="https://www.dlexam.cn" target="_blank" rel="noopener noreferrer">
+                        <img src="http://download.yxybb.com/project/CTEF/PMP/images/right_icon_dl.png"/>
+                    </a>-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div ms-controller="footer" ms-html="@footer" class="page-main"></div>
+</div>
+<script src="../weblib/require.js" data-main="../webpkg/init/index-ac492b6378.init"></script>
+
+</body>
+
+
+</html>

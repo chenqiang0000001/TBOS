@@ -1,0 +1,318 @@
+Stability and Change of Personality across the Life Course: The Impact of Age and Major Life Events on Mean-Level and Rank-Order Stability of the Big Five
+-->
+-->
+-->
+Advanced search
+Economic literature: papers , articles , software , chapters , books .
+Authors
+Institutions
+Rankings
+Help/FAQ
+MyIDEAS
+More options at page bottom
+Economic literature
+Authors
+Institutions
+Rankings
+Help/FAQ
+MyIDEAS (now improved)
+-->
+Advanced search
+Browse Econ Literature
+Working papers
+Journals
+Software components
+Books
+Book chapters
+JEL classification
+More features
+Subscribe to new research
+RePEc Biblio
+Author registration
+Economics Virtual Seminar Calendar
+ConfWatcher NEW!
+Printed from https://ideas.repec.org/p/diw/diwsop/diw_sp377.html
+My bibliography
+Save this paper
+Stability and Change of Personality across the Life Course: The Impact of Age and Major Life Events on Mean-Level and Rank-Order Stability of the Big Five
+Author & abstract
+Download
+1 Reference
+152 Citations
+Most related
+Related works & more
+Corrections
+Author
+Listed:
+Jule Specht
+Boris Egloff
+Stefan C. Schmukle
+Registered:
+Abstract
+Does personality change across the entire life course, and are those changes due to intrinsic maturation or major life experiences? This longitudinal study investigated changes in the mean levels and rank order of the Big Five personality traits in a heterogeneous sample of 14,718 Germans across all of adulthood. Latent change and latent moderated regression models provided four main findings: First, age had a complex curvilinear influence on mean levels of personality. Second, the rank-order stability of Emotional Stability, Extraversion, Openness, and Agreeableness all followed an inverted U-shaped function, reaching a peak between the ages of 40 and 60, and decreasing afterwards, whereas Conscientiousness showed a continuously increasing rank-order stability across adulthood. Third, personality predicted the occurrence of several objective major life events (selection effects) and changed in reaction to experiencing these events (socialization effects), suggesting that personality can change due to factors other than intrinsic maturation.. - Fourth, when events were clustered according to their valence, as is commonly done,. - effects of the environment on changes in personality were either overlooked or. - overgeneralized. In sum, our analyses show that personality changes throughout the life. - span, but with more pronounced changes in young and old ages, and that this change is. - partly attributable to social demands and experiences.
+Suggested Citation
+Jule Specht & Boris Egloff & Stefan C. Schmukle, 2011.
+" Stability and Change of Personality across the Life Course: The Impact of Age and Major Life Events on Mean-Level and Rank-Order Stability of the Big Five ,"
+SOEPpapers on Multidisciplinary Panel Data Research
+377, DIW Berlin, The German Socio-Economic Panel (SOEP).
+Handle: RePEc:diw:diwsop:diw_sp377
+as
+HTML
+HTML with abstract
+plain text
+plain text with abstract
+BibTeX
+RIS (EndNote, RefMan, ProCite)
+ReDIF
+JSON
+Download full text from publisher
+File URL: https://www.diw.de/documents/publikationen/73/diw_01.c.372623.de/diw_sp0377.pdf
+Download Restriction: no
+--->
+References listed on IDEAS
+as
+HTML
+HTML with abstract
+plain text
+plain text with abstract
+BibTeX
+RIS (EndNote, RefMan, ProCite)
+ReDIF
+JSON
+Lang, Frieder R. & John, Dennis & Lüdtke, Oliver & Schupp, Jürgen & Wagner, Gert G., 2011.
+" Short Assessment of the Big Five: Robust Across Survey Methods Except Telephone Interviewing ,"
+EconStor Open Access Articles and Book Chapters , ZBW - Leibniz Information Centre for Economics, vol. 43(2), pages 548-567.
+Full references (including those not matched with items on IDEAS)
+Most related items
+These are the items that most often cite the same works as this one and are cited by the same works as this one.
+Cabane, Charlotte & Hille, Adrian & Lechner, Michael, 2015.
+" Mozart or Pelé? The effects of teenagers’ participation in music and sports ,"
+Economics Working Paper Series
+1509, University of St. Gallen, School of Economics and Political Science.
+Cabane, Charlotte & Hille, Adrian & Lechner, Michael, 2015.
+" Mozart or Pelé? The Effects of Teenagers' Participation in Music and Sports ,"
+IZA Discussion Papers
+8987, IZA Network @ LISER.
+Charlotte Cabane & Adrian Hille & Michael Lechner, 2015.
+" Mozart or Pelé? The Effects of Teenagers' Participation in Music and Sports ,"
+SOEPpapers on Multidisciplinary Panel Data Research
+749, DIW Berlin, The German Socio-Economic Panel (SOEP).
+Fabian Kosse & Thomas Deckers & Pia Pinger & Hannah Schildberg-Hörisch & Armin Falk, 2020.
+" The Formation of Prosociality: Causal Evidence on the Role of Social Environment ,"
+Journal of Political Economy , University of Chicago Press, vol. 128(2), pages 434-467.
+Fabian Kosse & Thomas Deckers & Hannah Schildberg-Horisch & Armin Falk, 2016.
+" The Formation of Prosociality: Causal Evidence on the Role of Social Environment ,"
+Working Papers
+2016-011, Human Capital and Economic Opportunity Working Group.
+Fabian Kosse & Thomas Deckers & Pia Pinger & Hannah Schildberg-Hörisch & Armin Falk, 2018.
+" The Formation of Prosociality: Causal Evidence on the Role of Social Environment ,"
+CESifo Working Paper Series
+7068, CESifo.
+Kosse, Fabian & Deckers, Thomas & Schildberg-Hörisch, Hannah & Falk, Armin, 2017.
+" The formation of prosociality: Causal evidence on the role of social environment ,"
+DICE Discussion Papers
+266, Heinrich Heine University Düsseldorf, Düsseldorf Institute for Competition Economics (DICE).
+Fabian Kosse & Thomas Deckers & Hannah Schildberg-Hörisch & Armin Falk, 2016.
+" The Formation of Prosociality: Causal Evidence on the Role of Social Environment ,"
+SOEPpapers on Multidisciplinary Panel Data Research
+840, DIW Berlin, The German Socio-Economic Panel (SOEP).
+Fabian Kosse & Thomas Deckers & Pia Pinger & Hannah Schildberg-Horisch & Armin Falk, 2018.
+" The Formation of Prosociality: Causal Evidence on the Role of Social Environment ,"
+Working Papers
+2018-025, Human Capital and Economic Opportunity Working Group.
+Kosse, Fabian & Deckers, Thomas & Pinger, Pia & Schildberg-Hörisch, Hannah & Falk, Armin, 2019.
+" The Formation of Prosociality: Causal Evidence on the Role of Social Environment ,"
+Rationality and Competition Discussion Paper Series
+167, CRC TRR 190 Rationality and Competition.
+Kosse, Fabian & Deckers, Thomas & Pinger, Pia & Schildberg-Hoerisch, Hannah & Falk, Armin, 2020.
+" The Formation of Prosociality: Causal Evidence on the Role of Social Environment ,"
+Munich Reprints in Economics
+84772, University of Munich, Department of Economics.
+Fabian Kosse & Thomas Deckers & Pia Pinger & Hannah Schildberg-Hörisch & Armin Falk, 2018.
+" The Formation of Prosociality: Causal Evidence on the Role of Social Environment ,"
+CRC TR 224 Discussion Paper Series
+crctr224_2018_013, University of Bonn and University of Mannheim, Germany.
+Kosse, Fabian & Deckers, Thomas & Schildberg-Hörisch, Hannah & Falk, Armin, 2016.
+" The Formation of Prosociality: Causal Evidence on the Role of Social Environment ,"
+IZA Discussion Papers
+9861, IZA Network @ LISER.
+Beatrice Rammstedt & Frank M. Spinath & David Richter & Jürgen Schupp, 2013.
+" Personality Changes in Couples: Partnership Longevity and Personality Congruence in Couples ,"
+SOEPpapers on Multidisciplinary Panel Data Research
+585, DIW Berlin, The German Socio-Economic Panel (SOEP).
+Buser, Thomas & Sangi, Sahar, 2025.
+" Willingness to Compete in Dirty Competitions ,"
+IZA Discussion Papers
+17676, IZA Network @ LISER.
+Thomas Buser & Sahar Sangi, 2025.
+" Willingness to Compete in Dirty Competitions ,"
+Tinbergen Institute Discussion Papers
+25-007/I, Tinbergen Institute.
+Budría, Santiago & Ferrer-i-Carbonell, Ada, 2012.
+" Income Comparisons and Non-Cognitive Skills ,"
+IZA Discussion Papers
+6419, IZA Network @ LISER.
+Santi Budria & Ada Ferrer-i-Carbonell, 2015.
+" Income Comparisons and Non-Cognitive Skills ,"
+Working Papers
+733, Barcelona School of Economics.
+Santi Budria & Ada Ferrer-i-Carbonell, 2012.
+" Income Comparisons and Non-cognitive Skills ,"
+SOEPpapers on Multidisciplinary Panel Data Research
+441, DIW Berlin, The German Socio-Economic Panel (SOEP).
+Georges Steffgen & Philipp E. Sischka & Martha Fernandez de Henestrosa, 2020.
+" The Quality of Work Index and the Quality of Employment Index: A Multidimensional Approach of Job Quality and Its Links to Well-Being at Work ,"
+IJERPH , MDPI, vol. 17(21), pages 1-31, October.
+Ruud Gerards & Sanne Wetten & Cecile Sambeek, 2021.
+" New ways of working and intrapreneurial behaviour: the mediating role of transformational leadership and social interaction ,"
+Review of Managerial Science , Springer, vol. 15(7), pages 2075-2110, October.
+Hille, Adrian & Schupp, Jürgen, 2015.
+" How Learning a Musical Instrument Affects the Development of Skills ,"
+EconStor Open Access Articles and Book Chapters , ZBW - Leibniz Information Centre for Economics, vol. 44, pages 56-82.
+Hille, Adrian & Schupp, Jürgen, 2015.
+" How learning a musical instrument affects the development of skills ,"
+Economics of Education Review , Elsevier, vol. 44(C), pages 56-82.
+Hille, Adrian & Schupp, Jürgen, 2013.
+" How learning a musical instrument affects the development of skills ,"
+VfS Annual Conference 2013 (Duesseldorf): Competition Policy and Regulation in a Global Economic Order
+79801, Verein für Socialpolitik / German Economic Association.
+Hille, Adrian & Schupp, Jürgen, 2013.
+" How Learning a Musical Instrument Affects the Development of Skills ,"
+IZA Discussion Papers
+7655, IZA Network @ LISER.
+Adrian Hille & Jürgen Schupp, 2013.
+" How Learning a Musical Instrument Affects the Development of Skills ,"
+SOEPpapers on Multidisciplinary Panel Data Research
+591, DIW Berlin, The German Socio-Economic Panel (SOEP).
+Gerards, Ruud & de Grip, Andries & Weustink, A., 2018.
+" Do new ways of working increase informal learning? ,"
+Research Memorandum
+010, Maastricht University, Graduate School of Business and Economics (GSBE).
+Gerards, Ruud & de Grip, Andries & Weustink, A., 2018.
+" Do new ways of working increase informal learning? ,"
+ROA Research Memorandum
+001, Maastricht University, Research Centre for Education and the Labour Market (ROA).
+Bernd Fitzenberger & Gary Mena & Jan Nimczik & Uwe Sunde, 2022.
+" Personality Traits Across the Life Cycle: Disentangling Age, Period and Cohort Effects ,"
+The Economic Journal , Royal Economic Society, vol. 132(646), pages 2141-2172.
+Fitzenberger, Bernd & Mena, Gary & Nimczik, Jan & Sunde, Uwe, 2019.
+" Personality Traits Across the Life Cycle: Disentangling Age, Period, and Cohort Effects ,"
+Rationality and Competition Discussion Paper Series
+214, CRC TRR 190 Rationality and Competition.
+Bernd Fitzenberger & Gary Mena & Jan Nimczik & Uwe Sunde, 2021.
+" Personality Traits Across the Life Cycle: Disentangling Age, Period, and Cohort Effects ,"
+SOEPpapers on Multidisciplinary Panel Data Research
+1153, DIW Berlin, The German Socio-Economic Panel (SOEP).
+Katharina Fellnhofer & Yu Deng, 2024.
+" Investor Intuition Promotes Gender Equality in Access to Reward-Based Crowdfunding ,"
+Entrepreneurship Theory and Practice , , vol. 48(2), pages 675-718, March.
+Marco Caliendo & Frank M Fossen & Alexander S Kritikos, 2022.
+" Personality characteristics and the decision to hire [Do the unemployed become successful entrepreneurs?] ,"
+Industrial and Corporate Change , Oxford University Press and the Associazione ICC, vol. 31(3), pages 736-761.
+Caliendo, Marco & Fossen, Frank M. & Kritikos, Alexander S., 2022.
+" Personality characteristics and the decision to hire ,"
+EconStor Open Access Articles and Book Chapters , ZBW - Leibniz Information Centre for Economics, vol. 31(3), pages 736-761.
+Cabane, Charlotte & Hille, Adrian & Lechner, Michael, 2016.
+" Mozart or Pelé? The effects of adolescents' participation in music and sports ,"
+Labour Economics , Elsevier, vol. 41(C), pages 90-103.
+Richter, David & Körtner, John L. & Saßenroth, Denise, 2014.
+" Personality Has Minor Effects on Panel Attrition ,"
+EconStor Open Access Articles and Book Chapters , ZBW - Leibniz Information Centre for Economics, vol. 53, pages 31-35.
+David Richter & John L. Körtner & Denise Saßenroth, 2014.
+" Personality Has Minor Effects on Panel Attrition ,"
+SOEPpapers on Multidisciplinary Panel Data Research
+679, DIW Berlin, The German Socio-Economic Panel (SOEP).
+Drobetz, Reinhard & Maercker, Andreas & Spieß, C. Katharina & Wagner, Gert G. & Forstmeier, Simon, 2012.
+" A Household Study of Self-Regulation in Children - Intergenerational Links and Maternal Antecedents ,"
+EconStor Open Access Articles and Book Chapters , ZBW - Leibniz Information Centre for Economics, vol. 71(4), pages 215-226.
+Hannes Kröger & Jürgen Schupp & Johann Behrens, 2014.
+" Unlocking further potential in the National Cohort study (NaKo) through comparability with the German Socio-Economic Panel ,"
+RatSWD Working Papers
+237, German Data Forum (RatSWD).
+Simone Schneider & Jürgen Schupp, 2014.
+" Individual Differences in Social Comparison and its Consequences for Life Satisfaction: Introducing a Short Scale of the Iowa–Netherlands Comparison Orientation Measure ,"
+Social Indicators Research: An International and Interdisciplinary Journal for Quality-of-Life Measurement , Springer, vol. 115(2), pages 767-789, January.
+Kautz, Tim & Heckman, James J. & Diris, Ron & ter Weel, Bas & Borghans, Lex, 2014.
+" Fostering and Measuring Skills: Improving Cognitive and Non-Cognitive Skills to Promote Lifetime Success ,"
+IZA Discussion Papers
+8696, IZA Network @ LISER.
+Tim Kautz & James J. Heckman & Ron Diris & Bas ter Weel & Lex Borghans, 2014.
+" Fostering and Measuring Skills: Improving Cognitive and Non-cognitive Skills to Promote Lifetime Success ,"
+OECD Education Working Papers
+110, OECD Publishing.
+Tim Kautz & James J. Heckman & Ron Diris & Bas ter Weel & Lex Borghans, 2014.
+" Fostering and Measuring Skills: Improving Cognitive and Non-Cognitive Skills to Promote Lifetime Success ,"
+NBER Working Papers
+20749, National Bureau of Economic Research, Inc.
+Binder, Martin & Blankenberg, Ann-Kathrin & Guardiola, Jorge, 2020.
+" Does it have to be a sacrifice? Different notions of the good life, pro-environmental behavior and their heterogeneous impact on well-being ,"
+Ecological Economics , Elsevier, vol. 167(C).
+Binder, Martin & Blankenberg, Ann-Kathrin & Guardiola, Jorge, 2019.
+" Does it have to be a sacrifice? Different notions of the good life, pro-environmental behavior and their heterogeneous impact on well-being ,"
+University of Göttingen Working Papers in Economics
+366, University of Goettingen, Department of Economics, revised 2019.
+Reher, Leonie & Runst, Petrik & Thomä, Jörg, 2024.
+" Personality and regional innovativeness: An empirical analysis of German patent data ,"
+Research Policy , Elsevier, vol. 53(6).
+More about this item
+Keywords
+personality development ; Big Five ; life events ; stability ; adulthood ; All these keywords NEP fields
+This paper has been announced in the following NEP Reports :
+NEP-AGE-2011-05-24 (Economics of Ageing)
+NEP-CBE-2011-05-24 (Cognitive and Behavioural Economics)
+Lists
+This item is featured on the following reading lists , Wikipedia, or ReplicationWiki pages:
+SOEP based publications
+Statistics
+Access and download statistics
+Corrections
+All material on this site has been provided by the respective publishers and authors. You can help correct errors and omissions. When requesting a correction, please mention this item's handle: RePEc:diw:diwsop:diw_sp377 . See general information about how to correct material in RePEc.
+If you have authored this item and are not yet registered with RePEc, we encourage you to do it here . This allows to link your profile to this item. It also allows you to accept potential citations to this item that we are uncertain about.
+If CitEc recognized a bibliographic reference but did not link an item in RePEc to it, you can help with this form .
+If you know of missing items citing this one, you can help us creating those links by adding the relevant references in the same way as above, for each refering item. If you are a registered author of this item, you may also want to check the "citations" tab in your RePEc Author Service profile, as there may be some citations waiting for confirmation.
+For technical questions regarding this item, or to correct its authors, title, abstract, bibliographic or download information, contact: Bibliothek (email available below). General contact details of provider: https://edirc.repec.org/data/sodiwde.html .
+Please note that corrections may take a couple of weeks to filter through
+the various RePEc services.
+More services and features
+MyIDEAS
+Follow serials, authors, keywords & more
+Author registration
+Public profiles for Economics researchers
+Rankings
+Various research rankings in Economics
+RePEc Genealogy
+Who was a student of whom, using RePEc
+RePEc Biblio
+Curated articles & papers on economics topics
+MPRA
+Upload your paper to be listed on RePEc and IDEAS
+New papers by email
+Subscribe to new additions to RePEc
+EconAcademics
+Blog aggregator for economics research
+Plagiarism
+Cases of plagiarism in Economics
+About RePEc
+RePEc home
+Initiative for open bibliographies in Economics
+Blog
+News about RePEc
+Help/FAQ
+Questions about IDEAS and RePEc
+RePEc team
+RePEc volunteers
+Participating archives
+Publishers indexing in RePEc
+Privacy statement
+Help us
+Corrections
+Found an error or omission?
+Volunteers
+Opportunities to help RePEc
+Get papers listed
+Have your research listed on RePEc
+Open a RePEc archive
+Have your institution's/publisher's output listed on RePEc
+Get RePEc data
+Use data assembled by RePEc
+IDEAS is a RePEc service. RePEc uses bibliographic data supplied by the respective publishers.

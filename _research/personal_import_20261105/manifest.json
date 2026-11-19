@@ -1,0 +1,91 @@
+[
+  {
+    "id": "SRC-20261105-001",
+    "original": "AI对话信息收集/个人全景档案与长期知识库基础文档一.docx",
+    "sha256": "a371a20912b8158170af5295c70ea0593cc2ae225557d04d59f1daf27f01c4a0",
+    "bytes": 63264,
+    "paragraph_count": 1428,
+    "nonempty_paragraphs": 767,
+    "characters": 9349,
+    "tables": 9,
+    "embedded_media": [],
+    "tracked_insertions": 0,
+    "tracked_deletions": 0,
+    "extra_text_parts": []
+  },
+  {
+    "id": "SRC-20261105-002",
+    "original": "AI对话信息收集/个人全景档案与长期知识库基础文档二.docx",
+    "sha256": "cf8308c0a61a6c50c592cbb2becf4cbccafb090571c2c97e98a2534343f70ff1",
+    "bytes": 66357,
+    "paragraph_count": 567,
+    "nonempty_paragraphs": 526,
+    "characters": 11091,
+    "tables": 12,
+    "embedded_media": [],
+    "tracked_insertions": 0,
+    "tracked_deletions": 0,
+    "extra_text_parts": [
+      "word/endnotes.xml",
+      "word/footer1.xml",
+      "word/footnotes.xml",
+      "word/header1.xml"
+    ]
+  },
+  {
+    "id": "SRC-20261105-003",
+    "original": "AI对话信息收集/个人全景档案与长期知识库基础文档三.docx",
+    "sha256": "a135a1f901df07c73f328d7c78d289fbf74373cd7682906a5bc70bfdc96cf984",
+    "bytes": 28056,
+    "paragraph_count": 539,
+    "nonempty_paragraphs": 402,
+    "characters": 9568,
+    "tables": 0,
+    "embedded_media": [],
+    "tracked_insertions": 0,
+    "tracked_deletions": 0,
+    "extra_text_parts": []
+  },
+  {
+    "id": "SRC-20261105-004",
+    "original": "AI对话信息收集/个人全景档案与长期知识库基础文档四.docx",
+    "sha256": "872d1346669c7da4496cc2b2d12094bd6beec31b5c25b59c395e41bcc40682b7",
+    "bytes": 24632,
+    "paragraph_count": 163,
+    "nonempty_paragraphs": 155,
+    "characters": 3669,
+    "tables": 1,
+    "embedded_media": [],
+    "tracked_insertions": 0,
+    "tracked_deletions": 0,
+    "extra_text_parts": []
+  },
+  {
+    "id": "SRC-20261105-005",
+    "original": "AI对话信息收集/个人全景档案与长期知识库基础文档五.docx",
+    "sha256": "ec34277ed710118fdd8a07e40bc85f336cc5e5683842e63c1b2b79ff5833cb06",
+    "bytes": 17297,
+    "paragraph_count": 213,
+    "nonempty_paragraphs": 157,
+    "characters": 3458,
+    "tables": 0,
+    "embedded_media": [],
+    "tracked_insertions": 0,
+    "tracked_deletions": 0,
+    "extra_text_parts": []
+  },
+  {
+    "id": "SRC-20261105-006",
+    "original": "AI对话信息收集/个人全景档案与长期知识库基础文档六.docx",
+    "sha256": "d88cede5a1302449fa5ff9e97a32653e36c12c4572a89bca64dee8b15a50b5d4",
+    "bytes": 36564,
+    "paragraph_count": 306,
+    "nonempty_paragraphs": 260,
+    "characters": 18611,
+    "tables": 0,
+    "embedded_media": [],
+    "tracked_insertions": 0,
+    "tracked_deletions": 0,
+    "extra_text_parts": []
+  }
+]

@@ -1,0 +1,88 @@
+{
+  "id": "P03",
+  "doi": "10.1037/a0024950",
+  "title": "Stability and change of personality across the life course: The impact of age and major life events on mean-level and rank-order stability of the Big Five.",
+  "abstract": "Does personality change across the entire life course, and are those changes due to intrinsic maturation or major life experiences? This longitudinal study investigated changes in the mean levels and rank order of the Big Five personality traits in a heterogeneous sample of 14,718 Germans across all of adulthood. Latent change and latent moderated regression models provided 4 main findings: First, age had a complex curvilinear influence on mean levels of personality. Second, the rank-order stability of Emotional Stability, Extraversion, Openness, and Agreeableness all followed an inverted U-shaped function, reaching a peak between the ages of 40 and 60 and decreasing afterward, whereas Conscientiousness showed a continuously increasing rank-order stability across adulthood. Third, personality predicted the occurrence of several objective major life events (selection effects) and changed in reaction to experiencing these events (socialization effects), suggesting that personality can change due to factors other than intrinsic maturation. Fourth, when events were clustered according to their valence, as is commonly done, effects of the environment on changes in personality were either overlooked or overgeneralized. In sum, our analyses show that personality changes throughout the life span, but with more pronounced changes in young and old ages, and that this change is partly attributable to social demands and experiences.",
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://doi.org/10.2139/ssrn.1884786",
+    "any_repository_has_fulltext": true
+  },
+  "locations": [
+    "https://doi.org/10.1037/a0024950",
+    "https://doi.org/10.2139/ssrn.1884786",
+    "https://pubmed.ncbi.nlm.nih.gov/21859226",
+    "https://www.diw.de/documents/publikationen/73/diw_01.c.372623.de/diw_sp0377.pdf",
+    "https://ideas.repec.org/p/diw/diwsop/diw_sp377.html",
+    "https://econpapers.repec.org/paper/diwdiwsop/diw_5fsp377.htm",
+    "http://hdl.handle.net/10419/150922"
+  ],
+  "pdfs": [
+    "http://www.diw.de/documents/publikationen/73/diw_01.c.372623.de/diw_sp0377.pdf"
+  ],
+  "crossref": {
+    "title": [
+      "Stability and change of personality across the life course: The impact of age and major life events on mean-level and rank-order stability of the Big Five."
+    ],
+    "abstract": null,
+    "published": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Jule",
+        "family": "Specht",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5736-9912",
+        "authenticated-orcid": false,
+        "given": "Boris",
+        "family": "Egloff",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6279-9618",
+        "authenticated-orcid": false,
+        "given": "Stefan C.",
+        "family": "Schmukle",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "URL": "https://doi.org/10.1037/a0024950",
+    "link": [
+      {
+        "URL": "http://psycnet.apa.org/journals/psp/101/4/862.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ]
+  }
+}

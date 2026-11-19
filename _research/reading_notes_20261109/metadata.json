@@ -1,0 +1,1657 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          5
+        ]
+      ],
+      "date-time": "2026-11-05T04:30:18Z",
+      "timestamp": 1793853018630,
+      "version": "4.6.1"
+    },
+    "reference-count": 0,
+    "publisher": "American Psychological Association (APA)",
+    "issue": "4",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Psychological Bulletin"
+    ],
+    "DOI": "10.1037/a0035661",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          2,
+          3
+        ]
+      ],
+      "date-time": "2014-02-03T10:48:04Z",
+      "timestamp": 1391424484000
+    },
+    "page": "980-1008",
+    "source": "Crossref",
+    "is-referenced-by-count": 1466,
+    "title": [
+      "Intrinsic motivation and extrinsic incentives jointly predict performance: A 40-year meta-analysis."
+    ],
+    "prefix": "10.1037",
+    "volume": "140",
+    "author": [
+      {
+        "given": "Christopher P.",
+        "family": "Cerasoli",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jessica M.",
+        "family": "Nicklin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael T.",
+        "family": "Ford",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "15",
+    "published-online": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "container-title": [
+      "Psychological Bulletin"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://psycnet.apa.org/journals/bul/140/4/980.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          5
+        ]
+      ],
+      "date-time": "2024-02-05T19:18:42Z",
+      "timestamp": 1707160722000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://doi.apa.org/doi/10.1037/a0035661"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "4",
+      "published-online": {
+        "date-parts": [
+          [
+            2014
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "2014-03897-001",
+      "24491020"
+    ],
+    "URL": "https://doi.org/10.1037/a0035661",
+    "relation": {},
+    "ISSN": [
+      "1939-1455",
+      "0033-2909"
+    ],
+    "issn-type": [
+      {
+        "value": "1939-1455",
+        "type": "electronic"
+      },
+      {
+        "value": "0033-2909",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          7
+        ]
+      ],
+      "date-time": "2026-11-07T22:34:00Z",
+      "timestamp": 1794090840444,
+      "version": "4.8.0"
+    },
+    "reference-count": 103,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2024-08-01T00:00:00Z",
+          "timestamp": 1722470400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2024-08-01T00:00:00Z",
+          "timestamp": 1722470400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              5,
+              16
+            ]
+          ],
+          "date-time": "2024-05-16T00:00:00Z",
+          "timestamp": 1715817600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100000275",
+        "name": "Leverhulme Trust",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "RP2012-V-022"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "RP2012-V-022"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100000275",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100000269",
+        "name": "Economic and Social Research Council",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "ES/K002201/1"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "ES/K002201/1"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100000269",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100000269",
+        "name": "Economic and Social Research Council",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "ES/K004948/1"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "ES/K004948/1"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100000269",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100000269",
+        "name": "Economic and Social Research Council",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "ES/N018192/1"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "ES/N018192/1"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100000269",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Economic Psychology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.joep.2024.102740",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          16
+        ]
+      ],
+      "date-time": "2024-05-16T00:45:02Z",
+      "timestamp": 1715820302000
+    },
+    "page": "102740",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 51,
+    "special_numbering": "C",
+    "title": [
+      "A meta-analysis of loss aversion in risky contexts"
+    ],
+    "prefix": "10.1016",
+    "volume": "103",
+    "author": [
+      {
+        "given": "Lukasz",
+        "family": "Walasek",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Timothy L.",
+        "family": "Mullett",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Neil",
+        "family": "Stewart",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.joep.2024.102740_b0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "245",
+        "DOI": "10.1007/s11166-008-9039-8",
+        "article-title": "A tractable method to measure utility and loss aversion under prospect theory",
+        "volume": "36",
+        "author": "Abdellaoui",
+        "year": "2008",
+        "journal-title": "Journal of Risk and Uncertainty"
+      },
+      {
+        "key": "10.1016/j.joep.2024.102740_b0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "1659",
+        "DOI": "10.1287/mnsc.1070.0711",
+        "article-title": "Loss aversion under Prospect Theory: A parameter-free measurement",
+        "volume": "53",
+        "author": "Abdellaoui",
+        "year": "2007",
+        "journal-title": "Management Science"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.joep.2024.102740_b0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "16",
+        "DOI": "10.1037/dec0000143",
+        "article-title": "The endowment effect and beliefs about the market",
+        "volume": "8",
+        "author": "Achtypi",
+        "year": "2020",
+        "journal-title": "Decision"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.joep.2024.102740_b0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "66",
+        "DOI": "10.1002/jrsm.6",
+        "article-title": "Graphical displays for meta-analysis: An overview with suggestions for practice",
+        "volume": "1",
+        "author": "Anzures-Cabrera",
+        "year": "2010",
+        "journal-title": "Research Synthesis Methods"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.joep.2024.102740_b0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "134",
+        "DOI": "10.1509/jmkr.42.2.134.62283",
+        "article-title": "When do losses loom larger than gains?",
+        "volume": "42",
+        "author": "Ariely",
+        "year": "2005",
+        "journal-title": "Journal of Marketing Research"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.joep.2024.102740_b0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "751",
+        "DOI": "10.1111/j.1540-6261.2009.01448.x",
+        "article-title": "What drives the disposition effect? An analysis of a long-standing preference-based explanation",
+        "volume": "64",
+        "author": "Barberis",
+        "year": "2009",
+        "journal-title": "The Journal of Finance"
+      },
+      {
+        "key": "10.1016/j.joep.2024.102740_b0035",
+        "series-title": "Experimental economics: Rethinking the rules",
+        "author": "Bardsley",
+        "year": "2010"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.joep.2024.102740_b0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "323",
+        "DOI": "10.1037/1089-2680.5.4.323",
+        "article-title": "Bad is stronger than good",
+        "volume": "5",
+        "author": "Baumeister",
+        "year": "2001",
+        "journal-title": "Review of General Psychology"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.joep.2024.102740_b0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "73",
+        "DOI": "10.2307/2118511",
+        "article-title": "Myopic loss aversion and the equity premium puzzle",
+        "volume": "110",
+        "author": "Benartzi",
+        "year": "1995",
+        "journal-title": "The Quarterly Journal of Economics"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.joep.2024.102740_b0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "263",
+        "DOI": "10.1016/j.paid.2010.05.001",
+        "article-title": "The ability to process emotional information predicts loss aversion",
+        "volume": "51",
+        "author": "Bibby",
+        "year": "2011",
+        "journal-title": "Personality and Individual Differences"
+      },
+      {
+        "key": "10.1016/j.joep.2024.102740_b0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "115",
+        "DOI": "10.1007/s11238-009-9144-4",
+        "article-title": "A parametric analysis of prospect theory’s functionals for the general population",
+        "volume": "68",
+        "author": "Booij",
+        "year": "2010",
+        "journal-title": "Theory and Decision"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.joep.2024.102740_b0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "471",
+        "DOI": "10.1177/0146167216634060",
+        "article-title": "Individual differences in loss aversion: Conscientiousness predicts how life satisfaction responds to losses versus gains in income",
+        "volume": "42",
+        "author": "Boyce",
+        "year": "2016",
+        "journal-title": "Personality & Social Psychology Bulletin"
+      },
+      {
+        "issue": "1987",
+        "key": "10.1016/j.joep.2024.102740_b0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "301",
+        "DOI": "10.1007/s11166-005-5105-7",
+        "article-title": "Loss averse behavior",
+        "volume": "31",
+        "author": "Brooks",
+        "year": "2005",
+        "journal-title": "Journal of Risk and Uncertainty"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.joep.2024.102740_b0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "252",
+        "DOI": "10.1037/dec0000020",
+        "article-title": "Parameter recovery for decision modeling using choice data",
+        "volume": "1",
+        "author": "Broomell",
+        "year": "2014",
+        "journal-title": "Decision"
+      },
+      {
+        "key": "10.1016/j.joep.2024.102740_b0075",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1257/jel.20221698",
+        "article-title": "Meta-analysis of empirical estimates of loss aversion",
+        "author": "Brown",
+        "year": "2024",
+        "journal-title": "Journal of Economic Literature"
+      },
+      {
+        "key": "10.1016/j.joep.2024.102740_b0080",
+        "series-title": "Choices, Values, and Frames",
+        "first-page": "288",
+        "article-title": "Prospect theory in the wild: Evidence from the field",
+        "author": "Camerer",
+        "year": "2001"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.joep.2024.102740_b0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "129",
+        "DOI": "10.1509/jmkr.42.2.129.62286",
+        "article-title": "Three cheers – Psychological, theoretical, empirical for loss aversion",
+        "volume": "42",
+        "author": "Camerer",
+        "year": "2005",
+        "journal-title": "Journal of Marketing Research"
+      },
+      {
+        "issue": "36",
+        "key": "10.1016/j.joep.2024.102740_bib479",
+        "doi-asserted-by": "crossref",
+        "first-page": "14307",
+        "DOI": "10.1523/JNEUROSCI.0497-13.2013",
+        "article-title": "The functional and structural neural basis of individual differences in loss aversion",
+        "volume": "33",
+        "author": "Canessa",
+        "year": "2013",
+        "journal-title": "The Journal of Neuroscience : The Official Journal of the Society for Neuroscience"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.joep.2024.102740_b0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "360",
+        "DOI": "10.1086/317590",
+        "article-title": "Focusing on the forgone: How value can appear so different to buyers and sellers",
+        "volume": "27",
+        "author": "Carmon",
+        "year": "2000",
+        "journal-title": "Journal of Consumer Research"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.joep.2024.102740_b0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "582",
+        "DOI": "10.1016/j.neuron.2012.02.038",
+        "article-title": "Neural mechanisms underlying paradoxical performance for monetary incentives are driven by loss aversion",
+        "volume": "74",
+        "author": "Chib",
+        "year": "2012",
+        "journal-title": "Neuron"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.joep.2024.102740_b0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "7",
+        "DOI": "10.1177/0956797613504966",
+        "article-title": "The new statistics: Why and how",
+        "volume": "25",
+        "author": "Cumming",
+        "year": "2014",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "key": "10.1016/j.joep.2024.102740_bib477",
+        "series-title": "Valuing Environmental Goods: A State of the Arts Assessment of the Contingent Valuation Method",
+        "author": "Cummings",
+        "year": "1986"
+      },
+      {
+        "key": "10.1016/j.joep.2024.102740_b0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "3788",
+        "DOI": "10.1073/pnas.0910230107",
+        "article-title": "Amygdala damage eliminates monetary loss aversion",
+        "volume": "107",
+        "author": "De Martino",
+        "year": "2010",
+        "journal-title": "Proceedings of the National Academy of Sciences of the United States of America"
+      },
+      {
+        "issue": "449",
+        "key": "10.1016/j.joep.2024.102740_b0110",
+        "first-page": "89",
+        "article-title": "A nonparametric “trim and fill” method of accounting for publication bias in meta-analysis",
+        "volume": "95",
+        "author": "Duval",
+        "year": "2000",
+        "journal-title": "Journal of the American Statistical Association"
+      },
+      {
+        "key": "10.1016/j.joep.2024.102740_b0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "77",
+        "DOI": "10.1016/j.dcn.2013.10.002",
+        "article-title": "Loss aversion and 5HTT gene variants in adolescent anxiety",
+        "volume": "8",
+        "author": "Ernst",
+        "year": "2014",
+        "journal-title": "Developmental Cognitive Neuroscience"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.joep.2024.102740_b0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "715",
+        "DOI": "10.1016/j.joep.2007.06.003",
+        "article-title": "The rejection of attractive gambles, loss aversion, and the lemon avoidance heuristic",
+        "volume": "29",
+        "author": "Ert",
+        "year": "2008",
+        "journal-title": "Journal of Economic Psychology"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.joep.2024.102740_b0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "214",
+        "DOI": "10.1017/S1930297500005945",
+        "article-title": "On the descriptive value of loss aversion in decisions under risk: Six clarifications",
+        "volume": "8",
+        "author": "Ert",
+        "year": "2013",
+        "journal-title": "Judgment and Decision Making"
+      },
+      {
+        "key": "10.1016/j.joep.2024.102740_b0130",
+        "series-title": "Neuroeconomics",
+        "first-page": "1",
+        "article-title": "Prospect theory and the brain",
+        "author": "Fox",
+        "year": "2008"
+      },
+      {
+        "issue": "1714",
+        "key": "10.1016/j.joep.2024.102740_b0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "2053",
+        "DOI": "10.1098/rspb.2010.2304",
+        "article-title": "MAOA-L carriers are better at making optimal financial decisions under risk",
+        "volume": "278",
+        "author": "Frydman",
+        "year": "2011",
+        "journal-title": "Proceedings. Biological Sciences / The Royal Society"
+      },
+      {
+        "key": "10.1016/j.joep.2024.102740_b0140",
+        "series-title": "Individual-level loss aversion in riskless and risky choices",
+        "author": "Gächter",
+        "year": "2007"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.joep.2024.102740_b0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "23",
+        "DOI": "10.1017/S1930297500000322",
+        "article-title": "A psychological law of inertia and the illusion of loss aversion",
+        "volume": "1",
+        "author": "Gal",
+        "year": "2006",
+        "journal-title": "Judgment and Decision Making"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.joep.2024.102740_b0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "497",
+        "DOI": "10.1002/jcpy.1047",
+        "article-title": "The loss of loss aversion: Will it loom larger than its gain?",
+        "volume": "28",
+        "author": "Gal",
+        "year": "2017",
+        "journal-title": "Journal of Consumer Psychology"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.joep.2024.102740_b0155",
+        "doi-asserted-by": "crossref",
+        "first-page": "1233",
+        "DOI": "10.1162/003355301753265561",
+        "article-title": "Loss aversion and seller behavior: Evidence from the housing market",
+        "volume": "116",
+        "author": "Genesove",
+        "year": "2001",
+        "journal-title": "The Quarterly Journal of Economics"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.joep.2024.102740_b0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "129",
+        "DOI": "10.1006/cogp.1998.0710",
+        "article-title": "On the shape of the probability weighting function",
+        "volume": "38",
+        "author": "Gonzalez",
+        "year": "1999",
+        "journal-title": "Cognitive Psychology"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.joep.2024.102740_b0165",
+        "doi-asserted-by": "crossref",
+        "first-page": "133",
+        "DOI": "10.1007/s10683-008-9203-7",
+        "article-title": "Expected utility theory and prospect theory: One wedding and a decent funeral",
+        "volume": "12",
+        "author": "Harrison",
+        "year": "2008",
+        "journal-title": "Experimental Economics"
+      },
+      {
+        "issue": "03",
+        "key": "10.1016/j.joep.2024.102740_b0170",
+        "doi-asserted-by": "crossref",
+        "first-page": "383",
+        "DOI": "10.1017/S0140525X01004149",
+        "article-title": "Experimental practices in economics: A methodological challenge for psychologists?",
+        "volume": "24",
+        "author": "Hertwig",
+        "year": "2001",
+        "journal-title": "Behavioral and Brain Sciences"
+      },
+      {
+        "key": "10.1016/j.joep.2024.102740_b0175",
+        "doi-asserted-by": "crossref",
+        "first-page": "426",
+        "DOI": "10.1006/jeem.2001.1215",
+        "article-title": "A review of WTA / WTP studies",
+        "volume": "44",
+        "author": "Horowitz",
+        "year": "2002",
+        "journal-title": "Journal of Environmental Economics and Management"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.joep.2024.102740_b0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "2086",
+        "DOI": "10.1257/aer.20140386",
+        "article-title": "The realization effect: Risk-taking after realized versus paper losses",
+        "volume": "106",
+        "author": "Imas",
+        "year": "2016",
+        "journal-title": "American Economic Review"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.joep.2024.102740_b0185",
+        "doi-asserted-by": "crossref",
+        "first-page": "461",
+        "DOI": "10.1037/0278-7393.33.3.461",
+        "article-title": "Aspects of endowment: A query theory of value construction",
+        "volume": "33",
+        "author": "Johnson",
+        "year": "2007",
+        "journal-title": "Journal of Experimental Psychology. Learning, Memory, and Cognition"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.joep.2024.102740_b0190",
+        "doi-asserted-by": "crossref",
+        "first-page": "1449",
+        "DOI": "10.1257/000282803322655392",
+        "article-title": "Maps of bounded rationality: Psychology for behavioral economics",
+        "volume": "93",
+        "author": "Kahneman",
+        "year": "2003",
+        "journal-title": "American Economic Review"
+      },
+      {
+        "key": "10.1016/j.joep.2024.102740_b0195",
+        "series-title": "Thinking, fast and slow",
+        "author": "Kahneman",
+        "year": "2011"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.joep.2024.102740_b0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "193",
+        "DOI": "10.1257/jep.5.1.193",
+        "article-title": "Anomalies: The endowment effect, loss aversion, and status quo bias",
+        "volume": "5",
+        "author": "Kahneman",
+        "year": "1991",
+        "journal-title": "Journal of Economic Perspectives"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.joep.2024.102740_b0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "263",
+        "DOI": "10.2307/1914185",
+        "article-title": "Prospect theory: An analysis of decision under risk",
+        "volume": "47",
+        "author": "Kahneman",
+        "year": "1979",
+        "journal-title": "Econometrica"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.joep.2024.102740_b0210",
+        "doi-asserted-by": "crossref",
+        "first-page": "649",
+        "DOI": "10.1111/j.1467-9280.2006.01760.x",
+        "article-title": "Loss aversion is an affective forecasting error",
+        "volume": "17",
+        "author": "Kermer",
+        "year": "2006",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.joep.2024.102740_b0215",
+        "doi-asserted-by": "crossref",
+        "first-page": "507",
+        "DOI": "10.2307/1885962",
+        "article-title": "Willingness to pay and compensation demanded: Experimental evidence of an unexpected disparity in measures of value",
+        "volume": "99",
+        "author": "Knetsch",
+        "year": "1984",
+        "journal-title": "The Quarterly Journal of Economics"
+      },
+      {
+        "key": "10.1016/j.joep.2024.102740_b0220",
+        "doi-asserted-by": "crossref",
+        "first-page": "119",
+        "DOI": "10.1016/j.jet.2004.03.009",
+        "article-title": "An index of loss aversion",
+        "volume": "122",
+        "author": "Köbberling",
+        "year": "2005",
+        "journal-title": "Journal of Economic Theory"
+      },
+      {
+        "key": "10.1016/j.joep.2024.102740_b0225",
+        "doi-asserted-by": "crossref",
+        "first-page": "2380",
+        "DOI": "10.1287/mnsc.2013.1711",
+        "article-title": "Tempus fugit: Time pressure in risky decisions",
+        "volume": "59",
+        "author": "Kocher",
+        "year": "2013",
+        "journal-title": "Management Science"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.joep.2024.102740_b0230",
+        "first-page": "1133",
+        "article-title": "A Model of reference-dependent preferences",
+        "volume": "121",
+        "author": "Kőszegi",
+        "year": "2006",
+        "journal-title": "The Quarterly Journal of Economics"
+      },
+      {
+        "key": "10.1016/j.joep.2024.102740_b0235",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lagarias, J. C., Reeds, J. A., Wright, M. H., & Wright, P. E. (2006). Convergence properties of the Nelder–Mead simplex method in low dimensions. https://doi.org/10.1137/S1052623496303470.",
+        "DOI": "10.1137/S1052623496303470"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.joep.2024.102740_b0240",
+        "doi-asserted-by": "crossref",
+        "first-page": "41",
+        "DOI": "10.1162/00335530360535144",
+        "article-title": "Does market experience eliminate market anomalies?",
+        "volume": "118",
+        "author": "List",
+        "year": "2003",
+        "journal-title": "The Quarterly Journal of Economics"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.joep.2024.102740_b0245",
+        "doi-asserted-by": "crossref",
+        "first-page": "113",
+        "DOI": "10.1007/s11166-009-9076-y",
+        "article-title": "Taste uncertainty and status quo effects in consumer choice",
+        "volume": "39",
+        "author": "Loomes",
+        "year": "2009",
+        "journal-title": "Journal of Risk and Uncertainty"
+      },
+      {
+        "key": "10.1016/j.joep.2024.102740_b0250",
+        "doi-asserted-by": "crossref",
+        "first-page": "1128",
+        "DOI": "10.1111/add.12494",
+        "article-title": "Strategic and non-strategic problem gamblers differ on decision-making under risk and ambiguity",
+        "volume": "109",
+        "author": "Lorains",
+        "year": "2014",
+        "journal-title": "Addiction"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.joep.2024.102740_bib481",
+        "doi-asserted-by": "crossref",
+        "first-page": "947",
+        "DOI": "10.1016/j.jesp.2009.05.014",
+        "article-title": "Bad riddance or good rubbish? Ownership and not loss aversion causes the endowment effect",
+        "volume": "45",
+        "author": "Morewedge",
+        "year": "2009",
+        "journal-title": "Journal of Experimental Social Psychology"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.joep.2024.102740_b0255",
+        "doi-asserted-by": "crossref",
+        "first-page": "81",
+        "DOI": "10.1017/S1930297500005258",
+        "article-title": "Is loss-aversion magnitude dependent? Measuring prospective affective judgements regarding gains and losses",
+        "volume": "12",
+        "author": "Mukharjee",
+        "year": "2017",
+        "journal-title": "Judgment & Decision Making"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.joep.2024.102740_b0260",
+        "doi-asserted-by": "crossref",
+        "first-page": "308",
+        "DOI": "10.1093/comjnl/7.4.308",
+        "article-title": "A simplex nethod for function minimization",
+        "volume": "7",
+        "author": "Nelder",
+        "year": "1965",
+        "journal-title": "The Computer Journal"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.joep.2024.102740_b0265",
+        "doi-asserted-by": "crossref",
+        "first-page": "182",
+        "DOI": "10.1016/j.jretai.2014.02.002",
+        "article-title": "A meta-analysis of loss aversion in product choice",
+        "volume": "90",
+        "author": "Neumann",
+        "year": "2014",
+        "journal-title": "Journal of Retailing"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.joep.2024.102740_b0270",
+        "doi-asserted-by": "crossref",
+        "first-page": "84",
+        "DOI": "10.1016/j.jmp.2010.08.006",
+        "article-title": "Hierarchical Bayesian parameter estimation for cumulative prospect theory",
+        "volume": "55",
+        "author": "Nilsson",
+        "year": "2011",
+        "journal-title": "Journal of Mathematical Psychology"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.joep.2024.102740_b0275",
+        "doi-asserted-by": "crossref",
+        "first-page": "119",
+        "DOI": "10.1509/jmkr.42.2.119.62292",
+        "article-title": "The boundaries of loss aversion",
+        "volume": "42",
+        "author": "Novemsky",
+        "year": "2005",
+        "journal-title": "Journal of Marketing Research"
+      },
+      {
+        "issue": "6251",
+        "key": "10.1016/j.joep.2024.102740_b0280",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1126/science.aac4716",
+        "article-title": "Estimating the reproducibility of psychological science",
+        "volume": "349",
+        "author": "Open Science Collaboration",
+        "year": "2015",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/j.joep.2024.102740_b0285",
+        "series-title": "Cooperative Minds: Social Interaction and Group Dynamics. Proceedings of the 35th Annual Conference of the Cognitive Science Society",
+        "first-page": "3205",
+        "article-title": "Modeling gain-loss asymmetries in risky choice: The critical role of probability weighting",
+        "author": "Pachur",
+        "year": "2013"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.joep.2024.102740_b0290",
+        "doi-asserted-by": "crossref",
+        "first-page": "204",
+        "DOI": "10.3109/10253890.2014.891103",
+        "article-title": "Loss aversion and hypoxia: Less loss aversion in oxygen-depleted environment",
+        "volume": "17",
+        "author": "Pighin",
+        "year": "2014",
+        "journal-title": "Stress"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.joep.2024.102740_bib482",
+        "doi-asserted-by": "crossref",
+        "first-page": "530",
+        "DOI": "10.1257/0002828054201387",
+        "article-title": "The willingness to pay–willingness to accept gap, the “endowment effect,” subject misconceptions, and experimental procedures for eliciting valuations",
+        "volume": "95",
+        "author": "Plott",
+        "year": "2005",
+        "journal-title": "American Economic Review"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.joep.2024.102740_bib483",
+        "doi-asserted-by": "crossref",
+        "first-page": "1449",
+        "DOI": "10.1257/aer.97.4.1449",
+        "article-title": "Exchange asymmetries incorrectly interpreted as evidence of endowment effect theory and prospect theory?",
+        "volume": "97",
+        "author": "Plott",
+        "year": "2007",
+        "journal-title": "American Economic Review"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.joep.2024.102740_b0295",
+        "doi-asserted-by": "crossref",
+        "first-page": "1281",
+        "DOI": "10.1111/1468-0262.00158",
+        "article-title": "Risk aversion and expected-utility theory: A calibration theorem",
+        "volume": "68",
+        "author": "Rabin",
+        "year": "2000",
+        "journal-title": "Econometrica"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.joep.2024.102740_b0300",
+        "doi-asserted-by": "crossref",
+        "first-page": "1333",
+        "DOI": "10.3758/s13423-020-01775-y",
+        "article-title": "Losing my loss aversion: The effects of current and past environment on the relative sensitivity to losses and gains",
+        "volume": "27",
+        "author": "Rakow",
+        "year": "2020",
+        "journal-title": "Psychonomic Bulletin and Review"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.joep.2024.102740_b0305",
+        "doi-asserted-by": "crossref",
+        "first-page": "107",
+        "DOI": "10.1017/S1930297500000085",
+        "article-title": "Possession, feelings of ownership, and the endowment effect possession, feelings of ownership and the endowment effect",
+        "volume": "2",
+        "author": "Reb",
+        "year": "2007",
+        "journal-title": "Judgment and Decision Making"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.joep.2024.102740_b0310",
+        "doi-asserted-by": "crossref",
+        "first-page": "453",
+        "DOI": "10.1016/j.jcps.2010.04.004",
+        "article-title": "Losses, gains, and brains: Neuroeconomics can help to answer open questions about loss aversion",
+        "volume": "21",
+        "author": "Rick",
+        "year": "2011",
+        "journal-title": "Journal of Consumer Psychology"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.joep.2024.102740_b0315",
+        "doi-asserted-by": "crossref",
+        "first-page": "1446",
+        "DOI": "10.1037/a0013646",
+        "article-title": "The probabilistic nature of preferential choice",
+        "volume": "34",
+        "author": "Rieskamp",
+        "year": "2008",
+        "journal-title": "Journal of Experimental Psychology. Learning, Memory, and Cognition"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.joep.2024.102740_b0320",
+        "doi-asserted-by": "crossref",
+        "first-page": "296",
+        "DOI": "10.1207/S15327957PSPR0504_2",
+        "article-title": "Negativity bias, negativity dominance, and cContagion",
+        "volume": "5",
+        "author": "Rozin",
+        "year": "2001",
+        "journal-title": "Personality and Social Psychology Review"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.joep.2024.102740_b0325",
+        "doi-asserted-by": "crossref",
+        "first-page": "7",
+        "DOI": "10.1007/BF00055564",
+        "article-title": "Status quo bias in decision making",
+        "volume": "1",
+        "author": "Samuelson",
+        "year": "1988",
+        "journal-title": "Journal of Risk and Uncertainty"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.joep.2024.102740_b0330",
+        "doi-asserted-by": "crossref",
+        "first-page": "289",
+        "DOI": "10.1016/j.joep.2004.07.002",
+        "article-title": "Effects of study design characteristics on the WTA–WTP disparity: A meta analytical framework",
+        "volume": "26",
+        "author": "Sayman",
+        "year": "2005",
+        "journal-title": "Journal of Economic Psychology"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.joep.2024.102740_b0335",
+        "doi-asserted-by": "crossref",
+        "first-page": "157",
+        "DOI": "10.1007/s11166-005-6564-6",
+        "article-title": "What is loss aversion?",
+        "volume": "30",
+        "author": "Schmidt",
+        "year": "2005",
+        "journal-title": "Journal of Risk and Uncertainty"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.joep.2024.102740_b0340",
+        "doi-asserted-by": "crossref",
+        "first-page": "105",
+        "DOI": "10.1086/209497",
+        "article-title": "Mere-possession effects without possession in consumer choice",
+        "volume": "24",
+        "author": "Sen",
+        "year": "1997",
+        "journal-title": "Journal of Consumer Research"
+      },
+      {
+        "key": "10.1016/j.joep.2024.102740_b0345",
+        "doi-asserted-by": "crossref",
+        "first-page": "341",
+        "DOI": "10.1093/scan/nss002",
+        "article-title": "Emotion regulation reduces loss aversion and decreases amygdala responses to losses",
+        "volume": "8",
+        "author": "Sokol-Hessner",
+        "year": "2013",
+        "journal-title": "Social Cognitive and Affective Neuroscience"
+      },
+      {
+        "key": "10.1016/j.joep.2024.102740_b0350",
+        "doi-asserted-by": "crossref",
+        "first-page": "5035",
+        "DOI": "10.1073/pnas.0806761106",
+        "article-title": "Thinking like a trader selectively reduces individuals’ loss aversion",
+        "volume": "106",
+        "author": "Sokol-Hessner",
+        "year": "2009",
+        "journal-title": "Proceedings of the National Academy of Sciences of the United States of America"
+      },
+      {
+        "key": "10.1016/j.joep.2024.102740_b0355",
+        "article-title": "Absolute and relative stability of loss aversion across contexts",
+        "author": "Spektor",
+        "year": "2023",
+        "journal-title": "Journal of Experimental Psychology: General"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.joep.2024.102740_b0360",
+        "doi-asserted-by": "crossref",
+        "first-page": "23",
+        "DOI": "10.1037/0096-3445.132.1.23",
+        "article-title": "Prospect relativity: How choice options influence decision under risk",
+        "volume": "132",
+        "author": "Stewart",
+        "year": "2003",
+        "journal-title": "Journal of Experimental Psychology: General"
+      },
+      {
+        "key": "10.1016/j.joep.2024.102740_bib478",
+        "series-title": "Psychological parameters have units: A bug fix for stochastic prospect theory and other decision models",
+        "author": "Stewart",
+        "year": "2018"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.joep.2024.102740_b0365",
+        "doi-asserted-by": "crossref",
+        "first-page": "101",
+        "DOI": "10.1007/s11166-006-8289-6",
+        "article-title": "Cumulative prospect theory’s functional menagerie",
+        "volume": "32",
+        "author": "Stott",
+        "year": "2006",
+        "journal-title": "Journal of Risk and Uncertainty"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.joep.2024.102740_bib476",
+        "doi-asserted-by": "crossref",
+        "first-page": "39",
+        "DOI": "10.1016/0167-2681(80)90051-7",
+        "article-title": "Toward a positive theory of consumer choice",
+        "volume": "1",
+        "author": "Thaler",
+        "year": "1980",
+        "journal-title": "Journal of Economic Behavior & Organization"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.joep.2024.102740_b0370",
+        "doi-asserted-by": "crossref",
+        "first-page": "643",
+        "DOI": "10.1287/mnsc.36.6.643",
+        "article-title": "Gambling with the house money and trying to break even: The effects of prior outcomes on risky choice",
+        "volume": "36",
+        "author": "Thaler",
+        "year": "1990",
+        "journal-title": "Management Science"
+      },
+      {
+        "issue": "5811",
+        "key": "10.1016/j.joep.2024.102740_b0375",
+        "doi-asserted-by": "crossref",
+        "first-page": "515",
+        "DOI": "10.1126/science.1134239",
+        "article-title": "The neural basis of loss aversion in decision-making under risk",
+        "volume": "315",
+        "author": "Tom",
+        "year": "2007",
+        "journal-title": "Science"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.joep.2024.102740_b0380",
+        "doi-asserted-by": "crossref",
+        "first-page": "175",
+        "DOI": "10.1016/j.jeem.2014.06.001",
+        "article-title": "A new meta-analysis on the WTP/WTA disparity",
+        "volume": "68",
+        "author": "Tunçel",
+        "year": "2014",
+        "journal-title": "Journal of Environmental Economics and Management"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.joep.2024.102740_b0385",
+        "doi-asserted-by": "crossref",
+        "first-page": "1039",
+        "DOI": "10.2307/2937956",
+        "article-title": "Loss aversion in riskless choice: A reference-dependent model",
+        "volume": "106",
+        "author": "Tversky",
+        "year": "1991",
+        "journal-title": "The Quarterly Journal of Economics"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.joep.2024.102740_b0390",
+        "doi-asserted-by": "crossref",
+        "first-page": "297",
+        "DOI": "10.1007/BF00122574",
+        "article-title": "Advances in prospect theory: Cumulative representation of uncertainty",
+        "volume": "5",
+        "author": "Tversky",
+        "year": "1992",
+        "journal-title": "Journal of Risk and Uncertainty"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.joep.2024.102740_b0395",
+        "doi-asserted-by": "crossref",
+        "first-page": "550",
+        "DOI": "10.1037/0033-295X.108.3.550",
+        "article-title": "The time course of perceptual choice: The leaky, competing accumulator model",
+        "volume": "108",
+        "author": "Usher",
+        "year": "2001",
+        "journal-title": "Psychological Review"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.joep.2024.102740_b0400",
+        "doi-asserted-by": "crossref",
+        "first-page": "485",
+        "DOI": "10.1016/S0167-4870(98)00020-8",
+        "article-title": "Trading wine: On the endowment effect, loss aversion, and the comparability of consumer goods",
+        "volume": "19",
+        "author": "van Dijk",
+        "year": "1998",
+        "journal-title": "Journal of Economic Psychology"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.joep.2024.102740_b0405",
+        "doi-asserted-by": "crossref",
+        "first-page": "261",
+        "DOI": "10.3102/10769986030003261",
+        "article-title": "Bias and efficiency of meta-analytic variance estimators in the random-effects model",
+        "volume": "30",
+        "author": "Viechtbauer",
+        "year": "2005",
+        "journal-title": "Journal of Educational and Behavioral Statistics"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.joep.2024.102740_b0410",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.18637/jss.v036.i03",
+        "article-title": "Conducting meta-analyses in R with the metafor package",
+        "volume": "36",
+        "author": "Viechtbauer",
+        "year": "2010",
+        "journal-title": "Journal of Statistical Software"
+      },
+      {
+        "key": "10.1016/j.joep.2024.102740_b0415",
+        "doi-asserted-by": "crossref",
+        "first-page": "1131",
+        "DOI": "10.1287/mnsc.42.8.1131",
+        "article-title": "Eliciting von Neumann-Morgenstern utilities when probabilities are distorted or unknown",
+        "volume": "42",
+        "author": "Wakker",
+        "year": "1996",
+        "journal-title": "Management Science"
+      },
+      {
+        "key": "10.1016/j.joep.2024.102740_bib480",
+        "series-title": "Prospect Theory: For Risk and Ambiguity",
+        "article-title": "Prospect theory: For risk and ambiguity",
+        "author": "Wakker",
+        "year": "2010"
+      },
+      {
+        "key": "10.1016/j.joep.2024.102740_b0420",
+        "article-title": "When does construction enhance product value? Investigating the combined effects of object assembly and ownership on valuation",
+        "author": "Walasek",
+        "year": "2015",
+        "journal-title": "Journal of Behavioral Decision Making"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.joep.2024.102740_b0425",
+        "doi-asserted-by": "crossref",
+        "first-page": "7",
+        "DOI": "10.1037/xge0000039",
+        "article-title": "How to make loss aversion disappear and reverse: Tests of the decision by sampling origin of loss aversion",
+        "volume": "144",
+        "author": "Walasek",
+        "year": "2015",
+        "journal-title": "Journal of Experimental Psychology. General"
+      },
+      {
+        "key": "10.1016/j.joep.2024.102740_b0430",
+        "article-title": "Context dependent sensitivity to losses: Range and skew manipulations",
+        "author": "Walasek",
+        "year": "2018",
+        "journal-title": "Journal of Experimental Psychology: Learning, Memory, and Cognition."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.joep.2024.102740_b0435",
+        "doi-asserted-by": "crossref",
+        "first-page": "2",
+        "DOI": "10.1037/dec0000141",
+        "article-title": "You cannot accurately estimate an individual’s loss aversion using an accept–reject task",
+        "volume": "8",
+        "author": "Walasek",
+        "year": "2021",
+        "journal-title": "Decision"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.joep.2024.102740_b0440",
+        "doi-asserted-by": "crossref",
+        "first-page": "419",
+        "DOI": "10.1002/bdm.1819",
+        "article-title": "Ownership status and the representation of assets of uncertain value: The balloon endowment risk task (BERT)",
+        "volume": "27",
+        "author": "Walasek",
+        "year": "2014",
+        "journal-title": "Journal of Behavioral Decision Making"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.joep.2024.102740_b0445",
+        "doi-asserted-by": "crossref",
+        "first-page": "1327",
+        "DOI": "10.1007/s00426-018-1013-8",
+        "article-title": "Acceptable losses: The debatable origins of loss aversion",
+        "volume": "83",
+        "author": "Yechiam",
+        "year": "2019",
+        "journal-title": "Psychological Research"
+      },
+      {
+        "key": "10.1016/j.joep.2024.102740_b0450",
+        "doi-asserted-by": "crossref",
+        "first-page": "494",
+        "DOI": "10.1177/0956797613510725",
+        "article-title": "Loss attention in a dual-task setting",
+        "volume": "25",
+        "author": "Yechiam",
+        "year": "2013",
+        "journal-title": "Psychological Science"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.joep.2024.102740_b0455",
+        "doi-asserted-by": "crossref",
+        "first-page": "497",
+        "DOI": "10.1037/a0029383",
+        "article-title": "Losses as modulators of attention: Review and analysis of the unique effects of losses over gains",
+        "volume": "139",
+        "author": "Yechiam",
+        "year": "2013",
+        "journal-title": "Psychological Bulletin"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.joep.2024.102740_b0460",
+        "doi-asserted-by": "crossref",
+        "first-page": "31",
+        "DOI": "10.1002/bdm.758",
+        "article-title": "Losses induce consistency in risk taking even without loss aversion",
+        "volume": "26",
+        "author": "Yechiam",
+        "year": "2013",
+        "journal-title": "Journal of Behavioral Decision Making"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.joep.2024.102740_b0465",
+        "doi-asserted-by": "crossref",
+        "first-page": "1015",
+        "DOI": "10.1017/S193029750000930X",
+        "article-title": "Loss aversion (Simply) does not materialize for smaller losses",
+        "volume": "17",
+        "author": "Zeif",
+        "year": "2022",
+        "journal-title": "Judgment and Decision Making"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.joep.2024.102740_b0470",
+        "doi-asserted-by": "crossref",
+        "first-page": "359",
+        "DOI": "10.1007/s11238-010-9234-3",
+        "article-title": "Measuring the time stability of Prospect Theory preferences",
+        "volume": "72",
+        "author": "Zeisberger",
+        "year": "2012",
+        "journal-title": "Theory and Decision"
+      },
+      {
+        "key": "10.1016/j.joep.2024.102740_b0475",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.cogpsych.2020.101331",
+        "article-title": "Psychological mechanisms of loss aversion: A drift-diffusion decomposition",
+        "volume": "123",
+        "author": "Zhao",
+        "year": "2020",
+        "journal-title": "Cognitive Psychology"
+      }
+    ],
+    "container-title": [
+      "Journal of Economic Psychology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0167487024000485?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0167487024000485?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          29
+        ]
+      ],
+      "date-time": "2024-07-29T17:00:44Z",
+      "timestamp": 1722272444000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0167487024000485"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          8
+        ]
+      ]
+    },
+    "references-count": 103,
+    "alternative-id": [
+      "S0167487024000485"
+    ],
+    "URL": "https://doi.org/10.1016/j.joep.2024.102740",
+    "relation": {},
+    "ISSN": [
+      "0167-4870"
+    ],
+    "issn-type": [
+      {
+        "value": "0167-4870",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          8
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "A meta-analysis of loss aversion in risky contexts",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Journal of Economic Psychology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.joep.2024.102740",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2024 The Authors. Published by Elsevier B.V.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "102740"
+  }
+]

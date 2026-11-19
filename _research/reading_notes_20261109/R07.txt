@@ -1,0 +1,229 @@
+Does Management Matter? Evidence from India | NBER
+Skip to main content
+NBER: National Bureau of Economic Research
+Subscribe
+Media
+Open Calls
+Search
+Research
+EXPLORE Research
+Findings
+Working Papers
+Books & Chapters
+Videos
+Periodicals
+The Digest
+The Reporter
+The Bulletin on the Economics of Alzheimer's Disease and Related Dementias
+The Bulletin on Health
+The Bulletin on Entrepreneurship
+The Bulletin on Retirement and Disability Archives
+The Bulletin on Aging & Health Archives
+Data & Business Cycles
+Boston Research Data Center
+Business Cycle Dating
+Public Use Data Archive
+All Topics
+Taxation
+Unemployment and Immigration
+Energy
+Entrepreneurship
+Trade
+Programs & Projects
+EXPLORE Programs & Projects
+Programs
+Economics of Aging
+Asset Pricing
+Children and Families
+Corporate Finance
+Development Economics
+Development of the American Economy
+Economic Fluctuations and Growth
+Economics of Education
+Economics of Health
+Environment and Energy Economics
+Industrial Organization
+International Finance and Macroeconomics
+International Trade and Investment
+Labor Studies
+Law and Economics
+Monetary Economics
+Political Economy
+Productivity, Innovation, and Entrepreneurship
+Public Economics
+Working Groups
+Behavioral Finance
+Chinese Economy
+Economics of Crime
+Entrepreneurship
+Gender in the Economy
+Household Finance
+Innovation Policy
+Insurance
+Market Design
+Organizational Economics
+Personnel Economics
+Race and Stratification in the Economy
+Urban Economics
+All Projects & Centers
+Center for Aging and Health Research
+Center on Economics of Alzheimer's Disease
+Conference on Research in Income and Wealth
+Digital Economics and AI
+Economic Measurement Research Institute
+Economics of Science Initiative
+Healthcare Decision-Making and Outcomes for People Living with Alzheimer's Disease
+Macroeconomics Annual
+Measuring the Clinical and Economic Outcomes Associated with Delivery Systems
+New Developments in Long-Term Asset Management
+Pop-Up Journal: Estimating the Economic Return to R&D Investment
+The Roybal Center for Behavior Change in Health
+Training Program in Aging and Health Economics
+Transportation Economics in the 21st Century
+Conferences
+EXPLORE Conferences
+Summer Institute
+Reimbursements
+Affiliated Scholars
+NBER News
+EXPLORE NBER News
+Research in the News
+Nobel Laureates
+Featured Working Papers Archive
+Career Resources
+EXPLORE Career Resources
+RA Positions – at NBER
+RA Positions – not at the NBER
+Staff Positions at NBER
+Calls for Fellowship Applications
+Current Fellowship Recipients
+About
+EXPLORE About
+Leadership & Governance
+Support & Funding
+History
+Standards of Conduct
+Staff
+Subscribe
+Media
+Open Calls
+Search
+Home
+Research
+Working Papers
+Does Management Matter? Evidence from…
+Does Management Matter? Evidence from India
+Nicholas Bloom
+,
+Benn Eifert
+,
+Aprajit Mahajan
+,
+David McKenzie
+&
+John Roberts
+Share
+X
+LinkedIn
+Facebook
+Bluesky
+Threads
+Email
+Link
+Working Paper
+16658
+DOI
+10.3386/w16658
+Issue Date
+January 2011
+A long-standing question in social science is to what extent differences in management cause differences in firm performance. To investigate this we ran a management field experiment on large Indian textile firms. We provided free consulting on modern management practices to a randomly chosen set of treatment plants and compared their performance to the control plants. We find that adopting these management practices had three main effects. First, it raised average productivity by 11% through improved quality and efficiency and reduced inventory. Second, it increased decentralization of decision making, as better information flow enabled owners to delegate more decisions to middle managers. Third, it increased the use of computers, necessitated by the data collection and analysis involved in modern management. Since these practices were profitable this raises the question of why firms had not adopted these before. Our results suggest that informational barriers were a primary factor in explaining this lack of adoption. Modern management is a technology that diffuses slowly between firms, with many Indian firms initially unaware of its existence or impact. Since competition was limited by constraints on firm entry and growth, badly managed firms were not rapidly driven from the market.
+Acknowledgements and Disclosures
+Financial support was provided by the Alfred Sloan Foundation; the Freeman Spogli Institute, the International Initiative and the Graduate School of Business at Stanford; the International Growth Centre; IRISS; the Kauffman Foundation; the Murthy Family; the Knowledge for Change Trust Fund; the National Science Foundation; the Toulouse Network for Information Technology; and the World Bank. This research would not have been possible without our partnership with Kay Adams, James Benton and Breck Marshall, the dedicated work of the consulting team of Asif Abbas, Saurabh Bhatnagar, Shaleen Chavda, Karl Gheewalla, Kusha Goyal, Shruti Rangarajan, Jitendra Satpute, Shreyan Sarkar, and Ashutosh Tyagi, and the research support of Troy Smith. We thank our formal discussants Susantu Basu, Ray Fisman, Naushad Forbes, Vojislov Maksimovic, Ramada Nada, Paul Romer, and Steve Tadelis, as well as seminar audiences at the AEA, Barcelona GSE, Berkeley, BREAD, Boston University, Chicago, Columbia, Cornell, the EBRD, Harvard Business School, IESE, Katholieke Universiteit Leuven, Kellogg, the LSE, Maryland, the NBER, NYU, PACDEV, Stanford, TNIT, Toronto, UBC, UCL, UCLA, UCSC, Wharton, and the World Bank for comments. The views expressed herein are those of the authors and do not necessarily reflect the views of the National Bureau of Economic Research.
+Citation and Citation Data
+Copy Citation
+Nicholas Bloom, Benn Eifert, Aprajit Mahajan, David McKenzie, and John Roberts, "Does Management Matter? Evidence from India," NBER Working Paper 16658 (2011), https://doi.org/10.3386/w16658.
+Copy to Clipboard
+Download Citation
+MARC
+RIS
+BibTeΧ
+Download Citation Data
+Non-Technical Summaries
+Does Management Matter?
+Author(s):
+Nicholas Bloom
+Benn Eifert
+Aprajit Mahajan
+David McKenzie
+John Roberts
+[Indian] firms were often not aware of the existence of many modern management practices [and] ... they [did not] appreciate how these...
+Published Versions
+Nicholas Bloom & Benn Eifert & Aprajit Mahajan & David McKenzie & John Roberts, 2013. "
+Does Management Matter? Evidence from India,
+" The Quarterly Journal of Economics, Oxford University Press, vol. 128(1), pages 1-51.
+citation courtesy of
+Related
+Topics
+Industrial Organization
+Firm Behavior
+Other
+Accounting, Marketing, and Personnel
+Development and Growth
+Development
+Innovation and R&D
+Programs
+Economic Fluctuations and Growth
+Industrial Organization
+Labor Studies
+Productivity, Innovation, and Entrepreneurship
+Working Groups
+Entrepreneurship
+India
+Organizational Economics
+Personnel Economics
+More from the NBER
+In addition to
+working papers
+, the NBER disseminates affiliates’ latest findings through a range of free periodicals—the
+NBER Reporter
+, the
+NBER Digest
+, the
+Bulletin on Health
+, the
+Bulletin on the Economics of Alzheimer's
+, and the
+Bulletin on Entrepreneurship
+—as well as
+research spotlights, lectures, and panel videos
+.
+2026, 18th Annual Feldstein Lecture, Mark Duggan, "Social  Security Reform in an Era of Fiscal Deficits"
+Feldstein Lecture
+Presenter:
+Mark Duggan
+Mark Duggan, who is currently the Wayne and Jodi Cooperman Professor of Economics at Stanford University and will soon...
+2026, Methods Lecture, Melissa Dell and Ashesh Rambachan, "Estimation and Inference with AI-Generated Data"
+Methods Lectures
+Presenters:
+Melissa Dell
+&
+Ashesh Rambachan
+Research Associate Melissa Dell of Harvard University and Ashesh Rambachan of MIT delivered the 2026 Methods...
+2026, SI Household Finance, Paul Goldsmith-Pinkham, "Using AI in Household Finance Research: A Practical Guide"
+Video
+Presenter:
+Paul Goldsmith-Pinkham
+Supported by the Vanguard Group
+National Bureau of Economic Research
+Contact Us
+1050 Massachusetts Avenue
+Cambridge, MA 02138
+617-868-3900
+info@nber.org
+webaccessibility@nber.org
+Homepage
+Accessibility Policy
+Diversity Policy
+Privacy Policy
+Follow
+© 2026 National Bureau of Economic Research. All Rights Reserved.

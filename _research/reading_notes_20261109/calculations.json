@@ -1,0 +1,53 @@
+{
+  "initial_equity": "1600",
+  "borrowed": "3400",
+  "asset_equity_leverage": "3.125",
+  "borrowed_equity_ratio": "2.125",
+  "scenarios": [
+    {
+      "loan_rate": "0.10",
+      "asset_return": "-0.10",
+      "interest": "340.00",
+      "ending_equity": "760.00",
+      "equity_return_pct": "-52.500"
+    },
+    {
+      "loan_rate": "0.10",
+      "asset_return": "0",
+      "interest": "340.00",
+      "ending_equity": "1260.00",
+      "equity_return_pct": "-21.2500"
+    },
+    {
+      "loan_rate": "0.10",
+      "asset_return": "0.10",
+      "interest": "340.00",
+      "ending_equity": "1760.00",
+      "equity_return_pct": "10.00"
+    },
+    {
+      "loan_rate": "0.15",
+      "asset_return": "-0.10",
+      "interest": "510.00",
+      "ending_equity": "590.00",
+      "equity_return_pct": "-63.12500"
+    },
+    {
+      "loan_rate": "0.15",
+      "asset_return": "0",
+      "interest": "510.00",
+      "ending_equity": "1090.00",
+      "equity_return_pct": "-31.87500"
+    },
+    {
+      "loan_rate": "0.15",
+      "asset_return": "0.10",
+      "interest": "510.00",
+      "ending_equity": "1590.00",
+      "equity_return_pct": "-0.62500"
+    }
+  ],
+  "break_even_asset_return_pct_at_15": "10.200",
+  "wipeout_asset_return_pct_at_15": "-21.800",
+  "recovery_return_pct_after_loss": "171.1864406779661016949152542"
+}

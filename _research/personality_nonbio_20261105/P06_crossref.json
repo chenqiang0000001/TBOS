@@ -1,0 +1,156 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        3
+      ]
+    ],
+    "date-time": "2026-11-03T22:58:19Z",
+    "timestamp": 1793746699987,
+    "version": "4.6.1"
+  },
+  "reference-count": 0,
+  "publisher": "American Psychological Association (APA)",
+  "issue": "2",
+  "funder": [
+    {
+      "name": "Griffith Business School"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Psychological Bulletin"
+  ],
+  "DOI": "10.1037/a0014996",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2009,
+        3,
+        2
+      ]
+    ],
+    "date-time": "2009-03-02T10:50:54Z",
+    "timestamp": 1235991054000
+  },
+  "page": "322-338",
+  "source": "Crossref",
+  "is-referenced-by-count": 1756,
+  "title": [
+    "A meta-analysis of the five-factor model of personality and academic performance."
+  ],
+  "prefix": "10.1037",
+  "volume": "135",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-8496-1815",
+      "authenticated-orcid": false,
+      "given": "Arthur E.",
+      "family": "Poropat",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "15",
+  "published-online": {
+    "date-parts": [
+      [
+        2009,
+        3
+      ]
+    ]
+  },
+  "container-title": [
+    "Psychological Bulletin"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://psycnet.apa.org/journals/bul/135/2/322.pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        5
+      ]
+    ],
+    "date-time": "2024-02-05T19:40:42Z",
+    "timestamp": 1707162042000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://doi.apa.org/doi/10.1037/a0014996"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2009,
+        3
+      ]
+    ]
+  },
+  "references-count": 0,
+  "journal-issue": {
+    "issue": "2",
+    "published-online": {
+      "date-parts": [
+        [
+          2009,
+          3
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "2009-02580-011",
+    "19254083"
+  ],
+  "URL": "https://doi.org/10.1037/a0014996",
+  "relation": {},
+  "ISSN": [
+    "1939-1455",
+    "0033-2909"
+  ],
+  "issn-type": [
+    {
+      "value": "1939-1455",
+      "type": "electronic"
+    },
+    {
+      "value": "0033-2909",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2009,
+        3
+      ]
+    ]
+  }
+}

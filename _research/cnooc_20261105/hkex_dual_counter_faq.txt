@@ -1,0 +1,621 @@
+=== PAGE 1 ===
+ 
+ 
+1 
+ 
+ 
+HKD-RMB Dual Counter Model 
+Frequently Asked Questions on Issuer, Trading, Post Trade and Risk Management 
+Arrangements 
+（Version Date: 31 October 2026） 
+ 
+Note: This document will be updated from time to time to reflect the latest development and 
+market participants are reminded to refer to the latest version for further details.  
+ 
+Table of Content: 
+Overall……………………………………………………………………………………………………………………………….……P.2 
+Issuer Related Matters for Dual Counter Securities………………………………….…………………….…….…P.3 
+Trading….………………………………………………………………………………………………………………………….…….P.6 
+Dual Counter Market Maker (“DCMM”) and Designated Specialist for Dual Counter Securities 
+(“DCS-DS”).………………………………………………………………………………………………….…………..……….….P.10 
+Post Trade and Risk Arrangements…………………….……………………………………………….……………..…P.16 
+ 
+  
+
+=== PAGE 2 ===
+ 
+ 
+2 
+ 
+Overall 
+1. What are Dual Counter  Securities, Dual Counter Market Making Programme (“DCMM 
+Programme), Designated Specialist Programme for Dual Counter Securities (“DCS -DS 
+Programme”) and Dual Counter Model and how they are related?   
+Dual Counter Securities refer to securities with HKD and RMB counter s (“HKD-RMB Dual 
+Counters”) designated by the Exchange in accordance with the Rules of the Exchange and are 
+eligible for DCMM Programme and DCS-DS Programme.  The list of Dual Counter Securities is 
+available on HKEX website and would be updated by HKEX from time to time, and only  
+securities (excluding Exchange Traded Products (“ETPs”))  listed in both HKD and RMB 
+counters in the Hong Kong securities market would be considered for designation . The 
+Exchange may designate or remove any security as a Dual Counter Security in the list and the 
+Securities and Futures Commission (“ SFC”) will be consulted for each such designation  or 
+removal. 
+The overall trading and market making of HKD-RMB Dual Counters is referred to as the “Dual 
+Counter Model”.  The Dual Counter Model was launched on 19 June  2023, which further 
+enhances the trading and settlement model for Dual Counter Securities .  The DCMM 
+Programme and the DCS-DS Programme under the Rules of the Exchange are to support inter-
+counter Dual Counter Securities  trading, in order to provide liquidity in the secondary 
+counters (initially RMB counters) and minimize price discrepancies between the two counters.  
+While the DCMM Programme is limited to Exchange Participants ( “EPs”), the DCS -DS 
+Programme, launching on 26 January 2026, extends eligibility to non-EPs.  
+
+=== PAGE 3 ===
+ 
+ 
+3 
+ 
+Issuer-Related Matters for Dual Counter Securities  
+2. Will a security automatically become a Dual Counter Security if it has two stock counters 
+denominated in HKD and RMB for trading and settlement?  
+No. Only securities with both HKD and RMB counter s and  that are designated  by the 
+Exchange in accordance with the Rules of the Exchange are considered as  Dual Counter 
+Securities. The list of designated Dual Counter Securities is available on HKEX website. 
+ 
+3. What would be the benefit for an issuer  to list both HKD and  RMB counters and then be 
+designated as a Dual Counter Security?   
+An issuer with a dual counter arrangement including a RMB counter under the Dual Counter 
+Model can o ffer investor s choices of trading currenc y and potentially tap into new RMB 
+liquidity.  Further, a Dual Counter Security designated by HKEX may have market maker s 
+which would provide liquidity in the secondary counter (initially RMB counter) and narrow 
+the price discrepancies between its HKD-RMB Dual Counters.  
+ 
+4. What would be the application process or requirements, processing time and cost required 
+for a listed issuer to launch a RMB counter?  
+As the Dual Counter Model affects the trading arrangements, a listed issuer is advised to  
+agree the proposed timetable and trading arrangements  in the application for launching a 
+RMB counter with the Listing Division of HKEX, make an application with Hong Kong Securities 
+Clearing Company Limited (“HKSCC”) for the listed securities to be accepted as Multi-counter 
+Eligible Securities as defined under the General Rules of HKSCC (“CCASS Rules”), and issue an 
+announcement to inform the market of the trading arrangements usually made before the 
+counter addition effective date.    
+Listed issuers are suggested to check with their legal advisers if any shareholder meeting or 
+board approval would be required for launching a RMB counter. 
+There is no specific mandated timetable regarding the application for a RMB  counter. 
+However, in addition to the announcement on trading arrangement details usually made 
+before the effective date  of the RMB counter , issuers are recommended to issue another 
+voluntary announcement on their application for the addition of RMB counter through 
+HKEXnews, after submission of an application. Please note that this voluntary announcement 
+is about the addition of RMB counter with the intention to be a Dual Counter Securit y only, 
+while the designation of Dual Counter Securities is subject to the decision of HKEX. This 
+voluntary announcement serves the purpose to potentially facilitate the designation to 
+include the HKD counter and the RMB counter of the security to the Dual Counter Model. 
+This will also allow potential Dual Counter Market Makers to apply for the relevant market 
+
+=== PAGE 4 ===
+ 
+ 
+4 
+ 
+making permit. Issuers should reserve sufficient time for potential Dual Counter Market 
+Makers to file an application for a market making permit before the proposed effective date 
+of the RMB counter, for instance 2 to 4 weeks. 
+There would be no fee payable to HKEX to launch an additional RMB counter. Listed issuers 
+are advised to check if any other fees or charges (such as fees required for share registrar, 
+etc. if applicable) would be required to launch a RMB counter.  
+ 
+5. Are holders of  securities under the RMB  counter and the HKD  counter under the Dual 
+Counter Model treated differently from a legal perspective? 
+The Rules of the Exchange require that a Dual Counter Security may be traded in two different 
+currencies provided that the securities concerned are of the same class . Holders of Dual 
+Counter S ecurities shall be entitled to identical rights under the issuer’s constitutional 
+documents.   
+ 
+6. How is the market capitalization of a Dual Counter Security calculated? 
+HKEX calculates the market capitalization of a Dual Counter Security by multiplying the total 
+number of issued securities with the closing price of the HKD counter.  HKEX will continuously 
+review this calculation method, taking into account the development of market practice for 
+the Dual Counter Model, relative liquidity of the Dual Counter Securities and market feedback. 
+ 
+7. Will there be any change in the calculation of (i) the public float; (ii) the size limits on 
+general mandate for issuance/repurchase of securities; or (iii) size limits on grants of share 
+awards or options under share schemes under the Listing Rules, after a listed issuer adopts 
+the Dual Counter Model? How will the benchmarked price be determined if the listed issuer 
+proposes a general mandate placing? (applicable to equities) 
+There will not be a change in the calculation of the public float and size limits .  They are 
+calculated with reference to the total issued securities of the listed issuer. The benchmarked 
+price will be calculated with reference to the closing price of the listed issuer’s securities 
+traded under the HKD counter. 
+ 
+8. Can a listed issuer repurchase securities from RMB counter and/or HKD counter  or both 
+under a repurchase mandate? (applicable to equities) 
+It will be the issuer's option to decide. 
+ 
+ 
+
+=== PAGE 5 ===
+ 
+ 
+5 
+ 
+9. Can a listed issuer remove one of the counters?  
+It will be the issuer's option to decide. The issuer is required to agree with HKEX on the 
+proposed timetable and trading and settlement arrangements of the counter being removed, 
+and issue an announcement to inform the market of the arrangements. 
+ 
+10. What are the criteria for designation or removal of designation as Dual Counter Securities 
+and when will the eligibility be reviewed? 
+Major criteria for designation or removal of designation  as a Dual Counter Security include 
+market capitalization and trading liquidity, potential interest from Dual Counter Market 
+Makers to provide liquidity in the secondary counter (initially RMB counter), market readiness 
+to support trading and settlement of dual counters and any other considerations that HKEX 
+may see fit. The list of designated Dual Counter Securities will be subject to review regularly 
+or at an ad-hoc basis after the DCMM Programme launch. 
+ 
+
+=== PAGE 6 ===
+ 
+ 
+6 
+ 
+Trading 
+ 
+11. How may a Dual Counter Security  under the Dual Counter Model be identified? How can 
+investors distinguish between the two counters of a Dual Counter Security? Are there any 
+identification in their stock codes and stock short names?  
+The list of Dual Counter Securities is available on HKEX website and would be updated by 
+HKEX from time to time after the rollout of the Dual Counter Model.  
+An investor can distinguish between the two counters by their stock codes and their stock 
+short names. 
+The general principle is that separate and unique stock codes are assigned to the HKD and 
+RMB counters respectively.  For an equity, t he stock code for the RMB counter will be a 5 -
+digit number starting with an “8” , while a 5-digit number starting with a “0” would be 
+assigned for the HKD counter.  
+The last four digits of the stock codes for the two counters will normally be the same1, in line 
+with the existing allocation arrangement.  
+o HKD counter - 0XXXX 
+o RMB counter - 8XXXX 
+The stock short names for the two counters are also different. For the RMB counter, the stock 
+short name will end with -R to indicate that the securities are traded in RMB.  There will be 
+no specific marking in the stock short name of the HKD counter. 
+The following is an illustrative example of the stock short names: 
+o HKD counter – “XYZ” 
+o RMB counter – “XYZ -R” 
+With the enhancement of settlement arrangement for Multi -counter Eligible Securities  by 
+adopting the single tranche multiple counter arrangement (the “STMC arrangement”), there 
+is only one International Securities Identification Number (i.e. ISIN) for each Multi-counter 
+Eligible Security.  
+ 
+ 
+ 
+1 In normal circumstances, the last four digits of the stock codes for the two counters of a Dual Counter Security 
+will be identical. However, there are six stock codes,  86610, 86611, 86639, 86660, 86661 and 86663, which have 
+been allocated for bonds of Ministry of the Finance of the People's Republic of China and as such, these codes will 
+no longer be available for use by the relevant Dual Counter Securities.  
+
+=== PAGE 7 ===
+ 
+ 
+7 
+ 
+12. For stamp duty, exchange fees and levies  for a trading transaction , what currency can be 
+used for such payment?  
+For secondary market trading in the RMB counter, trading-related fees and levies (such as the 
+SFC Transaction L evy, AFRC Transaction L evy, etc.) and stamp duty should be  paid to the 
+Exchange in HKD. Brokers may provide currency conversion services to collect corresponding 
+RMB amounts of trading-related fees and levies from investors and convert the same into 
+HKD for payment  to the Exchange . Investors should consult their brokers on the trading-
+related fees and levies collection offering. 
+ 
+13. How do single-counter and inter-counter trading work?  
+Single-counter trading 
+Single-counter trading is equivalent to trading  HKD-denominated securities or RMB -
+denominated securities and there are no additional requirements for brokers as compared 
+to the current practice.  As usual, for trading under the RMB counter, brokers should ensure 
+their own readiness for trading and settlement of securities in the RMB counter. 
+Inter-counter trading  
+Inter-counter trading means buying in one counter and selling in another counter as two 
+independent transactions, even though both transactions involve the same security.  
+However, brokers and their clients should ensure that necessary actions are taken to prevent 
+failed settlement.  
+Brokers should review and ensure that their front and back office systems , as well as 
+operations are ready to support such client trading activities. 
+From a regulatory standpoint, subject to compliance with the market misconduct provisions 
+under the Securities and Futures Ordinance and other related rules and regulations (e.g. short 
+selling), investors may buy securities from one counter first and then sell the same quantity 
+on the other counter on the same day . Investors should be reminded that it is optional for 
+EPs to provide inter -counter day trade services according to their operational capability, 
+system limitations, settlement risks (as noted above) and any other business consideration. 
+Investors should consult his/her broker and understand the inter-counter day trade services, 
+including the associated risks and fees, before engaging in any inter-counter day trades.  
+ 
+14. Do brokers need to enhance their systems or processes to support the Dual Counter Model? 
+The Dual Counter Model largely follows the existing trading arrangements for securities 
+denominated in RMB (price validations, order types, trading sessions, etc.).  For inter-counter 
+transactions of the same securities, it involves two independent trading transactions with 
+
+=== PAGE 8 ===
+ 
+ 
+8 
+ 
+different stock codes and stock short names . EPs are advised to review their systems and 
+operations to ensure smooth inter-counter trading and post trade arrangements for Dual 
+Counter Securities.  
+ 
+15. Currently OTP-C performs different checks before an order can be accepted to the central 
+order book (e.g. the order price cannot deviate for more than 5 times or more, or in respect 
+of a Structured Product, 9 times from the current nominal price). How will such checking be 
+performed for RMB counter? 
+OTP-C appl ies checking at the order level  against the parameters of the specific counter , 
+irrespective of the counter’s trading currency. 
+ 
+16. Would the buying of one counter followed by the selling in the other counter be regarded 
+as a long sale or a short sale? 
+As the two counters refer to the same securities , the sale would normally be regarded as a 
+long sale. 
+ 
+17. Would the buying of securities in one counter followed by the selling in the other counter 
+within the same trading day be permissible? 
+Yes, subject to compliance with the market misconduct provisions under the Securities and 
+Futures Ordinance and other related rules and regulations . This would be permissible under 
+the existing Rules of the Exchange.  However, investors should consult his/her broker and 
+understand the inter -counter day trade services, including the associated risks and fees, 
+before engaging in any inter-counter day trades. 
+ 
+18. For Designated Securities  eligible for short selling , would borrowing of securities in one 
+counter followed by selling in the other counter be regarded as a covered short sale? 
+Yes, as the counters refer to the same securities, the sale would normally be regarded as a 
+covered short sale and thus subject to the relevant short selling regulations as stipulated in 
+the Eleventh Schedule of the Rules of the Exchange and the Securities and Futures Ordinance. 
+ 
+19. If the HKD counter is already a Designated Security eligible for short selling, will the RMB 
+counter become a Designated Security too? 
+The list of Designated Securities eligible for short selling is published on the HKEX website. 
+
+=== PAGE 9 ===
+ 
+ 
+9 
+ 
+In principle, if the HKD counter (or the RMB counter) is already a Designated Security eligible 
+for short selling, HKEX will designate the RMB counter (or the HKD counter) as a Designated 
+Security eligible for short selling after consulting the SFC. 
+ 
+20. Where is the first sell order in the RMB counter coming from in the secondary market?  Is 
+the price in the RMB counter based on supply and demand or pegged to share price of the 
+HKD counter? Any price difference between the HKD-RMB Dual Counters? 
+As securities between the HKD-RMB Dual Counters are of the same class, the first sell order 
+in the RMB counter would be securities that will be converted from the respective HKD 
+counter. There will be no price pegging between the two counters and the price of the RMB 
+counter will be decided by supply and demand. There may be a price difference, adjusted by 
+exchange rate,  between the HKD-RMB Dual Counters  and a DCMM Programme will be in 
+place to minimize the price difference and provide liquidity in the RMB counter.   
+ 
+21. How is the Volatility Control Mechanism (“VCM”) determined for a Dual Counter Security? 
+If a Dual Counter Security is a VCM security based on the existing eligibility criteria, all of the 
+counters would be subject to the same VCM triggering threshold. However, when VCM is 
+triggered in one counter, it would not automatically trigger the VCM in the other counter.   
+ 
+22. What are the Pre-Opening Session (POS) arrangements for RMB counters? 
+Upon the launch of the Dual Counter Model and on the first trading day of an RMB counter, 
+the previous closing price of its relevant HKD counter after an exchange rate adjustment will 
+be used for determining the ±15% price limit of the RMB counter during t he POS. After the 
+first day of RMB counter trading, the previous closing price in the RMB counter will be used 
+for the calculation of price limit in the POS for the RMB counter.  
+
+=== PAGE 10 ===
+ 
+ 
+10 
+ 
+Dual Counter Market Maker and Designated Specialist for Dual Counter Securities 
+23. Who can apply for a DCMM Permit to make a market in a Dual Counter Security? 
+EPs of The Stock Exchange of Hong Kong Limited (“the Exchange”) that fulfil the criteria 
+prescribed by the Exchange from time to time may apply for a DCMM Permit in a Dual Counter 
+Security. The criteria include financial standing, trading record, personnel, c omputer 
+equipment, internal security procedures, risk management policy and procedures, and any 
+other criteria considered appropriate by the Exchange. An applicant should also provide the 
+documents required for application for a DCMM Permit as detailed in the Explanatory Notes 
+for Application for Acquisition / Surrender of Dual Counter Market Maker Permit(s) (“EN22”).  
+ 
+24. How to apply for the DCS-DS program? 
+EPs can apply for the registration of its corporate client to join as a DCS -DS. The corporate 
+client must fulfil at least one of the conditions listed out in Application for Registration / 
+Removal of Designated Specialist under the Dual Counter Market Maker Regulations  (“Form 
+22A”). For interested corporate clients who are already Designated Specialist (“DS”) for ETP, 
+a simplified process is adopted, where supporting information are only required when the 
+corporate client intends to adopt any alternative arrangements (i.e. arrangements that are 
+different from those for DS). The EPs should also provide the documents required for 
+application for registration of DCS-DS as detailed in the Explanatory Notes for Application for 
+Registration / Removal of Designated Specialist under the Dual Counter Market Maker 
+Regulations (“EN22A”).  
+ 
+25. How does the DCS-DS Programme differ from the DCMM Programme? 
+The DCMM Programme only allows EPs of the Exchange to apply for market making permits 
+and does not permit registration of corporate clients. The DCS-DS Programme, modelled after 
+the successful ETP Designated Specialists Programme, allows DCMM to register eligible 
+corporate clients as DCS-DSs, broadening participation to global liquidity providers. 
+ 
+26. Can a DCS-DS be registered by more than one DCMM? 
+A DCS-DS can be registered by more than one DCMM, provided the registrations are for 
+different DCSs.  Similarly, a DCMM can register one or more  DCS-DSs for specified DCS .  A 
+DCMM may apply to make markets by itself together with its registered DCS-DS for the same 
+DCS.  The DCMM is fully responsible for its DCS-DSs’ activities, and DCS-DSs are subject to the 
+same market making obligations, monitoring, and possible sanctions as DCMMs, with 
+eligibility for certain exemptions and fee discounts.  If DCMM does not fulfil its market making 
+
+=== PAGE 11 ===
+ 
+ 
+11 
+ 
+obligations, this will not affect the market making activities carried out by its registered DCS-
+DSs. 
+ 
+27. What are the market making obligations of being a DCMM and DCS-DS? 
+A DCMM and its registered DCS-DS shall comply with the required market making obligations 
+at the secondary counter of a Dual Counter Security only, as stipulated in the Rules of the 
+Exchange including but not limited to entering two-side quotes within the applicable market 
+maker obligations based on groupings by stocks and fulfilling the minimum participation rate 
+requirement. In the initial stage of the Dual Counter Model, the Exchange has designated the 
+RMB counters of the Dual Counter Securities as the secondary counters in order to enhance 
+liquidity in the RMB counters, while the HKD counters have been designated as the primary 
+counters. 
+ 
+28. Which types of transactions may qualify for stamp duty exemption under the DCMM 
+Programme and DCS-DS Programme? 
+Please refer to Section 3.2 of EN22 for details of Eligible DCMM Transactions (as defined in 
+EN22) which are qualified for stamp duty exemption.  In short, for a sale or purchase of a Dual 
+Counter Security to be qualified for stamp duty exemption, it must be made by an Exchange 
+Participant in its capacity as a DCMM by itself or together with its registered DCS-DS and must 
+be a Market Making Transaction, Hedging Transaction or Arbitrage Transaction (such 
+transactions are specifically defined in EN22) made through the Exchange’s OTP -C system 
+under the designated broker number(s) of the DCMM. In addition to meeting the criteria for 
+eligible type of transactions, DCMM  and its registered DCS-DS shall also observe with other 
+requirements specified in the EN22 for the stamp duty exemption. 
+ 
+29. What are the DCMM  and DCS -DS obligations in respect of a Dual Counter Security if it 
+undergoes rights issue or issue of equity warrants? 
+For rights issue of a Dual Counter Security, both HKD counter and RMB counter will be set up 
+for the trading and settlement of nil paid rights (“NPR”) created as a result of a rights issue of 
+a Dual Counter Security. For the avoidance of doubt, market maki ng obligations of a DCMM 
+or its registered DCS-DS holding the relevant DCMM permit in such Dual Counter Security are 
+not applied to the NPR in RMB counter. 
+For equity warrants of a Dual Counter Security, both HKD counter and RMB counter will be 
+set up for the equity warrants of a Dual Counter Security. For the avoidance of doubt, market 
+making obligations of a DCMM or its registered DCS-DS holding the relevant DCMM permit in 
+such Dual Counter Security are not applied to the equity warrants in RMB counter.  
+ 
+
+=== PAGE 12 ===
+ 
+ 
+12 
+ 
+30. Is a DCMM  or its registered DCS -DS required to use a designated broker number(s) for 
+conducting its market making and liquidity providing activities in the Dual Counter 
+Securities for which it holds a current DCMM Permit? 
+Yes, a DCMM or its registered DCS-DS is required to conduct its market making and liquidity 
+providing activities under a new Market Making Orion Central Gateway – Securities Market 
+(MMOCG-C) Session(s), an existing MMOCG-C Session(s) for Securities Market Maker and/or 
+an Orion Central Gateway – Securities Market (OCG -C) session(s).  No matter a new or an 
+existing session is used, the DCMM or its registered DCS -DS shall use a designated broker 
+number(s) assigned by the Exchange for its order placing in the Dual Counter Security for 
+which it holds a valid DCMM permit. 
+ 
+31. What are the testing requirements for becoming a DCMM or DCS-DS? 
+Exchange Participants who, or whose corporate clients, have interest in becoming a DCMM 
+or DCS-DS are required to conduct end -to-end (E2E) test  on their Broker Supplied System 
+("BSS").  If Exchange Participants are going to use a new BSS and apply for a new MMOCG-C 
+session, in addition to E2E test, they are required to conduct offline simulator test and rollout 
+test.  If Exchange Participants  are going to use OCG -C sessions for market making and 
+liquidity providing activities, Exchange Participants should ensure that such BSS connecting 
+to OCG-C session has been certified on DCMM functions.  The same set of E2E test cases 
+applies to both DCMM and DCS -DS. For details of testing requirements, they can refer to 
+Testing Services web corner and the explanatory notes in relation to trading device at HKEX 
+website.  
+ 
+32. What are the market making-related arrangements of a Dual Counter Security if it is subject 
+to parallel trading? 
+Unless otherwise specified by the Exchange, participants should refer to this FAQ and the 
+circular dated 28 March 2024 for the market making -related arrangements of Dual Counter 
+Securities around the parallel trading period. 
+During the parallel trading period, a  Dual Counter Security will be  traded under both a 
+temporary trading counter and an original trading counter for each of its HKD counter and 
+RMB counter respectively. During this period, the market making obligations of DCMM or its 
+registered DCS-DS will be applicable to the original RMB counter only 2.  The order input by 
+DCMM or its registered DCS-DS at the temporary HKD counter and temporary RMB counter 
+will not be recognized as valid DCMM orders by the Exchange during the parallel trading 
+ 
+2 On the basis that the RMB counter has been designated as the secondary counter and 
+the HKD counter is designated as the primary counter respectively. 
+
+=== PAGE 13 ===
+ 
+ 
+13 
+ 
+period. As such, no DCMM Short Selling3 will be allowed at the temporary HKD and temporary 
+RMB counters  and any transaction concluded at such temporary counters shall not be 
+qualified as Eligible DCMM Transactions (in accordance with the EN22 and the Operation 
+Procedures for Stamp Duty Collection). 
+Before the commencement and after the end of the parallel trading period, a Dual Counter 
+Security will have only one RMB counter opened for trading, either the temporary counter 
+(during pre- commencement) or the original counter (after the end of parallel trading period). 
+The market making obligations are hence applicable to that one RMB counter. 
+The relevant market making-related arrangements for DCMM or its registered DCS-DS before, 
+during, and after the parallel trading period are summarised as follows: 
+  
+ 
+3 As defined under the Rules of the Exchange. 
+
+=== PAGE 14 ===
+ 
+ 
+14 
+ 
+ 
+ 
+Counter 
+DCMM 
+market 
+making 
+obligations 
+applicable? 
+(Y = Yes/ No 
+= N) 
+Input of 
+DCMM order 
+(market 
+making order, 
+hedging order 
+or arbitrage 
+order) 
+allowed? 
+(Y = Yes/ N = 
+No) 
+DCMM Short 
+Selling 
+allowed?  
+(Y = Yes/ 
+N=No) 
+Types of 
+Eligible DCMM 
+Transactions 
+under 3.2.1 of 
+EN22 
+Stage 1 – pre-
+commencement 
+of parallel 
+trading period 
+(not applicable to 
+cases of change 
+in board lot size) 
+ 
+Original counters 
+closed and 
+temporary 
+counters opened 
+Temporary 
+HKD N 
+Y except 
+market 
+making order 
+Y 
+Hedging 
+Transaction and 
+Arbitrage 
+Transaction 
+Temporary 
+RMB Y Y4 Y 
+Market Making 
+Transaction and 
+Arbitrage 
+Transaction 
+Stage 2 – parallel 
+trading period  
+ 
+Original counters 
+reopened, 
+temporary 
+counters opened 
+Temporary 
+HKD N N N Nil 
+Temporary 
+RMB N N N Nil 
+Original HKD N 
+Y except 
+market 
+making order 
+Y 
+Hedging 
+Transaction and 
+Arbitrage 
+Transaction 
+Original RMB Y Y5 Y 
+Market Making 
+Transaction and 
+Arbitrage 
+Transaction 
+ 
+4 Please refer to Note 2 
+5 Please refer to Note 2 
+
+=== PAGE 15 ===
+ 
+ 
+15 
+ 
+ 
+Counter 
+DCMM 
+market 
+making 
+obligations 
+applicable? 
+(Y = Yes/ No 
+= N) 
+Input of 
+DCMM order 
+(market 
+making order, 
+hedging order 
+or arbitrage 
+order) 
+allowed? 
+(Y = Yes/ N = 
+No) 
+DCMM Short 
+Selling 
+allowed?  
+(Y = Yes/ 
+N=No) 
+Types of 
+Eligible DCMM 
+Transactions 
+under 3.2.1 of 
+EN22 
+Stage 3 – after 
+the end of 
+parallel trading 
+period 
+  
+Temporary 
+counters closed, 
+original counters 
+opened 
+Original HKD N 
+Y except 
+market 
+making order 
+Y 
+Hedging 
+Transaction and 
+Arbitrage 
+Transaction 
+Original RMB Y Y6 Y 
+Market Making 
+Transaction and 
+Arbitrage 
+Transaction 
+ 
+  
+ 
+6 Please refer to Note 2 
+ 
+
+=== PAGE 16 ===
+ 
+ 
+16 
+ 
+Post Trade and Risk Management Arrangements 
+33.  What are the post trade arrangements for Dual Counter Securities? 
+Dual Counter Securities are essentially a subset of Multi -counter Eligible Securities. The 
+clearing and settlement of Dual Counter Securities will be the same as Multi-counter Eligible 
+Securities under the STMC arrangement.  For more details, please refer to the FAQ for the 
+STMC arrangement. 
+ 
+ 
+ 
+ 

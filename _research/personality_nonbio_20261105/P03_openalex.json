@@ -1,0 +1,1589 @@
+{
+  "id": "https://openalex.org/W1528286763",
+  "doi": "https://doi.org/10.1037/a0024950",
+  "title": "Stability and change of personality across the life course: The impact of age and major life events on mean-level and rank-order stability of the Big Five.",
+  "display_name": "Stability and change of personality across the life course: The impact of age and major life events on mean-level and rank-order stability of the Big Five.",
+  "publication_year": 2011,
+  "publication_date": "2011-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W1528286763",
+    "doi": "https://doi.org/10.1037/a0024950",
+    "mag": "1528286763",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/21859226"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1037/a0024950",
+    "doi": "https://doi.org/10.1037/a0024950",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1037/a0024950",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S29984966",
+      "display_name": "Journal of Personality and Social Psychology",
+      "issn_l": "0022-3514",
+      "issn": [
+        "0022-3514",
+        "1939-1315"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "listed_in": [
+        "abdc-a-star",
+        "anvur-class-a",
+        "anvur-scientific",
+        "cwts-core",
+        "dongbi-a",
+        "erih-plus",
+        "fnege-2",
+        "jufo-3",
+        "ki-jl-2",
+        "medline",
+        "norway-2",
+        "poland-200",
+        "russia-white-list-1",
+        "vabb-shw"
+      ],
+      "host_organization": "https://openalex.org/P4310320262",
+      "host_organization_name": "American Psychological Association",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320262"
+      ],
+      "host_organization_lineage_names": [
+        "American Psychological Association"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Personality and Social Psychology",
+    "raw_type": "journal-article"
+  },
+  "volume": null,
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://doi.org/10.2139/ssrn.1884786",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5090996246",
+        "display_name": "Jule Specht",
+        "orcid": "https://orcid.org/0000-0003-2840-697X",
+        "observed_orcids": [
+          "https://orcid.org/0000-0003-2840-697X"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I22465464",
+          "display_name": "University of Münster",
+          "ror": "https://ror.org/00pd74e08",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I22465464"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jule Specht",
+      "raw_affiliation_strings": [
+        "Department of Psychology, University of Münster, Fliednerstr. 21, 48149 Münster, Germany. jule.specht@uni-muenster.de",
+        "Department of Psychology, University of Münster, Munster, Germany"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychology, University of Münster, Fliednerstr. 21, 48149 Münster, Germany. jule.specht@uni-muenster.de",
+          "institution_ids": [
+            "https://openalex.org/I22465464"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Psychology, University of Münster, Munster, Germany",
+          "institution_ids": [
+            "https://openalex.org/I22465464"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5027151142",
+        "display_name": "Boris Egloff",
+        "orcid": "https://orcid.org/0000-0002-5736-9912",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-5736-9912"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I197323543",
+          "display_name": "Johannes Gutenberg University Mainz",
+          "ror": "https://ror.org/023b0x485",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I197323543"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Boris Egloff",
+      "raw_affiliation_strings": [
+        "Department of Psychology, Johannes Gutenberg University Mainz, Mainz, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-5736-9912",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychology, Johannes Gutenberg University Mainz, Mainz, Germany",
+          "institution_ids": [
+            "https://openalex.org/I197323543"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5078653333",
+        "display_name": "Stefan C. Schmukle",
+        "orcid": "https://orcid.org/0000-0002-6279-9618",
+        "observed_orcids": [
+          "https://orcid.org/0000-0002-6279-9618"
+        ]
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I22465464",
+          "display_name": "University of Münster",
+          "ror": "https://ror.org/00pd74e08",
+          "country_code": "DE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I22465464"
+          ]
+        }
+      ],
+      "countries": [
+        "DE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Stefan C. Schmukle",
+      "raw_affiliation_strings": [
+        "Department of Psychology, University of Münster, Munster, Germany"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-6279-9618",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychology, University of Münster, Munster, Germany",
+          "institution_ids": [
+            "https://openalex.org/I22465464"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 55.3122,
+  "has_fulltext": true,
+  "cited_by_count": 1311,
+  "citation_normalized_percentile": {
+    "value": 0.9995946,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "101",
+    "issue": "4",
+    "first_page": "862",
+    "last_page": "882"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11040",
+    "display_name": "Personality Traits and Psychology",
+    "score": 0.9980000257492065,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3203",
+      "display_name": "Clinical Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11040",
+      "display_name": "Personality Traits and Psychology",
+      "score": 0.9980000257492065,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11093",
+      "display_name": "Personality Disorders and Psychopathology",
+      "score": 0.000699999975040555,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11265",
+      "display_name": "Aging and Gerontology Research",
+      "score": 0.00019999999494757503,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3206",
+        "display_name": "Neuropsychology and Physiological Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/personality-change",
+      "display_name": "personality change",
+      "score": 0.5809999704360962
+    },
+    {
+      "id": "https://openalex.org/keywords/life-course",
+      "display_name": "life course",
+      "score": 0.7210000157356262
+    },
+    {
+      "id": "https://openalex.org/keywords/big-five-personality-traits",
+      "display_name": "Big Five personality traits",
+      "score": 0.9319999814033508
+    },
+    {
+      "id": "https://openalex.org/keywords/rank-order-stability",
+      "display_name": "rank-order stability",
+      "score": 0.9390000104904175
+    },
+    {
+      "id": "https://openalex.org/keywords/major-life-events",
+      "display_name": "major life events",
+      "score": 0.8349999785423279
+    },
+    {
+      "id": "https://openalex.org/keywords/age-effects",
+      "display_name": "age effects",
+      "score": 0.7730000019073486
+    },
+    {
+      "id": "https://openalex.org/keywords/emotional-stability",
+      "display_name": "emotional stability",
+      "score": 0.5899999737739563
+    },
+    {
+      "id": "https://openalex.org/keywords/conscientiousness",
+      "display_name": "conscientiousness",
+      "score": 0.9269999861717224
+    },
+    {
+      "id": "https://openalex.org/keywords/extraversion",
+      "display_name": "extraversion",
+      "score": 0.7860000133514404
+    },
+    {
+      "id": "https://openalex.org/keywords/openness-to-experience",
+      "display_name": "openness to experience",
+      "score": 0.8289999961853027
+    },
+    {
+      "id": "https://openalex.org/keywords/agreeableness",
+      "display_name": "agreeableness",
+      "score": 0.996999979019165
+    },
+    {
+      "id": "https://openalex.org/keywords/selection-effects",
+      "display_name": "selection effects",
+      "score": 0.6269999742507935
+    },
+    {
+      "id": "https://openalex.org/keywords/socialization-effects",
+      "display_name": "socialization effects",
+      "score": 0.9340000152587891
+    },
+    {
+      "id": "https://openalex.org/keywords/lifespan-development",
+      "display_name": "lifespan development",
+      "score": 0.49900001287460327
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C187288502",
+      "wikidata": "https://www.wikidata.org/wiki/Q641118",
+      "display_name": "Personality",
+      "level": 2,
+      "score": 0.7635382413864136
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.7061110734939575
+    },
+    {
+      "id": "https://openalex.org/C172141706",
+      "wikidata": "https://www.wikidata.org/wiki/Q1307067",
+      "display_name": "Conscientiousness",
+      "level": 5,
+      "score": 0.6968998908996582
+    },
+    {
+      "id": "https://openalex.org/C170760736",
+      "wikidata": "https://www.wikidata.org/wiki/Q380358",
+      "display_name": "Agreeableness",
+      "level": 5,
+      "score": 0.6562186479568481
+    },
+    {
+      "id": "https://openalex.org/C2865642",
+      "wikidata": "https://www.wikidata.org/wiki/Q378132",
+      "display_name": "Big Five personality traits",
+      "level": 3,
+      "score": 0.6522208452224731
+    },
+    {
+      "id": "https://openalex.org/C127816348",
+      "wikidata": "https://www.wikidata.org/wiki/Q127588",
+      "display_name": "Extraversion and introversion",
+      "level": 4,
+      "score": 0.639363169670105
+    },
+    {
+      "id": "https://openalex.org/C84976871",
+      "wikidata": "https://www.wikidata.org/wiki/Q2015673",
+      "display_name": "Openness to experience",
+      "level": 2,
+      "score": 0.5841224193572998
+    },
+    {
+      "id": "https://openalex.org/C1691868",
+      "wikidata": "https://www.wikidata.org/wiki/Q1811049",
+      "display_name": "Life course approach",
+      "level": 2,
+      "score": 0.5747390985488892
+    },
+    {
+      "id": "https://openalex.org/C138496976",
+      "wikidata": "https://www.wikidata.org/wiki/Q175002",
+      "display_name": "Developmental psychology",
+      "level": 1,
+      "score": 0.5157178044319153
+    },
+    {
+      "id": "https://openalex.org/C134524106",
+      "wikidata": "https://www.wikidata.org/wiki/Q5753128",
+      "display_name": "Hierarchical structure of the Big Five",
+      "level": 5,
+      "score": 0.46903976798057556
+    },
+    {
+      "id": "https://openalex.org/C2779198410",
+      "wikidata": "https://www.wikidata.org/wiki/Q3525894",
+      "display_name": "Personality changes",
+      "level": 3,
+      "score": 0.4277762770652771
+    },
+    {
+      "id": "https://openalex.org/C134238545",
+      "wikidata": "https://www.wikidata.org/wiki/Q4736511",
+      "display_name": "Alternative five model of personality",
+      "level": 5,
+      "score": 0.42604243755340576
+    },
+    {
+      "id": "https://openalex.org/C77805123",
+      "wikidata": "https://www.wikidata.org/wiki/Q161272",
+      "display_name": "Social psychology",
+      "level": 1,
+      "score": 0.3769906461238861
+    },
+    {
+      "id": "https://openalex.org/C149923435",
+      "wikidata": "https://www.wikidata.org/wiki/Q37732",
+      "display_name": "Demography",
+      "level": 1,
+      "score": 0.36597543954849243
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000293",
+      "descriptor_name": "Adolescent",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000328",
+      "descriptor_name": "Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000339",
+      "descriptor_name": "Affect",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000367",
+      "descriptor_name": "Age Factors",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000368",
+      "descriptor_name": "Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000369",
+      "descriptor_name": "Aged, 80 and over",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000375",
+      "descriptor_name": "Aging",
+      "qualifier_ui": "Q000523",
+      "qualifier_name": "psychology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D004644",
+      "descriptor_name": "Emotions",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005260",
+      "descriptor_name": "Female",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D005858",
+      "descriptor_name": "Germany",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007389",
+      "descriptor_name": "Internal-External Control",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D007398",
+      "descriptor_name": "Interpersonal Relations",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008016",
+      "descriptor_name": "Life Change Events",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D008137",
+      "descriptor_name": "Longitudinal Studies",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008297",
+      "descriptor_name": "Male",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008875",
+      "descriptor_name": "Middle Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010551",
+      "descriptor_name": "Personality",
+      "qualifier_ui": "Q000502",
+      "qualifier_name": "physiology",
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010553",
+      "descriptor_name": "Personality Development",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010555",
+      "descriptor_name": "Personality Inventory",
+      "qualifier_ui": "Q000706",
+      "qualifier_name": "statistics & numerical data",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012931",
+      "descriptor_name": "Social Environment",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D012938",
+      "descriptor_name": "Social Perception",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D055815",
+      "descriptor_name": "Young Adult",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 7,
+  "locations": [
+    {
+      "id": "doi:10.1037/a0024950",
+      "doi": "https://doi.org/10.1037/a0024950",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1037/a0024950",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S29984966",
+        "display_name": "Journal of Personality and Social Psychology",
+        "issn_l": "0022-3514",
+        "issn": [
+          "0022-3514",
+          "1939-1315"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "abdc-a-star",
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "dongbi-a",
+          "erih-plus",
+          "fnege-2",
+          "jufo-3",
+          "ki-jl-2",
+          "medline",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320262",
+        "host_organization_name": "American Psychological Association",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320262"
+        ],
+        "host_organization_lineage_names": [
+          "American Psychological Association"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Personality and Social Psychology",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "doi:10.2139/ssrn.1884786",
+      "doi": "https://doi.org/10.2139/ssrn.1884786",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.2139/ssrn.1884786",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210172589",
+        "display_name": "SSRN Electronic Journal",
+        "issn_l": "1556-5068",
+        "issn": [
+          "1556-5068"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I1318003438",
+        "host_organization_name": "RELX Group (Netherlands)",
+        "host_organization_lineage": [
+          "https://openalex.org/I1318003438"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "acceptedVersion",
+      "is_accepted": true,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "posted-content"
+    },
+    {
+      "id": "pmid:21859226",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/21859226",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of personality and social psychology",
+      "raw_type": "Journal Article"
+    },
+    {
+      "id": "pmh:oai:RePEc:diw:diwsop:diw_sp377",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "https://www.diw.de/documents/publikationen/73/diw_01.c.372623.de/diw_sp0377.pdf",
+      "pdf_url": "http://www.diw.de/documents/publikationen/73/diw_01.c.372623.de/diw_sp0377.pdf",
+      "source": {
+        "id": "https://openalex.org/S4306401271",
+        "display_name": "RePEc: Research Papers in Economics",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I77793887",
+        "host_organization_name": "Federal Reserve Bank of St. Louis",
+        "host_organization_lineage": [
+          "https://openalex.org/I77793887"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "preprint"
+    },
+    {
+      "id": "mag:1528286763",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "https://ideas.repec.org/p/diw/diwsop/diw_sp377.html",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306530378",
+        "display_name": "SOEPpapers on Multidisciplinary Panel Data Research",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "SOEPpapers on Multidisciplinary Panel Data Research",
+      "raw_type": null
+    },
+    {
+      "id": "mag:3122804203",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "https://econpapers.repec.org/paper/diwdiwsop/diw_5fsp377.htm",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401271",
+        "display_name": "RePEc: Research Papers in Economics",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I77793887",
+        "host_organization_name": "Federal Reserve Bank of St. Louis",
+        "host_organization_lineage": [
+          "https://openalex.org/I77793887"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "RePEc: Research Papers in Economics",
+      "raw_type": null
+    },
+    {
+      "id": "pmh:oai:econstor.eu:10419/150922",
+      "doi": null,
+      "is_oa": false,
+      "landing_page_url": "http://hdl.handle.net/10419/150922",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401696",
+        "display_name": "Econstor (Econstor)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "doc-type:workingPaper"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.2139/ssrn.1884786",
+    "doi": "https://doi.org/10.2139/ssrn.1884786",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.2139/ssrn.1884786",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210172589",
+      "display_name": "SSRN Electronic Journal",
+      "issn_l": "1556-5068",
+      "issn": [
+        "1556-5068"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": false,
+      "listed_in": [],
+      "host_organization": "https://openalex.org/I1318003438",
+      "host_organization_name": "RELX Group (Netherlands)",
+      "host_organization_lineage": [
+        "https://openalex.org/I1318003438"
+      ],
+      "host_organization_lineage_names": [],
+      "type": "repository"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "acceptedVersion",
+    "is_accepted": true,
+    "is_published": false,
+    "raw_source_name": null,
+    "raw_type": "posted-content"
+  },
+  "sustainable_development_goals": [],
+  "study_designs": [
+    {
+      "id": "https://openalex.org/study-designs/observational-study",
+      "display_name": "Observational Study"
+    }
+  ],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320322572",
+      "display_name": "Studienstiftung des Deutschen Volkes",
+      "ror": "https://ror.org/05xwwfy96"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W1528286763.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W1528286763.grobid-xml"
+  },
+  "referenced_works_count": 82,
+  "referenced_works": [
+    "https://openalex.org/W130596010",
+    "https://openalex.org/W162480413",
+    "https://openalex.org/W576038528",
+    "https://openalex.org/W1556033561",
+    "https://openalex.org/W1963742443",
+    "https://openalex.org/W1964751586",
+    "https://openalex.org/W1965473390",
+    "https://openalex.org/W1978854714",
+    "https://openalex.org/W1981147386",
+    "https://openalex.org/W1983089418",
+    "https://openalex.org/W1987060531",
+    "https://openalex.org/W1988361795",
+    "https://openalex.org/W1994083798",
+    "https://openalex.org/W1995110853",
+    "https://openalex.org/W1995632010",
+    "https://openalex.org/W1996176555",
+    "https://openalex.org/W2002360945",
+    "https://openalex.org/W2005092827",
+    "https://openalex.org/W2010420668",
+    "https://openalex.org/W2010867843",
+    "https://openalex.org/W2014083209",
+    "https://openalex.org/W2016255649",
+    "https://openalex.org/W2018616670",
+    "https://openalex.org/W2020661211",
+    "https://openalex.org/W2024507896",
+    "https://openalex.org/W2024718301",
+    "https://openalex.org/W2036924469",
+    "https://openalex.org/W2036937524",
+    "https://openalex.org/W2037852804",
+    "https://openalex.org/W2039563099",
+    "https://openalex.org/W2040661201",
+    "https://openalex.org/W2044247072",
+    "https://openalex.org/W2045889560",
+    "https://openalex.org/W2046270896",
+    "https://openalex.org/W2055102411",
+    "https://openalex.org/W2059130674",
+    "https://openalex.org/W2059334100",
+    "https://openalex.org/W2060999123",
+    "https://openalex.org/W2065597742",
+    "https://openalex.org/W2069214083",
+    "https://openalex.org/W2071589850",
+    "https://openalex.org/W2078043865",
+    "https://openalex.org/W2081318558",
+    "https://openalex.org/W2081949971",
+    "https://openalex.org/W2086854070",
+    "https://openalex.org/W2088093674",
+    "https://openalex.org/W2089177013",
+    "https://openalex.org/W2089349199",
+    "https://openalex.org/W2095478403",
+    "https://openalex.org/W2096533706",
+    "https://openalex.org/W2098959957",
+    "https://openalex.org/W2099016137",
+    "https://openalex.org/W2099365033",
+    "https://openalex.org/W2099386505",
+    "https://openalex.org/W2099465406",
+    "https://openalex.org/W2110181077",
+    "https://openalex.org/W2113205979",
+    "https://openalex.org/W2114148841",
+    "https://openalex.org/W2116829419",
+    "https://openalex.org/W2118601268",
+    "https://openalex.org/W2119619153",
+    "https://openalex.org/W2128508989",
+    "https://openalex.org/W2136247425",
+    "https://openalex.org/W2141697271",
+    "https://openalex.org/W2143117643",
+    "https://openalex.org/W2145167064",
+    "https://openalex.org/W2149608872",
+    "https://openalex.org/W2150921722",
+    "https://openalex.org/W2156749267",
+    "https://openalex.org/W2159344018",
+    "https://openalex.org/W2167485244",
+    "https://openalex.org/W2167700134",
+    "https://openalex.org/W2168432963",
+    "https://openalex.org/W2572099224",
+    "https://openalex.org/W2767879018",
+    "https://openalex.org/W2789109311",
+    "https://openalex.org/W2894762832",
+    "https://openalex.org/W2905327414",
+    "https://openalex.org/W2908467553",
+    "https://openalex.org/W4238095402",
+    "https://openalex.org/W4249279174",
+    "https://openalex.org/W4298091299"
+  ],
+  "related_works": [
+    "https://openalex.org/W1989424542",
+    "https://openalex.org/W7048246791",
+    "https://openalex.org/W1977297766",
+    "https://openalex.org/W6887782980",
+    "https://openalex.org/W6967243612",
+    "https://openalex.org/W2600631380",
+    "https://openalex.org/W4226078189",
+    "https://openalex.org/W2071589850",
+    "https://openalex.org/W2517950772",
+    "https://openalex.org/W4244955696"
+  ],
+  "abstract_inverted_index": {
+    "Does": [
+      0
+    ],
+    "personality": [
+      1,
+      36,
+      113,
+      137,
+      167,
+      179
+    ],
+    "change": [
+      2,
+      50,
+      139,
+      198
+    ],
+    "across": [
+      3,
+      45,
+      110
+    ],
+    "the": [
+      4,
+      26,
+      33,
+      73,
+      93,
+      115,
+      162,
+      182
+    ],
+    "entire": [
+      5
+    ],
+    "life": [
+      6,
+      18,
+      121,
+      183
+    ],
+    "course,": [
+      7
+    ],
+    "and": [
+      8,
+      29,
+      51,
+      81,
+      97,
+      99,
+      125,
+      192,
+      195,
+      205
+    ],
+    "are": [
+      9
+    ],
+    "those": [
+      10
+    ],
+    "changes": [
+      11,
+      24,
+      165,
+      180,
+      189
+    ],
+    "due": [
+      12,
+      140
+    ],
+    "to": [
+      13,
+      129,
+      141,
+      153,
+      202
+    ],
+    "intrinsic": [
+      14,
+      145
+    ],
+    "maturation": [
+      15
+    ],
+    "or": [
+      16,
+      171
+    ],
+    "major": [
+      17,
+      120
+    ],
+    "experiences?": [
+      19
+    ],
+    "This": [
+      20
+    ],
+    "longitudinal": [
+      21
+    ],
+    "study": [
+      22
+    ],
+    "investigated": [
+      23
+    ],
+    "in": [
+      25,
+      38,
+      127,
+      166,
+      190
+    ],
+    "mean": [
+      27,
+      68
+    ],
+    "levels": [
+      28,
+      69
+    ],
+    "rank": [
+      30
+    ],
+    "order": [
+      31
+    ],
+    "of": [
+      32,
+      42,
+      47,
+      70,
+      76,
+      95,
+      117,
+      161
+    ],
+    "Big": [
+      34
+    ],
+    "Five": [
+      35
+    ],
+    "traits": [
+      37
+    ],
+    "a": [
+      39,
+      63,
+      90,
+      105
+    ],
+    "heterogeneous": [
+      40
+    ],
+    "sample": [
+      41
+    ],
+    "14,718": [
+      43
+    ],
+    "Germans": [
+      44
+    ],
+    "all": [
+      46,
+      83
+    ],
+    "adulthood.": [
+      48,
+      111
+    ],
+    "Latent": [
+      49
+    ],
+    "latent": [
+      52
+    ],
+    "moderated": [
+      53
+    ],
+    "regression": [
+      54
+    ],
+    "models": [
+      55
+    ],
+    "provided": [
+      56
+    ],
+    "4": [
+      57
+    ],
+    "main": [
+      58
+    ],
+    "findings:": [
+      59
+    ],
+    "First,": [
+      60
+    ],
+    "age": [
+      61
+    ],
+    "had": [
+      62
+    ],
+    "complex": [
+      64
+    ],
+    "curvilinear": [
+      65
+    ],
+    "influence": [
+      66
+    ],
+    "on": [
+      67,
+      164
+    ],
+    "personality.": [
+      71
+    ],
+    "Second,": [
+      72
+    ],
+    "rank-order": [
+      74,
+      108
+    ],
+    "stability": [
+      75,
+      109
+    ],
+    "Emotional": [
+      77
+    ],
+    "Stability,": [
+      78
+    ],
+    "Extraversion,": [
+      79
+    ],
+    "Openness,": [
+      80
+    ],
+    "Agreeableness": [
+      82
+    ],
+    "followed": [
+      84
+    ],
+    "an": [
+      85
+    ],
+    "inverted": [
+      86
+    ],
+    "U-shaped": [
+      87
+    ],
+    "function,": [
+      88
+    ],
+    "reaching": [
+      89
+    ],
+    "peak": [
+      91
+    ],
+    "between": [
+      92
+    ],
+    "ages": [
+      94
+    ],
+    "40": [
+      96
+    ],
+    "60": [
+      98
+    ],
+    "decreasing": [
+      100
+    ],
+    "afterward,": [
+      101
+    ],
+    "whereas": [
+      102
+    ],
+    "Conscientiousness": [
+      103
+    ],
+    "showed": [
+      104
+    ],
+    "continuously": [
+      106
+    ],
+    "increasing": [
+      107
+    ],
+    "Third,": [
+      112
+    ],
+    "predicted": [
+      114
+    ],
+    "occurrence": [
+      116
+    ],
+    "several": [
+      118
+    ],
+    "objective": [
+      119
+    ],
+    "events": [
+      122,
+      132,
+      149
+    ],
+    "(selection": [
+      123
+    ],
+    "effects)": [
+      124
+    ],
+    "changed": [
+      126
+    ],
+    "reaction": [
+      128
+    ],
+    "experiencing": [
+      130
+    ],
+    "these": [
+      131
+    ],
+    "(socialization": [
+      133
+    ],
+    "effects),": [
+      134
+    ],
+    "suggesting": [
+      135
+    ],
+    "that": [
+      136,
+      178,
+      196
+    ],
+    "can": [
+      138
+    ],
+    "factors": [
+      142
+    ],
+    "other": [
+      143
+    ],
+    "than": [
+      144
+    ],
+    "maturation.": [
+      146
+    ],
+    "Fourth,": [
+      147
+    ],
+    "when": [
+      148
+    ],
+    "were": [
+      150,
+      168
+    ],
+    "clustered": [
+      151
+    ],
+    "according": [
+      152
+    ],
+    "their": [
+      154
+    ],
+    "valence,": [
+      155
+    ],
+    "as": [
+      156
+    ],
+    "is": [
+      157,
+      199
+    ],
+    "commonly": [
+      158
+    ],
+    "done,": [
+      159
+    ],
+    "effects": [
+      160
+    ],
+    "environment": [
+      163
+    ],
+    "either": [
+      169
+    ],
+    "overlooked": [
+      170
+    ],
+    "overgeneralized.": [
+      172
+    ],
+    "In": [
+      173
+    ],
+    "sum,": [
+      174
+    ],
+    "our": [
+      175
+    ],
+    "analyses": [
+      176
+    ],
+    "show": [
+      177
+    ],
+    "throughout": [
+      181
+    ],
+    "span,": [
+      184
+    ],
+    "but": [
+      185
+    ],
+    "with": [
+      186
+    ],
+    "more": [
+      187
+    ],
+    "pronounced": [
+      188
+    ],
+    "young": [
+      191
+    ],
+    "old": [
+      193
+    ],
+    "ages,": [
+      194
+    ],
+    "this": [
+      197
+    ],
+    "partly": [
+      200
+    ],
+    "attributable": [
+      201
+    ],
+    "social": [
+      203
+    ],
+    "demands": [
+      204
+    ],
+    "experiences.": [
+      206
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 42
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 56
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 68
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 87
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 100
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 105
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 193
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 94
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 124
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 103
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 85
+    },
+    {
+      "year": 2015,
+      "cited_by_count": 82
+    },
+    {
+      "year": 2014,
+      "cited_by_count": 84
+    },
+    {
+      "year": 2013,
+      "cited_by_count": 55
+    },
+    {
+      "year": 2012,
+      "cited_by_count": 28
+    }
+  ],
+  "updated_date": "2026-11-04T10:54:05.112534",
+  "created_date": "2016-06-24T00:00:00"
+}

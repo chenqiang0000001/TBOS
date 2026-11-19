@@ -1,0 +1,61 @@
+{
+  "assumptions": {
+    "r_usd_illustrative": 0.0384,
+    "r_rmb_illustrative": 0.02,
+    "rmb_principal": 10000,
+    "are_live_quotes": false,
+    "fx_costs_and_tax_changes_included": false
+  },
+  "same_fx_return_difference_per_10000_one_full_year": 183.99999999999997,
+  "fx_change_for_equal_returns_excluding_costs": -0.017719568567026167,
+  "scenarios": [
+    {
+      "usd_cny_change": -0.05,
+      "usd_path_rmb_return": -0.013520000000000088,
+      "usd_path_rmb_gain": -135.20000000000087,
+      "rmb_path_gain": 200.0
+    },
+    {
+      "usd_cny_change": -0.02,
+      "usd_path_rmb_return": 0.01763199999999987,
+      "usd_path_rmb_gain": 176.31999999999869,
+      "rmb_path_gain": 200.0
+    },
+    {
+      "usd_cny_change": 0,
+      "usd_path_rmb_return": 0.03839999999999999,
+      "usd_path_rmb_gain": 383.9999999999999,
+      "rmb_path_gain": 200.0
+    },
+    {
+      "usd_cny_change": 0.02,
+      "usd_path_rmb_return": 0.05916800000000011,
+      "usd_path_rmb_gain": 591.6800000000011,
+      "rmb_path_gain": 200.0
+    },
+    {
+      "usd_cny_change": 0.05,
+      "usd_path_rmb_return": 0.09031999999999996,
+      "usd_path_rmb_gain": 903.1999999999996,
+      "rmb_path_gain": 200.0
+    }
+  ],
+  "illustrative_6_month_reserve_at_5000_to_8000_monthly": {
+    "range": [
+      30000,
+      48000
+    ],
+    "gap_after_reported_5000": [
+      25000,
+      43000
+    ]
+  },
+  "12_month_end_contributions_10000_each_simple_interest_no_fx_cost": {
+    "year_end_contributed_principal": 120000,
+    "full_year_equivalent_principal": 55000.0,
+    "usd_path_interest_in_rmb": 2112.0,
+    "rmb_path_interest": 1100.0,
+    "difference": 1011.9999999999998
+  },
+  "current_reported_rmb_cash_months_at_current_spend": 2.5
+}

@@ -1,0 +1,1579 @@
+{
+  "observed_on": "2026-11-05",
+  "source": "https://stockanalysis.com/stocks/screener/",
+  "filter": "Exchange Country: United States; Dividend Yield Over 6%",
+  "count": 314,
+  "scope": "Third-party preliminary screen only; includes special dividends, funds, ADRs and unstable payers; not qualified recommendations",
+  "rows": [
+    {
+      "symbol": "VZ",
+      "name": "Verizon Communications Inc",
+      "displayed_dividend_yield": ".6.13%"
+    },
+    {
+      "symbol": "PBR",
+      "name": "Petróleo Brasileiro S.A. - Petrobras",
+      "displayed_dividend_yield": "6.04%"
+    },
+    {
+      "symbol": "PBR.A",
+      "name": "Petróleo Brasileiro S.A. - Petrobras",
+      "displayed_dividend_yield": "6.84%"
+    },
+    {
+      "symbol": "EPD",
+      "name": "Enterprise Products Partners L.P",
+      "displayed_dividend_yield": ".6.10%"
+    },
+    {
+      "symbol": "TDG",
+      "name": "TransDigm Group Incorporated",
+      "displayed_dividend_yield": "7.40%"
+    },
+    {
+      "symbol": "ET",
+      "name": "Energy Transfer LP",
+      "displayed_dividend_yield": "6.99%"
+    },
+    {
+      "symbol": "MPLX",
+      "name": "MPLX LP",
+      "displayed_dividend_yield": "8.61%"
+    },
+    {
+      "symbol": "VALE",
+      "name": "Vale S.A",
+      "displayed_dividend_yield": ".6.23%"
+    },
+    {
+      "symbol": "KHC",
+      "name": "The Kraft Heinz Company",
+      "displayed_dividend_yield": "6.29%"
+    },
+    {
+      "symbol": "VICI",
+      "name": "VICI Properties Inc",
+      "displayed_dividend_yield": ".7.29%"
+    },
+    {
+      "symbol": "BBD",
+      "name": "Banco Bradesco S.A",
+      "displayed_dividend_yield": ".7.83%"
+    },
+    {
+      "symbol": "BBDO",
+      "name": "Banco Bradesco S.A",
+      "displayed_dividend_yield": ".7.50%"
+    },
+    {
+      "symbol": "GIS",
+      "name": "General Mills, Inc",
+      "displayed_dividend_yield": ".6.81%"
+    },
+    {
+      "symbol": "KSPI",
+      "name": "Joint Stock Company Kaspi.kz",
+      "displayed_dividend_yield": "9.30%"
+    },
+    {
+      "symbol": "VIV",
+      "name": "Telefônica Brasil S.A",
+      "displayed_dividend_yield": ".7.04%"
+    },
+    {
+      "symbol": "PAA",
+      "name": "Plains All American Pipeline, L.P",
+      "displayed_dividend_yield": ".6.62%"
+    },
+    {
+      "symbol": "WES",
+      "name": "Western Midstream Partners, LP",
+      "displayed_dividend_yield": "8.75%"
+    },
+    {
+      "symbol": "OWL",
+      "name": "Blue Owl Capital Inc",
+      "displayed_dividend_yield": ".8.64%"
+    },
+    {
+      "symbol": "NLY",
+      "name": "Annaly Capital Management, Inc",
+      "displayed_dividend_yield": ".15.85%"
+    },
+    {
+      "symbol": "VNOM",
+      "name": "Viper Energy, Inc",
+      "displayed_dividend_yield": ".6.09%"
+    },
+    {
+      "symbol": "TU",
+      "name": "TELUS Corporation",
+      "displayed_dividend_yield": "11.35%"
+    },
+    {
+      "symbol": "DOC",
+      "name": "Healthpeak Properties, Inc",
+      "displayed_dividend_yield": ".6.05%"
+    },
+    {
+      "symbol": "ARCC",
+      "name": "Ares Capital Corporation",
+      "displayed_dividend_yield": "9.87%"
+    },
+    {
+      "symbol": "JBS",
+      "name": "JBS N.V",
+      "displayed_dividend_yield": ".15.43%"
+    },
+    {
+      "symbol": "GLPI",
+      "name": "Gaming and Leisure Properties, Inc",
+      "displayed_dividend_yield": ".8.24%"
+    },
+    {
+      "symbol": "AGNC",
+      "name": "AGNC Investment Corp",
+      "displayed_dividend_yield": ".16.23%"
+    },
+    {
+      "symbol": "TLK",
+      "name": "Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk",
+      "displayed_dividend_yield": "8.77%"
+    },
+    {
+      "symbol": "ORI",
+      "name": "Old Republic International Corporation",
+      "displayed_dividend_yield": "9.41%"
+    },
+    {
+      "symbol": "SUN",
+      "name": "Sunoco LP",
+      "displayed_dividend_yield": "6.20%"
+    },
+    {
+      "symbol": "TIMB",
+      "name": "TIM S.A",
+      "displayed_dividend_yield": ".6.43%"
+    },
+    {
+      "symbol": "KNTK",
+      "name": "Kinetik Holdings Inc",
+      "displayed_dividend_yield": ".6.33%"
+    },
+    {
+      "symbol": "ARE",
+      "name": "Alexandria Real Estate Equities, Inc",
+      "displayed_dividend_yield": ".6.26%"
+    },
+    {
+      "symbol": "ASR",
+      "name": "Grupo Aeroportuario del Sureste, S. A. B. de C. V",
+      "displayed_dividend_yield": ".7.47%"
+    },
+    {
+      "symbol": "SFD",
+      "name": "Smithfield Foods, Inc",
+      "displayed_dividend_yield": ".6.34%"
+    },
+    {
+      "symbol": "OMF",
+      "name": "OneMain Holdings, Inc",
+      "displayed_dividend_yield": ".7.25%"
+    },
+    {
+      "symbol": "HESM",
+      "name": "Hess Midstream LP",
+      "displayed_dividend_yield": "9.92%"
+    },
+    {
+      "symbol": "CIG",
+      "name": "Companhia Energética de Minas Gerais - CEMIG",
+      "displayed_dividend_yield": "10.36%"
+    },
+    {
+      "symbol": "CIG.C",
+      "name": "Companhia Energética de Minas Gerais - CEMIG",
+      "displayed_dividend_yield": "6.30%"
+    },
+    {
+      "symbol": "PAGP",
+      "name": "Plains GP Holdings, L.P",
+      "displayed_dividend_yield": ".6.20%"
+    },
+    {
+      "symbol": "SBSW",
+      "name": "Sibanye Stillwater Limited",
+      "displayed_dividend_yield": "8.57%"
+    },
+    {
+      "symbol": "BXSL",
+      "name": "Blackstone Secured Lending Fund",
+      "displayed_dividend_yield": "12.88%"
+    },
+    {
+      "symbol": "MAIN",
+      "name": "Main Street Capital Corporation",
+      "displayed_dividend_yield": "7.60%"
+    },
+    {
+      "symbol": "OBDC",
+      "name": "Blue Owl Capital Corporation",
+      "displayed_dividend_yield": "11.71%"
+    },
+    {
+      "symbol": "RITM",
+      "name": "Rithm Capital Corp",
+      "displayed_dividend_yield": ".10.53%"
+    },
+    {
+      "symbol": "HAFN",
+      "name": "Hafnia Limited",
+      "displayed_dividend_yield": "11.33%"
+    },
+    {
+      "symbol": "CMBT",
+      "name": "Cmb.Tech NV",
+      "displayed_dividend_yield": "7.64%"
+    },
+    {
+      "symbol": "INSW",
+      "name": "International Seaways, Inc",
+      "displayed_dividend_yield": ".12.69%"
+    },
+    {
+      "symbol": "STWD",
+      "name": "Starwood Property Trust, Inc",
+      "displayed_dividend_yield": ".14.83%"
+    },
+    {
+      "symbol": "TFSL",
+      "name": "TFS Financial Corporation",
+      "displayed_dividend_yield": "7.60%"
+    },
+    {
+      "symbol": "EPR",
+      "name": "EPR Properties",
+      "displayed_dividend_yield": "6.12%"
+    },
+    {
+      "symbol": "OTF",
+      "name": "Blue Owl Technology Finance Corp",
+      "displayed_dividend_yield": ".15.83%"
+    },
+    {
+      "symbol": "MRP",
+      "name": "Millrose Properties, Inc",
+      "displayed_dividend_yield": ".11.73%"
+    },
+    {
+      "symbol": "COLD",
+      "name": "Americold Realty Trust, Inc",
+      "displayed_dividend_yield": ".6.06%"
+    },
+    {
+      "symbol": "BMA",
+      "name": "Banco Macro S.A",
+      "displayed_dividend_yield": ".6.12%"
+    },
+    {
+      "symbol": "CAAP",
+      "name": "Corporación América Airports S.A",
+      "displayed_dividend_yield": ".7.24%"
+    },
+    {
+      "symbol": "JOYY",
+      "name": "JOYY Inc",
+      "displayed_dividend_yield": ".7.64%"
+    },
+    {
+      "symbol": "TRMD",
+      "name": "TORM plc",
+      "displayed_dividend_yield": "11.74%"
+    },
+    {
+      "symbol": "PHI",
+      "name": "PLDT Inc",
+      "displayed_dividend_yield": ".6.06%"
+    },
+    {
+      "symbol": "IEP",
+      "name": "Icahn Enterprises L.P",
+      "displayed_dividend_yield": ".37.45%"
+    },
+    {
+      "symbol": "HIW",
+      "name": "Highwoods Properties, Inc",
+      "displayed_dividend_yield": ".6.21%"
+    },
+    {
+      "symbol": "BNL",
+      "name": "Broadstone Net Lease, Inc.",
+      "displayed_dividend_yield": "6.55%"
+    },
+    {
+      "symbol": "BWLP",
+      "name": "BW LPG Limited",
+      "displayed_dividend_yield": "11.45%"
+    },
+    {
+      "symbol": "DHT",
+      "name": "DHT Holdings, Inc.",
+      "displayed_dividend_yield": "8.44%"
+    },
+    {
+      "symbol": "USAC",
+      "name": "USA Compression Partners, LP",
+      "displayed_dividend_yield": "8.59%"
+    },
+    {
+      "symbol": "FIZZ",
+      "name": "National Beverage Corp.",
+      "displayed_dividend_yield": "8.63%"
+    },
+    {
+      "symbol": "ECO",
+      "name": "Okeanis Eco Tankers Corp.",
+      "displayed_dividend_yield": "11.25%"
+    },
+    {
+      "symbol": "MCHB",
+      "name": "Mechanics Bancorp",
+      "displayed_dividend_yield": "10.38%"
+    },
+    {
+      "symbol": "SUNC",
+      "name": "SunocoCorp LLC",
+      "displayed_dividend_yield": "6.04%"
+    },
+    {
+      "symbol": "GBDC",
+      "name": "Golub Capital BDC, Inc.",
+      "displayed_dividend_yield": "10.09%"
+    },
+    {
+      "symbol": "KEN",
+      "name": "Kenon Holdings Ltd.",
+      "displayed_dividend_yield": "6.11%"
+    },
+    {
+      "symbol": "APAM",
+      "name": "Artisan Partners Asset Management Inc.",
+      "displayed_dividend_yield": "9.96%"
+    },
+    {
+      "symbol": "AB",
+      "name": "AllianceBernstein Holding L.P.",
+      "displayed_dividend_yield": "9.58%"
+    },
+    {
+      "symbol": "ARLP",
+      "name": "Alliance Resource Partners, L.P.",
+      "displayed_dividend_yield": "9.53%"
+    },
+    {
+      "symbol": "FSK",
+      "name": "FS KKR Capital Corp.",
+      "displayed_dividend_yield": "17.80%"
+    },
+    {
+      "symbol": "MNSO",
+      "name": "MINISO Group Holding Limited",
+      "displayed_dividend_yield": "6.39%"
+    },
+    {
+      "symbol": "HTGC",
+      "name": "Hercules Capital, Inc.",
+      "displayed_dividend_yield": "11.31%"
+    },
+    {
+      "symbol": "BSM",
+      "name": "Black Stone Minerals, L.P.",
+      "displayed_dividend_yield": "8.27%"
+    },
+    {
+      "symbol": "DKL",
+      "name": "Delek Logistics Partners, LP",
+      "displayed_dividend_yield": "8.68%"
+    },
+    {
+      "symbol": "AD",
+      "name": "Array Digital Infrastructure, Inc.",
+      "displayed_dividend_yield": "63.95%"
+    },
+    {
+      "symbol": "AMBP",
+      "name": "Ardagh Metal Packaging S.A.",
+      "displayed_dividend_yield": "8.40%"
+    },
+    {
+      "symbol": "DX",
+      "name": "Dynex Capital, Inc.",
+      "displayed_dividend_yield": "18.70%"
+    },
+    {
+      "symbol": "UWMC",
+      "name": "UWM Holdings Corporation",
+      "displayed_dividend_yield": "17.75%"
+    },
+    {
+      "symbol": "ATHM",
+      "name": "Autohome Inc.",
+      "displayed_dividend_yield": "7.96%"
+    },
+    {
+      "symbol": "FCPT",
+      "name": "Four Corners Property Trust, Inc.",
+      "displayed_dividend_yield": "6.41%"
+    },
+    {
+      "symbol": "CHA",
+      "name": "Chagee Holdings Limited",
+      "displayed_dividend_yield": "7.20%"
+    },
+    {
+      "symbol": "NOG",
+      "name": "Northern Oil and Gas, Inc.",
+      "displayed_dividend_yield": "8.08%"
+    },
+    {
+      "symbol": "PRGO",
+      "name": "Perrigo Company plc",
+      "displayed_dividend_yield": "7.33%"
+    },
+    {
+      "symbol": "DEI",
+      "name": "Douglas Emmett, Inc.",
+      "displayed_dividend_yield": "7.18%"
+    },
+    {
+      "symbol": "WU",
+      "name": "The Western Union Company",
+      "displayed_dividend_yield": "14.26%"
+    },
+    {
+      "symbol": "RLX",
+      "name": "RLX Technology Inc.",
+      "displayed_dividend_yield": "6.71%"
+    },
+    {
+      "symbol": "BXMT",
+      "name": "Blackstone Mortgage Trust, Inc.",
+      "displayed_dividend_yield": "10.32%"
+    },
+    {
+      "symbol": "GTY",
+      "name": "Getty Realty Corp.",
+      "displayed_dividend_yield": "6.94%"
+    },
+    {
+      "symbol": "KRP",
+      "name": "Kimbell Royalty Partners, LP",
+      "displayed_dividend_yield": "10.14%"
+    },
+    {
+      "symbol": "ARR",
+      "name": "ARMOUR Residential REIT, Inc.",
+      "displayed_dividend_yield": "22.86%"
+    },
+    {
+      "symbol": "BRSL",
+      "name": "Brightstar Lottery PLC",
+      "displayed_dividend_yield": "9.09%"
+    },
+    {
+      "symbol": "AAT",
+      "name": "American Assets Trust, Inc.",
+      "displayed_dividend_yield": "6.16%"
+    },
+    {
+      "symbol": "TRIN",
+      "name": "Trinity Capital Inc.",
+      "displayed_dividend_yield": "11.37%"
+    },
+    {
+      "symbol": "TSLX",
+      "name": "Sixth Street Specialty Lending, Inc.",
+      "displayed_dividend_yield": "9.94%"
+    },
+    {
+      "symbol": "FORTY",
+      "name": "Formula Systems (1985) Ltd.",
+      "displayed_dividend_yield": "9.94%"
+    },
+    {
+      "symbol": "MNR",
+      "name": "Mach Natural Resources LP",
+      "displayed_dividend_yield": "19.66%"
+    },
+    {
+      "symbol": "GNL",
+      "name": "Global Net Lease, Inc.",
+      "displayed_dividend_yield": "10.72%"
+    },
+    {
+      "symbol": "CEPU",
+      "name": "Central Puerto S.A.",
+      "displayed_dividend_yield": "8.87%"
+    },
+    {
+      "symbol": "THRM",
+      "name": "Gentherm Incorporated",
+      "displayed_dividend_yield": "6.65%"
+    },
+    {
+      "symbol": "SFL",
+      "name": "SFL Corporation Ltd.",
+      "displayed_dividend_yield": "7.51%"
+    },
+    {
+      "symbol": "GEL",
+      "name": "Genesis Energy, L.P.",
+      "displayed_dividend_yield": "6.03%"
+    },
+    {
+      "symbol": "BST",
+      "name": "BlackRock Science and Technology Trust",
+      "displayed_dividend_yield": "6.52%"
+    },
+    {
+      "symbol": "WB",
+      "name": "Weibo Corporation",
+      "displayed_dividend_yield": "9.40%"
+    },
+    {
+      "symbol": "CSWC",
+      "name": "Capital Southwest Corporation",
+      "displayed_dividend_yield": "10.76%"
+    },
+    {
+      "symbol": "IIPR",
+      "name": "Innovative Industrial Properties, Inc.",
+      "displayed_dividend_yield": "13.49%"
+    },
+    {
+      "symbol": "PAX",
+      "name": "Patria Investments Limited",
+      "displayed_dividend_yield": "6.66%"
+    },
+    {
+      "symbol": "EFC",
+      "name": "Ellington Financial Inc.",
+      "displayed_dividend_yield": "13.17%"
+    },
+    {
+      "symbol": "FLO",
+      "name": "Flowers Foods, Inc.",
+      "displayed_dividend_yield": "7.04%"
+    },
+    {
+      "symbol": "NAT",
+      "name": "Nordic American Tankers Limited",
+      "displayed_dividend_yield": "6.70%"
+    },
+    {
+      "symbol": "VISN",
+      "name": "Vistance Networks, Inc.",
+      "displayed_dividend_yield": "256.21%"
+    },
+    {
+      "symbol": "GLP",
+      "name": "Global Partners LP",
+      "displayed_dividend_yield": "7.18%"
+    },
+    {
+      "symbol": "FLNG",
+      "name": "FLEX LNG Ltd.",
+      "displayed_dividend_yield": "11.17%"
+    },
+    {
+      "symbol": "GSL",
+      "name": "Global Ship Lease, Inc.",
+      "displayed_dividend_yield": "6.23%"
+    },
+    {
+      "symbol": "UPBD",
+      "name": "Upbound Group, Inc.",
+      "displayed_dividend_yield": "6.46%"
+    },
+    {
+      "symbol": "DMLP",
+      "name": "Dorchester Minerals, L.P.",
+      "displayed_dividend_yield": "10.04%"
+    },
+    {
+      "symbol": "WD",
+      "name": "Walker & Dunlop, Inc.",
+      "displayed_dividend_yield": "7.09%"
+    },
+    {
+      "symbol": "ALX",
+      "name": "Alexander's, Inc.",
+      "displayed_dividend_yield": "7.20%"
+    },
+    {
+      "symbol": "MPT",
+      "name": "Medical Properties Trust, Inc.",
+      "displayed_dividend_yield": "17.56%"
+    },
+    {
+      "symbol": "DEA",
+      "name": "Easterly Government Properties, Inc.",
+      "displayed_dividend_yield": "7.73%"
+    },
+    {
+      "symbol": "MSDL",
+      "name": "Morgan Stanley Direct Lending Fund",
+      "displayed_dividend_yield": "12.48%"
+    },
+    {
+      "symbol": "UAN",
+      "name": "CVR Partners, LP",
+      "displayed_dividend_yield": "9.41%"
+    },
+    {
+      "symbol": "LADR",
+      "name": "Ladder Capital Corp",
+      "displayed_dividend_yield": "9.83%"
+    },
+    {
+      "symbol": "TK",
+      "name": "Teekay Corporation Ltd.",
+      "displayed_dividend_yield": "7.44%"
+    },
+    {
+      "symbol": "SPH",
+      "name": "Suburban Propane Partners, L.P.",
+      "displayed_dividend_yield": "8.13%"
+    },
+    {
+      "symbol": "DSL",
+      "name": "DoubleLine Income Solutions Fund",
+      "displayed_dividend_yield": "13.19%"
+    },
+    {
+      "symbol": "OCSL",
+      "name": "Oaktree Specialty Lending Corporation",
+      "displayed_dividend_yield": "9.83%"
+    },
+    {
+      "symbol": "IRS",
+      "name": "IRSA Inversiones y Representaciones Sociedad Anónima",
+      "displayed_dividend_yield": "12.09%"
+    },
+    {
+      "symbol": "BFS",
+      "name": "Saul Centers, Inc.",
+      "displayed_dividend_yield": "8.11%"
+    },
+    {
+      "symbol": "SBGI",
+      "name": "Sinclair, Inc.",
+      "displayed_dividend_yield": "7.09%"
+    },
+    {
+      "symbol": "GSBD",
+      "name": "Goldman Sachs BDC, Inc.",
+      "displayed_dividend_yield": "14.99%"
+    },
+    {
+      "symbol": "UVV",
+      "name": "Universal Corporation",
+      "displayed_dividend_yield": "8.35%"
+    },
+    {
+      "symbol": "SBR",
+      "name": "Sabine Royalty Trust",
+      "displayed_dividend_yield": "6.66%"
+    },
+    {
+      "symbol": "TYG",
+      "name": "Tortoise Energy Infrastructure Corporation",
+      "displayed_dividend_yield": "15.09%"
+    },
+    {
+      "symbol": "ORC",
+      "name": "Orchid Island Capital, Inc.",
+      "displayed_dividend_yield": "24.19%"
+    },
+    {
+      "symbol": "DEC",
+      "name": "Diversified Energy Company",
+      "displayed_dividend_yield": "8.70%"
+    },
+    {
+      "symbol": "BBDC",
+      "name": "Barings BDC, Inc.",
+      "displayed_dividend_yield": "11.67%"
+    },
+    {
+      "symbol": "AFYA",
+      "name": "Afya Limited",
+      "displayed_dividend_yield": "6.43%"
+    },
+    {
+      "symbol": "BTX",
+      "name": "BlackRock Innovation and Growth Term Trust",
+      "displayed_dividend_yield": "7.93%"
+    },
+    {
+      "symbol": "KBDC",
+      "name": "Kayne Anderson BDC, Inc.",
+      "displayed_dividend_yield": "12.31%"
+    },
+    {
+      "symbol": "VRTS",
+      "name": "Virtus Investment Partners, Inc.",
+      "displayed_dividend_yield": "7.60%"
+    },
+    {
+      "symbol": "MFIC",
+      "name": "MidCap Financial Investment Corporation",
+      "displayed_dividend_yield": "12.00%"
+    },
+    {
+      "symbol": "NAVI",
+      "name": "Navient Corporation",
+      "displayed_dividend_yield": "7.06%"
+    },
+    {
+      "symbol": "FUN",
+      "name": "Six Flags Entertainment Corporation",
+      "displayed_dividend_yield": "15.13%"
+    },
+    {
+      "symbol": "CTO",
+      "name": "CTO Realty Growth, Inc.",
+      "displayed_dividend_yield": "7.43%"
+    },
+    {
+      "symbol": "FDUS",
+      "name": "Fidus Investment Corporation",
+      "displayed_dividend_yield": "10.86%"
+    },
+    {
+      "symbol": "CAPL",
+      "name": "CrossAmerica Partners LP",
+      "displayed_dividend_yield": "10.36%"
+    },
+    {
+      "symbol": "PSEC",
+      "name": "Prospect Capital Corporation",
+      "displayed_dividend_yield": "29.17%"
+    },
+    {
+      "symbol": "SAFE",
+      "name": "Safehold Inc.",
+      "displayed_dividend_yield": "6.57%"
+    },
+    {
+      "symbol": "WLKP",
+      "name": "Westlake Chemical Partners LP",
+      "displayed_dividend_yield": "8.73%"
+    },
+    {
+      "symbol": "CGBD",
+      "name": "Carlyle Secured Lending, Inc.",
+      "displayed_dividend_yield": "14.95%"
+    },
+    {
+      "symbol": "FINV",
+      "name": "FinVolution Group",
+      "displayed_dividend_yield": "10.07%"
+    },
+    {
+      "symbol": "HSHP",
+      "name": "Himalaya Shipping Ltd.",
+      "displayed_dividend_yield": "11.80%"
+    },
+    {
+      "symbol": "BCSF",
+      "name": "Bain Capital Specialty Finance, Inc.",
+      "displayed_dividend_yield": "16.82%"
+    },
+    {
+      "symbol": "CIM",
+      "name": "Chimera Investment Corporation",
+      "displayed_dividend_yield": "20.74%"
+    },
+    {
+      "symbol": "TXO",
+      "name": "TXO Partners, L.P.",
+      "displayed_dividend_yield": "13.06%"
+    },
+    {
+      "symbol": "PMT",
+      "name": "PennyMac Mortgage Investment Trust",
+      "displayed_dividend_yield": "19.32%"
+    },
+    {
+      "symbol": "CRESY",
+      "name": "Cresud Sociedad Anónima, Comercial, Inmobiliaria, Financiera y Agropecuaria",
+      "displayed_dividend_yield": "7.25%"
+    },
+    {
+      "symbol": "PFLT",
+      "name": "PennantPark Floating Rate Capital Ltd.",
+      "displayed_dividend_yield": "13.75%"
+    },
+    {
+      "symbol": "BWMX",
+      "name": "Betterware de México, S.A.P.I. de C.V.",
+      "displayed_dividend_yield": "6.72%"
+    },
+    {
+      "symbol": "WHK",
+      "name": "WhiteHawk Minerals Corp.",
+      "displayed_dividend_yield": "8.21%"
+    },
+    {
+      "symbol": "NMFC",
+      "name": "New Mountain Finance Corporation",
+      "displayed_dividend_yield": "14.09%"
+    },
+    {
+      "symbol": "QFIN",
+      "name": "Qfin Holdings, Inc.",
+      "displayed_dividend_yield": "28.34%"
+    },
+    {
+      "symbol": "AHRT",
+      "name": "AH REALTY TRUST INC",
+      "displayed_dividend_yield": "8.26%"
+    },
+    {
+      "symbol": "MFA",
+      "name": "MFA Financial, Inc.",
+      "displayed_dividend_yield": "21.79%"
+    },
+    {
+      "symbol": "SLRC",
+      "name": "SLR Investment Corp.",
+      "displayed_dividend_yield": "10.17%"
+    },
+    {
+      "symbol": "PZZA",
+      "name": "Papa John's International, Inc.",
+      "displayed_dividend_yield": "6.90%"
+    },
+    {
+      "symbol": "APC",
+      "name": "ARKO Petroleum Corp.",
+      "displayed_dividend_yield": "14.56%"
+    },
+    {
+      "symbol": "MOMO",
+      "name": "Hello Group Inc.",
+      "displayed_dividend_yield": "6.15%"
+    },
+    {
+      "symbol": "JBSS",
+      "name": "John B. Sanfilippo & Son, Inc.",
+      "displayed_dividend_yield": "8.22%"
+    },
+    {
+      "symbol": "VTS",
+      "name": "Vitesse Energy, Inc.",
+      "displayed_dividend_yield": "11.93%"
+    },
+    {
+      "symbol": "GAIN",
+      "name": "Gladstone Investment Corporation",
+      "displayed_dividend_yield": "6.23%"
+    },
+    {
+      "symbol": "GRNT",
+      "name": "Granite Ridge Resources, Inc.",
+      "displayed_dividend_yield": "9.50%"
+    },
+    {
+      "symbol": "IVR",
+      "name": "Invesco Mortgage Capital Inc.",
+      "displayed_dividend_yield": "26.09%"
+    },
+    {
+      "symbol": "NCDL",
+      "name": "Nuveen Churchill Direct Lending Corp.",
+      "displayed_dividend_yield": "12.63%"
+    },
+    {
+      "symbol": "NVRI",
+      "name": "Enviri Corporation",
+      "displayed_dividend_yield": "73.14%"
+    },
+    {
+      "symbol": "VINP",
+      "name": "Vinci Compass Investments Ltd.",
+      "displayed_dividend_yield": "7.07%"
+    },
+    {
+      "symbol": "MSIF",
+      "name": "MSC Income Fund, Inc.",
+      "displayed_dividend_yield": "11.67%"
+    },
+    {
+      "symbol": "ADAM",
+      "name": "Adamas Trust, Inc.",
+      "displayed_dividend_yield": "19.42%"
+    },
+    {
+      "symbol": "JKS",
+      "name": "Jinko Holdings Limited",
+      "displayed_dividend_yield": "14.09%"
+    },
+    {
+      "symbol": "TRTX",
+      "name": "TPG RE Finance Trust, Inc.",
+      "displayed_dividend_yield": "13.22%"
+    },
+    {
+      "symbol": "UHT",
+      "name": "Universal Health Realty Income Trust",
+      "displayed_dividend_yield": "7.63%"
+    },
+    {
+      "symbol": "BDN",
+      "name": "Brandywine Realty Trust",
+      "displayed_dividend_yield": "10.00%"
+    },
+    {
+      "symbol": "ETD",
+      "name": "Ethan Allen Interiors Inc.",
+      "displayed_dividend_yield": "8.47%"
+    },
+    {
+      "symbol": "RMR",
+      "name": "The RMR Group Inc.",
+      "displayed_dividend_yield": "10.78%"
+    },
+    {
+      "symbol": "GOOD",
+      "name": "Gladstone Commercial Corporation",
+      "displayed_dividend_yield": "11.02%"
+    },
+    {
+      "symbol": "YB",
+      "name": "Yuanbao Inc.",
+      "displayed_dividend_yield": "11.10%"
+    },
+    {
+      "symbol": "CSHR",
+      "name": "CoinShares PLC",
+      "displayed_dividend_yield": "10.27%"
+    },
+    {
+      "symbol": "ACIC",
+      "name": "American Coastal Insurance Corporation",
+      "displayed_dividend_yield": "7.05%"
+    },
+    {
+      "symbol": "GTN",
+      "name": "Gray Media, Inc.",
+      "displayed_dividend_yield": "6.43%"
+    },
+    {
+      "symbol": "FBRT",
+      "name": "Franklin BSP Realty Trust, Inc.",
+      "displayed_dividend_yield": "12.44%"
+    },
+    {
+      "symbol": "NOAH",
+      "name": "Noah Holdings Limited",
+      "displayed_dividend_yield": "9.85%"
+    },
+    {
+      "symbol": "OLP",
+      "name": "One Liberty Properties, Inc.",
+      "displayed_dividend_yield": "8.20%"
+    },
+    {
+      "symbol": "HUYA",
+      "name": "HUYA Inc.",
+      "displayed_dividend_yield": "6.46%"
+    },
+    {
+      "symbol": "BRSP",
+      "name": "BrightSpire Capital, Inc.",
+      "displayed_dividend_yield": "17.44%"
+    },
+    {
+      "symbol": "OXM",
+      "name": "Oxford Industries, Inc.",
+      "displayed_dividend_yield": "9.19%"
+    },
+    {
+      "symbol": "NXRT",
+      "name": "NexPoint Residential Trust, Inc.",
+      "displayed_dividend_yield": "12.09%"
+    },
+    {
+      "symbol": "GLAD",
+      "name": "Gladstone Capital Corporation",
+      "displayed_dividend_yield": "9.15%"
+    },
+    {
+      "symbol": "XRN",
+      "name": "Chiron Real Estate Inc.",
+      "displayed_dividend_yield": "6.07%"
+    },
+    {
+      "symbol": "ILPT",
+      "name": "Industrial Logistics Properties Trust",
+      "displayed_dividend_yield": "6.21%"
+    },
+    {
+      "symbol": "SGU",
+      "name": "Star Group, L.P.",
+      "displayed_dividend_yield": "6.03%"
+    },
+    {
+      "symbol": "CHCT",
+      "name": "Community Healthcare Trust Incorporated",
+      "displayed_dividend_yield": "9.10%"
+    },
+    {
+      "symbol": "RWT",
+      "name": "Redwood Trust, Inc.",
+      "displayed_dividend_yield": "22.09%"
+    },
+    {
+      "symbol": "MNRO",
+      "name": "Monro, Inc.",
+      "displayed_dividend_yield": "9.25%"
+    },
+    {
+      "symbol": "AMSF",
+      "name": "AMERISAFE, Inc.",
+      "displayed_dividend_yield": "12.98%"
+    },
+    {
+      "symbol": "TCPC",
+      "name": "BlackRock TCP Capital Corp.",
+      "displayed_dividend_yield": "15.56%"
+    },
+    {
+      "symbol": "BRBS",
+      "name": "Blue Ridge Bankshares, Inc.",
+      "displayed_dividend_yield": "20.89%"
+    },
+    {
+      "symbol": "ABR",
+      "name": "Arbor Realty Trust, Inc.",
+      "displayed_dividend_yield": "52.51%"
+    },
+    {
+      "symbol": "CCAP",
+      "name": "Crescent Capital BDC, Inc.",
+      "displayed_dividend_yield": "15.04%"
+    },
+    {
+      "symbol": "ECC",
+      "name": "Eagle Point Credit Company",
+      "displayed_dividend_yield": "27.38%"
+    },
+    {
+      "symbol": "CION",
+      "name": "CION Investment Corporation",
+      "displayed_dividend_yield": "17.02%"
+    },
+    {
+      "symbol": "GBLI",
+      "name": "Global Indemnity Group, LLC",
+      "displayed_dividend_yield": "6.36%"
+    },
+    {
+      "symbol": "ALIT",
+      "name": "Alight, Inc.",
+      "displayed_dividend_yield": "6.28%"
+    },
+    {
+      "symbol": "NREF",
+      "name": "NexPoint Real Estate Finance, Inc.",
+      "displayed_dividend_yield": "13.66%"
+    },
+    {
+      "symbol": "MKTW",
+      "name": "MarketWise, Inc.",
+      "displayed_dividend_yield": "8.43%"
+    },
+    {
+      "symbol": "KREF",
+      "name": "KKR Real Estate Finance Trust Inc.",
+      "displayed_dividend_yield": "6.92%"
+    },
+    {
+      "symbol": "PSBD",
+      "name": "Palmer Square Capital BDC Inc.",
+      "displayed_dividend_yield": "15.72%"
+    },
+    {
+      "symbol": "PINE",
+      "name": "Alpine Income Property Trust, Inc.",
+      "displayed_dividend_yield": "7.58%"
+    },
+    {
+      "symbol": "ARI",
+      "name": "Apollo Commercial Real Estate Finance, Inc.",
+      "displayed_dividend_yield": "39.84%"
+    },
+    {
+      "symbol": "NEWT",
+      "name": "NewtekOne, Inc.",
+      "displayed_dividend_yield": "6.90%"
+    },
+    {
+      "symbol": "LAND",
+      "name": "Gladstone Land Corporation",
+      "displayed_dividend_yield": "7.70%"
+    },
+    {
+      "symbol": "FTW",
+      "name": "Presidio Production Company",
+      "displayed_dividend_yield": "13.49%"
+    },
+    {
+      "symbol": "RWAY",
+      "name": "Runway Growth Finance Corp.",
+      "displayed_dividend_yield": "20.58%"
+    },
+    {
+      "symbol": "HRZN",
+      "name": "Horizon Technology Finance Corporation",
+      "displayed_dividend_yield": "17.87%"
+    },
+    {
+      "symbol": "AIV",
+      "name": "Apartment Investment and Management Company",
+      "displayed_dividend_yield": "97.04%"
+    },
+    {
+      "symbol": "BRT",
+      "name": "BRT Apartments Corp.",
+      "displayed_dividend_yield": "7.62%"
+    },
+    {
+      "symbol": "SPOK",
+      "name": "Spok Holdings, Inc.",
+      "displayed_dividend_yield": "10.36%"
+    },
+    {
+      "symbol": "REFI",
+      "name": "Chicago Atlantic Real Estate Finance, Inc.",
+      "displayed_dividend_yield": "20.61%"
+    },
+    {
+      "symbol": "MSB",
+      "name": "Mesabi Trust",
+      "displayed_dividend_yield": "7.26%"
+    },
+    {
+      "symbol": "SIGA",
+      "name": "SIGA Technologies, Inc.",
+      "displayed_dividend_yield": "19.05%"
+    },
+    {
+      "symbol": "SAR",
+      "name": "Saratoga Investment Corp.",
+      "displayed_dividend_yield": "21.58%"
+    },
+    {
+      "symbol": "PNNT",
+      "name": "PennantPark Investment Corporation",
+      "displayed_dividend_yield": "14.86%"
+    },
+    {
+      "symbol": "LIEN",
+      "name": "Chicago Atlantic BDC, Inc.",
+      "displayed_dividend_yield": "14.78%"
+    },
+    {
+      "symbol": "BGS",
+      "name": "B&G Foods, Inc.",
+      "displayed_dividend_yield": "14.79%"
+    },
+    {
+      "symbol": "SCM",
+      "name": "Stellus Capital Investment Corporation",
+      "displayed_dividend_yield": "13.77%"
+    },
+    {
+      "symbol": "SITC",
+      "name": "SITE Centers Corp.",
+      "displayed_dividend_yield": "107.53%"
+    },
+    {
+      "symbol": "ACRE",
+      "name": "Ares Commercial Real Estate Corporation",
+      "displayed_dividend_yield": "17.09%"
+    },
+    {
+      "symbol": "XYF",
+      "name": "X Financial",
+      "displayed_dividend_yield": "11.30%"
+    },
+    {
+      "symbol": "TPVG",
+      "name": "TriplePoint Venture Growth BDC Corp.",
+      "displayed_dividend_yield": "19.70%"
+    },
+    {
+      "symbol": "BRBI",
+      "name": "BRBI BR Partners S.A.",
+      "displayed_dividend_yield": "14.47%"
+    },
+    {
+      "symbol": "WHF",
+      "name": "WhiteHorse Finance, Inc.",
+      "displayed_dividend_yield": "12.34%"
+    },
+    {
+      "symbol": "MITT",
+      "name": "TPG Mortgage Investment Trust, Inc.",
+      "displayed_dividend_yield": "17.39%"
+    },
+    {
+      "symbol": "ORMP",
+      "name": "Oramed Pharmaceuticals Inc.",
+      "displayed_dividend_yield": "6.05%"
+    },
+    {
+      "symbol": "SSTK",
+      "name": "Shutterstock, Inc.",
+      "displayed_dividend_yield": "24.08%"
+    },
+    {
+      "symbol": "NSLR",
+      "name": "Neostellar Capital Corp.",
+      "displayed_dividend_yield": "16.45%"
+    },
+    {
+      "symbol": "SEVN",
+      "name": "Seven Hills Realty Trust",
+      "displayed_dividend_yield": "16.19%"
+    },
+    {
+      "symbol": "CURI",
+      "name": "CuriosityStream Inc.",
+      "displayed_dividend_yield": "12.78%"
+    },
+    {
+      "symbol": "XRX",
+      "name": "Xerox Holdings Corporation",
+      "displayed_dividend_yield": "8.48%"
+    },
+    {
+      "symbol": "AOMR",
+      "name": "Angel Oak Mortgage REIT, Inc.",
+      "displayed_dividend_yield": "19.81%"
+    },
+    {
+      "symbol": "CLPR",
+      "name": "Clipper Realty Inc.",
+      "displayed_dividend_yield": "11.41%"
+    },
+    {
+      "symbol": "EPM",
+      "name": "Evolution Petroleum Corporation",
+      "displayed_dividend_yield": "13.64%"
+    },
+    {
+      "symbol": "EARN",
+      "name": "Ellington Credit Company",
+      "displayed_dividend_yield": "27.99%"
+    },
+    {
+      "symbol": "SPMC",
+      "name": "Sound Point Meridian Capital, Inc.",
+      "displayed_dividend_yield": "48.39%"
+    },
+    {
+      "symbol": "SAMG",
+      "name": "Silvercrest Asset Management Group Inc.",
+      "displayed_dividend_yield": "7.67%"
+    },
+    {
+      "symbol": "TORO",
+      "name": "Toro Corp.",
+      "displayed_dividend_yield": "65.43%"
+    },
+    {
+      "symbol": "LX",
+      "name": "LexinFintech Holdings Ltd.",
+      "displayed_dividend_yield": "54.96%"
+    },
+    {
+      "symbol": "UNB",
+      "name": "Union Bankshares, Inc.",
+      "displayed_dividend_yield": "6.22%"
+    },
+    {
+      "symbol": "DLNG",
+      "name": "Dynagas LNG Partners LP",
+      "displayed_dividend_yield": "6.37%"
+    },
+    {
+      "symbol": "GHI",
+      "name": "Greystone Housing Impact Investors LP",
+      "displayed_dividend_yield": "11.89%"
+    },
+    {
+      "symbol": "UFI",
+      "name": "Unifi, Inc.",
+      "displayed_dividend_yield": "28.57%"
+    },
+    {
+      "symbol": "OXSQ",
+      "name": "Oxford Square Capital Corp.",
+      "displayed_dividend_yield": "40.66%"
+    },
+    {
+      "symbol": "CHMI",
+      "name": "Cherry Hill Mortgage Investment Corporation",
+      "displayed_dividend_yield": "15.44%"
+    },
+    {
+      "symbol": "BHM",
+      "name": "Bluerock Homes Trust, Inc.",
+      "displayed_dividend_yield": "6.96%"
+    },
+    {
+      "symbol": "GHG",
+      "name": "GreenTree Hospitality Group Ltd.",
+      "displayed_dividend_yield": "6.40%"
+    },
+    {
+      "symbol": "SUNS",
+      "name": "Sunrise Realty Trust, Inc.",
+      "displayed_dividend_yield": "17.24%"
+    },
+    {
+      "symbol": "RGP",
+      "name": "Resources Connection, Inc.",
+      "displayed_dividend_yield": "10.37%"
+    },
+    {
+      "symbol": "RPT",
+      "name": "Rithm Property Trust Inc.",
+      "displayed_dividend_yield": "12.71%"
+    },
+    {
+      "symbol": "UBCP",
+      "name": "United Bancorp, Inc.",
+      "displayed_dividend_yield": "6.66%"
+    },
+    {
+      "symbol": "JFIN",
+      "name": "Jiayin Group Inc.",
+      "displayed_dividend_yield": "51.61%"
+    },
+    {
+      "symbol": "BCIC",
+      "name": "BCP Investment Corp.",
+      "displayed_dividend_yield": "18.41%"
+    },
+    {
+      "symbol": "AFCG",
+      "name": "Advanced Flower Capital Inc.",
+      "displayed_dividend_yield": "6.27%"
+    },
+    {
+      "symbol": "GECC",
+      "name": "Great Elm Capital Corp.",
+      "displayed_dividend_yield": "19.57%"
+    },
+    {
+      "symbol": "COHN",
+      "name": "Cohen & Company Inc.",
+      "displayed_dividend_yield": "9.78%"
+    },
+    {
+      "symbol": "SRL",
+      "name": "Scully Royalty Ltd.",
+      "displayed_dividend_yield": "24.76%"
+    },
+    {
+      "symbol": "NRT",
+      "name": "North European Oil Royalty Trust",
+      "displayed_dividend_yield": "11.69%"
+    },
+    {
+      "symbol": "PVL",
+      "name": "Permianville Royalty Trust",
+      "displayed_dividend_yield": "11.66%"
+    },
+    {
+      "symbol": "IH",
+      "name": "iHuman Inc.",
+      "displayed_dividend_yield": "8.77%"
+    },
+    {
+      "symbol": "DWSN",
+      "name": "Dawson Geophysical Company",
+      "displayed_dividend_yield": "10.31%"
+    },
+    {
+      "symbol": "OFS",
+      "name": "OFS Capital Corporation",
+      "displayed_dividend_yield": "17.71%"
+    },
+    {
+      "symbol": "TOUR",
+      "name": "Tuniu Corporation",
+      "displayed_dividend_yield": "25.31%"
+    },
+    {
+      "symbol": "VOC",
+      "name": "VOC Energy Trust",
+      "displayed_dividend_yield": "14.82%"
+    },
+    {
+      "symbol": "SGA",
+      "name": "Saga Communications, Inc.",
+      "displayed_dividend_yield": "12.76%"
+    },
+    {
+      "symbol": "DSWL",
+      "name": "Deswell Industries, Inc.",
+      "displayed_dividend_yield": "6.83%"
+    },
+    {
+      "symbol": "SOGP",
+      "name": "Sound Group Inc.",
+      "displayed_dividend_yield": "20.93%"
+    },
+    {
+      "symbol": "BRIA",
+      "name": "BrilliA Inc",
+      "displayed_dividend_yield": "19.28%"
+    },
+    {
+      "symbol": "DOMH",
+      "name": "Dominari Holdings Inc.",
+      "displayed_dividend_yield": "58.70%"
+    },
+    {
+      "symbol": "TSQ",
+      "name": "Townsquare Media, Inc.",
+      "displayed_dividend_yield": "36.70%"
+    },
+    {
+      "symbol": "LOAN",
+      "name": "Manhattan Bridge Capital, Inc.",
+      "displayed_dividend_yield": "12.94%"
+    },
+    {
+      "symbol": "NTIP",
+      "name": "Network-1 Technologies, Inc.",
+      "displayed_dividend_yield": "6.25%"
+    },
+    {
+      "symbol": "UG",
+      "name": "United-Guardian, Inc.",
+      "displayed_dividend_yield": "7.29%"
+    },
+    {
+      "symbol": "RAND",
+      "name": "Rand Capital Corporation",
+      "displayed_dividend_yield": "11.71%"
+    },
+    {
+      "symbol": "CLPS",
+      "name": "CLPS Incorporation",
+      "displayed_dividend_yield": "13.27%"
+    },
+    {
+      "symbol": "USEA",
+      "name": "United Maritime Corporation",
+      "displayed_dividend_yield": "9.20%"
+    },
+    {
+      "symbol": "GNS",
+      "name": "Genius Group Limited",
+      "displayed_dividend_yield": "173.91%"
+    },
+    {
+      "symbol": "GPMT",
+      "name": "Granite Point Mortgage Trust Inc.",
+      "displayed_dividend_yield": "8.68%"
+    },
+    {
+      "symbol": "LFT",
+      "name": "Lument Finance Trust, Inc.",
+      "displayed_dividend_yield": "29.56%"
+    },
+    {
+      "symbol": "TLF",
+      "name": "Tandy Leather Factory, Inc.",
+      "displayed_dividend_yield": "32.97%"
+    },
+    {
+      "symbol": "RECT",
+      "name": "Rectitude Holdings Ltd",
+      "displayed_dividend_yield": "7.87%"
+    },
+    {
+      "symbol": "PRT",
+      "name": "PermRock Royalty Trust",
+      "displayed_dividend_yield": "15.50%"
+    },
+    {
+      "symbol": "CLWT",
+      "name": "Euro Tech Holdings Company Limited",
+      "displayed_dividend_yield": "9.87%"
+    },
+    {
+      "symbol": "ICMB",
+      "name": "Investcorp Credit Management BDC, Inc.",
+      "displayed_dividend_yield": "21.24%"
+    },
+    {
+      "symbol": "MARPS",
+      "name": "Marine Petroleum Trust",
+      "displayed_dividend_yield": "7.14%"
+    },
+    {
+      "symbol": "JCSE",
+      "name": "JE Cleantech Holdings Limited",
+      "displayed_dividend_yield": "29.14%"
+    },
+    {
+      "symbol": "NHTC",
+      "name": "Natural Health Trends Corp.",
+      "displayed_dividend_yield": "48.19%"
+    },
+    {
+      "symbol": "TKLF",
+      "name": "Tokyo Lifestyle Co., Ltd.",
+      "displayed_dividend_yield": "17.38%"
+    },
+    {
+      "symbol": "HIHO",
+      "name": "Highway Holdings Limited",
+      "displayed_dividend_yield": "11.91%"
+    },
+    {
+      "symbol": "ICON",
+      "name": "Icon Energy Corp.",
+      "displayed_dividend_yield": "4,585.37%"
+    },
+    {
+      "symbol": "MTR",
+      "name": "Mesa Royalty Trust",
+      "displayed_dividend_yield": "12.06%"
+    },
+    {
+      "symbol": "OCG",
+      "name": "Oriental Culture Holding LTD",
+      "displayed_dividend_yield": "9.26%"
+    },
+    {
+      "symbol": "TOPS",
+      "name": "Top Ships Inc.",
+      "displayed_dividend_yield": "282.45%"
+    },
+    {
+      "symbol": "HTCR",
+      "name": "HeartCore Enterprises, Inc.",
+      "displayed_dividend_yield": "200.00%"
+    }
+  ]
+}

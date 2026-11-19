@@ -1,0 +1,120 @@
+{
+  "facts": {
+    "as_of": "2026-11-05",
+    "target_month": "2029-11",
+    "goal_rmb": 1000000,
+    "usd_product_snapshot_value": 16545.28,
+    "annual_net_income_rmb_latest_answer": 200000,
+    "monthly_living_expense_rmb": 2000,
+    "debt_rmb": 0,
+    "marriage_outflow_in_current_scope_rmb": 0,
+    "other_assets_in_latest_answer_rmb": 0,
+    "provident_fund_available_cash_assumed_rmb": 0
+  },
+  "assumptions": {
+    "rmb_per_usd_for_planning_only": 6.65,
+    "months": 36,
+    "annual_extra_expense_reserve_rmb_for_execution": 8000,
+    "emergency_cash_target_rmb_provisional": 50000,
+    "allocation_after_emergency_cash": {
+      "hkd_us_equities": 0.2,
+      "overseas_short_high_quality_bonds": 0.2,
+      "rmb_cash_and_deposits": 0.6
+    },
+    "long_term_only_allocation_example": {
+      "hkd_us_equities": 0.5,
+      "overseas_high_quality_bonds": 0.3,
+      "cash": 0.2
+    },
+    "note_prior_rmb_cash": "Earlier record mentioned RMB5,000; not added separately after latest 'no other assets' answer."
+  },
+  "results": {
+    "starting_assets_rmb_planning_value": 110026.112,
+    "annual_savings_before_other_expenses_rmb": 176000,
+    "monthly_savings_before_other_expenses_rmb": 14666.666666666666,
+    "execution_monthly_savings_rmb": 14000.0,
+    "required_annual_return_if_cashflow_unchanged": 0.27677163521127934,
+    "scenarios": [
+      {
+        "annual_effective_rmb_net_return_scenario": 0,
+        "year_end_assets_rmb": [
+          286026.11199999996,
+          462026.11199999996,
+          638026.112
+        ],
+        "execution_budget_three_year_assets_rmb": 614026.112,
+        "required_monthly_savings_for_three_year_goal_rmb": 24721.49688888889,
+        "required_annual_net_income_excluding_extra_expense_reserve_rmb": 320657.9626666667,
+        "required_starting_assets_rmb_at_current_income": 472000.0,
+        "additional_starting_assets_rmb": 361973.88800000004,
+        "needed_monthly_savings_in_years_2_and_3_if_year_1_unchanged_rmb": 29748.912,
+        "needed_annual_net_income_in_years_2_and_3_rmb": 380986.944,
+        "first_whole_month_goal_reached_under_smooth_return_assumption": 61
+      },
+      {
+        "annual_effective_rmb_net_return_scenario": 0.03,
+        "year_end_assets_rmb": [
+          291733.9799949557,
+          478893.0840297592,
+          671666.9611856075
+        ],
+        "execution_budget_three_year_assets_rmb": 646601.57673569,
+        "required_monthly_savings_for_three_year_goal_rmb": 23399.375035065517,
+        "required_annual_net_income_excluding_extra_expense_reserve_rmb": 304792.5004207862,
+        "required_starting_assets_rmb_at_current_income": 410497.3539610685,
+        "additional_starting_assets_rmb": 300471.2419610685,
+        "needed_monthly_savings_in_years_2_and_3_if_year_1_unchanged_rmb": 27963.183068579965,
+        "needed_annual_net_income_in_years_2_and_3_rmb": 359558.1968229596,
+        "first_whole_month_goal_reached_under_smooth_return_assumption": 56
+      },
+      {
+        "annual_effective_rmb_net_return_scenario": 0.05,
+        "year_end_assets_rmb": [
+          295525.22136742703,
+          490299.28620322514,
+          694812.0542808133
+        ],
+        "execution_budget_three_year_assets_rmb": 669019.1871727764,
+        "required_monthly_savings_for_three_year_goal_rmb": 22554.840929234815,
+        "required_annual_net_income_excluding_extra_expense_reserve_rmb": 294658.0911508178,
+        "required_starting_assets_rmb_at_current_income": 373658.93413081666,
+        "additional_starting_assets_rmb": 263632.82213081664,
+        "needed_monthly_savings_in_years_2_and_3_if_year_1_unchanged_rmb": 26797.139526542804,
+        "needed_annual_net_income_in_years_2_and_3_rmb": 345565.67431851366,
+        "first_whole_month_goal_reached_under_smooth_return_assumption": 53
+      },
+      {
+        "annual_effective_rmb_net_return_scenario": 0.08,
+        "year_end_assets_rmb": [
+          301191.86934089015,
+          507650.8872690515,
+          730626.626631466
+        ],
+        "execution_budget_three_year_assets_rmb": 703716.3805845695,
+        "required_monthly_savings_for_three_year_goal_rmb": 21340.04485129561,
+        "required_annual_net_income_excluding_extra_expense_reserve_rmb": 280080.53821554733,
+        "required_starting_assets_rmb_at_current_income": 323863.38065230625,
+        "additional_starting_assets_rmb": 213837.26865230626,
+        "needed_monthly_savings_in_years_2_and_3_if_year_1_unchanged_rmb": 25082.270002522157,
+        "needed_annual_net_income_in_years_2_and_3_rmb": 324987.2400302659,
+        "first_whole_month_goal_reached_under_smooth_return_assumption": 50
+      }
+    ],
+    "hard_goal_zero_return_25000_monthly_saving_checkpoints_rmb": [
+      410026.11199999996,
+      710026.112,
+      1010026.112
+    ],
+    "annual_net_income_needed_for_25000_monthly_saving_with_extra_expenses_rmb": 332000,
+    "allocation_stress_before_fx": -0.10999999999999999,
+    "allocation_stress_with_foreign_assets_fx_down_10pct": -0.139,
+    "equity_wipeout_direct_impact_at_5pct_single_stock_weight": -0.05,
+    "limits": [
+      "No promise of target achievement or maximum drawdown.",
+      "RMB/USD6.65 is a planning assumption, not a current executable quote.",
+      "Initial USD product is cash management, not a verified bond fund.",
+      "Returns include all holdings including reserves; do not double count dividends.",
+      "No freely withdrawable provident fund balance was supplied."
+    ]
+  }
+}

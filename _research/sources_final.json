@@ -1,0 +1,25 @@
+[
+  {
+    "id": "S46",
+    "title": "Munger 1994 speech transcript",
+    "url": "https://fs.blog/great-talks/a-lesson-on-worldly-wisdom/",
+    "status": 200,
+    "final_url": "https://fs.blog/great-talks/a-lesson-on-worldly-wisdom/",
+    "chars": 77886
+  },
+  {
+    "id": "S47",
+    "title": "NIST generative AI profile",
+    "url": "https://airc.nist.gov/docs/NIST.AI.600-1.GenAI-Profile.ipd.pdf",
+    "status": 200,
+    "note": "PDF not used"
+  },
+  {
+    "id": "S48",
+    "title": "Proper scoring paper DOI metadata",
+    "url": "https://api.crossref.org/works/10.1198/016214506000001437",
+    "status": 200,
+    "final_url": "https://api.crossref.org/works/10.1198/016214506000001437",
+    "chars": 583
+  }
+]

@@ -1,0 +1,2366 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          25
+        ]
+      ],
+      "date-time": "2026-08-25T02:42:50Z",
+      "timestamp": 1787625770804,
+      "version": "build-2736575974"
+    },
+    "reference-count": 63,
+    "publisher": "Wiley",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              10,
+              18
+            ]
+          ],
+          "date-time": "2013-10-18T00:00:00Z",
+          "timestamp": 1382054400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100001659",
+        "name": "German Research Foundation",
+        "doi-asserted-by": "crossref",
+        "award": [
+          "NE 633/7-1"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "NE 633/7-1"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001659",
+            "id-type": "DOI",
+            "asserted-by": "crossref"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Personality"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2014,
+          12
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>The transactional paradigm states that people create, maintain, and change their environments according to their personalities. At the same time, the environment reacts back on personality. As social relationships are part of an individual's environment, this likewise implies that there are reciprocal transactions between personality and relationships. However, earlier studies have concluded that adult personality traits are so stable that they have a stronger effect on later relationships, but that relationship effects on personality are negligible. In this article, we contend that personality‐relationship transactions should be revisited. We submit that the relative powers of personality versus relationship effects depend on the type of life transition during which the effects take place: Relationship effects on personality development are more likely to emerge in the context of rather normative and highly scripted life transitions, whereas personality effects on relationship development are more likely to occur in the context of rather non‐normative life transitions that are less regulated by social expectations. We illustrate these assumptions with examples from our own work and other findings reported in the literature. Furthermore, we theorize that effects of personality‐relationship transactions on health also vary with the normativeness of the eliciting life transition.</jats:p>",
+    "DOI": "10.1111/jopy.12063",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          8,
+          8
+        ]
+      ],
+      "date-time": "2013-08-08T11:31:06Z",
+      "timestamp": 1375961466000
+    },
+    "page": "539-550",
+    "source": "Crossref",
+    "is-referenced-by-count": 109,
+    "title": [
+      "Personality‐Relationship Transactions Revisited"
+    ],
+    "prefix": "10.1111",
+    "volume": "82",
+    "author": [
+      {
+        "given": "Franz J.",
+        "family": "Neyer",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Friedrich‐Schiller University Jena"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marcus",
+        "family": "Mund",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Friedrich‐Schiller University Jena"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Julia",
+        "family": "Zimmermann",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Friedrich‐Schiller University Jena"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Cornelia",
+        "family": "Wrzus",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Max Planck Institute for Human Development"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2013,
+          10,
+          18
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_7_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/per.1919"
+      },
+      {
+        "key": "e_1_2_7_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1467-6494.7104005"
+      },
+      {
+        "key": "e_1_2_7_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.74.6.1531"
+      },
+      {
+        "key": "e_1_2_7_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/per.790"
+      },
+      {
+        "key": "e_1_2_7_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/B:POPU.0000020892.15221.44"
+      },
+      {
+        "key": "e_1_2_7_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0015434"
+      },
+      {
+        "key": "e_1_2_7_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0030001"
+      },
+      {
+        "key": "e_1_2_7_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-8624.1993.tb02922.x"
+      },
+      {
+        "key": "e_1_2_7_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1207/s15327965pli0404_1"
+      },
+      {
+        "key": "e_1_2_7_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0020385"
+      },
+      {
+        "key": "e_1_2_7_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1525822X06299134"
+      },
+      {
+        "key": "e_1_2_7_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/per.1862"
+      },
+      {
+        "key": "e_1_2_7_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/geronb/61.1.P25"
+      },
+      {
+        "key": "e_1_2_7_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10705511.2012.659627"
+      },
+      {
+        "key": "e_1_2_7_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-295X.102.3.458"
+      },
+      {
+        "key": "e_1_2_7_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.121.3.355"
+      },
+      {
+        "key": "e_1_2_7_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/geronb/gbt024"
+      },
+      {
+        "key": "e_1_2_7_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0031843"
+      },
+      {
+        "key": "e_1_2_7_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jrp.2008.09.005"
+      },
+      {
+        "key": "e_1_2_7_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0019558"
+      },
+      {
+        "key": "e_1_2_7_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.52.1.27"
+      },
+      {
+        "key": "e_1_2_7_23_1",
+        "first-page": "445",
+        "volume-title": "Handbook of personality development",
+        "author": "Lang F. R.",
+        "year": "2006"
+      },
+      {
+        "key": "e_1_2_7_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/per.606"
+      },
+      {
+        "key": "e_1_2_7_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-6494.2010.00629.x"
+      },
+      {
+        "key": "e_1_2_7_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1088868306294590"
+      },
+      {
+        "key": "e_1_2_7_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9280.2005.01642.x"
+      },
+      {
+        "key": "e_1_2_7_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0024298"
+      },
+      {
+        "key": "e_1_2_7_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0015809"
+      },
+      {
+        "key": "e_1_2_7_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.soc.34.040507.134619"
+      },
+      {
+        "key": "e_1_2_7_31_1",
+        "first-page": "333",
+        "volume-title": "Personality at the cross‐roads: Current issues in interactional psychology",
+        "author": "Mischel W.",
+        "year": "1977"
+      },
+      {
+        "key": "e_1_2_7_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.0022-3506.2004.00265.x"
+      },
+      {
+        "key": "e_1_2_7_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0026257"
+      },
+      {
+        "key": "e_1_2_7_34_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mund M. &Neyer F. J.(2013).Treating personality‐relationship transactions with respect: Narrow facets advanced models and extended time frames. Manuscript submitted for publication.",
+        "DOI": "10.1037/a0036719"
+      },
+      {
+        "key": "e_1_2_7_35_1",
+        "first-page": "491",
+        "article-title": "Die persönlichkeit junger erwachsener in verschiedenen lebensformen [Personality of young adults with different lifestyles]",
+        "volume": "51",
+        "author": "Neyer F. J.",
+        "year": "1999",
+        "journal-title": "Kölner Zeitschrift für Soziologie und Sozialpsychologie"
+      },
+      {
+        "key": "e_1_2_7_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.81.6.1190"
+      },
+      {
+        "key": "e_1_2_7_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.84.2.310"
+      },
+      {
+        "key": "e_1_2_7_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1026/0033-3042/a000153"
+      },
+      {
+        "key": "e_1_2_7_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/9780470713860.ch9"
+      },
+      {
+        "key": "e_1_2_7_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-6494.2007.00448.x"
+      },
+      {
+        "key": "e_1_2_7_41_1",
+        "first-page": "1215",
+        "volume-title": "Encyclopedia of human relationships",
+        "author": "Neyer F. J.",
+        "year": "2009"
+      },
+      {
+        "key": "e_1_2_7_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1027/1016-9040/a000055"
+      },
+      {
+        "key": "e_1_2_7_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.psych.57.102904.190127"
+      },
+      {
+        "key": "e_1_2_7_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-6494.2012.00766.x"
+      },
+      {
+        "key": "e_1_2_7_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0882-7974.15.2.187"
+      },
+      {
+        "key": "e_1_2_7_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022-3514.84.3.582"
+      },
+      {
+        "key": "e_1_2_7_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.126.1.3"
+      },
+      {
+        "key": "e_1_2_7_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1745-6916.2007.00047.x"
+      },
+      {
+        "key": "e_1_2_7_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.132.1.1"
+      },
+      {
+        "key": "e_1_2_7_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jrp.2004.08.002"
+      },
+      {
+        "key": "e_1_2_7_51_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033-2909.88.2.245"
+      },
+      {
+        "key": "e_1_2_7_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658210802541442"
+      },
+      {
+        "key": "e_1_2_7_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1745-6916.2007.00050.x"
+      },
+      {
+        "key": "e_1_2_7_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1207/s15327752jpa7002_6"
+      },
+      {
+        "key": "e_1_2_7_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-6494.2010.00625.x"
+      },
+      {
+        "key": "e_1_2_7_56_1",
+        "first-page": "248",
+        "volume-title": "Handbook of social psychology",
+        "author": "Snyder M.",
+        "year": "1985"
+      },
+      {
+        "key": "e_1_2_7_57_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0024950"
+      },
+      {
+        "key": "e_1_2_7_58_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0031428"
+      },
+      {
+        "key": "e_1_2_7_59_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0265407592093006"
+      },
+      {
+        "key": "e_1_2_7_60_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1540-4560.00041"
+      },
+      {
+        "key": "e_1_2_7_61_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0029680"
+      },
+      {
+        "key": "e_1_2_7_62_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0028601"
+      },
+      {
+        "key": "e_1_2_7_63_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1475-6811.2011.01373.x"
+      },
+      {
+        "key": "e_1_2_7_64_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0033019"
+      }
+    ],
+    "container-title": [
+      "Journal of Personality"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fjopy.12063",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fjopy.12063",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jopy.12063",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          12
+        ]
+      ],
+      "date-time": "2023-09-12T15:57:50Z",
+      "timestamp": 1694534270000
+    },
+    "score": 45.059357,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jopy.12063"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          10,
+          18
+        ]
+      ]
+    },
+    "references-count": 63,
+    "journal-issue": {
+      "issue": "6",
+      "published-print": {
+        "date-parts": [
+          [
+            2014,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1111/jopy.12063"
+    ],
+    "URL": "https://doi.org/10.1111/jopy.12063",
+    "archive": [
+      "Portico"
+    ],
+    "ISSN": [
+      "0022-3506",
+      "1467-6494"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-3506",
+        "type": "print"
+      },
+      {
+        "value": "1467-6494",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          10,
+          18
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          2
+        ]
+      ],
+      "date-time": "2026-10-02T12:27:44Z",
+      "timestamp": 1790944064771,
+      "version": "4.1.0"
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "isbn-type": [
+      {
+        "value": "9780190222024",
+        "type": "electronic"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          12,
+          17
+        ]
+      ]
+    },
+    "DOI": "10.1093/acprof:oso/9780190222024.003.0002",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          11,
+          17
+        ]
+      ],
+      "date-time": "2016-11-17T09:10:24Z",
+      "timestamp": 1479373824000
+    },
+    "page": "21-38",
+    "source": "Crossref",
+    "is-referenced-by-count": 16,
+    "title": [
+      "Friendships in Young and Middle Adulthood"
+    ],
+    "prefix": "10.1093",
+    "author": [
+      {
+        "given": "Cornelia",
+        "family": "Wrzus",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Julia",
+        "family": "Zimmermann",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marcus",
+        "family": "Mund",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Franz J.",
+        "family": "Neyer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "286",
+    "container-title": [
+      "The Psychology of Friendship"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          3
+        ]
+      ],
+      "date-time": "2022-08-03T00:53:12Z",
+      "timestamp": 1659487992000
+    },
+    "score": 37.129353,
+    "resource": {
+      "primary": {
+        "URL": "https://academic.oup.com/book/11899/chapter/161061028"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          12,
+          17
+        ]
+      ]
+    },
+    "ISBN": [
+      "9780190222024"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.1093/acprof:oso/9780190222024.003.0002",
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          12,
+          17
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          14
+        ]
+      ],
+      "date-time": "2026-10-14T11:46:01Z",
+      "timestamp": 1791978361721,
+      "version": "4.4.0"
+    },
+    "reference-count": 68,
+    "publisher": "Wiley",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              14
+            ]
+          ],
+          "date-time": "2026-10-14T00:00:00Z",
+          "timestamp": 1791936000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              14
+            ]
+          ],
+          "date-time": "2026-10-14T00:00:00Z",
+          "timestamp": 1791936000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100001661",
+        "name": "Universität Heidelberg",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100001661",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Personality"
+    ],
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:sec>\n                    <jats:title>Objective</jats:title>\n                    <jats:p>This meta‐analysis systematically examines personality development during study abroad. It aims to synthesize previously fragmented longitudinal evidence and explain mixed findings by identifying how personality change varies by students' country of origin, duration of stay, and home‐host cultural distance.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Method</jats:title>\n                    <jats:p>\n                      This pre‐registered meta‐analysis synthesized 25 studies, including 40 independent samples and 184 effect sizes (\n                      <jats:italic>N</jats:italic>\n                       = 5732) among diverse national and cultural contexts. Effect sizes were analyzed using a two‐level random‐effects model.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>\n                      Results indicated an overall increase in openness (\n                      <jats:italic>d</jats:italic>\n                      <jats:sub>E</jats:sub>\n                       = 0.079), self‐evaluations and agency (\n                      <jats:italic>d</jats:italic>\n                      <jats:sub>E</jats:sub>\n                       = 0.117), and a decrease in neuroticism (\n                      <jats:italic>d</jats:italic>\n                      <jats:sub>E</jats:sub>\n                       = −0.145) while abroad. Baseline comparisons revealed self‐selection effects that sojourners differed from control groups before departure in all Big Five traits. Personality changes did not differ between adolescent and young adult sojourners but showed trait‐specific temporal dynamics both during and after the sojourn. Regional analyses suggested distinct change patterns across European, US, and Asian samples.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions</jats:title>\n                    <jats:p>These findings show that studying abroad robustly predicts personality changes among young adults, depending on time and home‐host cultural distance. Future studies are needed to scrutinize the short‐term processes of the international experience together with specific domains of cultural distance that explain individual differences in personality change.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1111/jopy.70105",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          14
+        ]
+      ],
+      "date-time": "2026-10-14T10:54:23Z",
+      "timestamp": 1791975263000
+    },
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "A Meta‐Analysis on Personality Change Among International Students From the USA, European, and Asian Countries Studying Abroad"
+    ],
+    "prefix": "10.1111",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0001-8356-0593",
+        "authenticated-orcid": false,
+        "given": "Junwen",
+        "family": "Gu",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Institute of Psychology and Network Aging Research Heidelberg University  Heidelberg Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6290-959X",
+        "authenticated-orcid": false,
+        "given": "Cornelia",
+        "family": "Wrzus",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute of Psychology and Network Aging Research Heidelberg University  Heidelberg Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          14
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_15_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pspp0000580"
+      },
+      {
+        "key": "e_1_2_15_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archpsyc.1993.01820190087009"
+      },
+      {
+        "key": "e_1_2_15_4_1",
+        "unstructured": "*Angulo S. K.2008.“Identity Change in Students Who Study Abroad.”Ph.D. The University of Texas at Austin.https://www.proquest.com/docview/194154897/abstract/B0ED36A5EE3C4087PQ/1."
+      },
+      {
+        "key": "e_1_2_15_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyt.2025.1574953"
+      },
+      {
+        "key": "e_1_2_15_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1088868306294907"
+      },
+      {
+        "key": "e_1_2_15_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.2044‐8317.1988.tb00901.x"
+      },
+      {
+        "key": "e_1_2_15_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0022022118798505"
+      },
+      {
+        "key": "e_1_2_15_9_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "39",
+        "DOI": "10.1016/B978-0-12-804674-6.00004-1",
+        "volume-title": "Personality Development Across the Lifespan",
+        "author": "Bleidorn W.",
+        "year": "2017"
+      },
+      {
+        "key": "e_1_2_15_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/bul0000365"
+      },
+      {
+        "key": "e_1_2_15_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/08902070231190219"
+      },
+      {
+        "key": "e_1_2_15_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/j.1556‐6678.2007.tb00444.x"
+      },
+      {
+        "key": "e_1_2_15_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1207/S15327906MBR3403_2"
+      },
+      {
+        "issue": "2",
+        "key": "e_1_2_15_14_1",
+        "first-page": "17",
+        "article-title": "Study Abroad Impact on Personality",
+        "volume": "42",
+        "author": "Eby L. A.",
+        "year": "2005",
+        "journal-title": "Psychology and Education: An Interdisciplinary Journal"
+      },
+      {
+        "key": "e_1_2_15_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.315.7109.629"
+      },
+      {
+        "key": "e_1_2_15_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0024299"
+      },
+      {
+        "key": "e_1_2_15_17_1",
+        "unstructured": "*Fong J.2021.“An Exploration of Undergraduates' Intercultural Development: A Case Study of an Internship Abroad Program.”Ph.D. State University of New York at Albany.https://www.proquest.com/docview/2618955151/abstract/52217B234FFD4A2DPQ/1."
+      },
+      {
+        "key": "e_1_2_15_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0022022113478656"
+      },
+      {
+        "key": "e_1_2_15_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10964‐016‐0479‐1"
+      },
+      {
+        "key": "e_1_2_15_20_1",
+        "unstructured": "*Halchak J.2017.“From a Caterpillar to a Butterfly: Examining the Metamorphosis of the Big Five Personality Indicators in Pennsylvania State System Study Abroad Students. [ProQuest Information & Learning].”Dissertation Abstracts International Section A: Humanities and Social Sciences (Vol. 77 Issues 9‐A(E)). (2016‐53069‐263).https://research.ebsco.com/linkprocessor/plink?id=49d4cec1‐98f0‐3346‐86ac‐8980ddde0ea1."
+      },
+      {
+        "key": "e_1_2_15_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/00220221221109559"
+      },
+      {
+        "key": "e_1_2_15_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3102/10769986006002107"
+      },
+      {
+        "key": "e_1_2_15_23_1",
+        "volume-title": "Culture's Consequences: International Differences in Work‐Related Values",
+        "author": "Hofstede G.",
+        "year": "1984"
+      },
+      {
+        "key": "e_1_2_15_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.32614/rj‐2021‐046"
+      },
+      {
+        "key": "e_1_2_15_25_1",
+        "unstructured": "*Hughes K. E.2003.“The Effect of the International Business Institute Study Abroad Program on Cross ‐Cultural Adaptibility Among International Business Students.”Ph.D. Capella University.https://www.proquest.com/docview/305226449/abstract/38BE0675E41D4900PQ/1."
+      },
+      {
+        "key": "e_1_2_15_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pspp0000015"
+      },
+      {
+        "key": "e_1_2_15_27_1",
+        "unstructured": "International Organization for Standardization. n.d.“ISO 3166—Country Codes.”https://www.iso.org/iso‐3166‐country‐codes.html."
+      },
+      {
+        "key": "e_1_2_15_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0022022120933677"
+      },
+      {
+        "key": "e_1_2_15_29_1",
+        "first-page": "103",
+        "volume-title": "Personality Development Across the Lifespan",
+        "author": "Kandler C.",
+        "year": "2017"
+      },
+      {
+        "key": "e_1_2_15_30_1",
+        "unstructured": "*Kauffmann N. L.1983.“The Impact of Study Abroad on Personality Change.”Educat.D. Indiana University.https://www.proquest.com/docview/303264171/abstract/1F6714F59FAD49A4PQ/1."
+      },
+      {
+        "key": "e_1_2_15_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpsyg.2015.01650"
+      },
+      {
+        "key": "e_1_2_15_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jrp.2016.03.004"
+      },
+      {
+        "key": "e_1_2_15_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0003‐066X.61.3.204"
+      },
+      {
+        "key": "e_1_2_15_34_1",
+        "first-page": "159",
+        "volume-title": "Handbook of Personality: Theory and Research",
+        "author": "McCrae R. R.",
+        "year": "2008"
+      },
+      {
+        "key": "e_1_2_15_35_1",
+        "first-page": "75",
+        "article-title": "Measuring Personality Constructs: The Advantages and Disadvantages of Self‐Reports, Informant Reports and Behavioural Assessments",
+        "volume": "1",
+        "author": "Mcdonald J.",
+        "year": "2008",
+        "journal-title": "Enquire"
+      },
+      {
+        "key": "e_1_2_15_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0149206309349309"
+      },
+      {
+        "key": "e_1_2_15_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1094428106291059"
+      },
+      {
+        "key": "e_1_2_15_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1082‐989x.7.1.105"
+      },
+      {
+        "key": "e_1_2_15_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.paid.2017.02.043"
+      },
+      {
+        "key": "e_1_2_15_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jopy.12712"
+      },
+      {
+        "key": "e_1_2_15_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jopy.12784"
+      },
+      {
+        "key": "e_1_2_15_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1003583"
+      },
+      {
+        "key": "e_1_2_15_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.paid.2016.11.040"
+      },
+      {
+        "key": "e_1_2_15_44_1",
+        "volume-title": "RStudio: Integrated Development Environment for R (Version 2026.01.0+392) [Computer Software]",
+        "author": "Posit Team",
+        "year": "2026"
+      },
+      {
+        "key": "e_1_2_15_45_1",
+        "volume-title": "R: A Language and Environment for Statistical Computing (Version 4.4.2) [Computer Software]",
+        "author": "R Core Team",
+        "year": "2024"
+      },
+      {
+        "key": "e_1_2_15_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/per.2291"
+      },
+      {
+        "key": "e_1_2_15_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033‐2909.126.1.3"
+      },
+      {
+        "key": "e_1_2_15_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/bul0000088"
+      },
+      {
+        "key": "e_1_2_15_49_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "157",
+        "DOI": "10.1016/B978-0-12-804674-6.00011-9",
+        "volume-title": "Personality Development Across the Lifespan",
+        "author": "Roberts B. W.",
+        "year": "2017"
+      },
+      {
+        "key": "e_1_2_15_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033‐2909.132.1.1"
+      },
+      {
+        "key": "e_1_2_15_51_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jrp.2004.08.002"
+      },
+      {
+        "key": "e_1_2_15_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.33422/icrhs.v2i1.893"
+      },
+      {
+        "key": "e_1_2_15_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/casp.989"
+      },
+      {
+        "key": "e_1_2_15_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.32674/jis.v10i4.1042"
+      },
+      {
+        "key": "e_1_2_15_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/modl.12349"
+      },
+      {
+        "key": "e_1_2_15_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.31849/utamax.v6i3.21875"
+      },
+      {
+        "key": "e_1_2_15_57_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1075/sar.1.1.05tra"
+      },
+      {
+        "key": "e_1_2_15_58_1",
+        "unstructured": "UNESCO Institute for Statistics. n.d.“Total Outbound Internationally Mobile Tertiary Students Studying Abroad (UIS Estimate).”UIS Data Browser.https://databrowser.uis.unesco.org/."
+      },
+      {
+        "key": "e_1_2_15_59_1",
+        "unstructured": "United Nations. n.d.“Standard Country or Area Codes for Statistical Use (M49).”https://unstats.un.org/unsd/methodology/m49."
+      },
+      {
+        "key": "e_1_2_15_60_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18637/jss.v036.i03"
+      },
+      {
+        "key": "e_1_2_15_61_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/xge0000175"
+      },
+      {
+        "key": "e_1_2_15_62_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.32674/jis.v7i2.378"
+      },
+      {
+        "key": "e_1_2_15_63_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13562517.2012.658562"
+      },
+      {
+        "key": "e_1_2_15_64_1",
+        "unstructured": "Wells G. B.Shea D.O'connell et al.2014.“Newcastle‐Ottawa Quality Assessment Scale Cohort Studies.”http://www.ohri.ca/programs/clinical_epidemiology/oxford.asp."
+      },
+      {
+        "key": "e_1_2_15_65_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s12144‐019‐00600‐7"
+      },
+      {
+        "key": "e_1_2_15_66_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1088868316652279"
+      },
+      {
+        "key": "e_1_2_15_67_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/modl.12777"
+      },
+      {
+        "key": "e_1_2_15_68_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0890207020988439"
+      },
+      {
+        "key": "e_1_2_15_69_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0033019"
+      }
+    ],
+    "container-title": [
+      "Journal of Personality"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jopy.70105",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/jopy.70105",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jopy.70105",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          14
+        ]
+      ],
+      "date-time": "2026-10-14T10:54:39Z",
+      "timestamp": 1791975279000
+    },
+    "score": 34.027725,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jopy.70105"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          14
+        ]
+      ]
+    },
+    "references-count": 68,
+    "alternative-id": [
+      "10.1111/jopy.70105"
+    ],
+    "URL": "https://doi.org/10.1111/jopy.70105",
+    "archive": [
+      "Portico"
+    ],
+    "ISSN": [
+      "0022-3506",
+      "1467-6494"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-3506",
+        "type": "print"
+      },
+      {
+        "value": "1467-6494",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          14
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2026-04-30",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2026-09-30",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2026-10-14",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ],
+    "article-number": "jopy.70105"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          4
+        ]
+      ],
+      "date-time": "2026-11-04T06:39:32Z",
+      "timestamp": 1793774372519,
+      "version": "4.6.1"
+    },
+    "reference-count": 0,
+    "publisher": "American Psychological Association (APA)",
+    "issue": "1",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Psychological Bulletin"
+    ],
+    "DOI": "10.1037/a0028601",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2012,
+          5,
+          30
+        ]
+      ],
+      "date-time": "2012-05-30T07:10:56Z",
+      "timestamp": 1338361856000
+    },
+    "page": "53-80",
+    "source": "Crossref",
+    "is-referenced-by-count": 1083,
+    "title": [
+      "Social network changes and life events across the life span: A meta-analysis."
+    ],
+    "prefix": "10.1037",
+    "volume": "139",
+    "author": [
+      {
+        "given": "Cornelia",
+        "family": "Wrzus",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Martha",
+        "family": "Hänel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jenny",
+        "family": "Wagner",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Franz J.",
+        "family": "Neyer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "15",
+    "published-online": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "container-title": [
+      "Psychological Bulletin"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://psycnet.apa.org/journals/bul/139/1/53.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          5
+        ]
+      ],
+      "date-time": "2024-02-05T19:24:25Z",
+      "timestamp": 1707161065000
+    },
+    "score": 33.99999,
+    "resource": {
+      "primary": {
+        "URL": "https://doi.apa.org/doi/10.1037/a0028601"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2013
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "2012-13785-001",
+      "22642230"
+    ],
+    "URL": "https://doi.org/10.1037/a0028601",
+    "ISSN": [
+      "1939-1455",
+      "0033-2909"
+    ],
+    "issn-type": [
+      {
+        "value": "1939-1455",
+        "type": "electronic"
+      },
+      {
+        "value": "0033-2909",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          18
+        ]
+      ],
+      "date-time": "2026-10-18T23:13:17Z",
+      "timestamp": 1792365197984,
+      "version": "4.4.0"
+    },
+    "reference-count": 100,
+    "publisher": "Wiley",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              3
+            ]
+          ],
+          "date-time": "2022-08-03T00:00:00Z",
+          "timestamp": 1659484800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100001711",
+        "name": "Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100001711",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Personality"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          2
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:sec><jats:title>Objective</jats:title><jats:p>Throughout their lives, people experience different relationship events, such as beginning or dissolving a romantic relationship. Personality traits predict the occurrence of such relationship events (i.e., selection effects), and relationship events predict changes in personality traits (i.e., socialization effects), summarized as personality–relationship transactions. So far, evidence was partly inconsistent as to how personality traits and relationship events are linked with each other. In this article, we argue that unnoticed age differences might have led to these inconsistencies. To systematically test for age differences in transactions, we conceptualize relationship events in terms of gains and losses and apply a developmental perspective on transactions.</jats:p></jats:sec><jats:sec><jats:title>Methods</jats:title><jats:p>Using longitudinal data from three nationally representative samples (SOEP, HILDA, Understanding Society), we computed event‐focused latent growth models and summarized the results meta‐analytically.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>The findings indicated some transactions. Of these, selection effects were stronger than socialization effects, and effects of gain‐based events were stronger than effects of loss‐based events. We observed few interactions with age.</jats:p></jats:sec><jats:sec><jats:title>Conclusion</jats:title><jats:p>Selection effects and, particularly, socialization effects, tend to be rare and fairly independent of age. We discuss a series of broader and narrower factors that may have an impact on the strength of transactions across adulthood.</jats:p></jats:sec>",
+    "DOI": "10.1111/jopy.12757",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          22
+        ]
+      ],
+      "date-time": "2022-07-22T08:27:03Z",
+      "timestamp": 1658478423000
+    },
+    "page": "202-221",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 13,
+    "title": [
+      "A developmental perspective on personality–relationship transactions: Evidence from three nationally representative samples"
+    ],
+    "prefix": "10.1111",
+    "volume": "92",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-3684-9682",
+        "authenticated-orcid": false,
+        "given": "Janina Larissa",
+        "family": "Bühler",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Psychology Johannes Gutenberg University Mainz Mainz Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0006-9043",
+        "authenticated-orcid": false,
+        "given": "Marcus",
+        "family": "Mund",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute of Psychology University of Klagenfurt Klagenfurt Austria"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8123-2011",
+        "authenticated-orcid": false,
+        "given": "Franz J.",
+        "family": "Neyer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute of Psychology Friedrich Schiller University Jena Jena Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6290-959X",
+        "authenticated-orcid": false,
+        "given": "Cornelia",
+        "family": "Wrzus",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute of Psychology Ruprecht Karls University of Heidelberg Heidelberg Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          3
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_12_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/pere.12067"
+      },
+      {
+        "key": "e_1_2_12_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/amp0000191"
+      },
+      {
+        "key": "e_1_2_12_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0003‐066x.55.5.469"
+      },
+      {
+        "key": "e_1_2_12_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022‐3514.74.6.1531"
+      },
+      {
+        "key": "e_1_2_12_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/dev0001047"
+      },
+      {
+        "key": "e_1_2_12_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0012-1649.23.5.611"
+      },
+      {
+        "key": "e_1_2_12_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jopy.12286"
+      },
+      {
+        "key": "e_1_2_12_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0956797613498396"
+      },
+      {
+        "key": "e_1_2_12_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/0471746096"
+      },
+      {
+        "key": "e_1_2_12_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jrsm.1230"
+      },
+      {
+        "key": "e_1_2_12_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/spc3.12447"
+      },
+      {
+        "key": "e_1_2_12_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/bul0000342"
+      },
+      {
+        "key": "e_1_2_12_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/amp0000611"
+      },
+      {
+        "key": "e_1_2_12_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1207/s15327965pli0404_1"
+      },
+      {
+        "key": "e_1_2_12_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.psych.55.090902.141913"
+      },
+      {
+        "key": "e_1_2_12_17_1",
+        "article-title": "Number, timing, and duration of marriages and divorces: 2016",
+        "author": "Census Bureau U. S.",
+        "year": "2021",
+        "journal-title": "Current Population Reports"
+      },
+      {
+        "key": "e_1_2_12_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10705510701301834"
+      },
+      {
+        "key": "e_1_2_12_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1207/S15328007SEM0902_5"
+      },
+      {
+        "key": "e_1_2_12_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/107319110000700405"
+      },
+      {
+        "key": "e_1_2_12_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0015914"
+      },
+      {
+        "key": "e_1_2_12_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pspp0000196"
+      },
+      {
+        "key": "e_1_2_12_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jrp.2014.07.004"
+      },
+      {
+        "key": "e_1_2_12_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022‐3514.73.6.1246"
+      },
+      {
+        "key": "e_1_2_12_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0037996"
+      },
+      {
+        "key": "e_1_2_12_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658211.2017.1316509"
+      },
+      {
+        "key": "e_1_2_12_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0020385"
+      },
+      {
+        "key": "e_1_2_12_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0882‐7974.21.4.664"
+      },
+      {
+        "key": "e_1_2_12_29_1",
+        "volume-title": "The Oxford handbook of psychological situations",
+        "author": "Gardiner G.",
+        "year": "2020"
+      },
+      {
+        "key": "e_1_2_12_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1515/jbnst‐2018‐0022"
+      },
+      {
+        "key": "e_1_2_12_31_1",
+        "volume-title": "Growth modeling: Structural equation and multilevel modeling approaches",
+        "author": "Grimm K. J.",
+        "year": "2016"
+      },
+      {
+        "key": "e_1_2_12_32_1",
+        "first-page": "103",
+        "volume-title": "Human bonding: The science of affectional ties",
+        "author": "Günaydin G.",
+        "year": "2013"
+      },
+      {
+        "key": "e_1_2_12_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pspp0000394"
+      },
+      {
+        "key": "e_1_2_12_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/spc3.12287"
+      },
+      {
+        "key": "e_1_2_12_35_1",
+        "volume-title": "Developmental tasks and education",
+        "author": "Havighurst R. J.",
+        "year": "1972"
+      },
+      {
+        "key": "e_1_2_12_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0015566"
+      },
+      {
+        "key": "e_1_2_12_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10705519909540118"
+      },
+      {
+        "key": "e_1_2_12_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1082‐989X.11.2.193"
+      },
+      {
+        "key": "e_1_2_12_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/amp0000591"
+      },
+      {
+        "key": "e_1_2_12_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/per.1964"
+      },
+      {
+        "key": "e_1_2_12_41_1",
+        "volume-title": "The “Big Five” Inventory ‐ Versions 4a and 54. Technical Report",
+        "author": "John O. P.",
+        "year": "1991"
+      },
+      {
+        "key": "e_1_2_12_42_1",
+        "first-page": "102",
+        "volume-title": "Handbook of personality: Theory and research",
+        "author": "John O. P.",
+        "year": "1999"
+      },
+      {
+        "key": "e_1_2_12_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10519‐011‐9491‐0"
+      },
+      {
+        "key": "e_1_2_12_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/per.1952"
+      },
+      {
+        "key": "e_1_2_12_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/353425"
+      },
+      {
+        "key": "e_1_2_12_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/amp0000263"
+      },
+      {
+        "key": "e_1_2_12_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022‐3514.52.1.27"
+      },
+      {
+        "key": "e_1_2_12_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/per.606"
+      },
+      {
+        "key": "e_1_2_12_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467‐6494.2010.00629.x"
+      },
+      {
+        "key": "e_1_2_12_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1475‐6811.2006.00120.x"
+      },
+      {
+        "key": "e_1_2_12_51_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1088868306294590"
+      },
+      {
+        "key": "e_1_2_12_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pspp0000109"
+      },
+      {
+        "key": "e_1_2_12_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0015809"
+      },
+      {
+        "key": "e_1_2_12_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pspp0000291"
+      },
+      {
+        "key": "e_1_2_12_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0025948"
+      },
+      {
+        "key": "e_1_2_12_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/per.1951"
+      },
+      {
+        "key": "e_1_2_12_57_1",
+        "first-page": "193",
+        "volume-title": "Handbook of personality: Theory and measurement",
+        "author": "Magnusson D.",
+        "year": "1990"
+      },
+      {
+        "key": "e_1_2_12_58_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.soc.34.040507.134619"
+      },
+      {
+        "key": "e_1_2_12_59_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/B978-012134645-4/50032-9"
+      },
+      {
+        "key": "e_1_2_12_60_1",
+        "first-page": "159",
+        "volume-title": "Handbook of personality: Theory and research",
+        "author": "McCrae R. R.",
+        "year": "2008"
+      },
+      {
+        "key": "e_1_2_12_61_1",
+        "volume-title": "The Household, Income and Labour Dynamics in Australia (HILDA) Survey: General release 16 (Waves 1–16)",
+        "author": "Melbourne Institute of Applied Economic and Social Research",
+        "year": "2017"
+      },
+      {
+        "key": "e_1_2_12_62_1",
+        "first-page": "153",
+        "volume-title": "Your personality makes you ill: Scientific proof or wishful thinking?",
+        "author": "Mund M.",
+        "year": "2018"
+      },
+      {
+        "key": "e_1_2_12_63_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pspp0000262"
+      },
+      {
+        "key": "e_1_2_12_64_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/223965"
+      },
+      {
+        "key": "e_1_2_12_65_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022‐3514.81.6.1190"
+      },
+      {
+        "key": "e_1_2_12_66_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467‐6494.2007.00448.x"
+      },
+      {
+        "key": "e_1_2_12_67_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jopy.12063"
+      },
+      {
+        "key": "e_1_2_12_68_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18637/jss.v057.i01"
+      },
+      {
+        "key": "e_1_2_12_69_1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1787/soc_glance-2019-en",
+        "volume-title": "Society at a glance 2019",
+        "author": "OECD",
+        "year": "2019"
+      },
+      {
+        "key": "e_1_2_12_70_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/bul0000161"
+      },
+      {
+        "key": "e_1_2_12_71_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pag0000600"
+      },
+      {
+        "key": "e_1_2_12_72_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/per.2181"
+      },
+      {
+        "key": "e_1_2_12_73_1",
+        "volume-title": "R: A language and environment for statistical computing",
+        "author": "R Development Core Team",
+        "year": "2020"
+      },
+      {
+        "key": "e_1_2_12_74_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.0022‐3506.2004.00264.x"
+      },
+      {
+        "key": "e_1_2_12_75_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0022‐3514.87.4.541"
+      },
+      {
+        "key": "e_1_2_12_76_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/0033‐2909.132.1.1"
+      },
+      {
+        "key": "e_1_2_12_77_1",
+        "first-page": "11",
+        "volume-title": "Handbook of personality development",
+        "author": "Roberts B. W.",
+        "year": "2006"
+      },
+      {
+        "key": "e_1_2_12_78_1",
+        "first-page": "375",
+        "volume-title": "Handbook of personality: Theory and research",
+        "author": "Roberts B. W.",
+        "year": "2008"
+      },
+      {
+        "key": "e_1_2_12_79_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jrp.2004.08.002"
+      },
+      {
+        "key": "e_1_2_12_80_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18637/jss.v048.i02"
+      },
+      {
+        "key": "e_1_2_12_81_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09658210802541442"
+      },
+      {
+        "key": "e_1_2_12_82_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1207/s15327752jpa6303_8"
+      },
+      {
+        "key": "e_1_2_12_83_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.adolescence.2021.05.006"
+      },
+      {
+        "key": "e_1_2_12_84_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.6102/zis54"
+      },
+      {
+        "key": "e_1_2_12_85_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0963721412470133"
+      },
+      {
+        "key": "e_1_2_12_86_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0036190"
+      },
+      {
+        "key": "e_1_2_12_87_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/a0024950"
+      },
+      {
+        "key": "e_1_2_12_88_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.paid.2020.110428"
+      },
+      {
+        "key": "e_1_2_12_89_1",
+        "volume-title": "Durchschnittliches Heiratsalter von Männer und Frauen in Deutschland von 1991 bis 2020",
+        "author": "Statista",
+        "year": "2021"
+      },
+      {
+        "key": "e_1_2_12_90_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jopy.12090"
+      },
+      {
+        "key": "e_1_2_12_91_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1948550616630032"
+      },
+      {
+        "key": "e_1_2_12_92_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3102/10769986030003261"
+      },
+      {
+        "key": "e_1_2_12_93_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18637/jss.v036.i03"
+      },
+      {
+        "key": "e_1_2_12_94_1",
+        "first-page": "139",
+        "article-title": "The German Socioeconomic Panel Study (SOEP): Scope, evolution and enhancements",
+        "volume": "127",
+        "author": "Wagner G. G.",
+        "year": "2007",
+        "journal-title": "Journal of Applied Social Science Studies"
+      },
+      {
+        "key": "e_1_2_12_95_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1948550614566092"
+      },
+      {
+        "key": "e_1_2_12_96_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1750‐8606.2009.00110.x"
+      },
+      {
+        "key": "e_1_2_12_97_1",
+        "first-page": "57",
+        "volume-title": "The Oxford handbook of the five factor model",
+        "author": "Wilt J.",
+        "year": "2017"
+      },
+      {
+        "key": "e_1_2_12_98_1",
+        "volume-title": "Maternal, newborn, child and adolescent health and aging",
+        "author": "World Health Organization",
+        "year": "2019"
+      },
+      {
+        "key": "e_1_2_12_99_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pspp0000308"
+      },
+      {
+        "key": "e_1_2_12_100_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1027/1016‐9040/a000277"
+      },
+      {
+        "key": "e_1_2_12_101_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1088868316652279"
+      }
+    ],
+    "container-title": [
+      "Journal of Personality"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jopy.12757",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/jopy.12757",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jopy.12757",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          29
+        ]
+      ],
+      "date-time": "2024-09-29T17:21:26Z",
+      "timestamp": 1727630486000
+    },
+    "score": 32.728867,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jopy.12757"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          3
+        ]
+      ]
+    },
+    "references-count": 100,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1111/jopy.12757"
+    ],
+    "URL": "https://doi.org/10.1111/jopy.12757",
+    "archive": [
+      "Portico"
+    ],
+    "ISSN": [
+      "0022-3506",
+      "1467-6494"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-3506",
+        "type": "print"
+      },
+      {
+        "value": "1467-6494",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          3
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2022-03-07",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2022-07-15",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2022-08-03",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+]

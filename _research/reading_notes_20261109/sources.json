@@ -1,0 +1,86 @@
+[
+  {
+    "id": "R01",
+    "title": "Meadows: Leverage Points",
+    "url": "https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/",
+    "error": "HTTP Error 406: Not Acceptable"
+  },
+  {
+    "id": "R02",
+    "title": "Bank of England: Money creation in the modern economy",
+    "url": "https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy",
+    "status": 200,
+    "final_url": "https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy",
+    "content_type": "text/html; charset=utf-8",
+    "chars": 6824,
+    "preview": "Money creation in the modern economy | Bank of England – the UK's central bank\nOur use of cookies\nWe use necessary cookies to make our site work. We’d also like to use some non-essential cookies (including third-party cookies) to help us improve the site. By clicking ‘Accept recommended settings’ on this banner, you accept our use of analytics cookies.   For more information on how these cookies work please see our\nCookie policy\n.\nAccept recommen"
+  },
+  {
+    "id": "R03",
+    "title": "FINRA: Investing with borrowed funds",
+    "url": "https://www.finra.org/investors/insights/investing-borrowed-funds-no-shares-your-risk",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "R04",
+    "title": "Brown et al: Meta-analysis of empirical estimates of loss aversion",
+    "url": "https://www.aeaweb.org/articles?id=10.1257/jel.20221698",
+    "status": 200,
+    "final_url": "https://www.aeaweb.org/articles?id=10.1257/jel.20221698",
+    "content_type": "text/html; charset=UTF-8",
+    "chars": 3409,
+    "preview": "Meta-analysis of Empirical Estimates of Loss Aversion - American Economic Association\nThis website uses cookies.\nBy clicking the \"Accept\" button or continuing to browse our site, you agree to first-party and session-only cookies being stored on your device to enhance site navigation and analyze site performance and traffic. For more information on our use of cookies, please see our\nPrivacy Policy\n.\nAccept\nMenu\nJournals\nAnnual Meeting\nCareers\nReso"
+  },
+  {
+    "id": "R05",
+    "title": "Nobel: Contract theory scientific background 2016",
+    "url": "https://www.nobelprize.org/uploads/2018/06/advanced-economicsciences2016.pdf",
+    "status": 200,
+    "final_url": "https://www.nobelprize.org/uploads/2018/06/advanced-economicsciences2016.pdf",
+    "content_type": "application/pdf",
+    "chars": 137357,
+    "preview": "10 OCTOBER 2016\nScientific Background on the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2016\nOLIVER HART AND BENGT HOLMSTRÖM: CONTRACT THEORY\nThe Committee for the Prize in Economic Sciences in Memory of Alfred Nobel\nTHE ROYAL SWEDISH ACADEMY OF SCIENCES,  founded in 1739, is an independent organisation whose overall objective is to promote the sciences \nand strengthen their influence in society. The Academy takes spec"
+  },
+  {
+    "id": "R06",
+    "title": "Lazear: Performance Pay and Productivity",
+    "url": "https://www.nber.org/papers/w5672",
+    "status": 200,
+    "final_url": "https://www.nber.org/papers/w5672",
+    "content_type": "text/html; charset=UTF-8",
+    "chars": 5459,
+    "preview": "Performance Pay and Productivity | NBER\nSkip to main content\nNBER: National Bureau of Economic Research\nSubscribe\nMedia\nOpen Calls\nSearch\nResearch\nEXPLORE Research\nFindings\nWorking Papers\nBooks & Chapters\nVideos\nPeriodicals\nThe Digest\nThe Reporter\nThe Bulletin on the Economics of Alzheimer's Disease and Related Dementias\nThe Bulletin on Health\nThe Bulletin on Entrepreneurship\nThe Bulletin on Retirement and Disability Archives\nThe Bulletin on Agin"
+  },
+  {
+    "id": "R07",
+    "title": "Bloom et al: Does Management Matter? Evidence from India",
+    "url": "https://www.nber.org/papers/w16658",
+    "status": 200,
+    "final_url": "https://www.nber.org/papers/w16658",
+    "content_type": "text/html; charset=UTF-8",
+    "chars": 8187,
+    "preview": "Does Management Matter? Evidence from India | NBER\nSkip to main content\nNBER: National Bureau of Economic Research\nSubscribe\nMedia\nOpen Calls\nSearch\nResearch\nEXPLORE Research\nFindings\nWorking Papers\nBooks & Chapters\nVideos\nPeriodicals\nThe Digest\nThe Reporter\nThe Bulletin on the Economics of Alzheimer's Disease and Related Dementias\nThe Bulletin on Health\nThe Bulletin on Entrepreneurship\nThe Bulletin on Retirement and Disability Archives\nThe Bulle"
+  },
+  {
+    "id": "R08",
+    "title": "OECD: Hours worked",
+    "url": "https://www.oecd.org/en/data/indicators/hours-worked.html",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "R09",
+    "title": "Cerasoli et al: Intrinsic motivation and extrinsic incentives jointly predict performance",
+    "url": "https://doi.org/10.1037/a0035661",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "R10",
+    "title": "Cesarini et al: Wealth and labor supply Swedish lotteries",
+    "url": "https://www.aeaweb.org/articles?id=10.1257/aer.20151589",
+    "status": 200,
+    "final_url": "https://www.aeaweb.org/articles?id=10.1257/aer.20151589",
+    "content_type": "text/html; charset=UTF-8",
+    "chars": 3516,
+    "preview": "The Effect of Wealth on Individual and Household Labor Supply: Evidence from Swedish Lotteries - American Economic Association\nThis website uses cookies.\nBy clicking the \"Accept\" button or continuing to browse our site, you agree to first-party and session-only cookies being stored on your device to enhance site navigation and analyze site performance and traffic. For more information on our use of cookies, please see our\nPrivacy Policy\n.\nAccept\n"
+  }
+]
